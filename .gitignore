@@ -1,0 +1,7 @@
+# Python files and folders
+venv
+__pycache__
+
+# LLM model files
+models/*
+!models/.gitkeep
