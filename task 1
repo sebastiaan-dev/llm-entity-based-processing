@@ -1,0 +1,25 @@
+import sys
+
+
+#<ID question><TAB>text of the question/completion
+#question_001<TAB>What is the capital of France?
+
+from llama_cpp import Llama
+model_path = "models/llama-2-7b.Q4_K_M.gguf"
+args = sys.argv[1].split("<TAB>")
+question = args[1]
+
+
+llm = Llama(model_path=model_path, verbose=False)
+
+print("Asking the question \"%s\" to %s (wait, it can take some time...)" % (question, model_path))
+
+output = llm(
+      question, # Prompt
+      max_tokens=32,# Generate up to 32 tokens
+     #  stop=["Q:","\n"], # Stop generating just before the model would generate a new question
+      echo=True  # Echo the prompt back in the output
+
+)
+print("Here is the output")
+print(output['choices'][0]["text"])
