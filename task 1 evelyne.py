@@ -5,7 +5,7 @@ import requests
 
 model_path = "models/llama-2-7b.Q4_K_M.gguf"
 llm = Llama(model_path=model_path, verbose=False)
-nlp = spacy.load("en_core_web_sm")
+nlp = spacy.load("en_core_web_lg")
 
 
 def extract_entities_spacy(text):
