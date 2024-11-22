@@ -62,7 +62,6 @@ def main():
     )
     response = output['choices'][0]["text"]
 
-    # Print raw response
     print(f'{question_id}<TAB>R"{response.strip()}"')
 
     extracted_answer = extract_answer(question, response)
