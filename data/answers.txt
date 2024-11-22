@@ -1,0 +1,100 @@
+Q1	Yes.
+Q2	William Shakespeare.
+Q3	India.
+Q4	Mount Everest.
+Q5	July 4, 1776.
+Q6	JK Rowling.
+Q7	H20.
+Q8	Mars.
+Q9	The yen.
+Q10	Leonardo da Vinci.
+Q11	No.
+Q12	8.
+Q13	Australia.
+Q14	Elon Musk.
+Q15	Portuguese.
+Q16	1945.
+Q17	Alexander Graham Bell.
+Q18	Zero.
+Q19	New York.
+Q20	Tomatoes.
+Q21	Yes, it is.
+Q22	2.
+Q23	France.
+Q24	Alexander Fleming.
+Q25	Two.
+Q26	Oil.
+Q27	Africa.
+Q28	Tennis.
+Q29	James Cameron.
+Q30	Ottawa.
+Q31	Deoxyribonucleic Acid.
+Q32	Pacific.
+Q33	Donald Trump.
+Q34	Ann Hathaway.
+Q35	It was reclassified as a dwarf planet.
+Q36	Artificial intelligence.
+Q37	Tokyo.
+Q38	To filter blood and excrete waste products.
+Q39	Albert Einstein.
+Q40	212 degrees.
+Q41	HyperText Transfer Protocol.
+Q42	Gold.
+Q43	The Titanic.
+Q44	Neil Armstrong.
+Q45	Sydney.
+Q46	Venice.
+Q47	Nile.
+Q48	Bill Gates.
+Q49	China.
+Q50	299792458 m/s.
+Q51	The cherry blossom.
+Q52	United Nations Educational, Scientific and Cultural Organization.
+Q53	Vincent Van Gogh.
+Q54	German, French, Italian.
+Q55	Canada and the United States.
+Q56	The elephant.
+Q57	France.
+Q58	Na.
+Q59	The Great Pyramid of Giza.
+Q60	Monaco.
+Q61	The Gutenberg Bible.
+Q62	The Milky Way.
+Q63	North Atlantic Treaty Organization.
+Q64	Marie Curie.
+Q65	The Phantom of the Opera.
+Q66	Canada.
+Q67	Rice.
+Q68	The heart.
+Q69	Charles Darwin.
+Q70	Seoul.
+Q71	Barometer.
+Q72	Photosynthesis.
+Q73	Sri Lanka.
+Q74	Sahara.
+Q75	Nitrogen.
+Q76	Badminton.
+Q77	The femur.
+Q78	Queen Elizabeth II.
+Q79	To carry oxygen throughout the body.
+Q80	The Earth.
+Q81	Madagascar.
+Q82	George Orwell.
+Q83	Berlin.
+Q84	The Netherlands.
+Q85	To protect the earth from the sun’s harmful rays.
+Q86	The Dead Sea.
+Q87	Euro.
+Q88	A mockingbird.
+Q89	Buenos Aires.
+Q90	George Washington.
+Q91	To produce glucose and oxygen.
+Q92	Egypt.
+Q93	NaCl.
+Q94	Mercury.
+Q95	Mayflower.
+Q96	New Delhi.
+Q97	Tanzania.
+Q98	Insulin helps move glucose from the bloodstream into the cells.
+Q99	Pacific Ocean.
+Q100	Berlin Wall.
