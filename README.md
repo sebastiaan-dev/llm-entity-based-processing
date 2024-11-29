@@ -2,6 +2,28 @@
 
 This repository contains the code for processing LLM output into a structured format which can be used to build knowledge bases.
 
+## Usage
+
+In order to use this project the easiest way is to use Docker. First pull the image:
+
+```sh
+docker pull segerritsen/entity-processing
+```
+
+Next run the container:
+
+```sh
+docker run -it segerritsen/entity-processing
+```
+
+Once inside the container run:
+
+```sh
+python main.py
+```
+
+The above executes using a standard input, if a custom input is desired remove the files in the data directory (`input.txt`, `answers.txt`). Then, create a new `input.txt` with questions in the expected format.
+
 ## Development
 
 Download the required model (this can take some time):

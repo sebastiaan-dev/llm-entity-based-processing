@@ -3,9 +3,11 @@ import os
 from extractor import SpacyExtractor
 from llm import LlamaModel
 from parser import TxtParser
+from pprint import pprint
 
 
-def generate_answers(questions, model, parser):
+def generate_answers(questions, parser):
+    model = LlamaModel(model_path="llama-2-7b.Q4_K_M.gguf", stop=["\n"], echo=False)
     # Check if the file exists at data/answers.txt.
     if not os.path.exists("data/answers.txt"):
         # If it does not exist we generate the answers.
@@ -31,8 +33,12 @@ def generate_entities(questions, answers):
                 "id": question["id"],
                 "question": question["text"],
                 "answer": answer["text"],
-                "question_entities": [ent.text for ent in question_doc.ents],
-                "answer_entities": [ent.text for ent in answer_doc.ents],
+                "question_entities": [
+                    {"text": ent.text, "type": ent.label_} for ent in question_doc.ents
+                ],
+                "answer_entities": [
+                    {"text": ent.text, "type": ent.label_} for ent in answer_doc.ents
+                ],
             }
         )
 
@@ -42,9 +48,8 @@ def generate_entities(questions, answers):
 if __name__ == "__main__":
     parser = TxtParser()
     questions = parser.parse("data/input.txt")
-    model = LlamaModel(model_path="llama-2-7b.Q4_K_M.gguf", stop=["\n"], echo=False)
 
-    answers = generate_answers(questions, model, parser)
+    answers = generate_answers(questions, parser)
     entities = generate_entities(questions, answers)
 
-    print(entities)
+    pprint(entities)
