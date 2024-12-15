@@ -1,6 +1,0 @@
-Q1	Question: What is the capital of France? Answer:
-Q2	Question: Who wrote the play Romeo and Juliet? Answer:
-Q3	Question: Which country is the Taj Mahal located in? Answer:
-Q4	Question: What is the tallest mountain in the world? Answer:
-Q41	Question: What does HTTP stand for? Answer:
-Q42	Question: Which element has the chemical symbol Au? Answer:
