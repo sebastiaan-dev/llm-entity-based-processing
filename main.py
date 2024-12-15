@@ -16,7 +16,7 @@ class LlamaModel(Model):
     def __init__(
         self,
         model_path: str,
-        max_tokens: int = 128,
+        max_tokens: int = 10,
         stop: list = ["Q:", "\n"],
         echo: bool = True,
     ):
@@ -24,7 +24,7 @@ class LlamaModel(Model):
         self.max_tokens = max_tokens
         self.stop = stop
         self.echo = echo
-        self.nlp = spacy.load("en_core_web_sm")
+        self.nlp = spacy.load("en_core_web_trf")
         self.valid_labels = [
             "GPE",
             "ORG",
@@ -51,13 +51,16 @@ class LlamaModel(Model):
         return raw_text
 
     def extract_entities(self, text: str):
-
+        # This function will be used on the Q and A
         doc = self.nlp(text)
+        doc_text = doc.text
         print(f"DOC:{doc}")
         # take the first part of the answer until the . to make the retrival of the entities more precise
-        if "." in doc:
-            doc = doc.split(".", 1)[0].strip()
 
+        if "." in doc_text:
+            doc_text = doc_text.split(".", 1)[0].strip()
+            print(f"DOC_STRIPPED:{doc}")
+        doc = self.nlp(doc_text)
         entities = []
         for ent in doc.ents:
             if ent.label_ in self.valid_labels:
@@ -68,6 +71,7 @@ class LlamaModel(Model):
                     e_clean = e_clean[4:]  # Remove "the" and the space
 
                 entities.append((e_clean, ent.label_))
+        print(f"ENTITIES: {entities}")
         return entities
 
     def normalize_question(self, question: str) -> str:
@@ -92,13 +96,14 @@ class LlamaModel(Model):
         if "Answer:" in B:
             answer_part = B.split("Answer:", 1)[1].strip()
             entities = self.extract_entities(answer_part)
-
+            print(f"ENT: {entities} A_PART: {answer_part}")
             if entities:
                 res = get_url(entities[0][0])
                 print(f"{entities[0][0]} -> {res}")
                 return res
             else:
-                return answer_part.split("\n")[0].strip()
+                return get_url(answer_part)
+                # return answer_part.split("\n")[0].strip()
 
         entities = self.extract_entities(B)
         if entities:
@@ -153,6 +158,7 @@ class LlamaModel(Model):
         and entity relationships.
         """
         question = self.normalize_question(A)
+        # in here we are using again the extract entities on the Q, when we have already the extracted data, just reuse that one
         entities = self.extract_entities(A)
         if not entities:
             # print("DEBUG: No entities found in the question.")
