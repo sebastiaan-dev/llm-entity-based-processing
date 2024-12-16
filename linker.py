@@ -8,6 +8,9 @@ from debug import print_debug, print_warn
 from models import Entity, WikidataResult
 
 
+# TODO: We might want to compare pages instead of descriptions. This gives more context.
+
+
 class EntityLinker:
     def __init__(self):
         self.wikipedia_api = "https://en.wikipedia.org/w/api.php"
