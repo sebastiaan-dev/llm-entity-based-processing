@@ -1,55 +1,94 @@
-import os
+from colorama import init
 
-from extractor import SpacyExtractor
-from llm import LlamaModel
-from parser import TxtParser
-from pprint import pprint
-
-
-def generate_answers(questions, parser):
-    model = LlamaModel(model_path="llama-2-7b.Q4_K_M.gguf", stop=["\n"], echo=False)
-    # Check if the file exists at data/answers.txt.
-    if not os.path.exists("data/answers.txt"):
-        # If it does not exist we generate the answers.
-        with open("data/answers.txt", "w") as f:
-            for idx, question in enumerate(questions, start=1):
-                answer = model.answer(question["text"])
-                f.write(f"Q{idx}\t{answer}\n")
-
-    # Get the answers from the file.
-    return parser.parse("data/answers.txt")
+from extractor import EntityExtractor
+from file_manager import FileManager
+from linker import EntityLinker
+from llm import LLM
+from models import Problem, Solution
+from solver import Solver
+from verifier import Verifier
 
 
-def generate_entities(questions, answers):
-    extractor = SpacyExtractor()
-    result = []
+class Pipeline:
+    def __init__(
+        self,
+        file_manager: FileManager,
+        model: LLM,
+        extractor: EntityExtractor,
+        linker: EntityLinker,
+        solver: Solver,
+        verifier: Verifier,
+    ):
+        self.file_manager = file_manager
+        self.model = model
+        self.extractor = extractor
+        self.linker = linker
+        self.solver = solver
+        self.verifier = verifier
 
-    # Make tuples of questions and answers.
-    for question, answer in zip(questions, answers):
-        question_doc = extractor.extract_entities(question["text"])
-        answer_doc = extractor.extract_entities(answer["text"])
-        result.append(
-            {
-                "id": question["id"],
-                "question": question["text"],
-                "answer": answer["text"],
-                "question_entities": [
-                    {"text": ent.text, "type": ent.label_} for ent in question_doc.ents
-                ],
-                "answer_entities": [
-                    {"text": ent.text, "type": ent.label_} for ent in answer_doc.ents
-                ],
-            }
-        )
+    def resolve(self):
+        """
+        This function acts as a pipeline for the different stages of the resolution process.
 
-    return result
+        1. Read the input data into a list of Question objects.
+        2. Generate the answers for each question using an LLM.
+        3. Extract entities from the questions and answers.
+        4. Extract the formatted answer from the generated answer.
+        5. Check the correctness of the extracted answer.
+        """
+        questions = self.file_manager.read()
+
+        solutions = []
+        for question in questions:
+            answer = self.model.answer(question)
+
+            question_entities = self.extractor.extract_entities(question.text)
+            answer_entities = self.extractor.extract_entities(answer.text)
+
+            question_entities = self.linker.link_entities_to_wikipedia(
+                question_entities, answer.text
+            )
+            answer_entities = self.linker.link_entities_to_wikipedia(
+                answer_entities, answer.text
+            )
+
+            problem = Problem(
+                question=question,
+                question_entities=question_entities,
+                answer=answer,
+                answer_entities=answer_entities,
+            )
+
+            extracted_answer = self.solver.solve(problem)
+            correct = self.verifier.verify(problem, extracted_answer)
+
+            solutions.append(
+                Solution(
+                    problem=problem,
+                    extracted_answer=extracted_answer,
+                    correct=correct,
+                )
+            )
+
+        self.file_manager.write(solutions)
+
+
+def resolve_entities():
+    """
+    Solves the assignment by reading an input file, resolving the entities, and writing the output.
+    """
+    Pipeline(
+        file_manager=FileManager(
+            input_path="data/input.txt", output_path="data/output.txt"
+        ),
+        model=LLM(model_path=f"models/llama-2-7b.Q4_K_M.gguf", stop=[], echo=False),
+        extractor=EntityExtractor(),
+        linker=EntityLinker(),
+        solver=Solver(),
+        verifier=Verifier(),
+    ).resolve()
 
 
 if __name__ == "__main__":
-    parser = TxtParser()
-    questions = parser.parse("data/input.txt")
-
-    answers = generate_answers(questions, parser)
-    entities = generate_entities(questions, answers)
-
-    pprint(entities)
+    init(autoreset=True)
+    resolve_entities()

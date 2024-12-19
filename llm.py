@@ -1,36 +1,43 @@
-from abc import ABC, abstractmethod
+import os
+
 from llama_cpp import Llama
 
-
-class Model(ABC):
-    @abstractmethod
-    def answer(self, question: str) -> str:
-        pass
+from debug import print_info
+from models import Answer, Question
 
 
-class LlamaModel(Model):
+class LLM:
     def __init__(
         self,
         model_path: str,
-        max_tokens: int = 32,
+        max_tokens: int = 64,
         stop: list = ["Q:", "\n"],
         echo: bool = True,
     ):
-        self.llm = Llama(model_path=f"models/{model_path}", verbose=False)
+        if not os.path.exists(model_path):
+            raise FileNotFoundError(f"Model file not found: {model_path}")
+
+        self.llm = Llama(model_path, verbose=False)
         self.max_tokens = max_tokens
         self.stop = stop
         self.echo = echo
 
-    def answer(self, question: str) -> str:
-        # Detect if the question is in the correct format by checking if it contains the question word.
-        if "question" not in question.lower():
-            question = f"Question: {question} Answer:"
+    def answer(self, question: Question) -> Answer:
+        """
+        Generate an answer to the given question with the LLM model.
 
-        # Give the model an intuition by adding examples of the question and answer format.
-        question = f"You are an expert assistant. Answer only what is asked succinctly.\nQuestion: What is the capital of France? Answer: Paris.\n{question}"
+        The result is stripped of leading and trailing whitespaces.
+        """
 
         output = self.llm(
-            question, max_tokens=self.max_tokens, stop=self.stop, echo=self.echo
+            question.text, max_tokens=self.max_tokens, stop=self.stop, echo=self.echo
         )
 
-        return output["choices"][0]["text"].strip()
+        answer = Answer(
+            question.id, output["choices"][0]["text"].strip().replace("\n", " ")
+        )
+
+        print_info("Question:", question.text)
+        print_info("Answer:", answer.text)
+
+        return answer
