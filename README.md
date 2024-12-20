@@ -2,6 +2,8 @@
 
 This repository contains the code for processing LLM output into a structured format which can be used to build knowledge bases.
 
+Video with more information: https://youtu.be/WsoXqEf3tko
+
 ## Usage
 
 In order to use this project the easiest way is to use Docker. First pull the image:
