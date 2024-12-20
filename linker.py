@@ -90,7 +90,7 @@ class EntityLinker:
 
         return wikidata_results
 
-    def get_wikidata_sitelink(self, entity_id: str) -> str:
+    def get_wikidata_sitelink(self, entity_id: str) -> str | None:
         """
         Get the Wikipedia link from the corresponding Wikidata entity.
         """

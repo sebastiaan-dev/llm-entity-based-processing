@@ -1,130 +1,102 @@
+import joblib
 import pandas as pd
-import numpy as np
+
 from sklearn.calibration import LabelEncoder
-from sklearn.dummy import DummyClassifier
-from sklearn.model_selection import train_test_split
+from sklearn.pipeline import Pipeline
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.decomposition import TruncatedSVD
+from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LogisticRegression
-from sklearn.svm import SVC
+from sklearn.ensemble import BaggingClassifier
+from sklearn.model_selection import RandomizedSearchCV, train_test_split
 from sklearn.metrics import classification_report, accuracy_score
-
-# Load the dataset
-# df = pd.read_csv("regression/questions_dataset.csv")
-df = pd.read_csv("data_synthetic/data_synthetic.csv")
-
-# Display the first few rows
-print(df.head())
+from scipy.stats import randint, uniform, loguniform
 
 
-# Initialize LabelEncoder
-label_encoder = LabelEncoder()
-
-# Fit and transform the labels
-# df["label_encoded"] = label_encoder.fit_transform(df["Category0"])
-df["label_encoded"] = label_encoder.fit_transform(df["Entity-Type"])
-
-# Mapping of labels to numerical values
-label_mapping = dict(
-    zip(label_encoder.classes_, label_encoder.transform(label_encoder.classes_))
-)
-print("Label Mapping:", label_mapping)
+def preprocess_question(q: str) -> str:
+    return q.lower().strip()
 
 
-# Features and target
-X = df["Question"]
-y = df["label_encoded"]
+def prepare_data():
+    label_encoder = LabelEncoder()
+    df = pd.read_csv("data_synthetic/data_synthetic.csv")
 
-# Split the data (80% training, 20% testing)
-X_train, X_test, y_train, y_test = train_test_split(
-    X, y, test_size=0.2, random_state=42, stratify=y
-)
+    df["Question"] = df["Question"].apply(preprocess_question)
+    df["label_encoded"] = label_encoder.fit_transform(df["Entity-Type"])
 
-print(f"Training samples: {X_train.shape[0]}")
-print(f"Testing samples: {X_test.shape[0]}")
+    X = df["Question"]
+    y = df["label_encoded"]
 
-
-# Initialize TF-IDF Vectorizer
-vectorizer = TfidfVectorizer(
-    sublinear_tf=True,  # Apply sublinear TF scaling
-    max_features=10000,  # Limit to top 5000 features
-    ngram_range=(1, 3),  # Use unigrams and bigrams
-    stop_words="english",  # Remove common English stop words
-)
-
-# Fit the vectorizer on training data and transform both training and testing data
-X_train_tfidf = vectorizer.fit_transform(X_train)
-X_test_tfidf = vectorizer.transform(X_test)
-
-print(f"TF-IDF Training Matrix Shape: {X_train_tfidf.shape}")
-print(f"TF-IDF Testing Matrix Shape: {X_test_tfidf.shape}")
+    return X, y, label_encoder
 
 
-# Initialize Logistic Regression model
-log_reg = LogisticRegression(
-    multi_class="multinomial",  # Suitable for multi-class classification
-    solver="lbfgs",  # Solver for optimization
-    max_iter=2000,  # Maximum number of iterations
-    random_state=42,
-)
+def train_model(X, y):
+    base_clf = LogisticRegression(solver="lbfgs", max_iter=2000, random_state=42)
 
-# Train the model
-log_reg.fit(X_train_tfidf, y_train)
+    bagging_clf = BaggingClassifier(
+        estimator=base_clf,
+        n_estimators=10,
+        max_samples=0.8,
+        max_features=0.8,
+        bootstrap=True,
+        n_jobs=-1,
+        random_state=42069,
+    )
 
-# Predict on the test set
-y_pred_log_reg = log_reg.predict(X_test_tfidf)
+    pipeline = Pipeline(
+        [
+            ("tfidf", TfidfVectorizer(ngram_range=(1, 3), max_features=10000)),
+            ("svd", TruncatedSVD(n_components=300, random_state=42069)),
+            ("scaler", StandardScaler(with_mean=False)),
+            ("bagging", bagging_clf),
+        ]
+    )
 
-# Evaluate the model
-print("Logistic Regression Accuracy:", accuracy_score(y_test, y_pred_log_reg))
-print(
-    "\nClassification Report:\n",
-    classification_report(y_test, y_pred_log_reg, target_names=label_encoder.classes_),
-)
+    X_train, X_test, y_train, y_test = train_test_split(
+        X, y, test_size=0.2, random_state=42069, stratify=y
+    )
 
-new_question = "Where is the author of the orginal book?"
-preprocessed_question = new_question.lower()
-question_tfidf = vectorizer.transform([preprocessed_question])
-predicted_label_encoded = log_reg.predict(question_tfidf)[0]
-predicted_label = label_encoder.inverse_transform([predicted_label_encoded])[0]
-print(f"Predicted Label: {predicted_label}")
+    param_dist = {
+        "bagging__n_estimators": randint(10, 50),
+        "bagging__max_samples": uniform(0.6, 0.4),
+        "bagging__max_features": uniform(0.6, 0.4),
+        "bagging__estimator__C": loguniform(1e-2, 1e3),
+        "bagging__estimator__solver": [
+            "lbfgs",
+            # "saga",
+        ],
+    }
 
-from sklearn.model_selection import RandomizedSearchCV
-from scipy.stats import uniform, loguniform
+    random_search = RandomizedSearchCV(
+        estimator=pipeline,
+        param_distributions=param_dist,
+        n_iter=30,
+        cv=5,
+        scoring="accuracy",
+        random_state=42069,
+        n_jobs=6,
+        verbose=2,
+    )
 
-# Define the parameter distribution
-param_dist = {
-    "C": loguniform(1e-3, 1e3),
-    "gamma": loguniform(1e-4, 1e1),
-    "kernel": ["rbf", "linear", "poly", "sigmoid"],
-    "degree": [2, 3, 4, 5],  # Relevant for 'poly' kernel
-}
+    random_search.fit(X_train, y_train)
 
-# Initialize SVC
-svc = SVC()
+    # Predict on the test set with the best estimator
+    y_pred_best = random_search.predict(X_test)
 
-# Initialize RandomizedSearchCV
-random_search = RandomizedSearchCV(
-    estimator=svc,
-    param_distributions=param_dist,
-    n_iter=10,  # Number of parameter settings sampled
-    scoring="accuracy",
-    cv=5,
-    verbose=2,
-    random_state=42,
-    n_jobs=-1,
-)
+    # Evaluate the best model
+    print("Test Accuracy:", accuracy_score(y_test, y_pred_best))
+    print("\nClassification Report:\n", classification_report(y_test, y_pred_best))
 
-# Fit RandomizedSearchCV
-random_search.fit(X_train_tfidf, y_train)
+    return random_search
 
-# Best parameters and score
-print("Best Parameters from Randomized Search:", random_search.best_params_)
-print("Best Cross-Validation Accuracy:", random_search.best_score_)
 
-# Create a baseline classifier
-dummy_clf = DummyClassifier(strategy="most_frequent")
-dummy_clf.fit(X_train, y_train)
+def main():
+    X, y, label_encoder = prepare_data()
+    model = train_model(X, y)
 
-# Predict and evaluate baseline accuracy
-y_pred = dummy_clf.predict(X_test)
-baseline_accuracy = accuracy_score(y_test, y_pred)
-print(f"Baseline Accuracy (Most Frequent): {baseline_accuracy:.4f}")
+    joblib.dump(label_encoder, "label_encoder.joblib")
+    joblib.dump(model.best_estimator_, "best_model.joblib")
+
+
+if __name__ == "__main__":
+    main()

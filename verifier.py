@@ -3,8 +3,7 @@ from fuzzywuzzy import fuzz
 from sentence_transformers import SentenceTransformer, util
 
 from models import Entity, Problem
-from debug import print_debug, print_warn
-import re
+from debug import print_debug
 
 
 class Verifier:
@@ -87,24 +86,6 @@ class Verifier:
 
         print_debug("Extracted entity: ", extracted_entity)
         print_debug("Expected title: ", expected_title)
-
-        # Fallback to context validation if extracted entity is the link
-        link = problem.answer.text
-        if link and link.startswith("https"):
-            try:
-                response = req.get(link)
-                if response.status_code == 200:
-                    # Validate context relevance
-                    question_terms = [term.lower() for term in question.split()]
-                    if any(term in response.text.lower() for term in question_terms):
-                        # print("DEBUG: Correctness Comparison: correct (fallback context validation)")
-                        return True
-            except Exception as e:
-                print(f"DEBUG: Error accessing Wikipedia page for fallback: {e}")
-            return False
-        else:
-            # its a yes no answer still to implement
-            return True
 
         if not problem.question_entities:
             return False

@@ -2,7 +2,7 @@ from typing import Any
 import joblib
 import requests as req
 
-from debug import print_debug, print_error, print_info
+from debug import print_debug, print_error, print_info, print_warn
 from models import Entity, Problem
 
 
@@ -14,7 +14,7 @@ from models import Entity, Problem
 class Solver:
     def __init__(self):
         self.wikipedia_api = "https://en.wikipedia.org/w/api.php"
-        self.svc_model = joblib.load("regression/best_model.joblib")
+        self.model = joblib.load("regression/best_model.joblib")
         self.label_encoder = joblib.load("regression/label_encoder.joblib")
 
     def query_wikipedia(self, query: Any) -> Any:
@@ -134,29 +134,34 @@ class Solver:
             else:
                 total_distribution[entity] = count
 
-        return sorted(
+        ranked = sorted(
             problem.answer_entities,
             key=lambda entity: total_distribution[entity.text],
             reverse=True,
         )
 
+        nonzero = [entity for entity in ranked if total_distribution[entity.text] > 0]
+
+        return nonzero
+
     def preprocess_question(self, q: str) -> str:
         return q.lower().strip()
 
-    def classify_new_question(self, question, model, label_encoder):
+    def classify_question(self, question):
         preprocessed = self.preprocess_question(question)
-        pred_encoded = model.predict([preprocessed])
-        pred_label = label_encoder.inverse_transform(pred_encoded)[0]
+        predicted_labels = self.model.predict_proba([preprocessed])[0]
 
-        return pred_label
+        # Get the top 3 labels
+        top_indices = predicted_labels.argsort()[::-1][:3]
+        top_labels = self.label_encoder.inverse_transform(top_indices)
 
-    def test_model():
+        top_confidences = predicted_labels[top_indices]
+        top_predictions = list(zip(top_labels, top_confidences))
+        print_debug(f"Predicted probabilities:", top_predictions)
 
-        new_question = "Where is the Great Barrier Reef located?"
-        predicted_label = classify_new_question(new_question, svc_model, label_encoder)
-        print(f"Predicted Label: {predicted_label}")
+        return top_labels
 
-    def derive_question_type(self, question: str) -> str:
+    def derive_question_type(self, question: str) -> list[str]:
         """
         Derive the question entity target type from the question text.
 
@@ -165,16 +170,29 @@ class Solver:
         q = self.normalize_question(question)
 
         if q.startswith("who"):
-            return "PERSON"
+            return ["PERSON"]
         elif q.startswith("where"):
-            return "LOC"
+            return ["LOC"]
         elif q.startswith("when"):
-            return "DATE"
+            return ["DATE"]
 
         # We could not derive the question type using regex, so we use a classifier.
         return self.classify_question(q)
 
-    def handle_open_question(self, problem: Problem) -> str:
+    def try_label_order_n(
+        self, ranked_entities: list[Entity], predicted_label: str
+    ) -> str | None:
+        for entity in ranked_entities:
+            # print_debug(f"Checking entity:", entity.text)
+            # print_debug(f"Predicted label:", entity.label)
+            # print_debug(f"Predicted label:", predicted_label)
+            if entity.label == predicted_label:
+                print_info(f"Selected entity:", entity.text)
+                return entity.link
+
+        return None
+
+    def handle_open_question(self, problem: Problem) -> str | None:
         """
         Handles open questions.
         """
@@ -200,13 +218,32 @@ class Solver:
 
         # Get the ranked entities by word count.
         ranked_entities = self.get_ranked_by_wordcount(problem)
+        predicted_labels = self.derive_question_type(problem.question.text)
 
-        # max_text = max(ranked_entities, key=ranked_entities.get)
-        # # Return the link of the entity with the highest word count.
-        # for entity in problem.answer_entities:
-        #     if entity.text == max_text:
-        #         print_info(f"Selected entity:", entity.text)
-        #         return entity.link
+        if len(ranked_entities) == 0:
+            print_error("No entities found, cannot solve the problem.")
+            return None
+
+        # Find the entity with the highest rank that matches the predicted label.
+        for predicted_label in predicted_labels:
+            link = self.try_label_order_n(ranked_entities, predicted_label)
+
+            if link:
+                return link
+
+        # If we could not find an entity with the predicted label, return the link of the highest ranked entity.
+        print_warn(
+            f"Could not find an entity with the predicted label:", predicted_labels
+        )
+        print_info(
+            f"Entities with label:",
+            [(entity.text, entity.label) for entity in ranked_entities],
+        )
+        print_info(
+            f"Returning the link of the highest ranked entity.", ranked_entities[0].text
+        )
+
+        return ranked_entities[0].link
 
     def solve(self, problem: Problem) -> str:
         """

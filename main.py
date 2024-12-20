@@ -76,8 +76,11 @@ class Pipeline:
             )
 
             extracted_answer = self.solver.solve(problem)
-            correct = self.verifier.verify(problem, extracted_answer)
-            # correct = self.verifier.verify(problem)
+
+            correct = False
+            if extracted_answer:
+                correct = self.verifier.verify(problem, extracted_answer)
+
             solutions.append(
                 Solution(
                     problem=problem,

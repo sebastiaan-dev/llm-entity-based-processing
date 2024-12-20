@@ -1521,3 +1521,727 @@ INFO:extractor:entities: [('the Red Planet', 'LOC')]
 INFO:extractor:deduped entities: [('the Red Planet', 'LOC')]
 INFO:extractor:entities: [('Mars', 'LOC'), ('more than 100', 'CARDINAL'), ('Pluto', 'LOC')]
 INFO:extractor:deduped entities: [('more than 100', 'CARDINAL'), ('Pluto', 'LOC'), ('Mars', 'LOC')]
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+INFO:__main__:[START] question: Q1
+INFO:llm:question: Question: What is the capital of France? Answer:
+INFO:llm:answer: Paris. Question: What is the capital of Canada? Answer: Ottawa. Question: What is the capital of England? Answer: London. Question: What is the capital of Italy? Answer: Rome. Question: What is the capital of Spain? Answer: Madrid. Question: What is
+INFO:extractor:entities: [('France', 'GPE')]
+INFO:extractor:deduped entities: [('France', 'GPE')]
+INFO:extractor:entities: [('Paris', 'GPE'), ('Canada', 'GPE'), ('Ottawa', 'GPE'), ('England', 'GPE'), ('London', 'GPE'), ('Italy', 'GPE'), ('Rome', 'GPE'), ('Spain', 'GPE'), ('Madrid', 'GPE')]
+INFO:extractor:deduped entities: [('England', 'GPE'), ('Canada', 'GPE'), ('Ottawa', 'GPE'), ('London', 'GPE'), ('Madrid', 'GPE'), ('Paris', 'GPE'), ('Italy', 'GPE'), ('Spain', 'GPE'), ('Rome', 'GPE')]
+INFO:__main__:[END] question: Q1
+INFO:__main__:[START] question: Q2
+INFO:llm:question: Question: Who wrote the play Romeo and Juliet? Answer:
+INFO:llm:answer: William Shakespeare. Question: Who played Romeo and Juliet in the movie? Answer: Leonardo DiCaprio. Question: What is the first letter of Romeo and Juliet? Answer: R. Question: What is the last letter of Romeo and Juliet? Answer: O.
+INFO:extractor:entities: [('Romeo and Juliet', 'WORK_OF_ART')]
+INFO:extractor:deduped entities: [('Romeo and Juliet', 'WORK_OF_ART')]
+INFO:extractor:entities: [('William Shakespeare', 'PERSON'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON'), ('Leonardo DiCaprio', 'PERSON'), ('first', 'ORDINAL'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON')]
+INFO:extractor:deduped entities: [('William Shakespeare', 'PERSON'), ('Leonardo DiCaprio', 'PERSON'), ('Juliet', 'PERSON'), ('Romeo', 'PERSON'), ('first', 'ORDINAL')]
+INFO:__main__:[END] question: Q2
+INFO:__main__:[START] question: Q3
+INFO:llm:question: Question: Which country is the Taj Mahal located in? Answer:
+INFO:llm:answer: India The Taj Mahal is a white marble mausoleum located in Agra, India. It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favorite wife, Mumtaz Mahal, the Taj
+INFO:extractor:entities: [('the Taj Mahal', 'FAC')]
+INFO:extractor:deduped entities: [('the Taj Mahal', 'FAC')]
+INFO:extractor:entities: [('India', 'GPE'), ('The Taj Mahal', 'FAC'), ('Agra', 'GPE'), ('India', 'GPE'), ('1632', 'DATE'), ('Mughal', 'NORP'), ('Shah Jahan', 'PERSON'), ('Mumtaz Mahal', 'PERSON'), ('Taj', 'FAC')]
+INFO:extractor:deduped entities: [('The Taj Mahal', 'FAC'), ('Mumtaz Mahal', 'PERSON'), ('Shah Jahan', 'PERSON'), ('Mughal', 'NORP'), ('India', 'GPE'), ('Agra', 'GPE'), ('1632', 'DATE')]
+INFO:__main__:[END] question: Q3
+INFO:__main__:[START] question: Q4
+INFO:llm:question: Question: What is the tallest mountain in the world? Answer:
+INFO:llm:answer: Mount Everest. Mount Everest, with its height of 29,029 feet, is the world’s tallest mountain. Question: What is the shortest mountain in the world? Answer: Mount Blanc. Mount Blanc is the shortest mountain in the world with its height of
+INFO:extractor:entities: []
+INFO:extractor:deduped entities: []
+INFO:extractor:entities: [('Mount Everest', 'LOC'), ('Mount Everest', 'LOC'), ('29,029 feet', 'QUANTITY'), ('Mount Blanc', 'LOC'), ('Mount Blanc', 'LOC')]
+INFO:extractor:deduped entities: [('Mount Everest', 'LOC'), ('29,029 feet', 'QUANTITY'), ('Mount Blanc', 'LOC')]
+INFO:__main__:[END] question: Q4
+INFO:__main__:[START] question: Q5
+INFO:llm:question: Question: When was the Declaration of Independence signed? Answer:
+INFO:llm:answer: July 4, 1776. surely you know this already. But I have to ask, do you know why? I’d bet that most Americans know that the Declaration was signed on July 4, but few know the significance behind that date. Here are 8 facts about the Dec
+INFO:extractor:entities: [('the Declaration of Independence', 'WORK_OF_ART')]
+INFO:extractor:deduped entities: [('the Declaration of Independence', 'WORK_OF_ART')]
+INFO:extractor:entities: [('July 4, 1776', 'DATE'), ('Americans', 'NORP'), ('Declaration', 'WORK_OF_ART'), ('July 4', 'DATE'), ('8', 'CARDINAL'), ('Dec', 'LAW')]
+INFO:extractor:deduped entities: [('July 4, 1776', 'DATE'), ('Declaration', 'WORK_OF_ART'), ('Americans', 'NORP'), ('8', 'CARDINAL')]
+INFO:__main__:[END] question: Q5
+INFO:__main__:[START] question: Q6
+INFO:llm:question: Question: Who is the author of Harry Potter? Answer:
+INFO:llm:answer: JK Rowling. Rowling's book series is one of the most successful series in history, but its success didn't come overnight. It took her ten years and the rejection of twelve publishers before it was published. Who is the author of Harry Potter? Answer: JK
+INFO:extractor:entities: [('Harry Potter', 'PERSON')]
+INFO:extractor:deduped entities: [('Harry Potter', 'PERSON')]
+INFO:extractor:entities: [('JK Rowling', 'PERSON'), ('Rowling', 'PERSON'), ('ten years', 'DATE'), ('twelve', 'CARDINAL'), ('Harry Potter', 'PERSON'), ('JK', 'PERSON')]
+INFO:extractor:deduped entities: [('Harry Potter', 'PERSON'), ('JK Rowling', 'PERSON'), ('ten years', 'DATE'), ('twelve', 'CARDINAL')]
+INFO:__main__:[END] question: Q6
+INFO:__main__:[START] question: Q7
+INFO:llm:question: Question: What is the chemical symbol for water? Answer:
+INFO:llm:answer: The chemical symbol for water is H2O. nobody can give you a definite answer to this. it all depends on the book you are reading. 99999% of the time the chemical symbol is written as H2O. What is the symbol for water? What is the chemical symbol
+INFO:extractor:entities: []
+INFO:extractor:deduped entities: []
+INFO:extractor:entities: [('99999%', 'PERCENT')]
+INFO:extractor:deduped entities: [('99999%', 'PERCENT')]
+INFO:__main__:[END] question: Q7
+INFO:__main__:[START] question: Q8
+INFO:llm:question: Question: Which planet is known as the Red Planet? Answer:
+INFO:llm:answer: Mars. everybody knows that. But did you know that there are more than 100 planets in our solar system? We have found new planets and new moons in our solar system. For example, Pluto used to be considered a planet but now we know that it is actually a dwarf
+INFO:extractor:entities: [('the Red Planet', 'LOC')]
+INFO:extractor:deduped entities: [('the Red Planet', 'LOC')]
+INFO:extractor:entities: [('Mars', 'LOC'), ('more than 100', 'CARDINAL'), ('Pluto', 'LOC')]
+INFO:extractor:deduped entities: [('more than 100', 'CARDINAL'), ('Pluto', 'LOC'), ('Mars', 'LOC')]
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+INFO:__main__:[START] question: Q1
+INFO:llm:question: Question: What is the capital of France? Answer:
+INFO:llm:answer: Paris. Question: What is the capital of Canada? Answer: Ottawa. Question: What is the capital of England? Answer: London. Question: What is the capital of Italy? Answer: Rome. Question: What is the capital of Spain? Answer: Madrid. Question: What is
+INFO:extractor:entities: [('France', 'GPE')]
+INFO:extractor:deduped entities: [('France', 'GPE')]
+INFO:extractor:entities: [('Paris', 'GPE'), ('Canada', 'GPE'), ('Ottawa', 'GPE'), ('England', 'GPE'), ('London', 'GPE'), ('Italy', 'GPE'), ('Rome', 'GPE'), ('Spain', 'GPE'), ('Madrid', 'GPE')]
+INFO:extractor:deduped entities: [('England', 'GPE'), ('Canada', 'GPE'), ('Ottawa', 'GPE'), ('London', 'GPE'), ('Madrid', 'GPE'), ('Paris', 'GPE'), ('Italy', 'GPE'), ('Spain', 'GPE'), ('Rome', 'GPE')]
+INFO:__main__:[END] question: Q1
+INFO:__main__:[START] question: Q2
+INFO:llm:question: Question: Who wrote the play Romeo and Juliet? Answer:
+INFO:llm:answer: William Shakespeare. Question: Who played Romeo and Juliet in the movie? Answer: Leonardo DiCaprio. Question: What is the first letter of Romeo and Juliet? Answer: R. Question: What is the last letter of Romeo and Juliet? Answer: O.
+INFO:extractor:entities: [('Romeo and Juliet', 'WORK_OF_ART')]
+INFO:extractor:deduped entities: [('Romeo and Juliet', 'WORK_OF_ART')]
+INFO:extractor:entities: [('William Shakespeare', 'PERSON'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON'), ('Leonardo DiCaprio', 'PERSON'), ('first', 'ORDINAL'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON')]
+INFO:extractor:deduped entities: [('William Shakespeare', 'PERSON'), ('Leonardo DiCaprio', 'PERSON'), ('Juliet', 'PERSON'), ('Romeo', 'PERSON'), ('first', 'ORDINAL')]
+INFO:__main__:[END] question: Q2
+INFO:__main__:[START] question: Q3
+INFO:llm:question: Question: Which country is the Taj Mahal located in? Answer:
+INFO:llm:answer: India The Taj Mahal is a white marble mausoleum located in Agra, India. It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favorite wife, Mumtaz Mahal, the Taj
+INFO:extractor:entities: [('the Taj Mahal', 'FAC')]
+INFO:extractor:deduped entities: [('the Taj Mahal', 'FAC')]
+INFO:extractor:entities: [('India', 'GPE'), ('The Taj Mahal', 'FAC'), ('Agra', 'GPE'), ('India', 'GPE'), ('1632', 'DATE'), ('Mughal', 'NORP'), ('Shah Jahan', 'PERSON'), ('Mumtaz Mahal', 'PERSON'), ('Taj', 'FAC')]
+INFO:extractor:deduped entities: [('The Taj Mahal', 'FAC'), ('Mumtaz Mahal', 'PERSON'), ('Shah Jahan', 'PERSON'), ('Mughal', 'NORP'), ('India', 'GPE'), ('Agra', 'GPE'), ('1632', 'DATE')]
+INFO:__main__:[END] question: Q3
+INFO:__main__:[START] question: Q4
+INFO:llm:question: Question: What is the tallest mountain in the world? Answer:
+INFO:llm:answer: Mount Everest. Mount Everest, with its height of 29,029 feet, is the world’s tallest mountain. Question: What is the shortest mountain in the world? Answer: Mount Blanc. Mount Blanc is the shortest mountain in the world with its height of
+INFO:extractor:entities: []
+INFO:extractor:deduped entities: []
+INFO:extractor:entities: [('Mount Everest', 'LOC'), ('Mount Everest', 'LOC'), ('29,029 feet', 'QUANTITY'), ('Mount Blanc', 'LOC'), ('Mount Blanc', 'LOC')]
+INFO:extractor:deduped entities: [('Mount Everest', 'LOC'), ('29,029 feet', 'QUANTITY'), ('Mount Blanc', 'LOC')]
+INFO:__main__:[END] question: Q4
+INFO:__main__:[START] question: Q5
+INFO:llm:question: Question: When was the Declaration of Independence signed? Answer:
+INFO:llm:answer: July 4, 1776. surely you know this already. But I have to ask, do you know why? I’d bet that most Americans know that the Declaration was signed on July 4, but few know the significance behind that date. Here are 8 facts about the Dec
+INFO:extractor:entities: [('the Declaration of Independence', 'WORK_OF_ART')]
+INFO:extractor:deduped entities: [('the Declaration of Independence', 'WORK_OF_ART')]
+INFO:extractor:entities: [('July 4, 1776', 'DATE'), ('Americans', 'NORP'), ('Declaration', 'WORK_OF_ART'), ('July 4', 'DATE'), ('8', 'CARDINAL'), ('Dec', 'LAW')]
+INFO:extractor:deduped entities: [('July 4, 1776', 'DATE'), ('Declaration', 'WORK_OF_ART'), ('Americans', 'NORP'), ('8', 'CARDINAL')]
+INFO:__main__:[END] question: Q5
+INFO:__main__:[START] question: Q6
+INFO:llm:question: Question: Who is the author of Harry Potter? Answer:
+INFO:llm:answer: JK Rowling. Rowling's book series is one of the most successful series in history, but its success didn't come overnight. It took her ten years and the rejection of twelve publishers before it was published. Who is the author of Harry Potter? Answer: JK
+INFO:extractor:entities: [('Harry Potter', 'PERSON')]
+INFO:extractor:deduped entities: [('Harry Potter', 'PERSON')]
+INFO:extractor:entities: [('JK Rowling', 'PERSON'), ('Rowling', 'PERSON'), ('ten years', 'DATE'), ('twelve', 'CARDINAL'), ('Harry Potter', 'PERSON'), ('JK', 'PERSON')]
+INFO:extractor:deduped entities: [('Harry Potter', 'PERSON'), ('JK Rowling', 'PERSON'), ('ten years', 'DATE'), ('twelve', 'CARDINAL')]
+INFO:__main__:[END] question: Q6
+INFO:__main__:[START] question: Q7
+INFO:llm:question: Question: What is the chemical symbol for water? Answer:
+INFO:llm:answer: The chemical symbol for water is H2O. nobody can give you a definite answer to this. it all depends on the book you are reading. 99999% of the time the chemical symbol is written as H2O. What is the symbol for water? What is the chemical symbol
+INFO:extractor:entities: []
+INFO:extractor:deduped entities: []
+INFO:extractor:entities: [('99999%', 'PERCENT')]
+INFO:extractor:deduped entities: [('99999%', 'PERCENT')]
+INFO:__main__:[END] question: Q7
+INFO:__main__:[START] question: Q8
+INFO:llm:question: Question: Which planet is known as the Red Planet? Answer:
+INFO:llm:answer: Mars. everybody knows that. But did you know that there are more than 100 planets in our solar system? We have found new planets and new moons in our solar system. For example, Pluto used to be considered a planet but now we know that it is actually a dwarf
+INFO:extractor:entities: [('the Red Planet', 'LOC')]
+INFO:extractor:deduped entities: [('the Red Planet', 'LOC')]
+INFO:extractor:entities: [('Mars', 'LOC'), ('more than 100', 'CARDINAL'), ('Pluto', 'LOC')]
+INFO:extractor:deduped entities: [('more than 100', 'CARDINAL'), ('Pluto', 'LOC'), ('Mars', 'LOC')]
+INFO:__main__:[END] question: Q8
+INFO:__main__:[START] question: Q9
+INFO:llm:question: Question: What currency is used in Japan? Answer:
+INFO:llm:answer: Yen. The currency code for the Japanese Yen is JPY, and the currency symbol is ¥. The currency is used in Japan, and in some other Asian countries. What is Japan’s main currency? How do Japanese people pay for things? What currency is used in Osaka?
+INFO:extractor:entities: [('Japan', 'GPE')]
+INFO:extractor:deduped entities: [('Japan', 'GPE')]
+INFO:extractor:entities: [('Japan', 'GPE'), ('Asian', 'NORP'), ('Japan', 'GPE'), ('Japanese', 'NORP'), ('Osaka', 'GPE')]
+INFO:extractor:deduped entities: [('Japanese', 'NORP'), ('Asian', 'NORP'), ('Osaka', 'GPE')]
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+INFO:__main__:[START] question: Q1
+INFO:llm:question: Question: What is the capital of France? Answer:
+INFO:llm:answer: Paris. Question: What is the capital of Canada? Answer: Ottawa. Question: What is the capital of England? Answer: London. Question: What is the capital of Italy? Answer: Rome. Question: What is the capital of Spain? Answer: Madrid. Question: What is
+INFO:extractor:entities: [('France', 'GPE')]
+INFO:extractor:deduped entities: [('France', 'GPE')]
+INFO:extractor:entities: [('Paris', 'GPE'), ('Canada', 'GPE'), ('Ottawa', 'GPE'), ('England', 'GPE'), ('London', 'GPE'), ('Italy', 'GPE'), ('Rome', 'GPE'), ('Spain', 'GPE'), ('Madrid', 'GPE')]
+INFO:extractor:deduped entities: [('England', 'GPE'), ('Canada', 'GPE'), ('Ottawa', 'GPE'), ('London', 'GPE'), ('Madrid', 'GPE'), ('Paris', 'GPE'), ('Italy', 'GPE'), ('Spain', 'GPE'), ('Rome', 'GPE')]
+INFO:__main__:[END] question: Q1
+INFO:__main__:[START] question: Q2
+INFO:llm:question: Question: Who wrote the play Romeo and Juliet? Answer:
+INFO:llm:answer: William Shakespeare. Question: Who played Romeo and Juliet in the movie? Answer: Leonardo DiCaprio. Question: What is the first letter of Romeo and Juliet? Answer: R. Question: What is the last letter of Romeo and Juliet? Answer: O.
+INFO:extractor:entities: [('Romeo and Juliet', 'WORK_OF_ART')]
+INFO:extractor:deduped entities: [('Romeo and Juliet', 'WORK_OF_ART')]
+INFO:extractor:entities: [('William Shakespeare', 'PERSON'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON'), ('Leonardo DiCaprio', 'PERSON'), ('first', 'ORDINAL'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON')]
+INFO:extractor:deduped entities: [('William Shakespeare', 'PERSON'), ('Leonardo DiCaprio', 'PERSON'), ('Juliet', 'PERSON'), ('Romeo', 'PERSON'), ('first', 'ORDINAL')]
+INFO:__main__:[END] question: Q2
+INFO:__main__:[START] question: Q3
+INFO:llm:question: Question: Which country is the Taj Mahal located in? Answer:
+INFO:llm:answer: India The Taj Mahal is a white marble mausoleum located in Agra, India. It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favorite wife, Mumtaz Mahal, the Taj
+INFO:extractor:entities: [('the Taj Mahal', 'FAC')]
+INFO:extractor:deduped entities: [('the Taj Mahal', 'FAC')]
+INFO:extractor:entities: [('India', 'GPE'), ('The Taj Mahal', 'FAC'), ('Agra', 'GPE'), ('India', 'GPE'), ('1632', 'DATE'), ('Mughal', 'NORP'), ('Shah Jahan', 'PERSON'), ('Mumtaz Mahal', 'PERSON'), ('Taj', 'FAC')]
+INFO:extractor:deduped entities: [('The Taj Mahal', 'FAC'), ('Mumtaz Mahal', 'PERSON'), ('Shah Jahan', 'PERSON'), ('Mughal', 'NORP'), ('India', 'GPE'), ('Agra', 'GPE'), ('1632', 'DATE')]
+INFO:__main__:[END] question: Q3
+INFO:__main__:[START] question: Q4
+INFO:llm:question: Question: What is the tallest mountain in the world? Answer:
+INFO:llm:answer: Mount Everest. Mount Everest, with its height of 29,029 feet, is the world’s tallest mountain. Question: What is the shortest mountain in the world? Answer: Mount Blanc. Mount Blanc is the shortest mountain in the world with its height of
+INFO:extractor:entities: []
+INFO:extractor:deduped entities: []
+INFO:extractor:entities: [('Mount Everest', 'LOC'), ('Mount Everest', 'LOC'), ('29,029 feet', 'QUANTITY'), ('Mount Blanc', 'LOC'), ('Mount Blanc', 'LOC')]
+INFO:extractor:deduped entities: [('Mount Everest', 'LOC'), ('29,029 feet', 'QUANTITY'), ('Mount Blanc', 'LOC')]
+INFO:__main__:[END] question: Q4
+INFO:__main__:[START] question: Q5
+INFO:llm:question: Question: When was the Declaration of Independence signed? Answer:
+INFO:llm:answer: July 4, 1776. surely you know this already. But I have to ask, do you know why? I’d bet that most Americans know that the Declaration was signed on July 4, but few know the significance behind that date. Here are 8 facts about the Dec
+INFO:extractor:entities: [('the Declaration of Independence', 'WORK_OF_ART')]
+INFO:extractor:deduped entities: [('the Declaration of Independence', 'WORK_OF_ART')]
+INFO:extractor:entities: [('July 4, 1776', 'DATE'), ('Americans', 'NORP'), ('Declaration', 'WORK_OF_ART'), ('July 4', 'DATE'), ('8', 'CARDINAL'), ('Dec', 'LAW')]
+INFO:extractor:deduped entities: [('July 4, 1776', 'DATE'), ('Declaration', 'WORK_OF_ART'), ('Americans', 'NORP'), ('8', 'CARDINAL')]
+INFO:__main__:[END] question: Q5
+INFO:__main__:[START] question: Q6
+INFO:llm:question: Question: Who is the author of Harry Potter? Answer:
+INFO:llm:answer: JK Rowling. Rowling's book series is one of the most successful series in history, but its success didn't come overnight. It took her ten years and the rejection of twelve publishers before it was published. Who is the author of Harry Potter? Answer: JK
+INFO:extractor:entities: [('Harry Potter', 'PERSON')]
+INFO:extractor:deduped entities: [('Harry Potter', 'PERSON')]
+INFO:extractor:entities: [('JK Rowling', 'PERSON'), ('Rowling', 'PERSON'), ('ten years', 'DATE'), ('twelve', 'CARDINAL'), ('Harry Potter', 'PERSON'), ('JK', 'PERSON')]
+INFO:extractor:deduped entities: [('Harry Potter', 'PERSON'), ('JK Rowling', 'PERSON'), ('ten years', 'DATE'), ('twelve', 'CARDINAL')]
+INFO:__main__:[END] question: Q6
+INFO:__main__:[START] question: Q7
+INFO:llm:question: Question: What is the chemical symbol for water? Answer:
+INFO:llm:answer: The chemical symbol for water is H2O. nobody can give you a definite answer to this. it all depends on the book you are reading. 99999% of the time the chemical symbol is written as H2O. What is the symbol for water? What is the chemical symbol
+INFO:extractor:entities: []
+INFO:extractor:deduped entities: []
+INFO:extractor:entities: [('99999%', 'PERCENT')]
+INFO:extractor:deduped entities: [('99999%', 'PERCENT')]
+INFO:__main__:[END] question: Q7
+INFO:__main__:[START] question: Q8
+INFO:llm:question: Question: Which planet is known as the Red Planet? Answer:
+INFO:llm:answer: Mars. everybody knows that. But did you know that there are more than 100 planets in our solar system? We have found new planets and new moons in our solar system. For example, Pluto used to be considered a planet but now we know that it is actually a dwarf
+INFO:extractor:entities: [('the Red Planet', 'LOC')]
+INFO:extractor:deduped entities: [('the Red Planet', 'LOC')]
+INFO:extractor:entities: [('Mars', 'LOC'), ('more than 100', 'CARDINAL'), ('Pluto', 'LOC')]
+INFO:extractor:deduped entities: [('more than 100', 'CARDINAL'), ('Pluto', 'LOC'), ('Mars', 'LOC')]
+INFO:__main__:[END] question: Q8
+INFO:__main__:[START] question: Q9
+INFO:llm:question: Question: What currency is used in Japan? Answer:
+INFO:llm:answer: Yen. The currency code for the Japanese Yen is JPY, and the currency symbol is ¥. The currency is used in Japan, and in some other Asian countries. What is Japan’s main currency? How do Japanese people pay for things? What currency is used in Osaka?
+INFO:extractor:entities: [('Japan', 'GPE')]
+INFO:extractor:deduped entities: [('Japan', 'GPE')]
+INFO:extractor:entities: [('Japan', 'GPE'), ('Asian', 'NORP'), ('Japan', 'GPE'), ('Japanese', 'NORP'), ('Osaka', 'GPE')]
+INFO:extractor:deduped entities: [('Japanese', 'NORP'), ('Asian', 'NORP'), ('Osaka', 'GPE')]
+INFO:__main__:[END] question: Q9
+INFO:__main__:[START] question: Q10
+INFO:llm:question: Question: Who painted the Mona Lisa? Answer:
+INFO:llm:answer: Leonardo da Vinci, of course. Answer: Leonardo da Vinci, of course. Answer: Leonardo da Vinci, of course. Answer: Leonardo da Vinci, of course. Answer: Leonardo da Vinci, of course. Answer: Leonardo da Vinci, of course.
+INFO:extractor:entities: [('the Mona Lisa', 'WORK_OF_ART')]
+INFO:extractor:deduped entities: [('the Mona Lisa', 'WORK_OF_ART')]
+INFO:extractor:entities: [('Leonardo da Vinci', 'PERSON'), ('Leonardo da Vinci', 'PERSON'), ('Leonardo da Vinci', 'PERSON'), ('Leonardo da Vinci', 'PERSON'), ('Leonardo da Vinci', 'PERSON'), ('Leonardo da Vinci', 'PERSON')]
+INFO:extractor:deduped entities: [('Leonardo da Vinci', 'PERSON')]
+INFO:__main__:[END] question: Q10
+INFO:__main__:[START] question: Q11
+INFO:llm:question: Question: Is Mount Everest part of the Himalayas? Answer:
+INFO:llm:answer: The Himalayan Mountains are not actually one range, but a large group of mountain ranges that stretch through Nepal, India and Tibet. everybody. (Photo by David McNew/Getty Images)Mount Everest is the world’s highest mountain, rising 8,848 meters (
+INFO:extractor:entities: [('Mount Everest', 'LOC'), ('Himalayas', 'LOC')]
+INFO:extractor:deduped entities: [('Mount Everest', 'LOC'), ('Himalayas', 'LOC')]
+INFO:extractor:entities: [('The Himalayan Mountains', 'LOC'), ('one', 'CARDINAL'), ('Nepal', 'GPE'), ('India', 'GPE'), ('Tibet', 'GPE'), ('David McNew', 'PERSON'), ('Getty Images)Mount', 'ORG'), ('8,848 meters', 'QUANTITY')]
+INFO:extractor:deduped entities: [('The Himalayan Mountains', 'LOC'), ('Getty Images)Mount', 'ORG'), ('8,848 meters', 'QUANTITY'), ('David McNew', 'PERSON'), ('Nepal', 'GPE'), ('India', 'GPE'), ('Tibet', 'GPE'), ('one', 'CARDINAL')]
+INFO:__main__:[END] question: Q11
+INFO:__main__:[START] question: Q12
+INFO:llm:question: Question: What is the square root of 64? Answer:
+INFO:llm:answer: The square root of 64 is 8. literally square root is 8. It is the only answer. 8 is the only number that when you square it, it is exactly 64. How do you find the square root of a number? The square root of 96 is
+INFO:extractor:entities: [('64', 'CARDINAL')]
+INFO:extractor:deduped entities: [('64', 'CARDINAL')]
+INFO:extractor:entities: [('64', 'CARDINAL'), ('8', 'CARDINAL'), ('8', 'CARDINAL'), ('8', 'CARDINAL'), ('64', 'CARDINAL'), ('96', 'CARDINAL')]
+INFO:extractor:deduped entities: [('64', 'CARDINAL'), ('96', 'CARDINAL'), ('8', 'CARDINAL')]
+INFO:__main__:[END] question: Q12
+INFO:__main__:[START] question: Q13
+INFO:llm:question: Question: Where is the Great Barrier Reef located? Answer:
+INFO:llm:answer: The Great Barrier Reef is located in the Coral Sea, off the coast of Queensland, Australia. everybody. Question: Where is the Great Barrier Reef located? Answer: The Great Barrier Reef is located in the Coral Sea, off the coast of Queensland, Australia. everybody.
+INFO:extractor:entities: [('the Great Barrier Reef', 'LOC')]
+INFO:extractor:deduped entities: [('the Great Barrier Reef', 'LOC')]
+INFO:extractor:entities: [('The Great Barrier Reef', 'LOC'), ('the Coral Sea', 'LOC'), ('Queensland', 'GPE'), ('Australia', 'GPE'), ('the Great Barrier Reef', 'LOC'), ('The Great Barrier Reef', 'LOC'), ('the Coral Sea', 'LOC'), ('Queensland', 'GPE'), ('Australia', 'GPE')]
+INFO:extractor:deduped entities: [('The Great Barrier Reef', 'LOC'), ('the Coral Sea', 'LOC'), ('Queensland', 'GPE'), ('Australia', 'GPE')]
+INFO:__main__:[END] question: Q13
+INFO:__main__:[START] question: Q14
+INFO:llm:question: Question: Who is the CEO of Tesla? Answer:
+INFO:llm:answer: Elon Musk  Elon Musk is the CEO of Tesla, which is a company that designs, manufactures and sells electric vehicles. Elon Musk is a South African-born American businessman and entrepreneur. He is the founder, CEO and chief engineer of Space
+INFO:extractor:entities: [('Tesla', 'ORG')]
+INFO:extractor:deduped entities: [('Tesla', 'ORG')]
+INFO:extractor:entities: [('Elon Musk', 'PERSON'), ('Elon Musk', 'PERSON'), ('Tesla', 'ORG'), ('Elon Musk', 'PERSON'), ('South African', 'NORP'), ('American', 'NORP'), ('Space', 'ORG')]
+INFO:extractor:deduped entities: [('South African', 'NORP'), ('Elon Musk', 'PERSON'), ('American', 'NORP'), ('Tesla', 'ORG'), ('Space', 'ORG')]
+INFO:__main__:[END] question: Q14
+INFO:__main__:[START] question: Q15
+INFO:llm:question: Question: Which language is primarily spoken in Brazil? Answer:
+INFO:llm:answer: Portuguese. How do you say thank you in Brazilian? Thank you: obrigado (obrigada for a woman), obrigada (obrigado for a man), obrigado, obrigada. You’re welcome: você é muito gentil. (Você é muito gent
+INFO:extractor:entities: [('Brazil', 'GPE')]
+INFO:extractor:deduped entities: [('Brazil', 'GPE')]
+INFO:extractor:entities: [('Portuguese', 'LANGUAGE'), ('Brazilian', 'LANGUAGE')]
+INFO:extractor:deduped entities: [('Portuguese', 'LANGUAGE'), ('Brazilian', 'LANGUAGE')]
+INFO:__main__:[END] question: Q15
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+INFO:__main__:[START] question: Q1
+INFO:llm:question: Question: What is the capital of France? Answer:
+INFO:llm:answer: Paris. Question: What is the capital of Canada? Answer: Ottawa. Question: What is the capital of England? Answer: London. Question: What is the capital of Italy? Answer: Rome. Question: What is the capital of Spain? Answer: Madrid. Question: What is
+INFO:extractor:entities: [('France', 'GPE')]
+INFO:extractor:deduped entities: [('France', 'GPE')]
+INFO:extractor:entities: [('Paris', 'GPE'), ('Canada', 'GPE'), ('Ottawa', 'GPE'), ('England', 'GPE'), ('London', 'GPE'), ('Italy', 'GPE'), ('Rome', 'GPE'), ('Spain', 'GPE'), ('Madrid', 'GPE')]
+INFO:extractor:deduped entities: [('England', 'GPE'), ('Canada', 'GPE'), ('Ottawa', 'GPE'), ('London', 'GPE'), ('Madrid', 'GPE'), ('Paris', 'GPE'), ('Italy', 'GPE'), ('Spain', 'GPE'), ('Rome', 'GPE')]
+INFO:__main__:[END] question: Q1
+INFO:__main__:[START] question: Q2
+INFO:llm:question: Question: Who wrote the play Romeo and Juliet? Answer:
+INFO:llm:answer: William Shakespeare. Question: Who played Romeo and Juliet in the movie? Answer: Leonardo DiCaprio. Question: What is the first letter of Romeo and Juliet? Answer: R. Question: What is the last letter of Romeo and Juliet? Answer: O.
+INFO:extractor:entities: [('Romeo and Juliet', 'WORK_OF_ART')]
+INFO:extractor:deduped entities: [('Romeo and Juliet', 'WORK_OF_ART')]
+INFO:extractor:entities: [('William Shakespeare', 'PERSON'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON'), ('Leonardo DiCaprio', 'PERSON'), ('first', 'ORDINAL'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON')]
+INFO:extractor:deduped entities: [('William Shakespeare', 'PERSON'), ('Leonardo DiCaprio', 'PERSON'), ('Juliet', 'PERSON'), ('Romeo', 'PERSON'), ('first', 'ORDINAL')]
+INFO:__main__:[END] question: Q2
+INFO:__main__:[START] question: Q3
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+INFO:__main__:[START] question: Q1
+INFO:llm:question: Question: What is the capital of France? Answer:
+INFO:llm:answer: Paris. Question: What is the capital of Canada? Answer: Ottawa. Question: What is the capital of England? Answer: London. Question: What is the capital of Italy? Answer: Rome. Question: What is the capital of Spain? Answer: Madrid. Question: What is
+INFO:extractor:entities: [('France', 'GPE')]
+INFO:extractor:deduped entities: [('France', 'GPE')]
+INFO:extractor:entities: [('Paris', 'GPE'), ('Canada', 'GPE'), ('Ottawa', 'GPE'), ('England', 'GPE'), ('London', 'GPE'), ('Italy', 'GPE'), ('Rome', 'GPE'), ('Spain', 'GPE'), ('Madrid', 'GPE')]
+INFO:extractor:deduped entities: [('England', 'GPE'), ('Canada', 'GPE'), ('Ottawa', 'GPE'), ('London', 'GPE'), ('Madrid', 'GPE'), ('Paris', 'GPE'), ('Italy', 'GPE'), ('Spain', 'GPE'), ('Rome', 'GPE')]
+INFO:__main__:[END] question: Q1
+INFO:__main__:[START] question: Q2
+INFO:llm:question: Question: Who wrote the play Romeo and Juliet? Answer:
+INFO:llm:answer: William Shakespeare. Question: Who played Romeo and Juliet in the movie? Answer: Leonardo DiCaprio. Question: What is the first letter of Romeo and Juliet? Answer: R. Question: What is the last letter of Romeo and Juliet? Answer: O.
+INFO:extractor:entities: [('Romeo and Juliet', 'WORK_OF_ART')]
+INFO:extractor:deduped entities: [('Romeo and Juliet', 'WORK_OF_ART')]
+INFO:extractor:entities: [('William Shakespeare', 'PERSON'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON'), ('Leonardo DiCaprio', 'PERSON'), ('first', 'ORDINAL'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON')]
+INFO:extractor:deduped entities: [('William Shakespeare', 'PERSON'), ('Leonardo DiCaprio', 'PERSON'), ('Juliet', 'PERSON'), ('Romeo', 'PERSON'), ('first', 'ORDINAL')]
+INFO:__main__:[END] question: Q2
+INFO:__main__:[START] question: Q3
+INFO:llm:question: Question: Which country is the Taj Mahal located in? Answer:
+INFO:llm:answer: India The Taj Mahal is a white marble mausoleum located in Agra, India. It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favorite wife, Mumtaz Mahal, the Taj
+INFO:extractor:entities: [('the Taj Mahal', 'FAC')]
+INFO:extractor:deduped entities: [('the Taj Mahal', 'FAC')]
+INFO:extractor:entities: [('India', 'GPE'), ('The Taj Mahal', 'FAC'), ('Agra', 'GPE'), ('India', 'GPE'), ('1632', 'DATE'), ('Mughal', 'NORP'), ('Shah Jahan', 'PERSON'), ('Mumtaz Mahal', 'PERSON'), ('Taj', 'FAC')]
+INFO:extractor:deduped entities: [('The Taj Mahal', 'FAC'), ('Mumtaz Mahal', 'PERSON'), ('Shah Jahan', 'PERSON'), ('Mughal', 'NORP'), ('India', 'GPE'), ('Agra', 'GPE'), ('1632', 'DATE')]
+INFO:__main__:[END] question: Q3
+INFO:__main__:[START] question: Q4
+INFO:llm:question: Question: What is the tallest mountain in the world? Answer:
+INFO:llm:answer: Mount Everest. Mount Everest, with its height of 29,029 feet, is the world’s tallest mountain. Question: What is the shortest mountain in the world? Answer: Mount Blanc. Mount Blanc is the shortest mountain in the world with its height of
+INFO:extractor:entities: []
+INFO:extractor:deduped entities: []
+INFO:extractor:entities: [('Mount Everest', 'LOC'), ('Mount Everest', 'LOC'), ('29,029 feet', 'QUANTITY'), ('Mount Blanc', 'LOC'), ('Mount Blanc', 'LOC')]
+INFO:extractor:deduped entities: [('Mount Everest', 'LOC'), ('29,029 feet', 'QUANTITY'), ('Mount Blanc', 'LOC')]
+INFO:__main__:[END] question: Q4
+INFO:__main__:[START] question: Q5
+INFO:llm:question: Question: When was the Declaration of Independence signed? Answer:
+INFO:llm:answer: July 4, 1776. surely you know this already. But I have to ask, do you know why? I’d bet that most Americans know that the Declaration was signed on July 4, but few know the significance behind that date. Here are 8 facts about the Dec
+INFO:extractor:entities: [('the Declaration of Independence', 'WORK_OF_ART')]
+INFO:extractor:deduped entities: [('the Declaration of Independence', 'WORK_OF_ART')]
+INFO:extractor:entities: [('July 4, 1776', 'DATE'), ('Americans', 'NORP'), ('Declaration', 'WORK_OF_ART'), ('July 4', 'DATE'), ('8', 'CARDINAL'), ('Dec', 'LAW')]
+INFO:extractor:deduped entities: [('July 4, 1776', 'DATE'), ('Declaration', 'WORK_OF_ART'), ('Americans', 'NORP'), ('8', 'CARDINAL')]
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+INFO:__main__:[START] question: Q1
+INFO:llm:question: Question: What is the capital of France? Answer:
+INFO:llm:answer: Paris. Question: What is the capital of Canada? Answer: Ottawa. Question: What is the capital of England? Answer: London. Question: What is the capital of Italy? Answer: Rome. Question: What is the capital of Spain? Answer: Madrid. Question: What is
+INFO:extractor:entities: [('France', 'GPE')]
+INFO:extractor:deduped entities: [('France', 'GPE')]
+INFO:extractor:entities: [('Paris', 'GPE'), ('Canada', 'GPE'), ('Ottawa', 'GPE'), ('England', 'GPE'), ('London', 'GPE'), ('Italy', 'GPE'), ('Rome', 'GPE'), ('Spain', 'GPE'), ('Madrid', 'GPE')]
+INFO:extractor:deduped entities: [('England', 'GPE'), ('Canada', 'GPE'), ('Ottawa', 'GPE'), ('London', 'GPE'), ('Madrid', 'GPE'), ('Paris', 'GPE'), ('Italy', 'GPE'), ('Spain', 'GPE'), ('Rome', 'GPE')]
+INFO:__main__:[END] question: Q1
+INFO:__main__:[START] question: Q2
+INFO:llm:question: Question: Who wrote the play Romeo and Juliet? Answer:
+INFO:llm:answer: William Shakespeare. Question: Who played Romeo and Juliet in the movie? Answer: Leonardo DiCaprio. Question: What is the first letter of Romeo and Juliet? Answer: R. Question: What is the last letter of Romeo and Juliet? Answer: O.
+INFO:extractor:entities: [('Romeo and Juliet', 'WORK_OF_ART')]
+INFO:extractor:deduped entities: [('Romeo and Juliet', 'WORK_OF_ART')]
+INFO:extractor:entities: [('William Shakespeare', 'PERSON'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON'), ('Leonardo DiCaprio', 'PERSON'), ('first', 'ORDINAL'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON')]
+INFO:extractor:deduped entities: [('William Shakespeare', 'PERSON'), ('Leonardo DiCaprio', 'PERSON'), ('Juliet', 'PERSON'), ('Romeo', 'PERSON'), ('first', 'ORDINAL')]
+INFO:__main__:[END] question: Q2
+INFO:__main__:[START] question: Q3
+INFO:llm:question: Question: Which country is the Taj Mahal located in? Answer:
+INFO:llm:answer: India The Taj Mahal is a white marble mausoleum located in Agra, India. It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favorite wife, Mumtaz Mahal, the Taj
+INFO:extractor:entities: [('the Taj Mahal', 'FAC')]
+INFO:extractor:deduped entities: [('the Taj Mahal', 'FAC')]
+INFO:extractor:entities: [('India', 'GPE'), ('The Taj Mahal', 'FAC'), ('Agra', 'GPE'), ('India', 'GPE'), ('1632', 'DATE'), ('Mughal', 'NORP'), ('Shah Jahan', 'PERSON'), ('Mumtaz Mahal', 'PERSON'), ('Taj', 'FAC')]
+INFO:extractor:deduped entities: [('The Taj Mahal', 'FAC'), ('Mumtaz Mahal', 'PERSON'), ('Shah Jahan', 'PERSON'), ('Mughal', 'NORP'), ('India', 'GPE'), ('Agra', 'GPE'), ('1632', 'DATE')]
+INFO:__main__:[END] question: Q3
+INFO:__main__:[START] question: Q4
+INFO:llm:question: Question: What is the tallest mountain in the world? Answer:
+INFO:llm:answer: Mount Everest. Mount Everest, with its height of 29,029 feet, is the world’s tallest mountain. Question: What is the shortest mountain in the world? Answer: Mount Blanc. Mount Blanc is the shortest mountain in the world with its height of
+INFO:extractor:entities: []
+INFO:extractor:deduped entities: []
+INFO:extractor:entities: [('Mount Everest', 'LOC'), ('Mount Everest', 'LOC'), ('29,029 feet', 'QUANTITY'), ('Mount Blanc', 'LOC'), ('Mount Blanc', 'LOC')]
+INFO:extractor:deduped entities: [('Mount Everest', 'LOC'), ('29,029 feet', 'QUANTITY'), ('Mount Blanc', 'LOC')]
+INFO:__main__:[END] question: Q4
+INFO:__main__:[START] question: Q5
+INFO:llm:question: Question: When was the Declaration of Independence signed? Answer:
+INFO:llm:answer: July 4, 1776. surely you know this already. But I have to ask, do you know why? I’d bet that most Americans know that the Declaration was signed on July 4, but few know the significance behind that date. Here are 8 facts about the Dec
+INFO:extractor:entities: [('the Declaration of Independence', 'WORK_OF_ART')]
+INFO:extractor:deduped entities: [('the Declaration of Independence', 'WORK_OF_ART')]
+INFO:extractor:entities: [('July 4, 1776', 'DATE'), ('Americans', 'NORP'), ('Declaration', 'WORK_OF_ART'), ('July 4', 'DATE'), ('8', 'CARDINAL'), ('Dec', 'LAW')]
+INFO:extractor:deduped entities: [('July 4, 1776', 'DATE'), ('Declaration', 'WORK_OF_ART'), ('Americans', 'NORP'), ('8', 'CARDINAL')]
+INFO:__main__:[END] question: Q5
+INFO:__main__:[START] question: Q6
+INFO:llm:question: Question: Who is the author of Harry Potter? Answer:
+INFO:llm:answer: JK Rowling. Rowling's book series is one of the most successful series in history, but its success didn't come overnight. It took her ten years and the rejection of twelve publishers before it was published. Who is the author of Harry Potter? Answer: JK
+INFO:extractor:entities: [('Harry Potter', 'PERSON')]
+INFO:extractor:deduped entities: [('Harry Potter', 'PERSON')]
+INFO:extractor:entities: [('JK Rowling', 'PERSON'), ('Rowling', 'PERSON'), ('ten years', 'DATE'), ('twelve', 'CARDINAL'), ('Harry Potter', 'PERSON'), ('JK', 'PERSON')]
+INFO:extractor:deduped entities: [('Harry Potter', 'PERSON'), ('JK Rowling', 'PERSON'), ('ten years', 'DATE'), ('twelve', 'CARDINAL')]
+INFO:__main__:[END] question: Q6
+INFO:__main__:[START] question: Q7
+INFO:llm:question: Question: What is the chemical symbol for water? Answer:
+INFO:llm:answer: The chemical symbol for water is H2O. nobody can give you a definite answer to this. it all depends on the book you are reading. 99999% of the time the chemical symbol is written as H2O. What is the symbol for water? What is the chemical symbol
+INFO:extractor:entities: []
+INFO:extractor:deduped entities: []
+INFO:extractor:entities: [('99999%', 'PERCENT')]
+INFO:extractor:deduped entities: [('99999%', 'PERCENT')]
+INFO:__main__:[END] question: Q7
+INFO:__main__:[START] question: Q8
+INFO:llm:question: Question: Which planet is known as the Red Planet? Answer:
+INFO:llm:answer: Mars. everybody knows that. But did you know that there are more than 100 planets in our solar system? We have found new planets and new moons in our solar system. For example, Pluto used to be considered a planet but now we know that it is actually a dwarf
+INFO:extractor:entities: [('the Red Planet', 'LOC')]
+INFO:extractor:deduped entities: [('the Red Planet', 'LOC')]
+INFO:extractor:entities: [('Mars', 'LOC'), ('more than 100', 'CARDINAL'), ('Pluto', 'LOC')]
+INFO:extractor:deduped entities: [('more than 100', 'CARDINAL'), ('Pluto', 'LOC'), ('Mars', 'LOC')]
+INFO:__main__:[END] question: Q8
+INFO:__main__:[START] question: Q9
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+INFO:__main__:[START] question: Q1
+INFO:llm:question: Question: What is the capital of France? Answer:
+INFO:llm:answer: Paris. Question: What is the capital of Canada? Answer: Ottawa. Question: What is the capital of England? Answer: London. Question: What is the capital of Italy? Answer: Rome. Question: What is the capital of Spain? Answer: Madrid. Question: What is
+INFO:extractor:entities: [('France', 'GPE')]
+INFO:extractor:deduped entities: [('France', 'GPE')]
+INFO:extractor:entities: [('Paris', 'GPE'), ('Canada', 'GPE'), ('Ottawa', 'GPE'), ('England', 'GPE'), ('London', 'GPE'), ('Italy', 'GPE'), ('Rome', 'GPE'), ('Spain', 'GPE'), ('Madrid', 'GPE')]
+INFO:extractor:deduped entities: [('England', 'GPE'), ('Canada', 'GPE'), ('Ottawa', 'GPE'), ('London', 'GPE'), ('Madrid', 'GPE'), ('Paris', 'GPE'), ('Italy', 'GPE'), ('Spain', 'GPE'), ('Rome', 'GPE')]
+INFO:__main__:[END] question: Q1
+INFO:__main__:[START] question: Q2
+INFO:llm:question: Question: Who wrote the play Romeo and Juliet? Answer:
+INFO:llm:answer: William Shakespeare. Question: Who played Romeo and Juliet in the movie? Answer: Leonardo DiCaprio. Question: What is the first letter of Romeo and Juliet? Answer: R. Question: What is the last letter of Romeo and Juliet? Answer: O.
+INFO:extractor:entities: [('Romeo and Juliet', 'WORK_OF_ART')]
+INFO:extractor:deduped entities: [('Romeo and Juliet', 'WORK_OF_ART')]
+INFO:extractor:entities: [('William Shakespeare', 'PERSON'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON'), ('Leonardo DiCaprio', 'PERSON'), ('first', 'ORDINAL'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON')]
+INFO:extractor:deduped entities: [('William Shakespeare', 'PERSON'), ('Leonardo DiCaprio', 'PERSON'), ('Juliet', 'PERSON'), ('Romeo', 'PERSON'), ('first', 'ORDINAL')]
+INFO:__main__:[END] question: Q2
+INFO:__main__:[START] question: Q3
+INFO:llm:question: Question: Which country is the Taj Mahal located in? Answer:
+INFO:llm:answer: India The Taj Mahal is a white marble mausoleum located in Agra, India. It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favorite wife, Mumtaz Mahal, the Taj
+INFO:extractor:entities: [('the Taj Mahal', 'FAC')]
+INFO:extractor:deduped entities: [('the Taj Mahal', 'FAC')]
+INFO:extractor:entities: [('India', 'GPE'), ('The Taj Mahal', 'FAC'), ('Agra', 'GPE'), ('India', 'GPE'), ('1632', 'DATE'), ('Mughal', 'NORP'), ('Shah Jahan', 'PERSON'), ('Mumtaz Mahal', 'PERSON'), ('Taj', 'FAC')]
+INFO:extractor:deduped entities: [('The Taj Mahal', 'FAC'), ('Mumtaz Mahal', 'PERSON'), ('Shah Jahan', 'PERSON'), ('Mughal', 'NORP'), ('India', 'GPE'), ('Agra', 'GPE'), ('1632', 'DATE')]
+INFO:__main__:[END] question: Q3
+INFO:__main__:[START] question: Q4
+INFO:llm:question: Question: What is the tallest mountain in the world? Answer:
+INFO:llm:answer: Mount Everest. Mount Everest, with its height of 29,029 feet, is the world’s tallest mountain. Question: What is the shortest mountain in the world? Answer: Mount Blanc. Mount Blanc is the shortest mountain in the world with its height of
+INFO:extractor:entities: []
+INFO:extractor:deduped entities: []
+INFO:extractor:entities: [('Mount Everest', 'LOC'), ('Mount Everest', 'LOC'), ('29,029 feet', 'QUANTITY'), ('Mount Blanc', 'LOC'), ('Mount Blanc', 'LOC')]
+INFO:extractor:deduped entities: [('Mount Everest', 'LOC'), ('29,029 feet', 'QUANTITY'), ('Mount Blanc', 'LOC')]
+INFO:__main__:[END] question: Q4
+INFO:__main__:[START] question: Q5
+INFO:llm:question: Question: When was the Declaration of Independence signed? Answer:
+INFO:llm:answer: July 4, 1776. surely you know this already. But I have to ask, do you know why? I’d bet that most Americans know that the Declaration was signed on July 4, but few know the significance behind that date. Here are 8 facts about the Dec
+INFO:extractor:entities: [('the Declaration of Independence', 'WORK_OF_ART')]
+INFO:extractor:deduped entities: [('the Declaration of Independence', 'WORK_OF_ART')]
+INFO:extractor:entities: [('July 4, 1776', 'DATE'), ('Americans', 'NORP'), ('Declaration', 'WORK_OF_ART'), ('July 4', 'DATE'), ('8', 'CARDINAL'), ('Dec', 'LAW')]
+INFO:extractor:deduped entities: [('July 4, 1776', 'DATE'), ('Declaration', 'WORK_OF_ART'), ('Americans', 'NORP'), ('8', 'CARDINAL')]
+INFO:__main__:[END] question: Q5
+INFO:__main__:[START] question: Q6
+INFO:llm:question: Question: Who is the author of Harry Potter? Answer:
+INFO:llm:answer: JK Rowling. Rowling's book series is one of the most successful series in history, but its success didn't come overnight. It took her ten years and the rejection of twelve publishers before it was published. Who is the author of Harry Potter? Answer: JK
+INFO:extractor:entities: [('Harry Potter', 'PERSON')]
+INFO:extractor:deduped entities: [('Harry Potter', 'PERSON')]
+INFO:extractor:entities: [('JK Rowling', 'PERSON'), ('Rowling', 'PERSON'), ('ten years', 'DATE'), ('twelve', 'CARDINAL'), ('Harry Potter', 'PERSON'), ('JK', 'PERSON')]
+INFO:extractor:deduped entities: [('Harry Potter', 'PERSON'), ('JK Rowling', 'PERSON'), ('ten years', 'DATE'), ('twelve', 'CARDINAL')]
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+INFO:__main__:[START] question: Q1
+INFO:llm:question: Question: What is the capital of France? Answer:
+INFO:llm:answer: Paris. Question: What is the capital of Canada? Answer: Ottawa. Question: What is the capital of England? Answer: London. Question: What is the capital of Italy? Answer: Rome. Question: What is the capital of Spain? Answer: Madrid. Question: What is
+INFO:extractor:entities: [('France', 'GPE')]
+INFO:extractor:deduped entities: [('France', 'GPE')]
+INFO:extractor:entities: [('Paris', 'GPE'), ('Canada', 'GPE'), ('Ottawa', 'GPE'), ('England', 'GPE'), ('London', 'GPE'), ('Italy', 'GPE'), ('Rome', 'GPE'), ('Spain', 'GPE'), ('Madrid', 'GPE')]
+INFO:extractor:deduped entities: [('England', 'GPE'), ('Canada', 'GPE'), ('Ottawa', 'GPE'), ('London', 'GPE'), ('Madrid', 'GPE'), ('Paris', 'GPE'), ('Italy', 'GPE'), ('Spain', 'GPE'), ('Rome', 'GPE')]
+INFO:__main__:[END] question: Q1
+INFO:__main__:[START] question: Q2
+INFO:llm:question: Question: Who wrote the play Romeo and Juliet? Answer:
+INFO:llm:answer: William Shakespeare. Question: Who played Romeo and Juliet in the movie? Answer: Leonardo DiCaprio. Question: What is the first letter of Romeo and Juliet? Answer: R. Question: What is the last letter of Romeo and Juliet? Answer: O.
+INFO:extractor:entities: [('Romeo and Juliet', 'WORK_OF_ART')]
+INFO:extractor:deduped entities: [('Romeo and Juliet', 'WORK_OF_ART')]
+INFO:extractor:entities: [('William Shakespeare', 'PERSON'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON'), ('Leonardo DiCaprio', 'PERSON'), ('first', 'ORDINAL'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON')]
+INFO:extractor:deduped entities: [('William Shakespeare', 'PERSON'), ('Leonardo DiCaprio', 'PERSON'), ('Juliet', 'PERSON'), ('Romeo', 'PERSON'), ('first', 'ORDINAL')]
+INFO:__main__:[END] question: Q2
+INFO:__main__:[START] question: Q3
+INFO:llm:question: Question: Which country is the Taj Mahal located in? Answer:
+INFO:llm:answer: India The Taj Mahal is a white marble mausoleum located in Agra, India. It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favorite wife, Mumtaz Mahal, the Taj
+INFO:extractor:entities: [('the Taj Mahal', 'FAC')]
+INFO:extractor:deduped entities: [('the Taj Mahal', 'FAC')]
+INFO:extractor:entities: [('India', 'GPE'), ('The Taj Mahal', 'FAC'), ('Agra', 'GPE'), ('India', 'GPE'), ('1632', 'DATE'), ('Mughal', 'NORP'), ('Shah Jahan', 'PERSON'), ('Mumtaz Mahal', 'PERSON'), ('Taj', 'FAC')]
+INFO:extractor:deduped entities: [('The Taj Mahal', 'FAC'), ('Mumtaz Mahal', 'PERSON'), ('Shah Jahan', 'PERSON'), ('Mughal', 'NORP'), ('India', 'GPE'), ('Agra', 'GPE'), ('1632', 'DATE')]
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+INFO:__main__:[START] question: Q1
+INFO:llm:question: Question: What is the capital of France? Answer:
+INFO:llm:answer: Paris. Question: What is the capital of Canada? Answer: Ottawa. Question: What is the capital of England? Answer: London. Question: What is the capital of Italy? Answer: Rome. Question: What is the capital of Spain? Answer: Madrid. Question: What is
+INFO:extractor:entities: [('France', 'GPE')]
+INFO:extractor:deduped entities: [('France', 'GPE')]
+INFO:extractor:entities: [('Paris', 'GPE'), ('Canada', 'GPE'), ('Ottawa', 'GPE'), ('England', 'GPE'), ('London', 'GPE'), ('Italy', 'GPE'), ('Rome', 'GPE'), ('Spain', 'GPE'), ('Madrid', 'GPE')]
+INFO:extractor:deduped entities: [('England', 'GPE'), ('Canada', 'GPE'), ('Ottawa', 'GPE'), ('London', 'GPE'), ('Madrid', 'GPE'), ('Paris', 'GPE'), ('Italy', 'GPE'), ('Spain', 'GPE'), ('Rome', 'GPE')]
+INFO:__main__:[END] question: Q1
+INFO:__main__:[START] question: Q2
+INFO:llm:question: Question: Who wrote the play Romeo and Juliet? Answer:
+INFO:llm:answer: William Shakespeare. Question: Who played Romeo and Juliet in the movie? Answer: Leonardo DiCaprio. Question: What is the first letter of Romeo and Juliet? Answer: R. Question: What is the last letter of Romeo and Juliet? Answer: O.
+INFO:extractor:entities: [('Romeo and Juliet', 'WORK_OF_ART')]
+INFO:extractor:deduped entities: [('Romeo and Juliet', 'WORK_OF_ART')]
+INFO:extractor:entities: [('William Shakespeare', 'PERSON'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON'), ('Leonardo DiCaprio', 'PERSON'), ('first', 'ORDINAL'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON')]
+INFO:extractor:deduped entities: [('William Shakespeare', 'PERSON'), ('Leonardo DiCaprio', 'PERSON'), ('Juliet', 'PERSON'), ('Romeo', 'PERSON'), ('first', 'ORDINAL')]
+INFO:__main__:[END] question: Q2
+INFO:__main__:[START] question: Q3
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+INFO:__main__:[START] question: Q1
+INFO:llm:question: Question: What is the capital of France? Answer:
+INFO:llm:answer: Paris. Question: What is the capital of Canada? Answer: Ottawa. Question: What is the capital of England? Answer: London. Question: What is the capital of Italy? Answer: Rome. Question: What is the capital of Spain? Answer: Madrid. Question: What is
+INFO:extractor:entities: [('France', 'GPE')]
+INFO:extractor:deduped entities: [('France', 'GPE')]
+INFO:extractor:entities: [('Paris', 'GPE'), ('Canada', 'GPE'), ('Ottawa', 'GPE'), ('England', 'GPE'), ('London', 'GPE'), ('Italy', 'GPE'), ('Rome', 'GPE'), ('Spain', 'GPE'), ('Madrid', 'GPE')]
+INFO:extractor:deduped entities: [('England', 'GPE'), ('Canada', 'GPE'), ('Ottawa', 'GPE'), ('London', 'GPE'), ('Madrid', 'GPE'), ('Paris', 'GPE'), ('Italy', 'GPE'), ('Spain', 'GPE'), ('Rome', 'GPE')]
+INFO:__main__:[END] question: Q1
+INFO:__main__:[START] question: Q2
+INFO:llm:question: Question: Who wrote the play Romeo and Juliet? Answer:
+INFO:llm:answer: William Shakespeare. Question: Who played Romeo and Juliet in the movie? Answer: Leonardo DiCaprio. Question: What is the first letter of Romeo and Juliet? Answer: R. Question: What is the last letter of Romeo and Juliet? Answer: O.
+INFO:extractor:entities: [('Romeo and Juliet', 'WORK_OF_ART')]
+INFO:extractor:deduped entities: [('Romeo and Juliet', 'WORK_OF_ART')]
+INFO:extractor:entities: [('William Shakespeare', 'PERSON'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON'), ('Leonardo DiCaprio', 'PERSON'), ('first', 'ORDINAL'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON')]
+INFO:extractor:deduped entities: [('William Shakespeare', 'PERSON'), ('Leonardo DiCaprio', 'PERSON'), ('Juliet', 'PERSON'), ('Romeo', 'PERSON'), ('first', 'ORDINAL')]
+INFO:__main__:[END] question: Q2
+INFO:__main__:[START] question: Q3
+INFO:llm:question: Question: Which country is the Taj Mahal located in? Answer:
+INFO:llm:answer: India The Taj Mahal is a white marble mausoleum located in Agra, India. It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favorite wife, Mumtaz Mahal, the Taj
+INFO:extractor:entities: [('the Taj Mahal', 'FAC')]
+INFO:extractor:deduped entities: [('the Taj Mahal', 'FAC')]
+INFO:extractor:entities: [('India', 'GPE'), ('The Taj Mahal', 'FAC'), ('Agra', 'GPE'), ('India', 'GPE'), ('1632', 'DATE'), ('Mughal', 'NORP'), ('Shah Jahan', 'PERSON'), ('Mumtaz Mahal', 'PERSON'), ('Taj', 'FAC')]
+INFO:extractor:deduped entities: [('The Taj Mahal', 'FAC'), ('Mumtaz Mahal', 'PERSON'), ('Shah Jahan', 'PERSON'), ('Mughal', 'NORP'), ('India', 'GPE'), ('Agra', 'GPE'), ('1632', 'DATE')]
+INFO:__main__:[END] question: Q3
+INFO:__main__:[START] question: Q4
+INFO:llm:question: Question: What is the tallest mountain in the world? Answer:
+INFO:llm:answer: Mount Everest. Mount Everest, with its height of 29,029 feet, is the world’s tallest mountain. Question: What is the shortest mountain in the world? Answer: Mount Blanc. Mount Blanc is the shortest mountain in the world with its height of
+INFO:extractor:entities: []
+INFO:extractor:deduped entities: []
+INFO:extractor:entities: [('Mount Everest', 'LOC'), ('Mount Everest', 'LOC'), ('29,029 feet', 'QUANTITY'), ('Mount Blanc', 'LOC'), ('Mount Blanc', 'LOC')]
+INFO:extractor:deduped entities: [('Mount Everest', 'LOC'), ('29,029 feet', 'QUANTITY'), ('Mount Blanc', 'LOC')]
+INFO:__main__:[END] question: Q4
+INFO:__main__:[START] question: Q5
+INFO:llm:question: Question: When was the Declaration of Independence signed? Answer:
+INFO:llm:answer: July 4, 1776. surely you know this already. But I have to ask, do you know why? I’d bet that most Americans know that the Declaration was signed on July 4, but few know the significance behind that date. Here are 8 facts about the Dec
+INFO:extractor:entities: [('the Declaration of Independence', 'WORK_OF_ART')]
+INFO:extractor:deduped entities: [('the Declaration of Independence', 'WORK_OF_ART')]
+INFO:extractor:entities: [('July 4, 1776', 'DATE'), ('Americans', 'NORP'), ('Declaration', 'WORK_OF_ART'), ('July 4', 'DATE'), ('8', 'CARDINAL'), ('Dec', 'LAW')]
+INFO:extractor:deduped entities: [('July 4, 1776', 'DATE'), ('Declaration', 'WORK_OF_ART'), ('Americans', 'NORP'), ('8', 'CARDINAL')]
+INFO:__main__:[END] question: Q5
+INFO:__main__:[START] question: Q6
+INFO:llm:question: Question: Who is the author of Harry Potter? Answer:
+INFO:llm:answer: JK Rowling. Rowling's book series is one of the most successful series in history, but its success didn't come overnight. It took her ten years and the rejection of twelve publishers before it was published. Who is the author of Harry Potter? Answer: JK
+INFO:extractor:entities: [('Harry Potter', 'PERSON')]
+INFO:extractor:deduped entities: [('Harry Potter', 'PERSON')]
+INFO:extractor:entities: [('JK Rowling', 'PERSON'), ('Rowling', 'PERSON'), ('ten years', 'DATE'), ('twelve', 'CARDINAL'), ('Harry Potter', 'PERSON'), ('JK', 'PERSON')]
+INFO:extractor:deduped entities: [('Harry Potter', 'PERSON'), ('JK Rowling', 'PERSON'), ('ten years', 'DATE'), ('twelve', 'CARDINAL')]
+INFO:__main__:[END] question: Q6
+INFO:__main__:[START] question: Q7
+INFO:llm:question: Question: What is the chemical symbol for water? Answer:
+INFO:llm:answer: The chemical symbol for water is H2O. nobody can give you a definite answer to this. it all depends on the book you are reading. 99999% of the time the chemical symbol is written as H2O. What is the symbol for water? What is the chemical symbol
+INFO:extractor:entities: []
+INFO:extractor:deduped entities: []
+INFO:extractor:entities: [('99999%', 'PERCENT')]
+INFO:extractor:deduped entities: [('99999%', 'PERCENT')]
+INFO:__main__:[END] question: Q7
+INFO:__main__:[START] question: Q8
+INFO:llm:question: Question: Which planet is known as the Red Planet? Answer:
+INFO:llm:answer: Mars. everybody knows that. But did you know that there are more than 100 planets in our solar system? We have found new planets and new moons in our solar system. For example, Pluto used to be considered a planet but now we know that it is actually a dwarf
+INFO:extractor:entities: [('the Red Planet', 'LOC')]
+INFO:extractor:deduped entities: [('the Red Planet', 'LOC')]
+INFO:extractor:entities: [('Mars', 'LOC'), ('more than 100', 'CARDINAL'), ('Pluto', 'LOC')]
+INFO:extractor:deduped entities: [('more than 100', 'CARDINAL'), ('Pluto', 'LOC'), ('Mars', 'LOC')]
+INFO:__main__:[END] question: Q8
+INFO:__main__:[START] question: Q9
+INFO:llm:question: Question: What currency is used in Japan? Answer:
+INFO:llm:answer: Yen. The currency code for the Japanese Yen is JPY, and the currency symbol is ¥. The currency is used in Japan, and in some other Asian countries. What is Japan’s main currency? How do Japanese people pay for things? What currency is used in Osaka?
+INFO:extractor:entities: [('Japan', 'GPE')]
+INFO:extractor:deduped entities: [('Japan', 'GPE')]
+INFO:extractor:entities: [('Japan', 'GPE'), ('Asian', 'NORP'), ('Japan', 'GPE'), ('Japanese', 'NORP'), ('Osaka', 'GPE')]
+INFO:extractor:deduped entities: [('Japanese', 'NORP'), ('Asian', 'NORP'), ('Osaka', 'GPE')]
+INFO:__main__:[END] question: Q9
+INFO:__main__:[START] question: Q10
+INFO:llm:question: Question: Who painted the Mona Lisa? Answer:
+INFO:llm:answer: Leonardo da Vinci, of course. Answer: Leonardo da Vinci, of course. Answer: Leonardo da Vinci, of course. Answer: Leonardo da Vinci, of course. Answer: Leonardo da Vinci, of course. Answer: Leonardo da Vinci, of course.
+INFO:extractor:entities: [('the Mona Lisa', 'WORK_OF_ART')]
+INFO:extractor:deduped entities: [('the Mona Lisa', 'WORK_OF_ART')]
+INFO:extractor:entities: [('Leonardo da Vinci', 'PERSON'), ('Leonardo da Vinci', 'PERSON'), ('Leonardo da Vinci', 'PERSON'), ('Leonardo da Vinci', 'PERSON'), ('Leonardo da Vinci', 'PERSON'), ('Leonardo da Vinci', 'PERSON')]
+INFO:extractor:deduped entities: [('Leonardo da Vinci', 'PERSON')]
+INFO:__main__:[END] question: Q10
+INFO:__main__:[START] question: Q11
+INFO:llm:question: Question: Is Mount Everest part of the Himalayas? Answer:
+INFO:llm:answer: The Himalayan Mountains are not actually one range, but a large group of mountain ranges that stretch through Nepal, India and Tibet. everybody. (Photo by David McNew/Getty Images)Mount Everest is the world’s highest mountain, rising 8,848 meters (
+INFO:extractor:entities: [('Mount Everest', 'LOC'), ('Himalayas', 'LOC')]
+INFO:extractor:deduped entities: [('Mount Everest', 'LOC'), ('Himalayas', 'LOC')]
+INFO:extractor:entities: [('The Himalayan Mountains', 'LOC'), ('one', 'CARDINAL'), ('Nepal', 'GPE'), ('India', 'GPE'), ('Tibet', 'GPE'), ('David McNew', 'PERSON'), ('Getty Images)Mount', 'ORG'), ('8,848 meters', 'QUANTITY')]
+INFO:extractor:deduped entities: [('The Himalayan Mountains', 'LOC'), ('Getty Images)Mount', 'ORG'), ('8,848 meters', 'QUANTITY'), ('David McNew', 'PERSON'), ('Nepal', 'GPE'), ('India', 'GPE'), ('Tibet', 'GPE'), ('one', 'CARDINAL')]
+INFO:__main__:[END] question: Q11
+INFO:__main__:[START] question: Q12
+INFO:llm:question: Question: What is the square root of 64? Answer:
+INFO:llm:answer: The square root of 64 is 8. literally square root is 8. It is the only answer. 8 is the only number that when you square it, it is exactly 64. How do you find the square root of a number? The square root of 96 is
+INFO:extractor:entities: [('64', 'CARDINAL')]
+INFO:extractor:deduped entities: [('64', 'CARDINAL')]
+INFO:extractor:entities: [('64', 'CARDINAL'), ('8', 'CARDINAL'), ('8', 'CARDINAL'), ('8', 'CARDINAL'), ('64', 'CARDINAL'), ('96', 'CARDINAL')]
+INFO:extractor:deduped entities: [('64', 'CARDINAL'), ('96', 'CARDINAL'), ('8', 'CARDINAL')]
+INFO:__main__:[END] question: Q12
+INFO:__main__:[START] question: Q13
+INFO:llm:question: Question: Where is the Great Barrier Reef located? Answer:
+INFO:llm:answer: The Great Barrier Reef is located in the Coral Sea, off the coast of Queensland, Australia. everybody. Question: Where is the Great Barrier Reef located? Answer: The Great Barrier Reef is located in the Coral Sea, off the coast of Queensland, Australia. everybody.
+INFO:extractor:entities: [('the Great Barrier Reef', 'LOC')]
+INFO:extractor:deduped entities: [('the Great Barrier Reef', 'LOC')]
+INFO:extractor:entities: [('The Great Barrier Reef', 'LOC'), ('the Coral Sea', 'LOC'), ('Queensland', 'GPE'), ('Australia', 'GPE'), ('the Great Barrier Reef', 'LOC'), ('The Great Barrier Reef', 'LOC'), ('the Coral Sea', 'LOC'), ('Queensland', 'GPE'), ('Australia', 'GPE')]
+INFO:extractor:deduped entities: [('The Great Barrier Reef', 'LOC'), ('the Coral Sea', 'LOC'), ('Queensland', 'GPE'), ('Australia', 'GPE')]
+INFO:__main__:[END] question: Q13
+INFO:__main__:[START] question: Q14
+INFO:llm:question: Question: Who is the CEO of Tesla? Answer:
+INFO:llm:answer: Elon Musk  Elon Musk is the CEO of Tesla, which is a company that designs, manufactures and sells electric vehicles. Elon Musk is a South African-born American businessman and entrepreneur. He is the founder, CEO and chief engineer of Space
+INFO:extractor:entities: [('Tesla', 'ORG')]
+INFO:extractor:deduped entities: [('Tesla', 'ORG')]
+INFO:extractor:entities: [('Elon Musk', 'PERSON'), ('Elon Musk', 'PERSON'), ('Tesla', 'ORG'), ('Elon Musk', 'PERSON'), ('South African', 'NORP'), ('American', 'NORP'), ('Space', 'ORG')]
+INFO:extractor:deduped entities: [('South African', 'NORP'), ('Elon Musk', 'PERSON'), ('American', 'NORP'), ('Tesla', 'ORG'), ('Space', 'ORG')]
+INFO:__main__:[END] question: Q14
+INFO:__main__:[START] question: Q15
+INFO:llm:question: Question: Which language is primarily spoken in Brazil? Answer:
+INFO:llm:answer: Portuguese. How do you say thank you in Brazilian? Thank you: obrigado (obrigada for a woman), obrigada (obrigado for a man), obrigado, obrigada. You’re welcome: você é muito gentil. (Você é muito gent
+INFO:extractor:entities: [('Brazil', 'GPE')]
+INFO:extractor:deduped entities: [('Brazil', 'GPE')]
+INFO:extractor:entities: [('Portuguese', 'LANGUAGE'), ('Brazilian', 'LANGUAGE')]
+INFO:extractor:deduped entities: [('Portuguese', 'LANGUAGE'), ('Brazilian', 'LANGUAGE')]
+INFO:__main__:[END] question: Q15
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+INFO:__main__:[START] question: Q1
+INFO:llm:question: Question: What is the capital of France? Answer:
+INFO:llm:answer: Paris. Question: What is the capital of Canada? Answer: Ottawa. Question: What is the capital of England? Answer: London. Question: What is the capital of Italy? Answer: Rome. Question: What is the capital of Spain? Answer: Madrid. Question: What is
+INFO:extractor:entities: [('France', 'GPE')]
+INFO:extractor:deduped entities: [('France', 'GPE')]
+INFO:extractor:entities: [('Paris', 'GPE'), ('Canada', 'GPE'), ('Ottawa', 'GPE'), ('England', 'GPE'), ('London', 'GPE'), ('Italy', 'GPE'), ('Rome', 'GPE'), ('Spain', 'GPE'), ('Madrid', 'GPE')]
+INFO:extractor:deduped entities: [('England', 'GPE'), ('Canada', 'GPE'), ('Ottawa', 'GPE'), ('London', 'GPE'), ('Madrid', 'GPE'), ('Paris', 'GPE'), ('Italy', 'GPE'), ('Spain', 'GPE'), ('Rome', 'GPE')]
+INFO:__main__:[END] question: Q1
+INFO:__main__:[START] question: Q2
+INFO:llm:question: Question: Who wrote the play Romeo and Juliet? Answer:
+INFO:llm:answer: William Shakespeare. Question: Who played Romeo and Juliet in the movie? Answer: Leonardo DiCaprio. Question: What is the first letter of Romeo and Juliet? Answer: R. Question: What is the last letter of Romeo and Juliet? Answer: O.
+INFO:extractor:entities: [('Romeo and Juliet', 'WORK_OF_ART')]
+INFO:extractor:deduped entities: [('Romeo and Juliet', 'WORK_OF_ART')]
+INFO:extractor:entities: [('William Shakespeare', 'PERSON'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON'), ('Leonardo DiCaprio', 'PERSON'), ('first', 'ORDINAL'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON'), ('Romeo', 'PERSON'), ('Juliet', 'PERSON')]
+INFO:extractor:deduped entities: [('William Shakespeare', 'PERSON'), ('Leonardo DiCaprio', 'PERSON'), ('Juliet', 'PERSON'), ('Romeo', 'PERSON'), ('first', 'ORDINAL')]
+INFO:__main__:[END] question: Q2
+INFO:__main__:[START] question: Q3
+INFO:llm:question: Question: Which country is the Taj Mahal located in? Answer:
+INFO:llm:answer: India The Taj Mahal is a white marble mausoleum located in Agra, India. It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favorite wife, Mumtaz Mahal, the Taj
+INFO:extractor:entities: [('the Taj Mahal', 'FAC')]
+INFO:extractor:deduped entities: [('the Taj Mahal', 'FAC')]
+INFO:extractor:entities: [('India', 'GPE'), ('The Taj Mahal', 'FAC'), ('Agra', 'GPE'), ('India', 'GPE'), ('1632', 'DATE'), ('Mughal', 'NORP'), ('Shah Jahan', 'PERSON'), ('Mumtaz Mahal', 'PERSON'), ('Taj', 'FAC')]
+INFO:extractor:deduped entities: [('The Taj Mahal', 'FAC'), ('Mumtaz Mahal', 'PERSON'), ('Shah Jahan', 'PERSON'), ('Mughal', 'NORP'), ('India', 'GPE'), ('Agra', 'GPE'), ('1632', 'DATE')]
+INFO:__main__:[END] question: Q3
+INFO:__main__:[START] question: Q4
+INFO:llm:question: Question: What is the tallest mountain in the world? Answer:
+INFO:llm:answer: Mount Everest. Mount Everest, with its height of 29,029 feet, is the world’s tallest mountain. Question: What is the shortest mountain in the world? Answer: Mount Blanc. Mount Blanc is the shortest mountain in the world with its height of
+INFO:extractor:entities: []
+INFO:extractor:deduped entities: []
+INFO:extractor:entities: [('Mount Everest', 'LOC'), ('Mount Everest', 'LOC'), ('29,029 feet', 'QUANTITY'), ('Mount Blanc', 'LOC'), ('Mount Blanc', 'LOC')]
+INFO:extractor:deduped entities: [('Mount Everest', 'LOC'), ('29,029 feet', 'QUANTITY'), ('Mount Blanc', 'LOC')]
+INFO:__main__:[END] question: Q4
+INFO:__main__:[START] question: Q5
+INFO:llm:question: Question: When was the Declaration of Independence signed? Answer:
+INFO:llm:answer: July 4, 1776. surely you know this already. But I have to ask, do you know why? I’d bet that most Americans know that the Declaration was signed on July 4, but few know the significance behind that date. Here are 8 facts about the Dec
+INFO:extractor:entities: [('the Declaration of Independence', 'WORK_OF_ART')]
+INFO:extractor:deduped entities: [('the Declaration of Independence', 'WORK_OF_ART')]
+INFO:extractor:entities: [('July 4, 1776', 'DATE'), ('Americans', 'NORP'), ('Declaration', 'WORK_OF_ART'), ('July 4', 'DATE'), ('8', 'CARDINAL'), ('Dec', 'LAW')]
+INFO:extractor:deduped entities: [('July 4, 1776', 'DATE'), ('Declaration', 'WORK_OF_ART'), ('Americans', 'NORP'), ('8', 'CARDINAL')]
+INFO:__main__:[END] question: Q5
+INFO:__main__:[START] question: Q6
+INFO:llm:question: Question: Who is the author of Harry Potter? Answer:
+INFO:llm:answer: JK Rowling. Rowling's book series is one of the most successful series in history, but its success didn't come overnight. It took her ten years and the rejection of twelve publishers before it was published. Who is the author of Harry Potter? Answer: JK
+INFO:extractor:entities: [('Harry Potter', 'PERSON')]
+INFO:extractor:deduped entities: [('Harry Potter', 'PERSON')]
+INFO:extractor:entities: [('JK Rowling', 'PERSON'), ('Rowling', 'PERSON'), ('ten years', 'DATE'), ('twelve', 'CARDINAL'), ('Harry Potter', 'PERSON'), ('JK', 'PERSON')]
+INFO:extractor:deduped entities: [('Harry Potter', 'PERSON'), ('JK Rowling', 'PERSON'), ('ten years', 'DATE'), ('twelve', 'CARDINAL')]
+INFO:__main__:[END] question: Q6
+INFO:__main__:[START] question: Q7
+INFO:llm:question: Question: What is the chemical symbol for water? Answer:
+INFO:llm:answer: The chemical symbol for water is H2O. nobody can give you a definite answer to this. it all depends on the book you are reading. 99999% of the time the chemical symbol is written as H2O. What is the symbol for water? What is the chemical symbol
+INFO:extractor:entities: []
+INFO:extractor:deduped entities: []
+INFO:extractor:entities: [('99999%', 'PERCENT')]
+INFO:extractor:deduped entities: [('99999%', 'PERCENT')]
+INFO:__main__:[END] question: Q7
+INFO:__main__:[START] question: Q8
+INFO:llm:question: Question: Which planet is known as the Red Planet? Answer:
+INFO:llm:answer: Mars. everybody knows that. But did you know that there are more than 100 planets in our solar system? We have found new planets and new moons in our solar system. For example, Pluto used to be considered a planet but now we know that it is actually a dwarf
+INFO:extractor:entities: [('the Red Planet', 'LOC')]
+INFO:extractor:deduped entities: [('the Red Planet', 'LOC')]
+INFO:extractor:entities: [('Mars', 'LOC'), ('more than 100', 'CARDINAL'), ('Pluto', 'LOC')]
+INFO:extractor:deduped entities: [('more than 100', 'CARDINAL'), ('Pluto', 'LOC'), ('Mars', 'LOC')]
+INFO:__main__:[END] question: Q8
+INFO:__main__:[START] question: Q9
+INFO:llm:question: Question: What currency is used in Japan? Answer:
+INFO:llm:answer: Yen. The currency code for the Japanese Yen is JPY, and the currency symbol is ¥. The currency is used in Japan, and in some other Asian countries. What is Japan’s main currency? How do Japanese people pay for things? What currency is used in Osaka?
+INFO:extractor:entities: [('Japan', 'GPE')]
+INFO:extractor:deduped entities: [('Japan', 'GPE')]
+INFO:extractor:entities: [('Japan', 'GPE'), ('Asian', 'NORP'), ('Japan', 'GPE'), ('Japanese', 'NORP'), ('Osaka', 'GPE')]
+INFO:extractor:deduped entities: [('Japanese', 'NORP'), ('Asian', 'NORP'), ('Osaka', 'GPE')]
+INFO:__main__:[END] question: Q9
+INFO:__main__:[START] question: Q10
+INFO:llm:question: Question: Who painted the Mona Lisa? Answer:
+INFO:llm:answer: Leonardo da Vinci, of course. Answer: Leonardo da Vinci, of course. Answer: Leonardo da Vinci, of course. Answer: Leonardo da Vinci, of course. Answer: Leonardo da Vinci, of course. Answer: Leonardo da Vinci, of course.
+INFO:extractor:entities: [('the Mona Lisa', 'WORK_OF_ART')]
+INFO:extractor:deduped entities: [('the Mona Lisa', 'WORK_OF_ART')]
+INFO:extractor:entities: [('Leonardo da Vinci', 'PERSON'), ('Leonardo da Vinci', 'PERSON'), ('Leonardo da Vinci', 'PERSON'), ('Leonardo da Vinci', 'PERSON'), ('Leonardo da Vinci', 'PERSON'), ('Leonardo da Vinci', 'PERSON')]
+INFO:extractor:deduped entities: [('Leonardo da Vinci', 'PERSON')]
+INFO:__main__:[END] question: Q10
+INFO:__main__:[START] question: Q11
+INFO:llm:question: Question: Is Mount Everest part of the Himalayas? Answer:
+INFO:llm:answer: The Himalayan Mountains are not actually one range, but a large group of mountain ranges that stretch through Nepal, India and Tibet. everybody. (Photo by David McNew/Getty Images)Mount Everest is the world’s highest mountain, rising 8,848 meters (
+INFO:extractor:entities: [('Mount Everest', 'LOC'), ('Himalayas', 'LOC')]
+INFO:extractor:deduped entities: [('Mount Everest', 'LOC'), ('Himalayas', 'LOC')]
+INFO:extractor:entities: [('The Himalayan Mountains', 'LOC'), ('one', 'CARDINAL'), ('Nepal', 'GPE'), ('India', 'GPE'), ('Tibet', 'GPE'), ('David McNew', 'PERSON'), ('Getty Images)Mount', 'ORG'), ('8,848 meters', 'QUANTITY')]
+INFO:extractor:deduped entities: [('The Himalayan Mountains', 'LOC'), ('Getty Images)Mount', 'ORG'), ('8,848 meters', 'QUANTITY'), ('David McNew', 'PERSON'), ('Nepal', 'GPE'), ('India', 'GPE'), ('Tibet', 'GPE'), ('one', 'CARDINAL')]
+INFO:__main__:[END] question: Q11
+INFO:__main__:[START] question: Q12
+INFO:llm:question: Question: What is the square root of 64? Answer:
+INFO:llm:answer: The square root of 64 is 8. literally square root is 8. It is the only answer. 8 is the only number that when you square it, it is exactly 64. How do you find the square root of a number? The square root of 96 is
+INFO:extractor:entities: [('64', 'CARDINAL')]
+INFO:extractor:deduped entities: [('64', 'CARDINAL')]
+INFO:extractor:entities: [('64', 'CARDINAL'), ('8', 'CARDINAL'), ('8', 'CARDINAL'), ('8', 'CARDINAL'), ('64', 'CARDINAL'), ('96', 'CARDINAL')]
+INFO:extractor:deduped entities: [('64', 'CARDINAL'), ('96', 'CARDINAL'), ('8', 'CARDINAL')]
+INFO:__main__:[END] question: Q12
+INFO:__main__:[START] question: Q13
+INFO:llm:question: Question: Where is the Great Barrier Reef located? Answer:
+INFO:llm:answer: The Great Barrier Reef is located in the Coral Sea, off the coast of Queensland, Australia. everybody. Question: Where is the Great Barrier Reef located? Answer: The Great Barrier Reef is located in the Coral Sea, off the coast of Queensland, Australia. everybody.
+INFO:extractor:entities: [('the Great Barrier Reef', 'LOC')]
+INFO:extractor:deduped entities: [('the Great Barrier Reef', 'LOC')]
+INFO:extractor:entities: [('The Great Barrier Reef', 'LOC'), ('the Coral Sea', 'LOC'), ('Queensland', 'GPE'), ('Australia', 'GPE'), ('the Great Barrier Reef', 'LOC'), ('The Great Barrier Reef', 'LOC'), ('the Coral Sea', 'LOC'), ('Queensland', 'GPE'), ('Australia', 'GPE')]
+INFO:extractor:deduped entities: [('The Great Barrier Reef', 'LOC'), ('the Coral Sea', 'LOC'), ('Queensland', 'GPE'), ('Australia', 'GPE')]
+INFO:__main__:[END] question: Q13
+INFO:__main__:[START] question: Q14
+INFO:llm:question: Question: Who is the CEO of Tesla? Answer:
+INFO:llm:answer: Elon Musk  Elon Musk is the CEO of Tesla, which is a company that designs, manufactures and sells electric vehicles. Elon Musk is a South African-born American businessman and entrepreneur. He is the founder, CEO and chief engineer of Space
+INFO:extractor:entities: [('Tesla', 'ORG')]
+INFO:extractor:deduped entities: [('Tesla', 'ORG')]
+INFO:extractor:entities: [('Elon Musk', 'PERSON'), ('Elon Musk', 'PERSON'), ('Tesla', 'ORG'), ('Elon Musk', 'PERSON'), ('South African', 'NORP'), ('American', 'NORP'), ('Space', 'ORG')]
+INFO:extractor:deduped entities: [('South African', 'NORP'), ('Elon Musk', 'PERSON'), ('American', 'NORP'), ('Tesla', 'ORG'), ('Space', 'ORG')]
+INFO:__main__:[END] question: Q14
+INFO:__main__:[START] question: Q15
+INFO:llm:question: Question: Which language is primarily spoken in Brazil? Answer:
+INFO:llm:answer: Portuguese. How do you say thank you in Brazilian? Thank you: obrigado (obrigada for a woman), obrigada (obrigado for a man), obrigado, obrigada. You’re welcome: você é muito gentil. (Você é muito gent
+INFO:extractor:entities: [('Brazil', 'GPE')]
+INFO:extractor:deduped entities: [('Brazil', 'GPE')]
+INFO:extractor:entities: [('Portuguese', 'LANGUAGE'), ('Brazilian', 'LANGUAGE')]
+INFO:extractor:deduped entities: [('Portuguese', 'LANGUAGE'), ('Brazilian', 'LANGUAGE')]
+INFO:__main__:[END] question: Q15
