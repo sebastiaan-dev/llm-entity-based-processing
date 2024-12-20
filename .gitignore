@@ -1,5 +1,6 @@
 # Python files and folders
 venv
+venv2
 __pycache__
 
 # LLM model files

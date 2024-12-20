@@ -132,6 +132,8 @@ class EntityLinker:
             print_warn("Failed to find Wikidata results for entity:", entity.text)
             return None
 
+        # https://medium.com/@gusainanurag58/tf-idf-vectorizer-explained-373b3f07d23b
+        # https://openclassrooms.com/en/courses/6532301-introduction-to-natural-language-processing/8081363-apply-the-tf-idf-vectorization-approach
         vectorizer = TfidfVectorizer()
         corpus = [answer_text] + [result.description for result in wikidata_results]
         tfdif = vectorizer.fit_transform(corpus)

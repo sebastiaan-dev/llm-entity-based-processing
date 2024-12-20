@@ -31,8 +31,11 @@ def prepare_data():
 
 
 def train_model(X, y):
+    # https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a
+    # https://scikit-learn.org/1.5/modules/generated/sklearn.linear_model.LogisticRegression.html
     base_clf = LogisticRegression(solver="lbfgs", max_iter=2000, random_state=42)
 
+    # https://scikit-learn.org/1.5/modules/generated/sklearn.ensemble.BaggingClassifier.html
     bagging_clf = BaggingClassifier(
         estimator=base_clf,
         n_estimators=10,
@@ -42,7 +45,7 @@ def train_model(X, y):
         n_jobs=-1,
         random_state=42069,
     )
-
+    # https://scikit-learn.org/1.5/modules/generated/sklearn.pipeline.Pipeline.html
     pipeline = Pipeline(
         [
             ("tfidf", TfidfVectorizer(ngram_range=(1, 3), max_features=10000)),
@@ -67,6 +70,7 @@ def train_model(X, y):
         ],
     }
 
+    # https://scikit-learn.org/1.5/modules/generated/sklearn.model_selection.RandomizedSearchCV.html
     random_search = RandomizedSearchCV(
         estimator=pipeline,
         param_distributions=param_dist,
@@ -94,6 +98,7 @@ def main():
     X, y, label_encoder = prepare_data()
     model = train_model(X, y)
 
+    # https://www.analyticsvidhya.com/blog/2023/02/how-to-save-and-load-machine-learning-models-in-python-using-joblib-library/
     joblib.dump(label_encoder, "label_encoder.joblib")
     joblib.dump(model.best_estimator_, "best_model.joblib")
 

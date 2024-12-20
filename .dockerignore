@@ -1,2 +1,4 @@
 /venv
+/venv2
 /__pycache__
+/models/llama-2-7b.Q4_K_M.gguf

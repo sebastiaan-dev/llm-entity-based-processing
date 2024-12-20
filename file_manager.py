@@ -42,7 +42,7 @@ class FileManager:
         problem = solution.problem
         q_id = problem.question.id
 
-        lines.append(f'{q_id}\tR"{problem.question.text}"')
+        lines.append(f'{q_id}\tR"{problem.answer.text}"')
         lines.append(f'{q_id}\tA"{solution.extracted_answer}"')
         lines.append(f'{q_id}\tC"{"correct" if solution.correct else "incorrect"}"')
 

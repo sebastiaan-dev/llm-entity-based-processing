@@ -92,6 +92,7 @@ OUTPUT_DIR = "data_synthetic"
 
 
 def query_ollama(query: str) -> str:
+    # https://github.com/QwenLM/Qwen2.5
     response: ChatResponse = chat(
         model="qwen2.5:32b",
         messages=[
