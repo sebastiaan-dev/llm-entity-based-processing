@@ -1,0 +1,381 @@
+Question,Entity-Type
+What is the average age at which children are typically vaccinated against measles?,CARDINAL
+At what age do most pediatricians recommend starting solid foods for infants?,CARDINAL
+How many doses of the DTaP vaccine are recommended for children before they turn 7 years old?,CARDINAL
+What percentage of pediatric patients under the age of 5 in the US have been diagnosed with ADHD as of 2021?,CARDINAL
+At what body temperature, in degrees Fahrenheit, is a child considered to have a high fever that requires medical attention?,CARDINAL
+How many calories should an average toddler consume per day for healthy growth and development according to pediatric guidelines?,CARDINAL
+What is the typical weight, in pounds, of a newborn infant at birth?,CARDINAL
+By what age do 90% of children usually have all their baby teeth?,CARDINAL
+How many milligrams of vitamin D are recommended daily for infants by most pediatricians?,CARDINAL
+At what age should a child first visit the dentist according to general recommendations in pediatric medicine?,CARDINAL
+What is the average number of hours of sleep needed per night for a 3-year-old child?,CARDINAL
+How many grams of iron are suggested as a daily intake for children aged between 4 and 8 years old?,CARDINAL
+At what age does a pediatrician typically recommend starting to introduce fluoride toothpaste for brushing teeth in children?,CARDINAL
+What is the recommended number of minutes per day for physical activity for school-aged children according to pediatric guidelines?,CARDINAL
+How many grams of calcium should an adolescent girl consume daily for bone health, as suggested by most pediatricians?,CARDINAL
+At what age do most pediatricians recommend reducing night feedings in infants to one or none per night?,CARDINAL
+What percentage of calories from fat is recommended for children between the ages of 1 and 3 years old according to pediatric nutritional guidelines?,CARDINAL
+How many hours a day are recommended by pediatric experts as the maximum screen time limit for children aged 2-5 years old?,CARDINAL
+At what age do most pediatricians suggest discontinuing the use of a pacifier to prevent dental problems in children?,CARDINAL
+What is the typical number of words an average toddler should be able to speak at the age of two according to developmental milestones in pediatric medicine?,CARDINAL
+When was the first case of pediatric AIDS reported in the United States?,DATE
+What date marked the introduction of the Hib vaccine for children?,DATE
+On what date did the World Health Organization declare measles eliminated from the United States?,DATE
+What year saw the implementation of the rotavirus vaccination program in infants worldwide?,DATE
+When was the first successful bone marrow transplant performed on a child with leukemia?,DATE
+In which year were guidelines for pediatric obesity treatment last updated by major health organizations?,DATE
+On what date did the first polio vaccine become available to the public?,DATE
+What is the historical date of the discovery of penicillin, which has been crucial in treating pediatric infections?,DATE
+When was the concept of neonatal intensive care units (NICUs) first introduced for premature infants?,DATE
+What year marked the beginning of using ultrasound technology in pediatric diagnostics?,DATE
+Which date signifies the commencement of the HPV vaccination program for adolescents to prevent cervical cancer later in life?,DATE
+On what specific day did the World Health Organization introduce the Expanded Program on Immunization (EPI) for children globally?,DATE
+When was the first pediatric heart transplant successfully performed?,DATE
+What is the exact date when the FDA approved the first drug specifically formulated for treating ADHD in children?,DATE
+In which year were the clinical trials for the first pneumococcal conjugate vaccine in children initiated?,DATE
+On what date did the United Nations adopt the Convention on the Rights of the Child, impacting pediatric healthcare practices worldwide?,DATE
+What was the date of the introduction of the measles, mumps, and rubella (MMR) vaccine for infants?,DATE
+Which year saw significant advances in neonatal care, reducing infant mortality rates globally due to improved medical technology?,DATE
+When did the American Academy of Pediatrics release its first set of guidelines on the use of antibiotics in treating pediatric illnesses?,DATE
+What date marks the introduction of telemedicine services specifically tailored for pediatrics?,DATE
+What are the most common vaccinations recommended for infants during their first year of life?,Event
+When is the ideal time to start introducing solid foods to an infant's diet?,Event
+How often should a pediatrician schedule follow-up visits for a child diagnosed with asthma?,Event
+What is the typical timeline for a child recovering from chickenpox without complications?,Event
+At what age do most children receive their first dose of the MMR vaccine?,Event
+When is the best time to conduct a developmental screening test on toddlers according to pediatric guidelines?,Event
+How soon after birth should a newborn have its first health check-up with a pediatrician?,Event
+What is the recommended interval for administering booster shots for childhood diseases?,Event
+At what point in a child's life do pediatricians typically assess growth and development milestones during regular check-ups?,Event
+When does a pediatric dentist recommend bringing children in for their first dental examination?,Event
+How frequently should a child with seasonal allergies be seen by a specialist according to pediatric medicine standards?,Event
+What is the appropriate timeframe for monitoring a child's response to asthma medication after initial diagnosis?,Event
+At what age range do pediatricians typically start conducting vision and hearing tests as part of routine care?,Event
+When are sleep studies recommended for children suspected of having sleep disorders by their pediatrician?,Event
+How often should parents schedule dental cleanings for their children according to pediatric dentistry recommendations?,Event
+What is the ideal timeframe for follow-up after a child receives immunizations to monitor for side effects or adverse reactions?,Event
+At what age do pediatricians recommend children start annual flu vaccinations?,Event
+When are developmental assessments typically conducted by pediatricians if there are concerns about motor skills in toddlers?,Event
+How soon should a pediatrician evaluate a newborn suspected of having jaundice after birth?,Event
+What is the typical interval for routine blood tests to check iron levels in young children at risk for anemia according to pediatric guidelines?,Event
+What are the common infectious diseases that pediatricians focus on treating in children?,FAC
+How do pediatric allergists manage severe allergic reactions in infants and young children?,FAC
+Can you explain how pediatric cardiologists address congenital heart defects in newborns?,FAC
+In what ways do pediatric endocrinologists handle diabetes in pediatric patients?,FAC
+What methods do pediatric gastroenterologists use to diagnose gastrointestinal issues in children?,FAC
+How important is the role of a pediatric hematologist when dealing with sickle cell disease?,FAC
+Can you describe how pediatric neurologists approach treating epilepsy in young patients?,FAC
+What techniques are used by pediatric oncologists for treating childhood cancers such as leukemia and lymphoma?,FAC
+Could you explain the role of a pediatric pulmonologist in managing asthma in children?,FAC
+How do pediatric rheumatologists help diagnose and treat juvenile idiopathic arthritis?,FAC
+In what ways can pediatric nephrologists assist with kidney issues in young patients?,FAC
+What role do pediatric dermatologists play in treating skin conditions specific to children?,FAC
+How do pediatric ophthalmologists address common vision problems in the pediatric population?,FAC
+Can you explain how a pediatric orthopedist treats bone and joint disorders in children?,FAC
+What is the primary focus of pediatric infectious disease specialists when dealing with HIV in children?,FAC
+Could you describe how pediatric intensivists care for critically ill infants and children in ICU settings?,FAC
+How do pediatric psychologists assist families coping with chronic illnesses in their children?,FAC
+In what way can pediatric nutritionists contribute to the health of children with digestive disorders?,FAC
+What is the role of a pediatric radiologist in diagnosing conditions that require imaging studies for young patients?,FAC
+How does a pediatric geneticist help in identifying and managing genetic diseases in infants and children?,FAC
+What are the primary challenges faced in pediatric medicine in India?,GPE
+How has Nigeria approached vaccination programs for children under five years old?,GPE
+Which countries in Europe have seen a decline in childhood obesity rates due to government intervention?,GPE
+In China, what measures have been taken to reduce air pollution impacts on children's respiratory health?,GPE
+What is the current state of pediatric HIV treatment and prevention in South Africa?,GPE
+How effective are the early childhood nutrition programs in Brazil in reducing malnutrition cases among infants and toddlers?,GPE
+What strategies has Japan implemented to address the mental health needs of its pediatric population?,GPE
+In Canada, how have healthcare policies evolved to better support children with chronic illnesses?,GPE
+Can you provide insights into the neonatal care advancements in Australia over the past decade?,GPE
+How does the United States ensure equitable access to pediatric medical services across different socioeconomic groups?,GPE
+What role has Thailand's government played in reducing child mortality rates through improved healthcare infrastructure?,GPE
+How significant is the impact of climate change on children’s health in Southeast Asian countries like Vietnam?,GPE
+In Russia, what are the main barriers to providing advanced pediatric care in remote areas?,GPE
+Has Cuba's universal healthcare system contributed positively towards improving pediatric health outcomes?,GPE
+What initiatives has Mexico launched to improve maternal and child health services nationwide?,GPE
+How do healthcare disparities affect children’s access to medical treatment in urban versus rural areas of India?,GPE
+In Germany, how are public health programs addressing the rise in cases of childhood allergies and asthma?,GPE
+What are the key factors driving successful pediatric vaccination campaigns in African nations like Kenya?,GPE
+Has Sweden seen a decrease in antibiotic resistance among children due to national healthcare policies?,GPE
+How is Egypt working on improving pediatric care through telemedicine and digital health technologies?,GPE
+What languages are commonly used in pediatric medicine for patient communication?,LANGUAGE
+How does the use of sign language impact communication in pediatric medical settings?,LANGUAGE
+Can using multiple languages improve patient understanding in pediatric healthcare settings?,LANGUAGE
+In pediatric medicine, how important is it to have multilingual staff available?,LANGUAGE
+What role does translation software play in enhancing pediatric care for non-English speaking families?,LANGUAGE
+How can the use of a child's native language affect their psychological state during medical procedures?,LANGUAGE
+Are there specific terms in pediatric medicine that require special attention when translating between languages?,LANGUAGE
+In which languages are most pediatric medicine research papers published?,LANGUAGE
+What methods are used to teach medical terminology in different languages to pediatric healthcare providers?,LANGUAGE
+How does cultural sensitivity in language use affect the treatment outcomes for children from non-English speaking backgrounds?,LANGUAGE
+What are some common challenges faced by pediatricians when communicating with families who speak a different primary language?,LANGUAGE
+Can you provide examples of pediatric medicine resources available in multiple languages?,LANGUAGE
+In what ways has telemedicine impacted language barriers in pediatric care?,LANGUAGE
+How do healthcare providers address the issue of language barriers for non-verbal children in multicultural settings?,LANGUAGE
+What strategies are effective for ensuring informed consent from families who speak different languages in pediatric clinical trials?,LANGUAGE
+Are there any international pediatric medicine journals that publish content in multiple languages?,LANGUAGE
+How does the use of a child's preferred language during medical consultations influence their trust in healthcare providers?,LANGUAGE
+In pediatric emergency care, how do language barriers affect treatment and communication efficiency?,LANGUAGE
+What training is available for pediatricians to better communicate with patients who speak different languages?,LANGUAGE
+How has the integration of language services improved patient satisfaction in pediatric clinics serving diverse communities?,LANGUAGE
+What are the legal requirements for pediatricians to report cases of suspected child abuse under federal law?,LAW
+How does the Child Abuse Prevention and Treatment Act (CAPTA) influence pediatric medical practices regarding reporting of maltreatment?,LAW
+Under which state laws are pediatric healthcare providers legally obligated to disclose patient information without consent in cases involving abuse or neglect?,LAW
+What legal obligations do pediatricians have under HIPAA when dealing with adolescent patients who request confidentiality in their medical records?,LAW
+Can a pediatrician be held liable under state law for not reporting suspected child abuse if they choose to wait for further evidence before making a report?,LAW
+In the context of vaccine mandates, how does federal law affect pediatric medicine and what are the implications for non-compliant parents?,LAW
+What legal measures can be taken by healthcare providers in pediatric settings when parental consent cannot be obtained for life-saving treatment of minors?,LAW
+How do state laws governing the prescription of controlled substances to children impact pediatric medical practice?,LAW
+According to which federal law are pediatricians required to maintain records on all immunizations given and what is the minimum retention period specified by this law?,LAW
+What legal framework does a pediatrician need to follow when treating undocumented immigrant children in the United States, especially concerning confidentiality and reporting requirements?,LAW
+Under state laws, how can pediatric healthcare providers ensure compliance with informed consent regulations when providing experimental treatments to minors?,LAW
+How do state-specific child protection laws affect a pediatrician's duty to report suspected maltreatment in cases where the child is from another jurisdiction?,LAW
+What are the legal ramifications for pediatricians who fail to comply with federal mandates regarding reporting of communicable diseases among children?,LAW
+In pediatric medicine, what legal considerations must be taken into account when conducting research involving minors and how does this differ between states?,LAW
+How do federal anti-discrimination laws impact access to care in pediatric medicine, especially for children from marginalized communities?,LAW
+What legal actions can pediatricians take against parents who refuse consent for necessary medical treatments based on religious beliefs or personal convictions?,LAW
+Under which state and federal laws are pediatric healthcare facilities required to provide accommodations for patients with disabilities?,LAW
+How does the Family Educational Rights and Privacy Act (FERPA) intersect with pediatric medicine in terms of handling health information that may also be considered educational records?,LAW
+What legal responsibilities do pediatricians have under the Affordable Care Act when providing essential health benefits to children and adolescents?,LAW
+In cases where a minor is emancipated by law, how does this affect a pediatrician's legal obligation to obtain parental consent for treatment or disclosure of medical information?,LAW
+What hospitals in New York City specialize in pediatric medicine?,LOC
+Which cities are known for having the best children's hospitals for pediatric care?,LOC
+Can you name a leading children’s hospital located in London that focuses on pediatric medicine?,LOC
+Are there any renowned pediatric clinics in Tokyo, Japan, and what services do they offer?,LOC
+What kind of pediatric medical facilities can be found in Paris, France?,LOC
+Which cities have the most advanced pediatric research centers for pediatric medicine?,LOC
+How does pediatric care vary between major hospitals in Los Angeles and San Francisco?,LOC
+Could you provide information on pediatric clinics located in Sydney, Australia?,LOC
+In which countries are pediatric medicine training programs highly regarded?,LOC
+What is the role of pediatric medical facilities in Boston during flu seasons?,LOC
+Which cities have pediatric emergency departments that operate 24/7?,LOC
+Are there any specialized pediatric centers in Singapore for rare diseases?,LOC
+How do pediatric health services differ between urban and rural areas in India?,LOC
+Where can one find a comprehensive list of pediatric specialists in Berlin, Germany?,LOC
+What are the leading children's hospitals located in Beijing that specialize in pediatric medicine?,LOC
+Which cities have pediatric medical facilities with advanced telemedicine capabilities?,LOC
+How does the pediatric care infrastructure vary across different regions in Canada?,LOC
+Could you recommend any good pediatric care centers in Cape Town, South Africa?,LOC
+Are there any unique pediatric health programs offered by hospitals in Copenhagen, Denmark?,LOC
+What kind of specialized pediatric units can be found in Toronto’s major hospitals?,LOC
+What is the average cost of pediatric insurance coverage in the United States?,MONEY
+How much does a typical visit to a pediatrician cost without insurance in Canada?,MONEY
+What are the estimated costs for treating childhood asthma annually in Europe?,MONEY
+In the UK, what amount is typically covered by the NHS for common pediatric treatments?,MONEY
+Can you provide an estimate of how much it costs to treat severe pediatric diseases like leukemia globally?,MONEY
+What is the average out-of-pocket expense for a family with a child needing specialized pediatric care in Australia?,MONEY
+How much does a course of antibiotics generally cost for children under 5 years old in India?,MONEY
+What are the approximate charges for overnight hospital stays for infants in developing countries?,MONEY
+In the US, what is the average price difference between generic and brand-name medications prescribed to children?,MONEY
+How much do vaccines typically cost per child in low-income regions according to UNICEF data?,MONEY
+What is the total expenditure on pediatric medicine research by leading pharmaceutical companies worldwide?,MONEY
+Can you estimate the financial burden of childhood obesity treatment programs in North America?,MONEY
+What are the typical costs associated with pediatric emergency room visits in different countries?,MONEY
+How much does a year's supply of life-saving medication cost for a child with cystic fibrosis in Brazil?,MONEY
+In Africa, what is the average amount spent by families on pediatric healthcare annually per child?,MONEY
+What are the financial implications of not having health insurance when treating rare pediatric diseases in Europe?,MONEY
+How much do international organizations invest annually to support global pediatric health initiatives?,MONEY
+Can you provide information on the average annual cost for a family with a chronically ill child in terms of medical expenses in China?,MONEY
+What is the projected increase in costs for pediatric healthcare services due to inflation in the next decade in developed countries?,MONEY
+How much does it typically cost to run a community-based pediatric health program in rural areas compared to urban settings globally?,MONEY
+What are the primary challenges faced by pediatricians in treating children from indigenous communities?,NORP
+How does cultural sensitivity play a role when pediatric nurses care for immigrant children?,NORP
+Can you describe some of the unique health issues that refugee children might face compared to native-born children?,NORP
+In what ways do socioeconomic disparities affect the healthcare access for minority children in urban areas?,NORP
+What initiatives are being taken to improve mental health services for children from underrepresented ethnic groups?,NORP
+How does pediatric care differ when treating children with heritage backgrounds that have high rates of genetic disorders?,NORP
+Are there specific immunization programs designed specifically for indigenous populations' children in remote areas?,NORP
+What strategies are pediatricians using to bridge communication gaps with non-English speaking immigrant families?,NORP
+How does the prevalence of asthma vary among different ethnic groups, and what factors contribute to these differences in pediatric medicine?,NORP
+Can you discuss the impact of language barriers on the quality of care provided by pediatric medical teams to Latino communities?,NORP
+What role do community health workers play in providing culturally competent care for children from immigrant families in rural areas?,NORP
+How effective are current pediatric nutrition programs in addressing dietary deficiencies among Native American children?,NORP
+In what ways can pediatricians support the unique healthcare needs of children who identify with multiple ethnic groups?,NORP
+What challenges do pediatric dentists face when treating low-income children from immigrant families regarding access to care?,NORP
+How does the prevalence and management of type 1 diabetes differ among various racial or ethnic groups in pediatrics?,NORP
+Can you explain how cultural practices influence vaccine acceptance rates among different minority communities with high child populations?,NORP
+What are some of the key considerations for pediatricians when treating children from migrant worker families who may lack consistent healthcare coverage?,NORP
+How do pediatric emergency departments adapt to serve a diverse patient population, including those from non-native speaking backgrounds effectively?,NORP
+Can you discuss the importance of cultural competency training in pediatric residency programs as it relates to serving ethnically diverse populations?,NORP
+What measures are taken by pediatric clinics to ensure that children from culturally and linguistically diverse communities receive equitable care?,NORP
+What is the first sign of malnutrition in children that pediatricians look for?,ORDINAL
+At what age is the second dose of the MMR vaccine typically administered to children?,ORDINAL
+In the stages of child development, which is the third stage where a significant increase in language skills occurs?,ORDINAL
+How old should a child be before they receive their first dental check-up according to pediatric guidelines?,ORDINAL
+What is the fourth most common infectious disease seen by pediatricians during winter months?,ORDINAL
+At what ordinal position of teeth does primary tooth development usually begin in infants?,ORDINAL
+Which is the second largest cause of morbidity among children globally, after respiratory infections, as recognized in pediatric medicine studies?,ORDINAL
+In a series of immunizations, which one is typically administered first to newborns in hospitals?,ORDINAL
+What is the third symptom parents should watch for when suspecting an ear infection in their child?,ORDINAL
+How many weeks into pregnancy does the second trimester begin, a crucial period monitored by pediatricians and obstetricians for fetal development?,ORDINAL
+Which vaccine is traditionally given as the fifth dose in the DTaP series to protect against diphtheria, tetanus, and pertussis?,ORDINAL
+In terms of milestones, at what ordinal position does learning to walk typically occur in child developmental stages?,ORDINAL
+What is the first line of treatment recommended by pediatricians for managing asthma in children?,ORDINAL
+How many hours should a 5-year-old child sleep each night according to the second most recent guidelines from the American Academy of Pediatrics?,ORDINAL
+In the sequence of immunizations, which vaccine comes third after birth for protecting against hepatitis B?,ORDINAL
+What is the ordinal position of 'head circumference' in the routine measurements taken during well-child visits by pediatricians?,ORDINAL
+Which hormone is primarily checked with a blood test as part of the second stage of puberty assessment in girls by pediatric endocrinologists?,ORDINAL
+At what age does the first tooth usually appear, marking an important milestone in pediatric dentistry?,ORDINAL
+How many days after birth should a newborn's first hearing screening be performed according to recommended guidelines?,ORDINAL
+What is the ordinal position of 'vision screening' in the list of routine health checks for children conducted by pediatricians?,ORDINAL
+What is the role of the American Academy of Pediatrics in setting guidelines for pediatric care?,ORG
+How does UNICEF contribute to improving child health outcomes globally?,ORG
+Can you explain how WHO supports countries in enhancing their pediatric healthcare systems?,ORG
+What initiatives has Save the Children undertaken to improve pediatric medicine access in developing nations?,ORG
+In what ways does the Centers for Disease Control and Prevention (CDC) impact pediatric health research?,ORG
+How does the World Health Organization monitor vaccine safety specifically for children worldwide?,ORG
+What are some of the key contributions of the International Pediatric Association towards advancing pediatric care globally?,ORG
+Could you discuss how Médecins Sans Frontières provides emergency pediatric healthcare in crisis zones?,ORG
+What kind of pediatric medical research funding is provided by the National Institutes of Health (NIH)?,ORG
+How does the Royal College of Paediatrics and Child Health influence policy on child health issues in the UK?,ORG
+What role do local children's hospitals play in training future generations of pediatricians?,ORG
+Can you describe how the American Heart Association supports research into congenital heart defects in infants and children?,ORG
+In what capacity does UNICEF collaborate with governments to enhance nutrition programs for children?,ORG
+How does the Global Alliance for Vaccines and Immunization (GAVI) contribute to child immunization worldwide?,ORG
+What measures has the World Vision organization taken to ensure access to clean water, a key aspect of pediatric health?,ORG
+How do advocacy groups like Children's Health Defense push for safer medical practices in pediatrics?,ORG
+In what ways does the March of Dimes Foundation support research and education related to birth defects and infant mortality?,ORG
+What strategies does the Bill & Melinda Gates Foundation employ to improve maternal, newborn, and child health outcomes globally?,ORG
+How does the Red Cross work towards providing emergency pediatric medical care in disaster scenarios?,ORG
+What initiatives has the WHO launched specifically aimed at reducing childhood malnutrition worldwide?,ORG
+What percentage of children under 5 in the US are diagnosed with asthma annually?,PERCENT
+In pediatric patients, what percent typically shows improvement after the first dose of a new antibiotic regimen?,PERCENT
+Among newborns, what is the approximate percentage affected by neonatal jaundice requiring phototherapy?,PERCENT
+What percent of pediatric cases involving ear infections lead to surgical intervention within the first year?,PERCENT
+In a study on childhood obesity, what percentage of children aged 6-11 were found to be obese in the latest CDC report?,PERCENT
+How much of an increase, in percentage terms, has there been in the diagnosis of ADHD among school-aged children over the past decade?,PERCENT
+What is the estimated percentage of children who receive all recommended vaccinations by age 2 according to WHO standards?,PERCENT
+In pediatric diabetes cases, what percent are type 1 as opposed to type 2?,PERCENT
+What percentage of infants born with congenital heart defects require surgical intervention in their first year of life?,PERCENT
+How many percent of children experience allergic reactions severe enough to warrant treatment by a specialist within the first three years of life?,PERCENT
+In pediatric oncology, what is the survival rate increase, expressed as a percentage, for leukemia patients treated with the latest chemotherapy protocols compared to traditional methods?,PERCENT
+What percent of infants born prematurely show signs of respiratory distress syndrome at birth according to recent studies?,PERCENT
+Among children diagnosed with autism spectrum disorder (ASD), what percentage are also diagnosed with intellectual disabilities based on current diagnostic criteria?,PERCENT
+How much, in terms of a percentage, has the rate of peanut allergies among children increased over the past 20 years?,PERCENT
+What is the typical percentage decrease in hospital admissions for pediatric gastroenteritis cases following the introduction of rotavirus vaccination programs?,PERCENT
+In pediatric infectious diseases, what percentage of flu infections are asymptomatic in children aged between 5-14 according to epidemiological studies?,PERCENT
+Among pediatric patients with asthma, what percent experience at least one exacerbation requiring medical intervention annually?,PERCENT
+What is the approximate percentage of newborns who require resuscitation due to complications at birth, based on global health statistics?,PERCENT
+How much, in terms of a percentage, has the rate of obesity among adolescents aged 12-19 increased over the past decade?,PERCENT
+In pediatric dentistry, what percentage of children have their first dental visit by age 1 as recommended by dental associations worldwide?,PERCENT
+What are the primary responsibilities of a pediatrician in treating young patients?,PERSON
+How does a pediatric nurse contribute to the care of infants and children with chronic illnesses?,PERSON
+Can you explain how a pediatric cardiologist treats congenital heart defects in newborns?,PERSON
+In what ways can a child psychologist help a child overcome anxiety disorders?,PERSON
+What is the role of a pediatric endocrinologist when dealing with diabetes in children?,PERSON
+How do pediatric allergists assist in managing severe allergic reactions in young patients?,PERSON
+Could you describe how a neonatologist supports premature babies in intensive care units?,PERSON
+What are some techniques used by speech therapists to help children with speech impediments?,PERSON
+In what capacity does an infectious disease specialist work to prevent and treat diseases in pediatric settings?,PERSON
+How do pediatric surgeons prepare for complex surgeries on young patients?,PERSON
+What is the primary role of a pediatric oncologist when treating childhood cancers?,PERSON
+Can you discuss how pediatric dentists address dental issues in children with special needs?,PERSON
+In what ways can a pediatric gastroenterologist help manage digestive disorders in children?,PERSON
+How does an immunization expert contribute to vaccine development for pediatric use?,PERSON
+What are the responsibilities of a child psychiatrist when dealing with behavioral disorders in young patients?,PERSON
+Can you explain how pediatric neurologists diagnose and treat neurological conditions in children?,PERSON
+In what ways do pediatric pulmonologists address respiratory issues in infants and children?,PERSON
+How do occupational therapists help children with physical disabilities improve their daily living skills?,PERSON
+What role does a pediatric hematologist play in treating blood disorders in young patients?,PERSON
+Could you discuss how a pediatric nephrologist manages kidney diseases in children?,PERSON
+What are the most effective vaccines for preventing common childhood diseases?,PRODUCT
+Which pediatric formula is best suited for infants with lactose intolerance?,PRODUCT
+Can you recommend a reliable brand of nebulizers designed specifically for children?,PRODUCT
+What type of asthma inhalers are commonly prescribed to toddlers and young children?,PRODUCT
+Are there any specialized infant thermometers that ensure accurate temperature readings in babies?,PRODUCT
+Which brands offer high-quality pediatric stethoscopes preferred by most pediatricians?,PRODUCT
+Can you suggest a line of allergy medications safe for use in preschool-aged children?,PRODUCT
+What are the best probiotic supplements formulated specifically for infants and young children?,PRODUCT
+Which companies produce reliable pediatric growth charts used in healthcare settings?,PRODUCT
+Are there specialized cough syrups designed to be gentler on a child's stomach?,PRODUCT
+What kind of baby monitors are preferred by pediatricians to ensure infant safety?,PRODUCT
+Can you recommend any advanced stoma care products for children with stomas?,PRODUCT
+Which brands offer the best pediatric oral rehydration solutions to treat dehydration in kids?,PRODUCT
+Are there any innovative dental hygiene kits designed specifically for young children's teeth?,PRODUCT
+What are some of the latest pediatric pain relief creams that can be used on children without causing harm?,PRODUCT
+Can you suggest any brands known for producing quality pediatric blood pressure cuffs?,PRODUCT
+Which companies manufacture high-quality pediatric hearing aids tailored to meet a child’s needs?,PRODUCT
+Are there specialized nutrition shakes designed to support the growth and development of children with special dietary requirements?,PRODUCT
+What are some leading brands that produce pediatric nebulizer solutions used in treating respiratory conditions in kids?,PRODUCT
+Can you recommend any advanced pediatric sleep monitors aimed at improving the quality of sleep for infants and young children?,PRODUCT
+What percentage of pediatric patients require antibiotic treatment for strep throat?,QUANTITY
+How many calories per day are recommended for an average 10-year-old child weighing 45 kg?,QUANTITY
+In a clinical trial, if 30 out of 200 children showed improvement after taking a new medication, what is the percentage improvement rate among pediatric patients?,QUANTITY
+What is the average number of doctor visits per year for a child with asthma in the United States?,QUANTITY
+How many milligrams of Vitamin D are recommended daily for infants aged 6 to 12 months?,QUANTITY
+In a study on childhood obesity, if the sample size consisted of 500 children between the ages of 5 and 12, what fraction represents children under 8 years old if there were 300 of them in the sample?,QUANTITY
+What is the typical duration in days for recovery from chickenpox in pediatric patients without complications?,QUANTITY
+How many minutes per day should a child aged 6 to 9 engage in physical activity according to pediatric guidelines?,QUANTITY
+For children with ADHD, what percentage improvement in symptom management has been reported with the use of stimulant medications such as Ritalin or Adderall?,QUANTITY
+What is the average number of teeth that a child will have lost by age 12?,QUANTITY
+How many hours of sleep are recommended for teenagers aged between 13 and 18 years old?,QUANTITY
+In pediatric nutrition, what is the daily recommended intake in milligrams of iron for children ages 4 to 8?,QUANTITY
+What percentage of children globally under the age of five suffer from stunting due to malnutrition according to recent studies?,QUANTITY
+How many doses are typically administered in a childhood vaccination schedule against measles by the age of six years old in the US?,QUANTITY
+For pediatric patients with type 1 diabetes, how many times per day is insulin typically required to be injected on average?,QUANTITY
+What percentage of children experience side effects from vaccinations that require medical attention according to recent studies?,QUANTITY
+In a study of childhood obesity interventions, if 80% of the 250 participants showed significant weight loss after one year, how many children lost weight?,QUANTITY
+How many seconds on average does an infant's heart beat per minute at birth?,QUANTITY
+What is the typical number of days for a course of antibiotic treatment in pediatric patients with uncomplicated ear infections?,QUANTITY
+If a study includes 400 children to evaluate the effectiveness of a new asthma medication, and 25% show significant improvement, how many children showed this improvement?,QUANTITY
+What is the typical duration for treating acute otitis media in children?,TIME
+At what age do most infants start showing symptoms of congenital hypothyroidism?,TIME
+How long does a course of antibiotics usually last for a child with strep throat?,TIME
+When should a pediatrician schedule follow-up appointments after prescribing asthma medication to a new patient?,TIME
+What is the recommended interval between doses for oral polio vaccine in infants?,TIME
+At what age can children typically receive their first dose of the MMR vaccine?,TIME
+How many weeks does it usually take for symptoms of RSV (Respiratory Syncytial Virus) infection to resolve in most children?,TIME
+What is the average length of stay in a neonatal intensive care unit (NICU) for premature babies born at 32 weeks gestation?,TIME
+When do pediatricians typically perform the first round of developmental screening tests on infants?,TIME
+How long after birth should a newborn be tested for phenylketonuria (PKU)?,TIME
+What is the recommended duration of exclusive breastfeeding according to WHO guidelines?,TIME
+At what age range do children usually develop their first molars?,TIME
+How often should pediatricians conduct hearing tests on infants and young children with no obvious signs of hearing loss?,TIME
+When is the appropriate time for a child's first dental visit according to pediatric dentistry recommendations?,TIME
+What is the typical recovery period after tonsillectomy surgery in children?,TIME
+At what age do most children outgrow their need for car seat safety measures when riding in vehicles?,TIME
+How long should a child with chickenpox be isolated from other children to prevent spreading the virus?,TIME
+When do pediatricians generally recommend starting the administration of fluoride supplements to children who live in non-fluoridated areas?,TIME
+What is the usual duration of antiviral treatment for influenza in pediatric patients?,TIME
+How long after birth should a neonate be observed before being discharged from the hospital, especially if there are concerns about respiratory distress syndrome (RDS)?,TIME
+What is the most influential painting that depicts a pediatrician in their daily work?,WORK_OF_ART
+Which sculpture captures the essence of child health and wellness best according to pediatric medicine experts?,WORK_OF_ART
+Can you name a famous photograph that focuses on the interaction between children and healthcare providers in pediatrics?,WORK_OF_ART
+What painting from the Renaissance era illustrates the treatment of sick children by physicians?,WORK_OF_ART
+In modern art, which piece is known for its representation of pediatric care and has been widely discussed in medical literature?,WORK_OF_ART
+Is there a notable mural that symbolizes the journey of healing in pediatric patients?,WORK_OF_ART
+Which contemporary painting explores themes of resilience among children with chronic illnesses in pediatrics?,WORK_OF_ART
+What installation art piece addresses the challenges faced by pediatric healthcare workers today?,WORK_OF_ART
+Are there any famous drawings or sketches of pioneering pediatricians from historical medical texts?,WORK_OF_ART
+How has graffiti art contributed to raising awareness about pediatric medicine issues?,WORK_OF_ART
+Which digital artwork focuses on the emotional aspects of pediatric treatment and recovery?,WORK_OF_ART
+What printmaking piece effectively communicates the concept of preventive care in pediatrics?,WORK_OF_ART
+Can you mention a renowned tapestry that depicts ancient methods used in treating children's diseases?,WORK_OF_ART
+Is there an illustrated book that accurately portrays the history of pediatric medicine through its evolution over time?,WORK_OF_ART
+Which contemporary art exhibition has showcased works centered around pediatric medical ethics and decision-making?,WORK_OF_ART
+What series of lithographs visually narrates the journey from illness to health in pediatric patients?,WORK_OF_ART
+How does abstract art interpret the complex relationship between children and their caregivers in a healthcare setting?,WORK_OF_ART
+Can you identify any famous cartoon or comic strip that educates about pediatric diseases and treatments effectively?,WORK_OF_ART
+Which bronze sculpture is celebrated for its portrayal of hope and healing in pediatric patients?,WORK_OF_ART
+What textile artwork creatively represents the interplay between traditional and modern practices in pediatrics?,WORK_OF_ART
+What are the most common diseases treated in pediatric medicine?,PRODUCT
+How many pediatricians are typically needed per 1000 children according to WHO guidelines?,CARDINAL
+When was the first vaccine for measles introduced specifically for pediatric use?,DATE
+Which event marks the beginning of modern pediatric medicine?,EVENT
+Where is the largest pediatric hospital located in North America?,LOC
+What country has seen a significant decrease in child mortality rates due to improved medical care?,GPE
+How does the language used in pediatric care manuals differ from general medical manuals?,LANGUAGE
+Which law mandates that all children receive specific vaccines before attending school in most states of the USA?,LAW
+Can you name a famous pediatric hospital located in New York City?,FAC
+Who is considered the father of pediatrics and when did he start his work?,PERSON,DATE
+What percentage of pediatricians in the US also specialize in another field of medicine?,PERCENT
+How much does it cost to train a pediatrician in the United States from medical school through residency?,MONEY
+Which organization publishes the most influential guidelines for pediatric care worldwide?,ORG
+What is the average age at which children receive their first dental check-up according to American Academy of Pediatrics recommendations?,TIME
+Can you name an award given specifically to outstanding contributions in the field of pediatric medicine?,WORK_OF_ART
+How many hours per week do resident pediatricians typically work on average?,QUANTITY
+Which type of pediatric care is most commonly outsourced to specialized clinics?,PRODUCT
+What ordinal position does pediatrics hold among medical specialties by number of practitioners globally?,ORDINAL
+In what year was the first pediatric ICU established in Europe?,DATE
+How many different vaccines are generally recommended for children before they reach school age according to CDC guidelines?,CARDINAL

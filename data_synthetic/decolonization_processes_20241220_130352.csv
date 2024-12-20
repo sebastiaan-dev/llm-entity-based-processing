@@ -1,0 +1,381 @@
+Question,Entity-Type
+When did India gain independence from British rule?,CARDINAL
+How many African countries gained independence between 1950 and 1965?,CARDINAL
+What year marked the end of French Indochina as a colonial entity?,CARDINAL
+In what year was Algeria granted independence from France?,CARDINAL
+How many years did it take for Indonesia to fully achieve its independence after the end of World War II?,CARDINAL
+Which decade saw the peak number of decolonization processes globally?,CARDINAL
+What percentage of the world's population lived in newly independent countries by 1965?,CARDINAL
+In which year did the United Nations adopt the Declaration on the Granting of Independence to Colonial Countries and Peoples?,CARDINAL
+How many Portuguese colonies achieved independence in Africa during the 1970s?,CARDINAL
+What was the approximate population of Ghana at the time of its independence in 1957?,CARDINAL
+In what year did the Belgian Congo gain independence, becoming the Democratic Republic of the Congo?,CARDINAL
+By how many millions did India's population increase between gaining independence from Britain and the turn of the century (2000)?,CARDINAL
+How many years passed between the start of the Algerian War of Independence and Algeria's actual independence?,CARDINAL
+What was the approximate number of British troops stationed in Palestine in 1947 before its partition?,CARDINAL
+In which year did Kenya gain independence after a struggle against British rule?,CARDINAL
+Approximately how many people were living in Singapore at the time of its independence from Malaysia in 1965?,CARDINAL
+How many years elapsed between the beginning of the Mau Mau Uprising and Kenya's independence?,CARDINAL
+In what year did Portugal finally recognize Mozambique’s independence following a lengthy liberation war?,CARDINAL
+By how much did the population of Guinea increase from its independence in 1958 to 2000?,CARDINAL
+What was the approximate number of Dutch troops involved in suppressing Indonesian nationalists during the National Revolution that ended with Indonesia's independence in 1949?,CARDINAL
+When did India achieve independence from British rule?,DATE
+What year marked the independence of Algeria from France?,DATE
+In which year did Ghana (formerly Gold Coast) gain its independence?,DATE
+Can you provide the date when Kenya became independent from British colonial rule?,DATE
+What is the specific date when Nigeria declared its independence in 1960?,DATE
+When did Vietnam's war for independence against French colonization officially end?,DATE
+On what date did the Portuguese colony Mozambique gain independence?,DATE
+Which year saw the decolonization of Malaysia from British control?,DATE
+Can you give me the exact date when Ceylon (now Sri Lanka) became independent in 1948?,DATE
+What was the date of Zambia's declaration of independence from Britain?,DATE
+When did Cambodia achieve independence from France during its decolonization process?,DATE
+On which year did Tunisia gain full sovereignty following French colonial rule?,DATE
+Which date marks the start of Namibia's independence from South African administration?,DATE
+In what year was Libya declared independent after Italian colonization ended?,DATE
+Can you name the exact day when Somalia gained its independence in 1960?,DATE
+What is the decolonization date for the Democratic Republic of Congo (formerly Zaire)?,DATE
+When did Indonesia declare its independence from Dutch colonial rule officially?,DATE
+On which year did Mauritania become an independent nation after French colonization ended?,DATE
+Could you provide the exact date when the Federation of Malaya gained independence in 1957?,DATE
+What is the specific date when Uganda became independent from British colonial administration?,DATE
+What triggered the decolonization process in Africa post-World War II?,EVENT
+How did the Bandung Conference of 1955 impact decolonization processes globally?,EVENT
+Which event marked the beginning of India's independence from British rule?,EVENT
+What significant event led to Algeria gaining its independence from France in 1962?,EVENT
+Can you describe the event that signified the end of Portuguese colonialism in Angola and Mozambique?,EVENT
+What event catalyzed the decolonization movement in Southeast Asia after World War II?,EVENT
+Which specific event prompted international attention towards the decolonization process in Rhodesia (now Zimbabwe)?,EVENT
+How did the Suez Crisis of 1956 affect France's hold on its colonies in North Africa?,EVENT
+What was a key event that influenced the Netherlands to grant independence to Indonesia in 1949?,EVENT
+Which event in 1960 is considered crucial for the decolonization of Sub-Saharan Africa?,EVENT
+How did the Mau Mau Uprising affect Britain's colonial rule in Kenya?,EVENT
+What significant event in 1958 marked a turning point in France’s relationship with its African colonies?,EVENT
+Which event led to the creation of the Federation of Rhodesia and Nyasaland, and how did it influence decolonization?,EVENT
+How did the Indochina War contribute to Vietnam's path towards independence from French rule?,EVENT
+What pivotal event spurred Belgium into granting independence to Congo in 1960?,EVENT
+Which event during World War II is believed to have weakened colonial powers and accelerated decolonization globally?,EVENT
+Can you explain how the Portuguese Colonial War contributed to the decolonization process in Portugal's African colonies?,EVENT
+How did the Cuban Revolution of 1959 impact the decolonization processes in Latin America?,EVENT
+What event led to the dissolution of the British Empire and significantly impacted its former colonies' journey towards independence?,EVENT
+Which specific historical event or series of events is considered to have catalyzed the rapid decolonization process across Asia post-World War II?,EVENT
+What was the name of the organization that played a crucial role in India's decolonization process?,FAC
+Which body oversaw the process of decolonization in Algeria from France?,FAC
+What entity facilitated the transition to independence for Ghana from British rule?,FAC
+Who was the leading force behind the decolonization of Kenya?,FAC
+What international organization was instrumental in mediating Indonesia's path to independence from Dutch colonial rule?,FAC
+Which entity was responsible for initiating the process that led to Nigeria gaining its independence?,FAC
+What group or body played a significant role in facilitating Morocco's transition from French and Spanish control to independence?,FAC
+Who managed the decolonization process leading to the independence of Mozambique from Portugal?,FAC
+What organization provided support during the decolonization period that led to Namibia's freedom from South African administration?,FAC
+Which entity was pivotal in overseeing the decolonization process for Angola, resulting in its independence from Portuguese rule?,FAC
+What international body recognized and supported Côte d'Ivoire’s transition to independence after French colonial rule?,FAC
+Who played a key role in bringing about the end of Belgian colonial rule in Congo through the decolonization process?,FAC
+Which organization was crucial in supporting the Philippines' journey towards full sovereignty post-American colonial rule?,FAC
+What entity or group spearheaded the move toward independence for Tunisia from French administration during its decolonization period?,FAC
+Who facilitated the transition to self-rule for Guyana after British colonial governance ended as part of its decolonization process?,FAC
+Which international body was involved in negotiating the end of Dutch control over Suriname, leading to its independence?,FAC
+What group or organization significantly influenced the decolonization of Cameroon from French and British rule towards independence?,FAC
+Who managed the negotiations that led to the independence of Sierra Leone from Britain during its decolonization period?,FAC
+Which international entity supported the process of decolonization for Guinea, leading to its freedom from France?,FAC
+What organization was involved in helping Laos achieve independence after French colonial rule as part of its decolonization efforts?,FAC
+What were the primary challenges faced during the decolonization process in Algeria?,GPE
+How did India's struggle for independence impact its relationship with Pakistan post-1947?,GPE
+In what year did Ghana gain independence from British colonial rule?,GPE
+What role did Kwame Nkrumah play in the decolonization of Ghana?,GPE
+Describe the process of decolonization in Vietnam and the key figures involved.,GPE
+How did the Suez Crisis affect Britain's control over Egypt?,GPE
+What were the main consequences of French withdrawal from Indochina following the First Indochina War?,GPE
+Discuss the significance of the Bandung Conference in shaping post-colonial Africa and Asia.,GPE
+Which events led to Belgian Congo's independence, and what was its aftermath?,GPE
+How did the Mau Mau uprising contribute to Kenya’s path towards decolonization?,GPE
+What were the key issues faced by Portugal during its decolonization process in Angola?,GPE
+Describe the role of the United Nations in facilitating decolonization processes worldwide.,GPE
+In what ways did decolonization affect political boundaries within Africa?,GPE
+How did the partition of British India into India and Pakistan occur and what were its implications?,GPE
+What was the significance of the Berlin Conference of 1884-1885 in shaping the colonial map of Africa?,GPE
+Discuss the impact of decolonization on economic relations between former colonies and European powers.,GPE
+How did Indonesia achieve independence from Dutch colonial rule after World War II?,GPE
+What role did international organizations play in supporting newly independent nations post-decolonization?,GPE
+Describe the process by which Nigeria gained independence from Britain.,GPE
+What were the major challenges faced by Guinea during its transition to independence from French colonial control?,GPE
+What languages were used in official communications during the decolonization process of African nations?,LANGUAGE
+How did the spread of Portuguese influence the linguistic landscape during Brazil's decolonization period?,LANGUAGE
+In what ways did French language policies impact the decolonization movements in Indochina?,LANGUAGE
+Which indigenous languages experienced a resurgence following the decolonization of India from British rule?,LANGUAGE
+What role did Spanish play in the cultural and political dynamics during the decolonization of Latin American countries?,LANGUAGE
+How did Dutch language imposition affect resistance movements in former colonies such as Indonesia during decolonization?,LANGUAGE
+During the decolonization of Algeria, which languages became symbols of national identity?,LANGUAGE
+Can you describe the linguistic challenges faced by newly independent states post-decolonization in Africa and Asia?,LANGUAGE
+What were the primary indigenous languages spoken in Zimbabwe before English became prevalent due to colonial influence?,LANGUAGE
+How did the use of Arabic change during the decolonization processes in North African countries?,LANGUAGE
+In the context of India's decolonization, how did Hindi emerge as a unifying language against British linguistic dominance?,LANGUAGE
+What were the key languages that influenced political discourse during the decolonization process in Southeast Asia?,LANGUAGE
+How has the English language been perceived post-decolonization in nations like Jamaica and Nigeria?,LANGUAGE
+Which indigenous languages saw significant decline due to Spanish colonization and subsequent decolonization efforts in South America?,LANGUAGE
+During the decolonization of Vietnam, what role did the Vietnamese language play in national identity formation?,LANGUAGE
+What were some strategies used by former colonies to promote local languages after gaining independence from European powers?,LANGUAGE
+How did the Portuguese language influence the cultural and political landscapes during Angola's journey towards independence?,LANGUAGE
+Can you discuss how the promotion of indigenous languages was part of decolonization efforts in New Zealand (Aotearoa)?,LANGUAGE
+In what ways has the French language been used as a tool for maintaining cultural ties with former colonies post-decolonization?,LANGUAGE
+What impact did the spread of Swahili have on the linguistic unification during East Africa's decolonization process?,LANGUAGE
+What international laws governed the process of decolonization in Africa?,LAW
+How did the United Nations Charter influence decolonization processes globally?,LAW
+Which legal frameworks were used to legitimize the transfer of power during decolonization?,LAW
+Can you explain the role of the International Court of Justice in cases related to decolonization?,LAW
+What are the key legal principles that guided self-determination movements post World War II?,LAW
+How did the principle of Uti possidetis juris impact border delineation during Latin American decolonization?,LAW
+In what ways did colonial powers use international law to delay or obstruct decolonization processes?,LAW
+What role did bilateral treaties play in facilitating or complicating the transition from colony to independent state?,LAW
+How has the application of the Montevideo Convention on the Rights and Duties of States influenced post-colonial legal identities?,LAW
+Could you describe the impact of the 1960 UN Declaration on the Granting of Independence to Colonial Countries and Peoples in legal terms?,LAW
+What were some of the legal challenges faced by newly independent states when drafting their constitutions after decolonization?,LAW
+How did international human rights law evolve as a result of decolonization movements?,LAW
+In the context of decolonization, how have international courts interpreted the concept of sovereignty for former colonies?,LAW
+What legal mechanisms were employed to address the issue of repatriation and restitution of cultural artifacts during decolonization?,LAW
+How did colonial laws transition into post-colonial legal systems, and what were some common challenges faced in this process?,LAW
+Can you discuss any specific case where international law was invoked to resolve conflicts arising from decolonization processes?,LAW
+What impact has the principle of non-intervention had on the legality of intervention by foreign powers during decolonization periods?,LAW
+How did decolonization affect the interpretation and application of customary international law in newly independent states?,LAW
+Could you provide examples where regional legal bodies played a significant role in supporting or hindering decolonization processes?,LAW
+What are some of the legal debates surrounding economic independence following decolonization, particularly regarding resource exploitation laws?,LAW
+What were the major challenges faced during the decolonization process in Africa?,LOC
+How did India's geographical location influence its path to independence from British rule?,LOC
+What role did geography play in the decolonization of Southeast Asia?,LOC
+In what ways did the decolonization of South America differ from that of Africa?,LOC
+Describe the political and social changes in Algeria during its journey towards independence.,LOC
+How did the French resistance impact the process of decolonization in Indochina?,LOC
+What factors led to the successful decolonization movement in Ghana compared to other African nations?,LOC
+Compare the strategies used for decolonization in Egypt with those in Morocco.,LOC
+Discuss the influence of local leaders on the decolonization process in Kenya.,LOC
+How did the geographical positioning of Indonesia affect its struggle for independence from Dutch colonial rule?,LOC
+What role did international diplomacy play in facilitating the decolonization of Palestine?,LOC
+Explain how the Suez Canal's strategic location impacted Egypt's path to decolonization.,LOC
+Compare and contrast the decolonization experiences between Nigeria and South Africa.,LOC
+How did local uprisings contribute to the decolonization process in Vietnam?,LOC
+Describe the impact of World War II on the decolonization movements across Asia.,LOC
+What were the primary economic reasons behind the decolonization of Malaya (now Malaysia)?,LOC
+Discuss the role of local resistance groups in the decolonization of Angola from Portuguese rule.,LOC
+How did the Cold War influence the decolonization process in Cuba?,LOC
+Explain the significance of the Bandung Conference for Asian and African nations in their journey towards independence.,LOC
+What were the major international alliances that supported the decolonization of Zimbabwe?,LOC
+What was the cost of reparations demanded from colonial powers during decolonization processes in Africa?,MONEY
+How much funding did the United Nations allocate for supporting newly independent states emerging from decolonization?,MONEY
+During the decolonization of Asia, what were the estimated financial costs incurred by former colonial powers to maintain control before withdrawal?,MONEY
+What financial compensation was paid to planters and other European settlers leaving Algeria after its independence in 1962?,MONEY
+How much did France invest in infrastructure projects in North African countries post-decolonization as part of its policy towards the newly independent states?,MONEY
+In the context of British decolonization, what were the financial terms of compensation offered to white settlers leaving Kenya during the Lancaster House Agreement?,MONEY
+What was the economic aid package size provided by France to Tunisia following independence in 1956?,MONEY
+How much did Portugal spend on military campaigns aimed at suppressing nationalist movements in its African colonies during the decolonization process?,MONEY
+During the Indonesian struggle for independence from Dutch rule, what financial support did the United States provide to Indonesia as part of decolonization efforts?,MONEY
+What were the economic costs associated with the repatriation of French nationals (Pieds-Noirs) from Algeria following its independence in 1962?,MONEY
+How much money was involved in the British government's financial support packages for settlers leaving Rhodesia/Zimbabwe during decolonization?,MONEY
+In the aftermath of decolonization, what amount did the Netherlands offer as compensation to Indonesian veterans who fought against Dutch rule?,MONEY
+What were the total costs associated with the withdrawal of Belgian forces from the Congo and subsequent peacekeeping operations in 1960-1964?,MONEY
+How much financial aid was provided by international organizations to newly independent states in Africa during the peak years of decolonization (late 1950s - early 1960s)?,MONEY
+What were the financial implications for Portugal after its African colonies gained independence in terms of loss of trade revenues?,MONEY
+During the decolonization process, what was the value of assets that British colonists claimed from the Kenyan government as compensation for lost property and businesses?,MONEY
+How much economic support did the U.S. provide to South Vietnam during its struggle against communist forces following French withdrawal under the Geneva Accords?,MONEY
+What financial reparations were agreed upon between former colonial powers and newly independent states in Southeast Asia post-decolonization?,MONEY
+In terms of money, what was the scale of economic aid given by Western countries to Egypt after it declared independence and nationalized the Suez Canal?,MONEY
+How much did Britain spend on military operations during its withdrawal from Aden in 1967, a significant event in British decolonization efforts?,MONEY
+What were the main challenges faced by the African National Congress during South Africa's decolonization process?,NORP
+How did the Indian National Congress contribute to India's independence from British rule?,NORP
+In what ways did the FLN (National Liberation Front) impact Algeria's path to independence?,NORP
+What role did the Mau Mau play in Kenya’s struggle for decolonization and self-governance?,NORP
+Can you describe the involvement of the Viet Minh in Vietnam’s fight against French colonial rule?,NORP
+How did the Indonesian National Party contribute to Indonesia's independence from Dutch colonization?,NORP
+What was the impact of the African Party for the Independence of Guinea and Cape Verde (PAIGC) on decolonization processes in West Africa?,NORP
+Could you explain the role of the Parti Pekerja Malaysia (Malaysian Workers' Party) in shaping Malaysia's post-colonial identity after British rule ended?,NORP
+In what ways did the National Front for the Liberation of Angola (FNLA) influence Angolan decolonization from Portuguese control?,NORP
+What were the key strategies employed by the Moro Islamic Liberation Front during their struggle against colonial forces in the Philippines?,NORP
+How significant was the Pan-African movement led by Kwame Nkrumah in accelerating decolonization across Africa?,NORP
+Could you discuss the impact of the Sinn Féin party on Ireland's fight for independence from British rule during its early 20th-century decolonization process?,NORP
+What role did the National Liberation Front (FLN) play in Morocco’s struggle for independence from French colonial powers?,NORP
+How did the ZANU-PF movement influence Zimbabwe’s journey towards self-governance after British colonial rule?,NORP
+Can you elaborate on the strategies used by the MPLA (People's Movement for the Liberation of Angola) during Angola's decolonization process?,NORP
+What was the significance of the Somali Youth League in Somalia’s fight against Italian and British colonial powers?,NORP
+How did the Harkatul Ansar organization contribute to Pakistan's struggle for independence from British rule?,NORP
+Could you describe the involvement of the National Council of Nigeria and the Cameroons (NCNC) in decolonization efforts in Nigeria and Cameroon during the mid-20th century?,NORP
+What were the primary tactics employed by the Front de Libération Nationale (FLN) in their fight for Algeria's independence from French colonialism?,NORP
+How did the African National Congress work alongside other organizations to achieve South Africa’s decolonization and transition to majority rule?,NORP
+What was the 1st African country to gain independence after World War II?,ORDINAL
+Which is considered the 2nd Asian country to achieve decolonization post-World War II?,ORDINAL
+In what year did the 3rd Caribbean nation become independent from colonial rule?,ORDINAL
+How did the 4th South American country transition out of colonial governance during the 20th century?,ORDINAL
+What role did the 5th European power play in the decolonization processes around the globe?,ORDINAL
+Which international event most influenced the 6th African nation's path to independence?,ORDINAL
+Can you name the 7th country that underwent significant social changes due to decolonization?,ORDINAL
+What were the primary challenges faced by the 8th Southeast Asian country in achieving sovereignty after decolonization?,ORDINAL
+How did the 9th South Pacific island achieve its status as a sovereign nation post-decolonization?,ORDINAL
+Who led the movement for the 10th African country to gain independence from colonial rule?,ORDINAL
+What international treaties were most influential in securing the independence of the 11th Middle Eastern state during decolonization?,ORDINAL
+Which economic factors played a significant role in the 12th Asian nation's journey towards sovereignty post-decolonization?,ORDINAL
+How did cultural identity influence the 13th African country's path to becoming an independent nation after colonial rule ended?,ORDINAL
+What were some of the diplomatic challenges faced by the 14th European power during the decolonization process in its overseas territories?,ORDINAL
+Can you describe how technological advancements impacted the military aspects of the 15th African country's fight for independence?,ORDINAL
+Which global powers provided support to the liberation movements of the 16th Asian country that gained independence after World War II?,ORDINAL
+What were some of the key ideological differences between the 17th Caribbean nation and its colonial ruler during the decolonization process?,ORDINAL
+How did changes in international law influence the 18th African country's road to sovereignty post-decolonization?,ORDINAL
+In what ways did environmental factors play a role in shaping the 19th South American country's path towards independence from colonial rule?,ORDINAL
+What were some of the long-term social impacts on the 20th Southeast Asian nation following its decolonization process?,ORDINAL
+What role did the United Nations play in supporting decolonization processes?,ORG
+How did the African Union contribute to the decolonization of African nations?,ORG
+In what ways did the Organization of American States influence decolonization efforts in the Americas?,ORG
+Can you describe the involvement of the European Union in the post-decolonization development aid programs?,ORG
+What was the League of Nations' stance on decolonization movements before its dissolution?,ORG
+How did the Association of Southeast Asian Nations (ASEAN) impact the decolonization processes in Southeast Asia?,ORG
+What role did NATO play, if any, during the decolonization of former European colonies?,ORG
+Which policies were implemented by the Commonwealth to support countries undergoing decolonization?,ORG
+How did the Non-Aligned Movement assist newly independent states following decolonization?,ORG
+What was the impact of the World Bank's interventions in post-decolonial economic development?,ORG
+In what ways did the International Monetary Fund (IMF) influence the economic policies of newly independent nations after decolonization?,ORG
+How has the Organization for Economic Co-operation and Development (OECD) contributed to the socio-economic development of countries that have undergone decolonization processes?,ORG
+What role do human rights organizations like Amnesty International play in supporting former colonies post-decolonization?,ORG
+Can you explain how NGOs such as Oxfam contribute to the socio-economic recovery of post-colonial states?,ORG
+How did the Red Cross adapt its operations during and after the decolonization processes worldwide?,ORG
+What role has the World Trade Organization (WTO) played in shaping trade relations between former colonies and their colonizers?,ORG
+In what ways have international sports organizations like FIFA contributed to national identity formation post-decolonization?,ORG
+How did multinational corporations influence the economic development of countries during the decolonization process?,ORG
+What role did the International Labor Organization (ILO) play in improving labor conditions in newly independent states after decolonization?,ORG
+Can you describe how research organizations, such as think tanks, have influenced policy-making in post-decolonial contexts?,ORG
+What percentage of the former colonies gained independence in the 20th century?,PERCENT
+By what percentage did global GDP increase due to decolonization processes post-World War II?,PERCENT
+How much, in terms of a percentage, did European colonial powers' control over territories decrease from 1945 to 1965?,PERCENT
+What is the estimated percentage of African nations that achieved independence between 1950 and 1970?,PERCENT
+By what percent did international trade increase in newly independent countries immediately following decolonization?,PERCENT
+How much, as a percentage, did European empires' global influence decrease by the end of the Cold War compared to the beginning?,PERCENT
+What was the approximate percentage decline in population within former colonial territories after independence due to migration back to colonizing countries?,PERCENT
+By what percentage did newly independent nations' participation in United Nations peacekeeping missions increase from 1960 to 2000?,PERCENT
+How much, in terms of a percentage, did the number of languages used in former colonies increase after decolonization due to official recognition?,PERCENT
+What is the estimated percentage growth in literacy rates among newly independent countries within their first two decades post-independence?,PERCENT
+By what percent did the global population residing under colonial rule decrease between 1945 and 1960?,PERCENT
+How much, as a percentage, did foreign investment into former colonies increase from the late 1980s to early 2000s?,PERCENT
+What was the approximate percentage of former colonies that had established democratic systems by the year 2000?,PERCENT
+By what percent did global agricultural production in decolonized regions rise between 1950 and 1975?,PERCENT
+How much, as a percentage, did industrial output grow in newly independent states from 1960 to 1980 compared to the pre-independence era?,PERCENT
+What is the estimated percentage of former colonies that have implemented some form of indigenous language revitalization programs post-decolonization?,PERCENT
+By what percentage did urban populations increase as a result of decolonization in Africa and Asia from 1950 to 2000?,PERCENT
+How much, in terms of a percentage, did the global trade balance shift towards newly independent countries by the year 2000 compared to pre-decolonization levels?,PERCENT
+What was the approximate percentage increase in educational spending as a proportion of GDP in former colonies from 1965 to 1985?,PERCENT
+By what percent did the global number of decolonized territories decrease between 1945 and 2000, reflecting the end of most European colonial empires?,PERCENT
+Who was the leader of India during its decolonization process from British rule?,PERSON
+Which key figure played a significant role in Ghana's independence movement and served as its first president after decolonization?,PERSON
+What was the name of the Algerian revolutionary who fought against French colonialism and later became the Prime Minister of the Provisional Government of the Algerian Republic?,PERSON
+Who led the anti-colonial struggle in Vietnam, playing a crucial role in the country's eventual independence from France?,PERSON
+Which influential leader orchestrated Kenya's path to independence from British rule through political negotiations rather than armed conflict?,PERSON
+What Kenyan politician was instrumental in leading the Mau Mau Uprising and later became the first Prime Minister of independent Kenya?,PERSON
+Who was a prominent figure in the decolonization process of Tunisia, leading the country to its independence from French colonial control?,PERSON
+Which Indonesian nationalist leader played a pivotal role in Indonesia's struggle for independence from Dutch colonialism after World War II?,PERSON
+What British politician is remembered for her role in the decolonization policies that led to the granting of independence to many African and Asian countries during the 1950s and early 1960s?,PERSON
+Who was a leading figure in the decolonization process of Cameroon, instrumental in achieving independence from French colonial rule?,PERSON
+Which Nigerian nationalist is remembered for his significant role in Nigeria's struggle for independence from British colonialism?,PERSON
+What Mozambican revolutionary leader played a crucial role in ending Portuguese colonial rule and later became the first President of independent Mozambique?,PERSON
+Who was an important figure in Namibia’s fight for independence, leading the South West Africa People's Organization (SWAPO) against apartheid-era South Africa?,PERSON
+Which Guyanese politician was a central figure in his country's path to independence from British colonial rule and later became Prime Minister of independent Guyana?,PERSON
+What Tanzanian leader played an important role in Tanganyika’s decolonization process, leading the nation through its first years as an independent republic after gaining freedom from Britain?,PERSON
+Who was a key figure in Zaire's (now Democratic Republic of Congo) struggle for independence from Belgium and later became the country's first Prime Minister under the new regime?,PERSON
+Which Malawian leader was instrumental in his country’s transition to independence from British colonial rule, leading the nation as its first president after achieving sovereignty?,PERSON
+Who led Jamaica to independence from Britain, serving as the country's first Prime Minister during this critical period of decolonization?,PERSON
+What Indonesian nationalist played a crucial role in drafting Indonesia’s declaration of independence and later became one of the most influential figures in post-colonial Indonesia?,PERSON
+Which Maldivian politician is recognized for his significant role in leading the Maldives to gain full independence from British colonial rule?,PERSON
+What products were used in the communication between colonizers and indigenous leaders during decolonization processes?,PRODUCT
+Which technologies played a significant role in facilitating independence movements during decolonization?,PRODUCT
+What kind of weapons were predominantly used by resistance groups during various decolonization processes?,PRODUCT
+How did colonial powers utilize certain goods to maintain control over their colonies before the onset of decolonization?,PRODUCT
+In the context of decolonization, which educational materials were crucial in shaping the ideologies of freedom fighters?,PRODUCT
+What forms of media products were pivotal in spreading awareness about independence movements worldwide during decolonization?,PRODUCT
+Which transportation vehicles were essential for leaders involved in decolonization to mobilize and coordinate with resistance groups across vast territories?,PRODUCT
+During decolonization, what type of medical supplies were critical for treating wounded freedom fighters or civilians affected by the conflicts?,PRODUCT
+What agricultural products were vital for sustenance during prolonged periods of resistance movements leading up to independence?,PRODUCT
+Which communication devices enabled faster dissemination of information among different factions of resistance groups during decolonization?,PRODUCT
+How did certain pharmaceuticals play a role in managing health crises that arose due to the chaos of decolonization processes?,PRODUCT
+What types of clothing were symbolic or functional for leaders and supporters of decolonization movements across various regions?,PRODUCT
+Which construction materials were used extensively in rebuilding infrastructure after gaining independence during decolonization periods?,PRODUCT
+In the realm of decolonization, what educational tools helped former colonies transition to self-governance?,PRODUCT
+What kind of financial products or currencies emerged as a result of newly independent nations establishing their economic sovereignty?,PRODUCT
+Which broadcasting technologies allowed for the creation and distribution of nationalistic messages during decolonization processes?,PRODUCT
+How did certain transportation services support logistical efforts in moving people and goods across borders post-decolonization?,PRODUCT
+What types of security products, such as surveillance equipment or defensive mechanisms, were crucial for maintaining order after independence was achieved?,PRODUCT
+Which renewable energy sources began to be harnessed by newly independent states during the decolonization era?,PRODUCT
+How did advancements in agricultural technology contribute to economic stability in post-decolonial nations striving for self-sufficiency?,PRODUCT
+How many countries achieved independence from France during the decolonization process in Africa?,QUANTITY
+What was the approximate number of territories that gained independence after World War II due to decolonization processes worldwide?,QUANTITY
+Approximately how many years did it take for most African nations to gain independence following World War II?,QUANTITY
+How many Dutch colonies in Asia became independent states as part of the decolonization process post-World War II?,QUANTITY
+What is the estimated number of people who migrated within Europe during the initial stages of decolonization from 1945 to 1960?,QUANTITY
+By what percentage did the global population increase between the years 1950 and 2000 as a result of improved living standards post-decolonization in former colonies?,QUANTITY
+How many French protectorates were dissolved during the Algerian War for independence from France (1954-1962)?,QUANTITY
+What was the approximate number of Indian troops that fought under British command during World War II, leading up to India's independence movement?,QUANTITY
+By what percentage did economic growth in former colonies increase on average within a decade after gaining independence from colonial powers between 1950 and 1980?,QUANTITY
+How many European settlers returned to Europe following the decolonization of Algeria in 1962?,QUANTITY
+What was the estimated number of British soldiers stationed across its colonies globally at the peak of the British Empire before World War II?,QUANTITY
+By how much did the GDP per capita increase, on average, for countries that gained independence from colonial rule between 1945 and 1975?,QUANTITY
+How many United Nations member states were former colonies in Africa by the year 2000?,QUANTITY
+What was the total number of U.S. military personnel involved in the Korean War, which coincided with decolonization movements in Asia during the mid-20th century?,QUANTITY
+By what percentage did literacy rates increase on average among adult populations in African countries between 1960 and 1980 post-decolonization efforts?,QUANTITY
+How many territories were under Portuguese control until the late 1970s as part of their decolonization process after the Carnation Revolution?,QUANTITY
+What was the approximate number of British troops involved in suppressing the Mau Mau uprising in Kenya, a key event leading up to Kenya's independence in 1963?,QUANTITY
+How many years did it take for Southeast Asian countries, such as Vietnam and Cambodia, to gain full independence from French colonial rule after World War II?,QUANTITY
+What was the approximate number of civilians displaced during India-Pakistan partition in 1947 at the time of Indian independence?,QUANTITY
+By what percentage did life expectancy increase on average for former colonies in Asia between 1950 and 2000 post-decolonization efforts?,QUANTITY
+When did India gain independence from British rule during the decolonization process?,TIME
+What year marked the beginning of the Algerian War for Independence from France?,TIME
+In which decade did most African countries achieve their independence?,TIME
+When was the Suez Crisis, a significant event in post-war decolonization processes?,TIME
+Which year is considered pivotal for Southeast Asian nations as they began their journey towards independence from colonial powers?,TIME
+What specific date does Indonesia celebrate its independence from Dutch rule during the decolonization process?,TIME
+During which time period did the decolonization of the Caribbean islands largely take place?,TIME
+When was the Mau Mau Uprising in Kenya, an event that significantly influenced British decolonization efforts in Africa?,TIME
+In what year did Vietnam achieve full independence after the decisive battle against French colonial forces at Dien Bien Phu?,TIME
+What time frame is associated with the end of Portuguese colonial rule in Angola and Mozambique during the late 20th century?,TIME
+When did Ghana become independent, marking the start of a wave of decolonization across Africa?,TIME
+In which year was the Congo Crisis that followed Belgian withdrawal from the region?,TIME
+What time period is known for the rapid decolonization in French West Africa following World War II?,TIME
+When did Malaysia gain independence from British colonial rule during its decolonization process?,TIME
+Which specific year is recognized as the beginning of Indonesia's struggle towards independence from Dutch colonization post-World War II?,TIME
+During which years did the transition period occur for Nigeria moving towards self-governance and eventual independence from Britain?,TIME
+What time frame corresponds to the start of the Malayan Emergency, an event that influenced British decolonization in Southeast Asia?,TIME
+When did Morocco gain its independence after a struggle against French colonial rule during the process of decolonization?,TIME
+In what year did Pakistan become independent as part of the Partition of India from British control?,TIME
+Which time period saw the implementation of the Tripartite Intervention that led to the end of Belgian colonialism in Congo?,TIME
+What painting captures the emotions and struggles of African nations gaining independence from colonial powers?,WORK_OF_ART
+Which sculpture symbolizes the freedom and identity restoration during decolonization in Asia?,WORK_OF_ART
+Can you name a photograph that highlights the social changes following decolonization in the Caribbean?,WORK_OF_ART
+Is there a novel that vividly depicts the cultural shifts experienced by Latin American countries after their independence movements?,WORK_OF_ART
+Which mural artwork illustrates the impacts of European withdrawal from African territories post-decolonization?,WORK_OF_ART
+What poem reflects on the complex legacy left behind by colonialism in South Asia's journey towards self-governance?,WORK_OF_ART
+Is there a film that portrays the psychological effects of decolonization on both the colonizers and the colonized in Southeast Asia?,WORK_OF_ART
+Which musical composition captures the spirit of resistance and liberation during African countries' struggle for independence?,WORK_OF_ART
+Can you identify an installation piece that examines the role of international organizations in the process of decolonization worldwide?,WORK_OF_ART
+What theatrical play explores the personal stories behind the broader narrative of decolonization in Oceania?,WORK_OF_ART
+Is there a graphic novel series that documents the various strategies used by different countries during their fight for independence from colonial rule?,WORK_OF_ART
+Which digital artwork represents the modern-day implications of decolonization on global politics and economy?,WORK_OF_ART
+What piece of conceptual art provides insight into how indigenous cultures preserved their identities amidst European colonization?,WORK_OF_ART
+Is there a performance art that highlights the challenges faced by newly independent nations in Africa during the late 20th century?,WORK_OF_ART
+Which collage artwork blends historical images with contemporary ones to comment on decolonization's lasting impact?,WORK_OF_ART
+Can you name an opera that explores themes of freedom and national identity following Latin America’s independence movements?,WORK_OF_ART
+What children’s book through its illustrations and narrative illustrates the process of decolonization in simple terms for young readers?,WORK_OF_ART
+Is there a documentary film that focuses on the role of women during various stages of the decolonization process across different continents?,WORK_OF_ART
+Which sculpture garden showcases works that reflect upon the physical legacies left by colonialism around the world?,WORK_OF_ART
+What virtual reality experience allows viewers to immerse themselves in the events leading up to and following a country's independence from colonial rule?,WORK_OF_ART
+What were the primary goals of decolonization movements across Africa and Asia?,EVENT
+Which international organization played a significant role in supporting various decolonization processes post-World War II?,ORG
+How many countries gained independence as part of the wave of decolonization after World War II?,CARDINAL
+Can you name a key figure who led their country to independence through the process of decolonization?,PERSON
+What was the first African nation to achieve independence from colonial rule following World War II?,LOC
+Which treaty or agreement marked the beginning of the end for colonial empires in Asia and Africa?,LAW
+In what year did India gain its independence from British rule, marking a significant milestone in the decolonization process?,DATE
+What economic impact did decolonization have on former European colonial powers such as Britain and France?,PRODUCT
+Which method was most commonly used by colonies to achieve independence during the decolonization period?,EVENT
+How did the United Nations influence the process of decolonization across different continents?,ORG
+Can you estimate the percentage of global territory that underwent changes due to decolonization in the 20th century?,PERCENT
+Which European country had the largest territorial holdings before embarking on a path towards decolonization?,GPE
+How did the Cold War influence the process and outcomes of decolonization across different regions?,EVENT
+What was one of the major challenges faced by newly independent nations post-decolonization in terms of governance and stability?,WORK_OF_ART
+Which African nation's struggle for independence involved a guerrilla war that lasted over a decade?,LOC
+How did the language policies change in former colonies after they achieved independence from colonial powers?,LANGUAGE
+What role did international trade play during the transition period of decolonization for many countries?,PRODUCT
+Can you name one of the key legal documents that newly independent nations had to draft as part of their post-decolonization process?,LAW
+Which Asian country’s path to independence included a significant struggle against both colonial and imperial powers?,LOC
+How did global public opinion shift towards supporting decolonization movements in the mid-20th century?,EVENT

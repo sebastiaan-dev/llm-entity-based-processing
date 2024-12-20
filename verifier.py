@@ -3,6 +3,8 @@ from fuzzywuzzy import fuzz
 from sentence_transformers import SentenceTransformer, util
 
 from models import Entity, Problem
+from debug import print_debug, print_warn
+import re
 
 
 class Verifier:
@@ -10,6 +12,7 @@ class Verifier:
         self.similarity_model = SentenceTransformer("paraphrase-MiniLM-L6-v2")
 
     def normalize_question(self, question: str) -> str:
+
         q = question.strip()
         if q.lower().startswith("question:"):
             q = q[len("question:") :].strip()
@@ -36,6 +39,7 @@ class Verifier:
             "srsearch": main_query,
             "format": "json",
         }
+
         response = req.get(url, params=params)
         data = response.json()
 
@@ -57,9 +61,19 @@ class Verifier:
     def verify(self, problem: Problem, extracted_answer: str) -> bool:
         """
         Verify the correctness of the extracted answer.
+
+        PROBLEMS:
+
+        expected_title and extracted_anwer are incorrect we have to use other information we have
+
+        We could check if answer is yes/no then retrive the link from the entity from the Q and
+        calculate the score based on this.
+
+        If answer is the link, check the score based on the link and the entity from the Q
         """
-        if len(problem.question_entities) == 0:
-            return False
+
+        # if len(problem.question_entities) == 0:
+        #    return False
 
         question = self.normalize_question(problem.question.text)
 
@@ -71,37 +85,57 @@ class Verifier:
         # Normalize the extracted answer entity
         extracted_entity = extracted_answer.split("/")[-1].replace("_", " ").lower()
 
+        print_debug("Extracted entity: ", extracted_entity)
+        print_debug("Expected title: ", expected_title)
+
+        # Fallback to context validation if extracted entity is the link
+        link = problem.answer.text
+        if link and link.startswith("https"):
+            try:
+                response = req.get(link)
+                if response.status_code == 200:
+                    # Validate context relevance
+                    question_terms = [term.lower() for term in question.split()]
+                    if any(term in response.text.lower() for term in question_terms):
+                        # print("DEBUG: Correctness Comparison: correct (fallback context validation)")
+                        return True
+            except Exception as e:
+                print(f"DEBUG: Error accessing Wikipedia page for fallback: {e}")
+            return False
+        else:
+            # its a yes no answer still to implement
+            return True
+
+        if not problem.question_entities:
+            return False
+
         if not extracted_entity:
             # print("DEBUG: Extracted Entity is None. Skipping similarity checks.")
             return False
 
-        if not expected_title:
-            # print("DEBUG: Expected Title is None. Skipping similarity checks.")
-            # Fallback to context validation if extracted entity is valid
-            if extracted_entity:
-                entity_context_title = self.query_wikipedia(extracted_entity, [])
-                if entity_context_title:
-                    fallback_url = f"https://en.wikipedia.org/wiki/{entity_context_title.replace(' ', '_')}"
-                    try:
-                        response = req.get(fallback_url)
-                        if response.status_code == 200:
-                            # Validate context relevance
-                            question_terms = [term.lower() for term in question.split()]
-                            if any(
-                                term in response.text.lower() for term in question_terms
-                            ):
-                                # print("DEBUG: Correctness Comparison: correct (fallback context validation)")
-                                return True
-                    except Exception as e:
-                        print(
-                            f"DEBUG: Error accessing Wikipedia page for fallback: {e}"
-                        )
+        if not expected_title and extracted_entity:
+            print_debug("Expected entity is: ", extracted_entity)
+            entity_context_title = self.query_wikipedia(extracted_entity, [])
+            if entity_context_title:
+                fallback_url = f"https://en.wikipedia.org/wiki/{entity_context_title.replace(' ', '_')}"
+                try:
+                    response = req.get(fallback_url)
+                    if response.status_code == 200:
+                        # Validate context relevance
+                        question_terms = [term.lower() for term in question.split()]
+                        if any(
+                            term in response.text.lower() for term in question_terms
+                        ):
+                            # print("DEBUG: Correctness Comparison: correct (fallback context validation)")
+                            return True
+                except Exception as e:
+                    print(f"DEBUG: Error accessing Wikipedia page for fallback: {e}")
             return False
 
         # Direct match: Extracted entity matches expected title
-        if fuzz.partial_ratio(extracted_entity, expected_title.lower()) > 70:
-            # print("DEBUG: Correctness Comparison: correct (direct match)")
-            return True
+        # if fuzz.partial_ratio(extracted_entity, expected_title.lower()) > 70:
+        # print("DEBUG: Correctness Comparison: correct (direct match)")
+        #    return True
 
         # Semantic similarity match
         similarity_score = util.pytorch_cos_sim(

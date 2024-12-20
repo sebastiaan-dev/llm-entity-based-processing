@@ -8,3 +8,8 @@ Q7	Question: What is the chemical symbol for water? Answer:
 Q8	Question: Which planet is known as the Red Planet? Answer:
 Q9	Question: What currency is used in Japan? Answer:
 Q10	Question: Who painted the Mona Lisa? Answer:
+Q11	Question: Is Mount Everest part of the Himalayas? Answer:
+Q12	Question: What is the square root of 64? Answer:
+Q13	Question: Where is the Great Barrier Reef located? Answer:
+Q14	Question: Who is the CEO of Tesla? Answer:
+Q15	Question: Which language is primarily spoken in Brazil? Answer:

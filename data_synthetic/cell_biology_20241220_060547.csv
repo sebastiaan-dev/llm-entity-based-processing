@@ -1,0 +1,381 @@
+Question,Entity-Type
+What is the typical diameter in micrometers of an average animal cell?,CARDINAL
+How many chromosomes are typically found in human somatic cells?,CARDINAL
+What is the approximate pH value inside a lysosome?,CARDINAL
+During mitosis, how many centrosomes do animal cells have?,CARDINAL
+In plant cells, what is the typical range for the number of plasmodesmata per cell wall area (in thousands)?,CARDINAL
+How many ATP molecules are produced from one glucose molecule in aerobic respiration?,CARDINAL
+What percentage of a eukaryotic cell's volume does the nucleus typically occupy?,CARDINAL
+How many steps are involved in the Calvin cycle to produce one molecule of glucose?,CARDINAL
+In an experiment, if a culture of bacteria doubles every 30 minutes, how many times would it double in 2 hours?,CARDINAL
+What is the typical number of mitochondria found in a human liver cell?,CARDINAL
+How many different types of organelles are commonly identified in eukaryotic cells?,CARDINAL
+During meiosis, how many daughter cells are produced from one parent cell?,CARDINAL
+Approximately how many ribosomes can be present on a single mRNA strand during translation?,CARDINAL
+What is the average number of membrane-bound vesicles involved in the exocytosis process per minute in an active cell?,CARDINAL
+In a typical experiment, if 50% of cells are in S phase at one point, how many cells might you expect to see in this phase out of 100 observed cells?,CARDINAL
+How many base pairs does a human chromosome typically contain?,CARDINAL
+What is the number of different enzymes involved in glycolysis?,CARDINAL
+If a cell has 8 chromosomes before mitosis begins, how many chromosomes will each daughter cell have after cytokinesis?,CARDINAL
+Approximately what percentage of ATP production occurs through oxidative phosphorylation compared to other metabolic pathways in mammalian cells?,CARDINAL
+How many layers does the nuclear envelope consist of in eukaryotic cells?,CARDINAL
+When was the cell theory first proposed?,DATE
+What year did Robert Hooke observe and name the cell?,DATE
+In which year did Matias Schleiden and Theodor Schwann establish the foundational principles of cell biology?,DATE
+On what date was the concept of prokaryotic cells identified as distinct from eukaryotic cells?,DATE
+When did the electron microscope first become available for studying cell structures in detail?,DATE
+Which date marks the discovery of DNA's double helix structure, a key component of cellular genetics?,DATE
+In what year did scientists first identify and describe mitochondria as energy-producing organelles within cells?,DATE
+On which date was the fluid mosaic model of the cell membrane proposed by Singer and Nicolson?,DATE
+When did the Human Genome Project, crucial for understanding cellular functions, officially begin?,DATE
+What is the date associated with the first successful cloning of a mammal from an adult somatic cell, Dolly the sheep?,DATE
+In which year was the concept of programmed cell death (apoptosis) first described in scientific literature?,DATE
+On what date did the first successful cellular reprogramming to create induced pluripotent stem cells occur?,DATE
+When was the discovery of telomerase and its role in aging and cancer made by Elizabeth Blackburn and Carol Greider?,DATE
+What year saw the publication of the first complete genome sequence of a free-living organism, Haemophilus influenzae?,DATE
+On which date did scientists first observe the process of endocytosis in living cells under an electron microscope?,DATE
+When was the cell cycle first comprehensively mapped out with identified checkpoints and phases?,DATE
+What is the date when the concept of cellular senescence was proposed as a mechanism to prevent cancerous growths?,DATE
+In which year did research into RNA interference (RNAi) begin, leading to a greater understanding of gene regulation in cells?,DATE
+On what date was the first successful artificial synthesis of a functional bacterial genome reported?,DATE
+When did the CRISPR-Cas9 system become widely adopted for genetic editing within living cells?,DATE
+What is the process called when a cell divides into two daughter cells?,Event
+How does mitosis contribute to the development of an organism?,Event
+Can you describe the event where a cell decides its fate during differentiation?,Event
+What triggers apoptosis in damaged or unwanted cells?,Event
+During which phase do chromosomes align at the metaphase plate?,Event
+What initiates the cell cycle, leading to cell division?,Event
+How does meiosis lead to genetic variation among offspring?,Event
+Can you explain the event of endocytosis where a cell engulfs external material?,Event
+What is the event that occurs during binary fission in prokaryotes?,Event
+Describe the process by which lysosomes break down waste materials within cells.,Event
+How does the event of exocytosis facilitate the release of cellular products?,Event
+Can you explain how vesicles are involved in transporting proteins within a cell?,Event
+What happens during the fusion of synaptic vesicles with the neuron's membrane?,Event
+Describe the process of phagocytosis where cells engulf large particles.,Event
+How does cell signaling initiate and regulate various cellular activities?,Event
+Explain how calcium ions trigger muscle contraction at the molecular level.,Event
+Can you describe the role of G proteins in signal transduction within a cell?,Event
+What is the mechanism by which hormones bind to receptors on or inside cells?,Event
+Describe how ion channels open to allow specific ions into the cell.,Event
+How does protein synthesis begin with the transcription process in the nucleus?,Event
+What is the function of mitochondria in cell biology?,FAC
+How does the endoplasmic reticulum contribute to protein synthesis within cells?,FAC
+Describe the role of Golgi apparatus in cellular activities.,FAC
+Can you explain how lysosomes perform their functions inside a cell?,FAC
+What are the primary roles of ribosomes in cellular processes?,FAC
+How does the nucleus control cellular activities and gene expression?,FAC
+In what way do peroxisomes contribute to metabolic processes within cells?,FAC
+Explain the role of centrioles during cell division.,FAC
+What is the function of the plasma membrane in maintaining cellular integrity?,FAC
+Describe how mitochondria produce energy for a cell through ATP synthesis.,FAC
+How does the smooth endoplasmic reticulum support lipid metabolism and detoxification functions?,FAC
+Can you detail the process by which Golgi apparatus modifies, sorts, and packages proteins and lipids?,FAC
+What specific tasks do lysosomes perform in breaking down waste materials and debris within cells?,FAC
+How do ribosomes facilitate protein synthesis from mRNA transcripts?,FAC
+Explain how the nucleus stores genetic information and directs cellular activities.,FAC
+In what manner does the rough endoplasmic reticulum assist with protein modification and transport?,FAC
+What is the role of peroxisomes in breaking down fatty acids and detoxifying harmful substances within cells?,FAC
+How do centrioles organize microtubules during cell division to ensure proper chromosome separation?,FAC
+Describe how the plasma membrane regulates substance movement into and out of a cell.,FAC
+Can you explain ATP synthesis by mitochondria and its significance for cellular energy production?,FAC
+What is the contribution of Germany to cell biology research?,GPE
+How has Japan influenced the field of cell biology with its technological advancements?,GPE
+Can you describe the role of France in pioneering cellular imaging techniques?,GPE
+In what ways has Italy contributed to our understanding of cell organelle functions?,GPE
+What significant cell biology discoveries have been made by scientists from Canada?,GPE
+How did the United States lead in the development of CRISPR technology for gene editing in cells?,GPE
+Which contributions has the United Kingdom made to the study of cell division and cancer research?,GPE
+Can you discuss Australia's role in studying the mechanisms of cellular apoptosis?,GPE
+What are some major advancements in stem cell research coming out of South Korea?,GPE
+How does Brazil contribute to the global knowledge on plant cell biology?,GPE
+Which European country has been at the forefront of developing new methods for cell culturing?,GPE
+What role has China played in advancing the field of cellular genomics?,GPE
+Can you mention any significant contributions India has made to understanding immune cells?,GPE
+How does Switzerland contribute to research on mitochondria and their function in cells?,GPE
+Which Middle Eastern country is notable for its advancements in personalized medicine through cell biology studies?,GPE
+What are some recent developments in viral vector technology that have come from the Netherlands?,GPE
+In what way has Sweden contributed to the understanding of cellular signaling pathways?,GPE
+How does Israel's research impact global progress in regenerative medicine using stem cells?,GPE
+Can you discuss Russia's contributions to the development of cryopreservation techniques for cells?,GPE
+What are some key discoveries in cell biology made by researchers from Mexico?,GPE
+What is the primary function of mitochondria in a cell?,LANGUAGE
+How do ribosomes contribute to protein synthesis within cells?,LANGUAGE
+Describe the process of DNA replication during the S phase of interphase.,LANGUAGE
+Explain the role of the Golgi apparatus in modifying, sorting, and packaging proteins and lipids.,LANGUAGE
+What is the significance of the endoplasmic reticulum in synthesizing proteins and lipids for membranes?,LANGUAGE
+How does the cytoskeleton assist in cell division and movement?,LANGUAGE
+Can you describe the process of osmosis and its importance to cells?,LANGUAGE
+What role do lysosomes play in cellular digestion?,LANGUAGE
+Explain how the plasma membrane maintains homeostasis within a cell.,LANGUAGE
+Describe the mechanism by which cells undergo mitosis.,LANGUAGE
+How do chloroplasts aid in photosynthesis for plant cells?,LANGUAGE
+Can you explain what happens during cytokinesis after nuclear division is complete?,LANGUAGE
+What are the differences between prokaryotic and eukaryotic cells?,LANGUAGE
+Explain how vesicles transport materials within a cell.,LANGUAGE
+Describe the process of exocytosis and its role in exporting substances from a cell.,LANGUAGE
+How does the nucleus control cellular activities by regulating gene expression?,LANGUAGE
+Can you explain the function of centrioles during cell division in animal cells?,LANGUAGE
+What is the function of microfilaments, intermediate filaments, and microtubules within the cytoskeleton?,LANGUAGE
+Explain how peroxisomes break down toxic substances in a cell.,LANGUAGE
+Describe the role of the nucleolus in ribosome production.,LANGUAGE
+What are the legal guidelines for conducting cell culture research on human cells in the United States?,LAW
+How does international law regulate the sharing of biological materials between countries for cell biology research purposes?,LAW
+Under which laws is genetic modification of human cells governed within the European Union to ensure safety and ethical standards?,LAW
+What are the legal consequences if a laboratory fails to comply with biosafety level requirements when handling pathogenic cells?,LAW
+Can researchers be legally held accountable for accidentally releasing genetically modified organisms into the environment during cell biology experiments?,LAW
+How does patent law protect new methods of cell differentiation or reprogramming discovered by scientists in their labs?,LAW
+In what ways do international treaties affect the use of animal cells for testing drugs intended for human consumption?,LAW
+What are the legal requirements for obtaining informed consent from donors whose biological samples will be used for cell biology research?,LAW
+How does privacy law apply to genetic data obtained from individual cells in a study that is published or shared publicly?,LAW
+Under what circumstances can a government legally mandate the destruction of certain types of genetically modified cells for public safety reasons?,LAW
+What legal measures are in place to prevent intellectual property theft when cell lines are developed and used by multiple researchers globally?,LAW
+How does international law address the distribution of benefits derived from research on human cells between developing and developed countries?,LAW
+Can a researcher be legally liable if their publication includes findings based on cells obtained through unethical means, such as unauthorized genetic modification or improper consent?,LAW
+What legal frameworks are in place to protect the rights of individuals who have had their cell lines used without explicit consent for commercial purposes?,LAW
+How does international law regulate the transfer of biological samples containing cells across borders for research and educational use?,LAW
+What is the legal status of using CRISPR technology on human cells with the intent to alter genes that may be passed onto future generations within a country's jurisdiction?,LAW
+Under which conditions can a pharmaceutical company legally patent a cell line derived from naturally occurring biological samples for the development of therapeutic drugs?,LAW
+How do national laws differ in their regulation of stem cell research, particularly regarding the use of embryonic cells compared to adult or induced pluripotent stem cells?,LAW
+What are the legal implications when a country's law on gene editing and cell manipulation diverges significantly from international ethical guidelines?,LAW
+Can a private institution legally enforce restrictions on how researchers can share their findings related to specific cell lines beyond what is required by national laws?,LAW
+Where is the nucleus located within a cell?,LOC
+What part of the plant cell contains chloroplasts?,LOC
+In which section of the cell does protein synthesis occur?,LOC
+Can lysosomes be found in both animal and plant cells?,LOC
+Where are mitochondria situated within a eukaryotic cell?,LOC
+Which area of the cell is responsible for lipid metabolism?,LOC
+What location in the cell contains genetic material not found in the nucleus?,LOC
+In which part of the cell does glycolysis take place?,LOC
+Can you identify where peroxisomes are commonly located within a cell?,LOC
+Where would you expect to find vacuoles in plant cells?,LOC
+Is the Golgi apparatus found in both prokaryotic and eukaryotic cells?,LOC
+In which cellular location does DNA replication occur during the S phase of interphase?,LOC
+What specific region of the mitochondria is responsible for ATP production?,LOC
+Where are ribosomes primarily located within a cell to facilitate protein synthesis?,LOC
+Could you tell me where centrioles are typically found in animal cells?,LOC
+In which part of the cell do lysosomes break down waste materials and cellular debris?,LOC
+Which location within a cell is associated with the formation of lipid droplets?,LOC
+Can you specify the location where endoplasmic reticulum (ER) is situated in relation to the nucleus?,LOC
+Where are microfilaments commonly found in eukaryotic cells providing structural support and enabling movement?,LOC
+What specific area within a cell do chloroplasts occupy in plant cells for photosynthesis to occur?,LOC
+What is the average cost for sequencing a human genome in 2023?,MONEY
+How much does it typically cost to maintain a basic cell culture laboratory per year?,MONEY
+What is the approximate budget allocated by NIH for stem cell research annually?,MONEY
+Can you provide an estimate of how much funding goes into cancer cell biology research globally each year?,MONEY
+What was the total investment in CRISPR technology development as of 2021?,MONEY
+How much does a typical university pay for a high-resolution confocal microscope used in cell imaging?,MONEY
+What is the annual expenditure on consumables such as media and sera required for cell culture practices?,MONEY
+Estimate the cost difference between using an open-source software versus proprietary software for analyzing cell microscopy data.,MONEY
+How much does a leading pharmaceutical company spend annually on research and development in cellular drug delivery systems?,MONEY
+What is the average price range for purchasing a comprehensive set of tools needed to perform flow cytometry analysis?,MONEY
+Could you provide an estimate for the cost of training a scientist specifically in cell biology techniques over five years?,MONEY
+How much does it typically cost for a biotech startup to secure patent rights for a novel discovery in cell signaling pathways?,MONEY
+What is the approximate amount spent by governments on international collaborations aimed at advancing cell biology knowledge?,MONEY
+Estimate the average yearly expense for hosting an international conference focused solely on advances in cell biology.,MONEY
+How much would it cost to upgrade all laboratory equipment to be compliant with the latest standards in cell research technology?,MONEY
+What is the price range for a specialized course aimed at teaching advanced techniques in cell imaging and analysis?,MONEY
+Could you provide an estimate of the funding required to establish a new lab dedicated to cellular biotechnology innovations?,MONEY
+How much does it cost on average to publish a high-impact research paper in the field of cell biology, including article processing charges for open-access journals?,MONEY
+What is the approximate cost associated with developing and implementing AI-driven algorithms specifically designed to analyze cell behavior data?,MONEY
+Could you estimate the amount of financial support provided by private foundations to researchers working on regenerative medicine projects involving stem cells?,MONEY
+What role do nomadic people play in understanding the genetic diversity of cellular structures?,NORP
+How have indigenous communities contributed to our knowledge of cell biology through traditional practices?,NORP
+Can the dietary habits of different ethnic groups influence cellular metabolism studies?,NORP
+In what ways has the lifestyle of rural populations affected their cellular health compared to urban dwellers?,NORP
+What impact does the genetic background of minority groups have on the study of hereditary diseases at a cellular level?,NORP
+How do cultural practices of certain ethnicities influence cellular responses to medications?,NORP
+Are there differences in cell biology research methods when studying nomadic versus settled populations?,NORP
+In what ways can the study of isolated indigenous groups contribute to our understanding of human cellular evolution?,NORP
+What role does the socioeconomic status of various cultural groups play in access to advanced cell therapy treatments?,NORP
+How do the dietary restrictions observed by different religious groups affect their cellular health and susceptibility to diseases?,NORP
+Do nomadic lifestyles impact the cellular adaptation mechanisms compared to those with sedentary lifestyles?,NORP
+What insights can be gained from studying the immune system of ethnic groups that have lived in isolation for generations?,NORP
+How do traditional healing practices within certain cultural groups influence their understanding and treatment of cellular disorders?,NORP
+Are there unique genetic mutations observed in cells from isolated populations compared to more cosmopolitan ones?,NORP
+Can the study of cell biology in nomadic groups provide insights into human migration patterns through cellular mutation analysis?,NORP
+How does the exposure to different environmental factors based on ethnic group lifestyle impact cellular aging?,NORP
+What can we learn about cellular repair mechanisms by studying populations with high sun exposure due to cultural practices?,NORP
+In what ways do traditional diets of various ethnic groups affect cellular energy production and metabolic rates?,NORP
+How might the study of cell biology in nomadic communities reveal adaptations specific to their migratory lifestyle?,NORP
+What role can cultural beliefs play in the acceptance or rejection of new cellular treatments within different ethnic groups?,NORP
+What is the first step in mitosis?,ORDINAL
+Which stage of meiosis is considered the second to show genetic variation due to crossing over?,ORDINAL
+During glycolysis, what is the third compound produced after glucose breakdown?,ORDINAL
+In the electron transport chain, which is the fourth protein complex involved in ATP synthesis?,ORDINAL
+What is the primary function of the first cell division during fertilization?,ORDINAL
+Which is the second phase of apoptosis where cells are actually degraded and removed?,ORDINAL
+How many steps are there in the Calvin cycle, and what happens in the first step?,ORDINAL
+During protein synthesis, which ribosomal RNA is the largest (first) to bind to mRNA?,ORDINAL
+What is the name given to the second messenger molecule that amplifies a hormone's signal?,ORDINAL
+In eukaryotic cells, where does the third stage of photosynthesis take place?,ORDINAL
+Which is the initial step in vesicle transport mechanism and how important is it as the first step?,ORDINAL
+What happens during the first checkpoint in cell cycle control mechanisms?,ORDINAL
+Can you describe what occurs in the second phase of endocytosis involving vesicles formation?,ORDINAL
+In the process of exocytosis, which is the final (last) step that completes the secretion process?,ORDINAL
+Which is the initial protein to bind DNA during replication and how does it set up subsequent steps?,ORDINAL
+During muscle contraction, what happens in the first stage involving actin and myosin interaction?,ORDINAL
+What role does the second intermediate play in the cell signaling pathway leading to gene expression?,ORDINAL
+How does the cell cycle's first checkpoint determine whether a cell should progress into S phase?,ORDINAL
+In apoptosis, which is the primary function of the second enzyme type involved after caspase activation?,ORDINAL
+Which cellular structure is assembled first during the process of mitosis and why is it important?,ORDINAL
+What is the primary function of the National Institute of General Medical Sciences in cell biology research?,ORG
+How does the European Molecular Biology Organization contribute to advancements in cell biology?,ORG
+Which groundbreaking cell biology studies have been conducted by the American Society for Cell Biology?,ORG
+In what ways has the Max Planck Institute for Biophysical Chemistry influenced cell biology research globally?,ORG
+What role does Cold Spring Harbor Laboratory play in promoting knowledge and research in cell biology?,ORG
+How has the National Center for Biotechnology Information contributed to the field of cell biology through its resources?,ORG
+What significant contributions have been made by the Howard Hughes Medical Institute to the study of cell biology?,ORG
+Can you describe the importance of the International Cell Biology Society in fostering international collaboration among cell biologists?,ORG
+How does the Cell Press publish research that advances our understanding of cell biology?,ORG
+What initiatives has the Wellcome Trust taken to support research in cell biology and related fields?,ORG
+What role does the American Association for the Advancement of Science play in advancing cell biology through interdisciplinary research efforts?,ORG
+In what ways has the Rockefeller University contributed to significant discoveries in the field of cell biology?,ORG
+How does the Society for Experimental Biology promote advancements in the study of cell biology through its conferences and publications?,ORG
+What contributions has the German Cancer Research Center made to understanding cellular mechanisms in cancer biology?,ORG
+Can you describe how the Broad Institute integrates interdisciplinary approaches to advance knowledge in cell biology?,ORG
+What is the role of the National Institutes of Health in funding critical research in cell biology?,ORG
+How does the Chan Zuckerberg Initiative support innovations and breakthroughs in cell biology through its initiatives?,ORG
+What are some key contributions made by the University of California, San Francisco to advancements in cell biology research?,ORG
+In what ways has the Karolinska Institute contributed to significant discoveries in cell biology that have led to Nobel Prizes?,ORG
+How does the Novartis Institutes for BioMedical Research integrate basic research findings from cell biology into drug discovery processes?,ORG
+What percent of cell volume is occupied by the cytoplasm?,PERCENT
+By what percentage does the surface area to volume ratio decrease when a cell doubles its size?,PERCENT
+In animal cells, what approximate percentage of the cellular contents is water?,PERCENT
+How much percent of human cell mass is composed of proteins and nucleic acids combined?,PERCENT
+What percentage of the total cell volume is typically occupied by mitochondria in muscle cells?,PERCENT
+By approximately what percent does the efficiency of nutrient uptake decrease when a cell's surface area to volume ratio diminishes due to growth?,PERCENT
+In terms of cellular energy expenditure, what percent goes towards maintaining membrane potential and ion gradients in eukaryotic cells?,PERCENT
+What is the approximate percentage contribution of lipids to the total dry weight of most animal cells?,PERCENT
+How much percent of the cell's DNA is found in mitochondria compared to the nuclear genome?,PERCENT
+By what percentage can the metabolic rate increase in a cell when oxygen supply is abundant compared to its baseline without any change in size or function?,PERCENT
+What approximate percentage of a typical eukaryotic cell’s volume does the nucleus occupy?,PERCENT
+If a cell's growth increases its radius by 50%, by what percent does this growth affect its surface area-to-volume ratio?,PERCENT
+In terms of cellular respiration, what is the approximate percentage yield of ATP molecules produced from one glucose molecule in aerobic conditions for most eukaryotic cells?,PERCENT
+What percent of a cell's volume is occupied by ribosomes during periods of high protein synthesis activity?,PERCENT
+By what percent can endocytosis rates increase under conditions that require rapid internalization of membrane-bound proteins?,PERCENT
+Approximately what percentage of the total cellular energy budget is used for active transport processes across the plasma membrane in animal cells?,PERCENT
+What approximate percentage of a cell’s dry weight is RNA, considering both mRNA and non-coding RNAs combined?,PERCENT
+If a typical eukaryotic cell has 10% of its proteins localized to the plasma membrane, what percent might be found within internal membranes such as those of the endoplasmic reticulum or Golgi apparatus?,PERCENT
+How much percent of the total cell mass is typically attributed to carbohydrates in plant cells due to their cell walls compared to animal cells?,PERCENT
+What approximate percentage of a cell's genetic material can undergo compaction during mitosis, leading to the formation of chromosomes from chromatin fibers?,PERCENT
+Who discovered the structure of DNA through X-ray crystallography?,PERSON
+Who is known for proposing the fluid mosaic model of cell membranes?,PERSON
+Which scientist first described the nucleus in plant cells?,PERSON
+Who introduced the concept of the central dogma in molecular biology?,PERSON
+What researcher was responsible for developing techniques to visualize cellular structures using electron microscopy?,PERSON
+Who identified the process of endocytosis and its mechanisms within cells?,PERSON
+Can you name the biologist who made significant contributions to our understanding of cell signaling pathways?,PERSON
+Which scientist is credited with the discovery of mitochondria as cellular organelles?,PERSON
+Who was involved in elucidating the function of lysosomes in cellular waste disposal?,PERSON
+What person contributed significantly to the study of how cells divide during mitosis and meiosis?,PERSON
+Who is known for their work on the cell cycle control mechanisms?,PERSON
+Can you identify the researcher who made groundbreaking discoveries regarding the structure and function of chloroplasts?,PERSON
+Which scientist played a key role in understanding the genetic regulation of cellular processes through operons?,PERSON
+Who pioneered research into apoptosis, or programmed cell death?,PERSON
+What biologist conducted seminal work on the selective permeability of cell membranes?,PERSON
+Who is recognized for their contributions to our knowledge about protein synthesis within cells?,PERSON
+Can you name a scientist who made significant findings in the area of cellular energy metabolism involving ATP?,PERSON
+Which researcher contributed to understanding the process of exocytosis and its importance in cellular communication?,PERSON
+Who was involved in discovering the role of calcium ions as intracellular messengers in cell biology?,PERSON
+What person conducted influential research on how cells adhere to one another and their extracellular matrix?,PERSON
+What are the latest advancements in cell imaging technologies used for studying cellular structures?,PRODUCT
+Which brands offer the most precise flow cytometers for analyzing individual cells?,PRODUCT
+Can you recommend a reliable brand for confocal microscopes used in detailed cell biology research?,PRODUCT
+What type of software is best suited for analyzing data obtained from live-cell imaging experiments?,PRODUCT
+Which companies produce high-quality antibodies specifically designed for immunostaining in cell biology studies?,PRODUCT
+How do automated liquid handling systems aid in the efficiency of cell culture maintenance and why are they essential products for cell biologists?,PRODUCT
+What brands provide state-of-the-art cryogenic storage tanks to preserve cell lines at ultra-low temperatures?,PRODUCT
+Which manufacturers offer comprehensive kits for RNA extraction from cells with high purity levels?,PRODUCT
+In the context of CRISPR gene editing, which companies produce the most effective reagents and tools for precise genome modification in cellular research?,PRODUCT
+What are some innovative products that enable the study of cell signaling pathways through real-time monitoring?,PRODUCT
+Which manufacturers lead in producing cell culture media optimized for different types of cells including stem cells?,PRODUCT
+How have advances in microfluidic devices impacted single-cell analysis, and what companies are at the forefront of this technology?,PRODUCT
+What brands provide advanced software solutions for 3D reconstruction of cellular structures from microscopic images?,PRODUCT
+Which suppliers offer the most efficient cell counters that utilize flow cytometry principles for counting viable cells in a sample?,PRODUCT
+In cell biology research, which brands are known for producing high-quality transfection reagents to deliver DNA into eukaryotic cells efficiently?,PRODUCT
+What companies produce the best cell sorting systems based on fluorescent markers for separating different cell types from heterogeneous populations?,PRODUCT
+Which manufacturers specialize in creating custom-made microplates designed for automated high-throughput screening of cellular responses to various stimuli?,PRODUCT
+How do companies innovate with live-cell analysis platforms that allow continuous monitoring of cells without perturbing their natural behavior?,PRODUCT
+What brands are leading the development of advanced nanotechnology tools used for intracellular delivery and targeted drug release in cell biology studies?,PRODUCT
+Which suppliers offer comprehensive kits designed for the isolation and characterization of extracellular vesicles from biological fluids?,PRODUCT
+How many chromosomes are typically found in a human somatic cell?,QUANTITY
+What is the approximate diameter of a typical animal cell in micrometers?,QUANTITY
+How many ribosomes can be present in a single eukaryotic cell under active protein synthesis conditions?,QUANTITY
+What percentage of an animal cell's volume is occupied by mitochondria?,QUANTITY
+On average, how many molecules of ATP are produced from one molecule of glucose through aerobic respiration in cells?,QUANTITY
+How many types of organelles are commonly found in eukaryotic cells?,QUANTITY
+In plant cells, what percentage of the cell's volume can be occupied by a vacuole under optimal conditions?,QUANTITY
+What is the typical number of nuclei present in mammalian red blood cells (RBCs)?,QUANTITY
+How many centromeres are there on each chromosome during mitosis in human cells?,QUANTITY
+On average, how many different types of proteins can be found in a single cell?,QUANTITY
+What is the approximate surface area to volume ratio for a typical eukaryotic cell with a diameter of 10 micrometers?,QUANTITY
+How many stages are there in the cell cycle from one division to another?,QUANTITY
+In a typical bacterial culture, how many bacteria can divide per hour under ideal conditions?,QUANTITY
+What is the approximate number of genes present in the human genome that code for proteins?,QUANTITY
+How many daughter cells are produced after each round of mitosis in eukaryotic cells?,QUANTITY
+During meiosis, what is the final quantity of haploid daughter cells produced from one diploid cell?,QUANTITY
+What is the average number of lipid molecules that make up a single phospholipid bilayer in the cell membrane per square nanometer area?,QUANTITY
+How many different types of RNA are involved directly in protein synthesis within a eukaryotic cell?,QUANTITY
+In terms of mass, what percentage does water constitute of an average human cell's composition?,QUANTITY
+What is the typical number of pores found on the nuclear envelope per square micrometer area in most mammalian cells?,QUANTITY
+When did the first cell division occur in the development of multicellular organisms?,TIME
+What year was the fluid mosaic model of the cell membrane proposed by Singer and Nicolson?,TIME
+In which century were mitochondria first observed under a microscope?,TIME
+During what period did scientists discover that all living things are composed of cells?,TIME
+When was the concept of the cell cycle first described in scientific literature?,TIME
+What decade saw the discovery of the nuclear envelope's role in regulating the passage of molecules between the nucleus and cytoplasm?,TIME
+Which year marked the identification of chloroplasts as the site of photosynthesis?,TIME
+During which time frame did researchers confirm that ribosomes are composed of both RNA and proteins?,TIME
+When was the process of endocytosis first observed and described in animal cells?,TIME
+What period saw significant advancements in our understanding of how cells communicate through signaling molecules?,TIME
+In what year was it discovered that lysosomes contain enzymes for breaking down various biomolecules?,TIME
+During which time did scientists understand the role of centrioles in cell division?,TIME
+When were peroxisomes identified as separate organelles within eukaryotic cells?,TIME
+Which era saw the development of advanced imaging techniques allowing detailed observation of cellular structures?,TIME
+What year was it when researchers first described exocytosis as a mechanism for secreting substances from cells?,TIME
+In which time frame did cell biologists start to understand the dynamic nature of actin filaments in cell movement and shape change?,TIME
+When did the concept that microtubules form part of the cytoskeleton become widely accepted?,TIME
+What period saw significant research into the role of Golgi apparatus in modifying, sorting, and packaging proteins and lipids for secretion or delivery to other organelles?,TIME
+During which time frame was it discovered that the cell cycle is regulated by a series of checkpoints controlled by specific proteins?,TIME
+When did scientists first propose that the cytoskeleton plays a crucial role not only in cell shape but also in intracellular transport and signaling pathways?,TIME
+What painting by Robert Steinhardt illustrates the complex structure of mitochondria in cell biology?,WORK_OF_ART
+Which illustration provides an artistic depiction of the endoplasmic reticulum's role in protein synthesis within cell biology?,WORK_OF_ART
+Can you name a digital art piece that focuses on the intricacies of ribosomal assembly in cellular processes?,WORK_OF_ART
+What sculpture represents the dynamic interaction between centrioles and microtubules during cell division in cell biology?,WORK_OF_ART
+Which etching captures the detailed process of vesicle trafficking within the cell membrane in cell biology studies?,WORK_OF_ART
+Is there a lithograph that shows the inner workings of chloroplasts in plant cells from a cellular perspective?,WORK_OF_ART
+What's an oil painting that highlights the function and structure of lysosomes in cellular waste management?,WORK_OF_ART
+Which sketch emphasizes the role of the Golgi apparatus in modifying, sorting, and packaging proteins for secretion?,WORK_OF_ART
+Can you identify a watercolor piece depicting the nucleus as the command center of the cell in cell biology?,WORK_OF_ART
+What digital artwork illustrates the mitotic spindle's action during nuclear division in eukaryotic cells?,WORK_OF_ART
+Which woodcut captures the movement and structure of cytoskeletal elements within living cells?,WORK_OF_ART
+Is there a charcoal drawing that emphasizes the fluid mosaic model of the cell membrane?,WORK_OF_ART
+What mixed media piece explores the interplay between cellular organelles in energy conversion processes?,WORK_OF_ART
+Can you name a painting series that delves into the life cycle and function of mitochondria in cells?,WORK_OF_ART
+Which engraving portrays the interaction between various cellular components during cell signaling pathways?,WORK_OF_ART
+What photograph captures the stunning detail of a cell undergoing cytokinesis, dividing its cytoplasm?,WORK_OF_ART
+Is there an installation art that simulates the three-dimensional structure and function of chloroplasts?,WORK_OF_ART
+Which glass sculpture illustrates the complex network of channels within the endoplasmic reticulum?,WORK_OF_ART
+Can you identify a print series that examines the role of vacuoles in storing substances and maintaining cell shape?,WORK_OF_ART
+What textile art piece represents the membrane-bound organelles' contribution to cellular homeostasis?,WORK_OF_ART
+What is the primary function of mitochondria in cell biology?,FAC
+How many chromosomes are typically found in human body cells?,CARDINAL
+When did the discovery of the nucleus first take place?,DATE
+Which event led to the development of cell theory?,EVENT
+Describe the structure and function of the Golgi apparatus.,FAC
+What is the name of a famous experiment that demonstrated the existence of the cell membrane?,PRODUCT
+Can you list some common cellular organelles found in plant cells but not in animal cells?,FAC
+How does osmosis occur across the cell membrane?,EVENT
+Where did the first observations leading to cell theory take place?,LOC
+What is the role of ribosomes in protein synthesis?,FAC
+Which type of cells can undergo photosynthesis?,PRODUCT
+What percentage of the human body is made up of water, which is essential for cellular processes?,PERCENT
+Can you explain the process of mitosis and its importance to life?,EVENT
+How does the cell cycle control the growth and division of cells?,EVENT
+Where in a cell are proteins typically modified after synthesis?,FAC
+What law explains the basis of genetic inheritance at the cellular level?,LAW
+Which Nobel Prize-winning discovery is attributed to understanding cell signaling pathways?,WORK_OF_ART
+What organization first proposed the unified cell theory?,ORG
+How does temperature affect enzyme activity within cells?,QUANTITY
+Can you name a significant milestone in the history of cell biology research?,EVENT

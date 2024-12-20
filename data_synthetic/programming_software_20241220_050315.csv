@@ -1,0 +1,381 @@
+Question,Entity-Type
+What is the minimum number of lines of code required to create a basic 'Hello World' program in Python?,CARDINAL
+How many major versions of Java were released before Java 17?,CARDINAL
+In which year was the first version of the C programming language standardized by ANSI?,CARDINAL
+As of 2023, how many years has JavaScript been actively used in web development?,CARDINAL
+What is the current major version number of Python as of 2023?,CARDINAL
+How many primary data types are there in the Swift programming language?,CARDINAL
+How many keywords does the C++ programming language have approximately?,CARDINAL
+In software versioning, what is the common initial version number given to a new unreleased software product?,CARDINAL
+What is the typical maximum number of parameters that can be passed to a function in most programming languages without hitting performance issues?,CARDINAL
+How many bits are typically used in a standard integer data type in Java?,CARDINAL
+What is the default port number for HTTP connections in web development?,CARDINAL
+As of 2023, how many years has Microsoft's Visual Studio been available to software developers?,CARDINAL
+In programming languages like Python and JavaScript, what is the maximum value an unsigned integer can hold if it uses 8 bits?,CARDINAL
+How many main sections are typically found in a typical software development lifecycle (SDLC)?,CARDINAL
+What is the standard port number used for FTP (File Transfer Protocol) connections?,CARDINAL
+In programming languages like C and Java, how many values can an unsigned byte data type hold at most?,CARDINAL
+How many primary loop structures are there in most imperative programming languages such as Python or Java?,CARDINAL
+What is the default indentation size in Python code for one level of block structure?,CARDINAL
+How many reserved keywords are there in the PHP programming language as of 2023?,CARDINAL
+In software versioning, how many digits does a typical minor version number usually have when appended to the major version number?,CARDINAL
+When was the first version of Python programming software released?,DATE
+What date did Microsoft release Visual Studio 2019?,DATE
+On what date did JetBrains announce the launch of IntelliJ IDEA in its current form?,DATE
+Can you provide the year when Eclipse IDE became open source?,DATE
+Which year saw the initial release of the Atom text editor by GitHub?,DATE
+When was the Swift programming language first introduced by Apple?,DATE
+What is the exact year Adobe released their first version of Animate (formerly Flash Professional)?,DATE
+In which year did Microsoft introduce TypeScript as an open-source project?,DATE
+Could you tell me the date when Google announced the general availability of AngularJS 2.0?,DATE
+On what date did Facebook announce the open-sourcing of React Native?,DATE
+When was the Rust programming language first made available to the public for development?,DATE
+What year marked the release of the first version of Git by Linus Torvalds?,DATE
+Could you provide the date when Apache Maven project management software was first released?,DATE
+In which year did Google introduce Go (Golang) as an open-source programming language?,DATE
+On what date did Microsoft unveil Visual Studio Code, its free and open-source code editor?,DATE
+When was the Kotlin programming language officially launched by JetBrains?,DATE
+Could you give me the year when AWS Lambda, a compute service that runs your code in response to events, was announced?,DATE
+What is the release year of the first version of Sublime Text, a popular text editor for writing source code?,DATE
+When did Microsoft announce the availability of .NET Core as open-source and cross-platform?,DATE
+Could you tell me the date when IBM released their first version of Rational Application Developer?,DATE
+What was the launch event for the latest version of Visual Studio?,EVENT
+When did the first major release of Eclipse IDE occur?,EVENT
+What date marked the initial public release of PyCharm as a free community edition?,EVENT
+Can you tell me about the event where JetBrains announced the open-source version of their programming software?,EVENT
+Which event led to the creation of the Go programming language by Google?,EVENT
+When was the Microsoft Build conference held that introduced major updates to Visual Studio Code?,EVENT
+What significant event in 2014 marked the release of Sublime Text 3 for the first time since its beta phase began in 2011?,EVENT
+Which event did Apple host to introduce Xcode as part of their developer tools suite?,EVENT
+Could you mention the conference where Microsoft announced the free availability of Visual Studio Community edition?,EVENT
+What was the major event that led to the open-source release of IntelliJ IDEA?,EVENT
+When did Oracle hold an event to announce significant changes in Java Development Kit (JDK) licensing?,EVENT
+Which event marked Red Hat's acquisition of Codenvy, an online IDE and devops platform?,EVENT
+Can you recall the specific event or conference where the creators of Node.js first presented it to the world?,EVENT
+What was the name of the event where Microsoft announced the availability of Visual Studio for Mac?,EVENT
+When did JetBrains hold a major event announcing significant changes in their subscription pricing model for their IDEs?,EVENT
+Which event saw the announcement of the free and open-source release of Brackets, by Adobe?,EVENT
+Can you identify the event where the creators of NetBeans announced its transition to Apache Software Foundation?,EVENT
+What was the name of the conference where Google revealed major changes in Android Studio that improved Java and Kotlin support?,EVENT
+When did Microsoft host an event revealing Visual Studio Live Share as a feature for real-time collaboration among developers?,EVENT
+Could you mention the specific event or conference where Microsoft announced the open-source version of MS SQL Server on Linux, impacting database programming software?,EVENT
+What is the primary function of Eclipse in software development?,FAC
+How does IntelliJ IDEA support Java developers with code analysis and debugging features?,FAC
+In what ways has Visual Studio influenced modern application development?,FAC
+Can you explain the role of Xcode in iOS app development?,FAC
+What distinguishes NetBeans from other Integrated Development Environments (IDEs)?,FAC
+Which programming languages are primarily supported by PyCharm?,FAC
+How does Code::Blocks facilitate C++ programming for developers?,FAC
+In what context is Sublime Text used as a code editor in software development?,FAC
+What unique features does Microsoft Visual Studio Code offer to web developers?,FAC
+Why is Android Studio considered essential for developing applications on the Android platform?,FAC
+How has Jupyter Notebook changed the way data scientists write and execute code?,FAC
+Can you describe how Komodo Edit assists in the process of coding across multiple programming languages?,FAC
+What makes Dreamweaver a preferred tool for web design and development?,FAC
+In what manner does Atom contribute to efficient coding through its extensible package system?,FAC
+How has the adoption of RubyMine influenced productivity among Ruby on Rails developers?,FAC
+What role does Komodo IDE play in supporting professional software development across various programming languages?,FAC
+Why is Notepad++ widely used by programmers for writing source code?,FAC
+Can you discuss how Brackets helps web designers and front-end developers with live preview features?,FAC
+How does the Git integration feature in PhpStorm enhance version control management for developers?,FAC
+What are the key advantages of using Repl.it as an online IDE for programming projects?,FAC
+What is the role of programming software in enhancing cybersecurity measures in the United States?,GPE
+How has the development of programming software influenced economic growth in India?,GPE
+Which government agencies in Germany are primarily involved with regulating open-source programming software?,GPE
+In what ways has China's policy affected the adoption and innovation of programming software among local developers?,GPE
+What initiatives have been taken by the United Kingdom to promote the learning of programming software in schools?,GPE
+How does Canada support startups focused on developing new programming software tools?,GPE
+Could you describe the impact of programming software development on job creation in Brazil?,GPE
+Which European Union directives influence the standards for programming software used in member countries?,GPE
+What role has Japan played in advancing programming software technologies globally?,GPE
+How do educational policies in Australia address the integration of programming software into school curricula?,GPE
+In what ways does France encourage international collaboration in research and development related to programming software?,GPE
+Which government bodies in Russia are responsible for overseeing the compliance with regulations regarding programming software?,GPE
+What programs has South Korea implemented to foster innovation in programming software among young entrepreneurs?,GPE
+How is Mexico addressing the challenge of digital divide through advancements in programming software?,GPE
+What strategies have been employed by Italy to attract foreign investment into its programming software sector?,GPE
+Which policies does Israel have that promote collaboration between academia and industry for advancement in programming software?,GPE
+How has the Netherlands contributed to global initiatives on cybersecurity measures related to programming software?,GPE
+In what ways is Switzerland encouraging innovation in programming software through public-private partnerships?,GPE
+What measures are being taken by the government of Singapore to ensure that its workforce is equipped with skills needed for developing advanced programming software?,GPE
+How does Sweden support female participation and leadership in the field of programming software development?,GPE
+What are the primary features of Python that make it suitable for beginners?,LANGUAGE
+How does Java's syntax differ from C++ when defining classes and objects?,LANGUAGE
+Can Ruby be used effectively in web development? If so, how?,LANGUAGE
+In what ways has JavaScript evolved to become a versatile language for both frontend and backend development?,LANGUAGE
+What distinguishes PHP from other programming languages in the context of server-side scripting?,LANGUAGE
+How does Swift's memory management differ from that of Objective-C?,LANGUAGE
+Why is TypeScript considered an enhancement over traditional JavaScript for large-scale applications?,LANGUAGE
+What makes Go (programming language) a preferred choice for concurrent programming tasks?,LANGUAGE
+Can you explain how Rust ensures memory safety without using garbage collection?,LANGUAGE
+In what scenarios would one prefer to use Kotlin over Java in Android app development?,LANGUAGE
+How does Scala integrate object-oriented and functional programming paradigms differently from other languages like Python or Ruby?,LANGUAGE
+What are the advantages of using Lua for embedding scripting capabilities into applications?,LANGUAGE
+Can you describe how Perl is optimized for text processing tasks more efficiently than PHP?,LANGUAGE
+What unique features does Groovy offer that make it popular in DevOps environments compared to Bash or PowerShell?,LANGUAGE
+How does F# leverage functional programming concepts in a .NET environment differently from C#?,LANGUAGE
+Why is R often the preferred language for statistical analysis and visualization over Python or MATLAB?,LANGUAGE
+In what ways has Dart simplified app development, particularly in the context of Flutter framework, compared to JavaScript with React Native?,LANGUAGE
+How does Elixir's approach to concurrency using the actor model differ from Go's goroutines?,LANGUAGE
+What are some key differences between Haskel and Lisp as functional programming languages?,LANGUAGE
+Can you discuss how MATLAB stands out for numerical computations versus Python libraries like NumPy or SciPy?,LANGUAGE
+What are the legal requirements for open-source software licenses in the European Union?,LAW
+How does the Digital Millennium Copyright Act (DMCA) affect the distribution of programming software in the United States?,LAW
+Under which circumstances is it legally permissible to reverse-engineer a piece of commercial software under UK law?,LAW
+What are the implications of GDPR on software development and data handling within European companies?,LAW
+Can a developer be held liable for damages caused by bugs in their software according to US state laws?,LAW
+How does the Computer Fraud and Abuse Act (CFAA) impact software developers who engage in ethical hacking activities?,LAW
+What are the legal consequences of not complying with software licensing agreements under international law?,LAW
+In what ways can intellectual property rights, such as patents, affect the development of programming software globally?,LAW
+How does the Berne Convention influence copyright protections for software developed by multinational companies?,LAW
+What legal measures should a company take to protect its proprietary algorithms from being stolen or reverse-engineered?,LAW
+Can employers legally monitor the computer usage of their employees while they are working on programming projects at home or in the office according to US labor laws?,LAW
+How does the EU's Software Directive impact software distribution and sales within the European Union?,LAW
+Under what conditions can a programmer legally fork an open-source project without facing legal repercussions under common law jurisdictions?,LAW
+What are the legal ramifications of violating export control regulations when distributing programming software internationally?,LAW
+Can developers be held liable for copyright infringement if their software unintentionally includes code from proprietary sources in Australia?,LAW
+How does the EU's E-Commerce Directive affect liability for online content, including user-generated code shared on developer platforms within the EU?,LAW
+What legal issues can arise from using third-party APIs that have strict terms of service under contract law?,LAW
+Under US law, how can developers ensure their software complies with privacy regulations when handling personal data?,LAW
+How does the General Data Protection Regulation (GDPR) affect software development practices in companies based outside of the EU but doing business within it?,LAW
+What legal considerations should be taken into account by programmers when implementing features that could potentially infringe on user privacy rights under various international laws?,LAW
+What are some notable programming software development locations in Silicon Valley?,LOC
+Where is the primary location for the development of Eclipse IDE?,LOC
+In which city was the open-source project Git first developed?,LOC
+Can you name a key location associated with the creation and maintenance of the Python programming language?,LOC
+Which country is known for hosting significant contributions to the Rust programming language's community?,LOC
+What city has been influential in the development history of the C++ programming language?,LOC
+Where did the open-source initiative behind Node.js originate?,LOC
+Name a location that has played a crucial role in the evolution of JavaScript engines.,LOC
+Which university town is closely associated with the early development of the Linux operating system and its programming tools?,LOC
+Can you identify the city where Visual Studio Code was initially developed by Microsoft?,LOC
+Where did the Java programming language get its start at Sun Microsystems?,LOC
+What region has seen a surge in contributions to the Ruby on Rails framework?,LOC
+Which city is recognized for hosting a significant portion of Apache Software Foundation projects, including various programming software tools?,LOC
+Can you pinpoint the location where MATLAB was first developed by MathWorks?,LOC
+Where did the development efforts behind R programming language begin?,LOC
+What city is home to one of the largest communities contributing to open-source software like Docker and Kubernetes for programmers?,LOC
+Which area has been influential in advancements related to Swift, Apple’s programming language?,LOC
+Can you mention a location known for its contributions to the Free Pascal Compiler project?,LOC
+Where did the development of the LLVM (Low Level Virtual Machine) compiler infrastructure begin?,LOC
+What city hosts the main headquarters of JetBrains, developers of IntelliJ IDEA and other popular programming tools?,LOC
+What is the average cost of licensing a professional version of Visual Studio?,MONEY
+How much does it typically cost to purchase a perpetual license for Adobe Dreamweaver?,MONEY
+What are the subscription fees for JetBrains IntelliJ IDEA Ultimate edition per year?,MONEY
+Can you provide an estimate of the monthly rental price for AutoCAD software used in programming and design?,MONEY
+How much would a small business need to spend annually on IBM's Rational Team Concert?,MONEY
+What is the typical annual fee for using Atlassian's Bitbucket as part of their DevOps suite?,MONEY
+What does Microsoft charge for an enterprise-level license of Visual Studio Online per user per year?,MONEY
+How much would it cost a developer to purchase a one-year subscription to Oracle JDeveloper with all its features unlocked?,MONEY
+Could you tell me the average expense for acquiring a single-user license of Eclipse Professional Edition on a yearly basis?,MONEY
+What is the approximate monthly fee for using AWS CodeStar for managing software development projects in the cloud?,MONEY
+How much does it cost to subscribe to Red Hat Developer Studio, including all the enterprise modules?,MONEY
+What is the expected annual subscription price for SAP's Application Lifecycle Management (ALM) tools?,MONEY
+Can you estimate the yearly maintenance fee associated with IBM Rational Application Developer for Websphere Software?,MONEY
+How much would a company pay per month to use CloudBees DevOptics for software development lifecycle management?,MONEY
+What is typically charged as an upfront cost for purchasing a perpetual license of Micro Focus Visual COBOL Professional Edition?,MONEY
+Could you provide the annual subscription rate for using JetBrains WebStorm in a team setting with multiple developers?,MONEY
+How much would it cost to purchase Adobe ColdFusion Enterprise edition, including all its deployment options?,MONEY
+What is the usual yearly fee for accessing and utilizing Oracle SQL Developer Data Modeler Professional Edition?,MONEY
+Could you inform me about the average price tag on a single-user license of DevExpress CodeRush with all features enabled?,MONEY
+How much would it cost to subscribe monthly to GitLab's Ultimate plan for a team of software developers?,MONEY
+What is the most popular programming software used by Americans for developing mobile applications?,NORP
+Which American company developed the first integrated development environment (IDE) for web application development?,NORP
+How has the approach to coding evolved among British programmers since the advent of open-source programming software?,NORP
+In what ways do Canadian software developers prefer using cloud-based IDEs over traditional desktop applications?,NORP
+What are some key features that make a programming software appealing to Australian coders?,NORP
+Which version control system is most favored by German software engineers for collaborative projects?,NORP
+How does the adoption rate of new programming languages compare between French and English-speaking software developers?,NORP
+Can you name a programming software that has been primarily developed by Indian programmers and gained global recognition?,NORP
+What are the primary challenges faced by Brazilian developers when using international programming tools?,NORP
+Which debugging tool is most popular among Japanese programmers for finding errors in complex codebases?,NORP
+How do Russian software developers utilize machine learning to enhance their programming software?,NORP
+In what ways have Italian coders contributed to the open-source community with their programming software innovations?,NORP
+What are some of the unique features that South Korean programming software offers to developers working on artificial intelligence projects?,NORP
+Which unit testing frameworks are most commonly used by Polish programmers in their development cycle?,NORP
+How do Spanish software engineers integrate agile methodologies into their workflow using specialized programming tools?,NORP
+What is the impact of cultural differences on the collaboration tools preferred by Nordic developers when working with international teams?,NORP
+Which code quality analysis tool has gained significant traction among Dutch programmers for maintaining high standards in software development?,NORP
+How do Taiwanese coders use integrated development environments (IDEs) to enhance productivity in large-scale projects?,NORP
+What are the main considerations for Egyptian developers when choosing programming software that supports Arabic language interfaces?,NORP
+Which documentation tools are most preferred by Mexican software developers to maintain comprehensive records of their codebases?,NORP
+What is the first step in creating a software development plan?,ORDINAL
+Which was the second programming language developed that influenced modern programming software?,ORDINAL
+In the timeline of major programming languages, which one was the third to gain widespread adoption?,ORDINAL
+Can you name the fourth most popular open-source programming tool used by developers today?,ORDINAL
+What is the fifth critical feature that should be present in any programming software for efficient development?,ORDINAL
+Which became the sixth widely adopted integrated development environment (IDE) among programmers worldwide?,ORDINAL
+Could you tell me what the seventh principle of software engineering focuses on when developing programming software?,ORDINAL
+What was the eighth significant change introduced in programming languages that improved software reliability and security?,ORDINAL
+How does the ninth programming methodology differ from others in terms of its approach to problem-solving through code?,ORDINAL
+Which is the tenth most sought-after feature in programming environments by novice programmers?,ORDINAL
+What is the eleventh factor influencing the choice of a particular programming language over others for software development projects?,ORDINAL
+Can you identify the twelfth largest challenge faced by developers while using programming software tools?,ORDINAL
+Could you name the thirteenth most influential figure behind one of the leading programming languages used today?,ORDINAL
+What is the fourteenth major trend impacting the evolution and use of programming software in recent years?,ORDINAL
+How does the fifteenth generation of programming languages differ from previous ones in terms of functionality and ease-of-use for developers?,ORDINAL
+Could you provide an example of a sixteenth significant algorithm that greatly enhanced the efficiency of programming software operations?,ORDINAL
+What is the seventeenth most critical aspect to consider when evaluating different programming software tools for project suitability?,ORDINAL
+Which became the eighteenth innovation in debugging tools that significantly improved developer productivity and code quality?,ORDINAL
+Could you discuss what the nineteenth principle of effective coding practices entails, particularly within modern programming software environments?,ORDINAL
+What is the twentieth most influential book on programming methodology that has shaped contemporary software development practices?,ORDINAL
+What is the primary programming software used by Microsoft for developing Windows applications?,ORG
+How has Google contributed to open-source programming software with its various initiatives and projects?,ORG
+Which programming software does IBM use for enterprise-level application development?,ORG
+Can you name a popular IDE that Oracle supports for Java development?,ORG
+What role does Apple play in the development of programming software for iOS app developers?,ORG
+How has Amazon contributed to the world of programming software through its AWS services and tools?,ORG
+Which programming software is commonly associated with the educational initiatives of MIT (Massachusetts Institute of Technology)?,ORG
+In what way has Facebook (now Meta) influenced the landscape of programming software development?,ORG
+What programming software does Red Hat provide for Linux-based systems?,ORG
+How does SAP integrate custom programming software into its enterprise resource planning solutions?,ORG
+What is a well-known programming software that Cisco might use for network application development?,ORG
+In what capacity does Adobe engage in the creation or enhancement of programming software?,ORG
+Which programming software is closely linked with the professional services provided by Accenture?,ORG
+How has Salesforce integrated programming software into its customer relationship management tools?,ORG
+What role does Intel play in the development and support of programming software for high-performance computing?,ORG
+What kind of programming software tools are typically used by Deloitte consultants during project implementations?,ORG
+Which programming software is often utilized by PwC (PricewaterhouseCoopers) for developing financial applications?,ORG
+How has Siemens integrated custom programming software into its engineering and manufacturing processes?,ORG
+What programming software does Oracle offer to support Java development beyond the language itself?,ORG
+In what ways has Boeing incorporated specialized programming software into its aerospace engineering workflows?,ORG
+What percentage of programmers use open-source software in their projects?,PERCENT
+By what percent has the adoption rate of cloud-based programming software increased over the past year?,PERCENT
+What is the approximate percentage increase in demand for Python-based programming tools among developers?,PERCENT
+According to recent studies, by what percentage do coding errors decrease when using integrated development environments (IDEs)?,PERCENT
+How much, in terms of a percentage, has the use of version control software like Git grown among software developers over the last five years?,PERCENT
+What percent of programming tasks can be automated with modern software tools and AI assistance?,PERCENT
+In which range does the percentage of developers who believe unit testing improves code quality fall?,PERCENT
+By what percentage did the popularity of low-code/no-code platforms increase in 2021 compared to 2020?,PERCENT
+What is the estimated percentage reduction in development time when utilizing agile programming methodologies over traditional methods?,PERCENT
+How does the use of debugging tools affect the overall efficiency of a programmer, in terms of percentage improvement?,PERCENT
+By what percent have software bugs decreased since the introduction of automated testing frameworks?,PERCENT
+In what percentage of projects are developers more likely to encounter issues when not using static code analysis tools?,PERCENT
+How much has the reliance on artificial intelligence tools for programming tasks increased by, in terms of a percentage, over the last decade?,PERCENT
+What is the approximate percentage of software development professionals who have adopted DevOps practices in their workflow?,PERCENT
+By what percentage do developers report an increase in productivity when using collaborative coding platforms and tools?,PERCENT
+How does the percentage of programmers who incorporate machine learning into their applications vary by industry?,PERCENT
+In what range does the estimated percentage of software projects that fail due to poor programming practices fall?,PERCENT
+What is the average percentage improvement in code quality observed after implementing continuous integration/continuous deployment (CI/CD) pipelines?,PERCENT
+By what percent did the usage of containerization technologies, such as Docker, rise among developers during 2019-2020?,PERCENT
+How much, by percentage, has remote work influenced the choice and use of programming software tools in recent years?,PERCENT
+Who developed the first version of Microsoft Visual Studio?,PERSON
+Who is the lead developer behind JetBrains IntelliJ IDEA?,PERSON
+Which programmer created the open-source code editor Atom?,PERSON
+Who is known for developing Eclipse IDE and leading its community?,PERSON
+What programmer founded the company behind Xcode, Apple's official development tool?,PERSON
+Who was instrumental in the creation of the Integrated Development Environment (IDE) NetBeans?,PERSON
+Can you name a key figure who contributed significantly to the development of Python's IDLE?,PERSON
+Which software engineer is credited with the invention of the widely-used IDE Visual Studio Code?,PERSON
+Who is recognized for their work on Sublime Text, an innovative text editor used by programmers worldwide?,PERSON
+What individual led the team that developed the cross-platform IDE Android Studio?,PERSON
+Can you identify a significant contributor to the development of Unity3D game engine's scripting capabilities?,PERSON
+Which person played a crucial role in developing the text editor Emacs?,PERSON
+Who is known for their contributions to the development of Jupyter Notebook, an open-source web application used for programming and data analysis?,PERSON
+What individual was instrumental in creating RStudio, an integrated development environment (IDE) for the R programming language?,PERSON
+Can you name a key developer involved in the creation of MATLAB's IDE?,PERSON
+Who is credited with leading the team that developed the IDE for Google's Go language, known as Gogland and now called GoLand by JetBrains?,PERSON
+Which programmer was behind the development of the PHP Integrated Development Environment (IDE) PhpStorm?,PERSON
+What individual led the effort to create Lazarus, an open-source Object Pascal IDE and compiler for multiple platforms?,PERSON
+Can you name a significant figure in the development of the Ruby on Rails development environment called Rubymine?,PERSON
+Who is known for their work on the web-based source code editor CodeMirror?,PERSON
+What are the best programming software options for beginners in 2023?,PRODUCT
+Which programming software offers the most extensive library support?,PRODUCT
+Can you recommend a programming software that supports multiple languages and has a user-friendly interface?,PRODUCT
+Is there any programming software specifically designed for developing mobile applications efficiently?,PRODUCT
+What is the most popular Integrated Development Environment (IDE) among professional developers?,PRODUCT
+Which programming software provides advanced debugging tools to help with error detection?,PRODUCT
+Are there any free programming software options that are highly rated by the developer community?,PRODUCT
+Does any particular programming software offer strong security features for coding sensitive applications?,PRODUCT
+What programming software is best known for its collaboration features, allowing multiple developers to work on a project simultaneously?,PRODUCT
+Which programming software has a robust package manager that simplifies dependency management?,PRODUCT
+Is there a programming software that includes AI-assisted coding capabilities to speed up development time?,PRODUCT
+Can you suggest programming software that focuses on rapid prototyping for web applications?,PRODUCT
+What is the most lightweight programming software suitable for older computers with limited resources?,PRODUCT
+Which programming software comes with built-in version control tools to streamline project management?,PRODUCT
+Does any programming software offer extensive documentation and tutorials to help new users get started quickly?,PRODUCT
+Is there a programming software that has strong integration capabilities with cloud platforms like AWS or Azure?,PRODUCT
+What is the most customizable programming software in terms of themes, plugins, and extensions?,PRODUCT
+Which programming software provides a powerful terminal for command-line operations within its environment?,PRODUCT
+Are there any programming software options that focus on teaching coding principles through interactive exercises and projects?,PRODUCT
+What programming software includes advanced visualization tools to help developers understand complex code structures?,PRODUCT
+How many lines of code can typically fit on one page in most programming software environments?,QUANTITY
+What is the average number of bugs found per 1000 lines of code in a typical software project?,QUANTITY
+In a standard software development team, how many developers are usually required to maintain a large-scale application?,QUANTITY
+How many programming languages does a professional software developer typically know or use frequently?,QUANTITY
+What is the average number of features that can be implemented by one developer in a month for a mid-sized project?,QUANTITY
+On average, how many hours per week do developers spend on coding tasks as opposed to other activities like meetings and documentation?,QUANTITY
+How many different types of programming software (IDEs, code editors) are commonly used by professional programmers today?,QUANTITY
+What is the typical number of test cases that should be written for a function with moderate complexity in a well-tested application?,QUANTITY
+In agile methodologies, how many iterations or sprints are typically planned for a project that lasts about 6 months?,QUANTITY
+How many open-source projects can a developer contribute to while working on their primary job full-time?,QUANTITY
+What is the average number of pull requests a developer reviews in a week when they are part of a team using continuous integration practices?,QUANTITY
+In software development, how many lines of code per day does an experienced programmer typically write and commit to the version control system?,QUANTITY
+How many errors or warnings can commonly be expected in a new codebase during its first static analysis scan with no previous checks implemented?,QUANTITY
+What is the typical percentage decrease in bugs observed when unit tests cover about 80% of the codebase compared to having no automated testing at all?,QUANTITY
+In terms of software performance, how many milliseconds should an efficient database query ideally take to execute under normal load conditions?,QUANTITY
+How many different programming paradigms (like functional, object-oriented) are there that a developer might need to be familiar with for diverse projects?,QUANTITY
+When refactoring code, what is the average number of lines of code changed or removed per improvement iteration in a complex system?,QUANTITY
+In software documentation, how many words should an effective function description typically contain to provide clear information about its purpose and use?,QUANTITY
+How many different programming frameworks are there for web development alone as of 2023?,QUANTITY
+What is the typical number of API endpoints in a small-to-medium sized RESTful application that serves both frontend requests and third-party integrations?,QUANTITY
+When was the first version of Python programming software released?,TIME
+What year did Microsoft release Visual Studio 2019?,TIME
+In which month and year was the Go programming language officially launched by Google?,TIME
+Can you tell me the date when Eclipse IDE reached its first stable version release?,TIME
+During what period did Adobe start developing Flash Professional, which is used for creating interactive applications and media content?,TIME
+What time frame saw the development of NetBeans as an open-source integrated development environment (IDE)?,TIME
+When did JetBrains launch their first version of IntelliJ IDEA?,TIME
+Could you provide the release year for the initial version of the Sublime Text editor?,TIME
+Which quarter of what year was Xcode released by Apple for developing iOS and macOS applications?,TIME
+What specific date was the open-source transition completed for the Apache OpenOffice project, which includes programming software tools?,TIME
+When did Oracle release the first stable build of Java SE 8?,TIME
+Can you tell me when the development of the Rust programming language began at Mozilla Research?,TIME
+In what month and year was the initial version of the R programming language released to support statistical computing and graphics?,TIME
+What is the exact time frame in which Apple introduced Swift as a new programming language for iOS and OS X app development?,TIME
+Could you give me the release date of the first version of Unity, the game engine software that includes integrated scripting capabilities?,TIME
+When did Google announce the end-of-life for Android Studio 2.0, transitioning users to newer versions?,TIME
+What year was it when Apple introduced Server.app (Xcode) as a part of its Mac OS X Server lineup for developers?,TIME
+Can you tell me the time period during which Microsoft decided to open-source parts of .NET and Visual Studio Code?,TIME
+When did IBM first release Rational Application Developer, an IDE built on Eclipse for Java EE and mobile app development?,TIME
+What year saw the release of the first stable version of the programming software called Julia, known for its high performance in technical computing?,TIME
+What is the name of the programming software that was featured in the documentary "Code: Debugging the System"?,WORK_OF_ART
+Which novel includes a storyline about a revolutionary new programming software called "Quantum Leap"?,WORK_OF_ART
+In which film does the main character develop an advanced AI using a unique programming software named "Synapse"?,WORK_OF_ART
+Can you name the book that discusses the creation of a legendary programming software known as "Nebula"?,WORK_OF_ART
+What is the title of the short story where a programmer uses a mysterious software called "ShadowCode" to bring their creations to life?,WORK_OF_ART
+Which video game features a plot involving the discovery and use of an ancient programming software named "ChronoScript"?,WORK_OF_ART
+In what television series does a character write code using an innovative programming software that can manipulate reality, known as "DreamWeaver"?,WORK_OF_ART
+What novel explores the consequences of a society dependent on a powerful programming software called "Oracle"? ,WORK_OF_ART
+Can you identify the comic book series where the protagonist creates a game-changing programming software named "Eclipse"?,WORK_OFART
+Which graphic novel introduces a secret programming software, "MysticByte," that allows users to control digital worlds?,WORK_OF_ART
+What is the name of the web series where an underground community uses a hidden programming software known as "GhostWire"? ,WORK_OF_ART
+In which anime series does the main character use a legendary programming software named "Aether" to outsmart their enemies? ,WORK_OF_ART
+Which manga explores the development and consequences of a revolutionary new programming language called "SilentCode"? ,WORK_OF_ART
+Can you name the TV show that features an episode where hackers use a rare programming software, "DarkWave," for cyber espionage?,WORK_OF_ART
+What is the title of the short film where a young hacker uses an advanced programming software named "Starlight" to revolutionize the tech world? ,WORK_OF_ART
+Which movie depicts the invention and theft of a unique programming software called "Phoenix," capable of self-updating based on user behavior?,WORK_OF_ART
+In what graphic novel does a character discover and use a hidden programming language, "VoidScript," that can interact with virtual realities?,WORK_OF_ART
+What is the name of the video game where players can create their own AI using a mysterious programming software known as "Nexus"? ,WORK_OF_ART
+Can you identify the web series that features a storyline involving a revolutionary programming software named "QuantumLeap" used for quantum computing? ,WORK_OF_ART
+Which book in the science fiction genre introduces a new concept of programming through a unique software called "NeuralNet," which allows direct brain-computer interface coding?,WORK_OF_ART
+What programming software is used most frequently in educational settings?,PRODUCT
+How many users does the most popular IDE have worldwide?,CARDINAL
+Which year was the first version of Python released?,DATE
+Can you name a significant event that led to the development of open-source programming tools?,EVENT
+Where is the headquarters of JetBrains, known for its suite of software development tools?,LOC
+What are the licensing terms of the GNU Compiler Collection (GCC)?,LAW
+Which organization maintains the Eclipse IDE project?,ORG
+What percentage of programmers prefer using Visual Studio Code over other IDEs?,PERCENT
+How long does it typically take to master a new programming language using modern integrated development environments (IDEs)?,TIME
+Can you estimate the market share of Microsoft Visual Studio among software developers worldwide?,PERCENT
+Which university is credited with pioneering work in developing early programming languages and compilers?,ORG
+What type of NORP is most represented in the global open-source programming community?,NORP
+How much does a commercial license for MATLAB typically cost per year?,MONEY
+Who is considered the father of structured programming, influencing modern software development practices?,PERSON
+Which product has won more awards: Adobe Photoshop or Visual Studio Code?,PRODUCT
+Can you mention the quantity of plugins available in the official repository of IntelliJ IDEA as of 2023?,QUANTITY
+What time of day do most programmers prefer to start their coding sessions using specialized programming software?,TIME
+How many lines of code can an average programmer write per hour with advanced IDEs and tools?,CARDINAL
+Which law requires open-source projects to include a license file detailing its terms of use?,LAW
+Are there any specific WORK_OF_ART titles that are commonly used as examples in coding tutorials and documentation?,WORK_OF_ART

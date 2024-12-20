@@ -1,0 +1,381 @@
+Question,Entity-Type
+What was the approximate population of Europe in the year 1000?,CARDINAL
+How many gold coins were typically used to pay for a knight's annual service?,CARDINAL
+In the medieval period, what was the average number of serfs on a manor estate?,CARDINAL
+Approximately how many acres did a typical peasant farm consist of during the Middle Ages?,CARDINAL
+What was the average price in shillings for an ox in the 14th century?,CARDINAL
+How many days were designated as feast days, which halted agricultural work, in medieval England?,CARDINAL
+During the medieval era, what was the average yield per hectare of wheat?,CARDINAL
+In terms of currency, how much would a skilled craftsman earn annually during the 12th century?,CARDINAL
+How many types of coins were commonly used for trade within the Holy Roman Empire during the Middle Ages?,CARDINAL
+What was the typical number of years required to repay a loan from a moneylender in medieval times?,CARDINAL
+During the High Middle Ages, how many barrels of ale or beer could a brewer produce per day?,CARDINAL
+How much, in pounds sterling, did King Henry III of England owe at his death in 1272?,CARDINAL
+What was the average price in florins for a piece of land during the Renaissance period?,CARDINAL
+In medieval times, how many weeks would it take to complete the construction of a small chapel using local labor and materials?,CARDINAL
+How much did a pound of salt cost in the 14th century, given in deniers?,CARDINAL
+What was the approximate number of merchants involved in the Hanseatic League at its peak?,CARDINAL
+During the medieval period, how many guilds were there typically in a town with a population of around 5000 people?,CARDINAL
+How much did it cost to build a castle keep during the High Middle Ages, given in pounds sterling?,CARDINAL
+What was the average number of sheep owned by a wealthy peasant family in England during the 14th century?,CARDINAL
+How many guilders would be the typical price for a merchant's house in Bruges around 1500 AD?,CARDINAL
+When did the Black Death significantly impact the medieval European economy?,DATE
+What year marked the beginning of the High Middle Ages, a period of economic growth in Europe?,DATE
+In what date did the Hundred Years' War start, affecting trade and economy across England and France?,DATE
+Which year saw the peak of the Medieval Warm Period that influenced agricultural productivity in Europe?,DATE
+Can you provide the date when the Domesday Book was completed, documenting much of England's economic wealth?,DATE
+What is the date associated with the founding of the Hanseatic League, a powerful medieval trade organization?,DATE
+When did the fall of Constantinople occur, an event that disrupted trade routes and had significant economic repercussions?,DATE
+Can you give me the year when the first European banking institutions began to appear in Italy, revolutionizing finance?,DATE
+What date marks the start of the Little Ice Age which had a chilling effect on medieval economies?,DATE
+Which year was crucial for the end of serfdom due to labor shortages following the Black Death?,DATE
+When did the economic boom in Northern Europe begin that resulted from increased trade and wealth accumulation?,DATE
+Can you provide me with the date when the first stock exchange was established, marking a new era in medieval commerce?,DATE
+In what year did the English wool trade reach its peak, significantly boosting the economy of England?,DATE
+When did King John sign the Magna Carta, an event that had long-term economic implications for feudal economies?,DATE
+What date signifies the beginning of the Great Famine in Europe, which led to widespread economic hardship and population decline?,DATE
+Can you provide the year when the first paper money was introduced in Europe by a bank in Sweden, changing financial practices?,DATE
+When did the medieval silk trade reach its height between Europe and Asia, impacting economies along the Silk Road?,DATE
+Which date marks the end of the Byzantine Empire, an event that reshaped economic relations across the Mediterranean?,DATE
+Can you tell me when the first recorded use of double-entry bookkeeping appeared in Venice, revolutionizing accounting practices?,DATE
+What year was the Treaty of Tordesillas signed, dividing newly discovered lands and setting the stage for new trade routes and economies?,DATE
+What events led to the decline of the manorial system in medieval Europe?,Event
+How did the Black Death alter the economic structure of medieval Europe?,Event
+Which event marked the beginning of the Crusades and how did it impact trade routes in the Medieval period?,Event
+In what year was the Treaty of Tordesillas signed, dividing newly discovered lands outside Europe between Spain and Portugal, and how did this affect the global economy?,Event
+What significant event caused the Hundred Years' War between England and France, impacting medieval economies?,Event
+How did the fall of Constantinople in 1453 change trade patterns across Europe during the Medieval period?,Event
+Which economic event is associated with the rise of merchant guilds in medieval towns and cities?,Event
+What event triggered the Great Famine of 1315-1317 in Europe, affecting agricultural production and food supply?,Event
+Can you describe the event known as the Agricultural Revolution that occurred during the Medieval period and its economic impact?,Event
+How did the signing of Magna Carta influence the economy of England by limiting feudalism and establishing certain rights?,Event
+What specific event led to the Peasants' Revolt in 1381, challenging the feudal system and impacting medieval economies?,Event
+Which event is credited with initiating the rise of banking families like the Medici during the late Medieval period?,Event
+How did the discovery and conquests made by Prince Henry the Navigator contribute to economic expansion in Europe?,Event
+What significant economic event occurred during the time of the Great Schism, affecting trade and wealth distribution in Europe?,Event
+Which major event led to the decline of the Hanseatic League's control over Baltic and North Sea trade routes in medieval times?,Event
+How did the Reconquista impact Spain's economy by opening up new agricultural lands and encouraging the growth of cities?,Event
+What event is linked to the development of double-entry bookkeeping, revolutionizing accounting practices for merchants during the Medieval period?,Event
+In what way did the Battle of Agincourt in 1415 influence England’s economic relationship with France during the Hundred Years' War?,Event
+Which major event led to the economic decline of Venice by disrupting its trade monopoly in the Mediterranean Sea?,Event
+How did the discovery of gold at Ouro Preto impact Portugal's economy and contribute to European colonial expansion?,Event
+What were the primary trading hubs during the Medieval period?,FAC
+Which cities in Europe served as major economic centers for trade and commerce in the Middle Ages?,FAC
+How did the economy of Venice contribute to its status as a powerful city-state during the Medieval times?,FAC
+In what way did the Silk Road impact the economy of Constantinople during the Medieval era?,FAC
+What role did Bruges play in the economic landscape of Northern Europe during the Middle Ages?,FAC
+How significant was the port of Genoa to the Mediterranean trade network in medieval times?,FAC
+Which marketplaces in London were crucial for local and international trade during the Medieval period?,FAC
+Can you describe the importance of the Champagne fairs for European commerce in the High Middle Ages?,FAC
+What economic functions did the Hanseatic League fulfill for its member cities?,FAC
+How did the city of Novgorod contribute to the medieval economy through its trading activities?,FAC
+Which features made the city of Timbuktu a major center of trade during the Medieval period in West Africa?,FAC
+What was the role of Florence in shaping banking and commerce practices in medieval Europe?,FAC
+How did the economic importance of the city of Cairo evolve due to its position along trading routes during the Middle Ages?,FAC
+In what ways did the Fair of St. Giles influence the economy of Toulouse during the Medieval period?,FAC
+What were some key economic activities that made Nuremberg a significant medieval trade center?,FAC
+How did the medieval city of Antwerp emerge as an important commercial hub in the later Middle Ages?,FAC
+Which industries flourished in the medieval city of Ghent and contributed to its economic prosperity?,FAC
+What was the role of the city of Lisbon in facilitating maritime trade during the Medieval period?,FAC
+How did the economy of Barcelona contribute to its position as a key port city in medieval times?,FAC
+What were some of the economic activities that made the city of Kraków an important center in medieval Poland?,FAC
+What role did England play in the wool trade during the medieval period?,GPE
+How did the economy of France change due to the Hundred Years' War?,GPE
+In what ways did Italy's city-states contribute to the economic development of Europe during the Middle Ages?,GPE
+Which goods were primarily traded through the ports of Portugal during the medieval times?,GPE
+What impact did the Black Death have on the economy of England in the 14th century?,GPE
+How did Spain's control over trade routes influence its economy in the late Middle Ages?,GPE
+Describe the agricultural practices that were common in Germany during the medieval period.,GPE
+What was the economic relationship between Scotland and England like in the medieval times?,GPE
+How did the Crusades affect the economy of the Byzantine Empire?,GPE
+In what ways did the Silk Road influence the trade activities of the Mongol Empire?,GPE
+What role did Poland play in the grain trade during the Middle Ages?,GPE
+How significant was the salt trade to the economy of the Holy Roman Empire in medieval times?,GPE
+What were some of the economic impacts of the Viking invasions on Scandinavia?,GPE
+Describe the mining activities and their economic importance in Medieval Wales.,GPE
+In what ways did the Iberian Peninsula's geography influence its medieval economy?,GPE
+How did the economy of the Ottoman Empire develop during the late Middle Ages?,GPE
+What were the primary sources of wealth for the Kingdom of Sicily during the medieval period?,GPE
+Describe the economic relationship between England and its colonies in the 14th century.,GPE
+How did the economic policies of the Byzantine Emperors affect trade with other European countries?,GPE
+In what ways did the economy of the Duchy of Burgundy influence the development of modern banking practices?,GPE
+What languages were used in medieval trade documents?,LANGUAGE
+In the medieval economy, which language was predominantly used for keeping records of transactions?,LANGUAGE
+Which language was commonly used by merchants in the Hanseatic League for commercial correspondence during the Middle Ages?,LANGUAGE
+During the Medieval period, what language did Italian city-states use for their extensive trading network communications?,LANGUAGE
+What role did Latin play as a common language in the medieval economy?,LANGUAGE
+How did the use of Arabic impact trade and economic transactions in Europe during the medieval times?,LANGUAGE
+Which language was used extensively by English merchants when trading with other European countries during the Middle Ages?,LANGUAGE
+In medieval England, what language were manorial accounts typically recorded in?,LANGUAGE
+What language was commonly used in the Mediterranean for maritime commercial activities in the Medieval period?,LANGUAGE
+How significant was the use of Old French in the economic documents of Normandy post-Conquest in 1066?,LANGUAGE
+Which language served as a lingua franca among merchants along the Silk Road during medieval times?,LANGUAGE
+What was the primary language used in the accounting records of Florence's famous banking families like the Medici in the Medieval era?,LANGUAGE
+How did the use of different languages impact the economic integration of regions within the Holy Roman Empire during the Middle Ages?,LANGUAGE
+In terms of the medieval economy, what role did written correspondence in Old English play for local trade and taxation within England?,LANGUAGE
+Which language was used for financial transactions between the Byzantine Empire and its trading partners during the Medieval period?,LANGUAGE
+How did the linguistic diversity impact economic interactions among various ethnic groups along the Volga Trade Route during the medieval times?,LANGUAGE
+What language would one most likely find in a ledger documenting the wool trade in Flanders during the Middle Ages?,LANGUAGE
+Which languages were used by the Venetians for their extensive commercial contracts and agreements with traders from the East Mediterranean region during Medieval times?,LANGUAGE
+How did the use of Old Norse influence economic practices and documents in regions of England under Viking control during the medieval period?,LANGUAGE
+What was the primary language of the economic texts that guided agricultural production and trade in Eastern European countries like Poland during the Middle Ages?,LANGUAGE
+What laws were established in medieval times to regulate trade within fairs and markets?,LAW
+How did the Magna Carta influence economic practices during the Medieval period?,LAW
+Can you describe the legal consequences for those caught counterfeiting coins in the Medieval era?,LAW
+What were the primary laws that governed serfdom and the obligations of peasants to their lords?,LAW
+In medieval Europe, what legal measures were taken against usury, and how did they affect the economy?,LAW
+How did royal charters impact the economic development of towns in the Middle Ages?,LAW
+What role did local manorial courts play in enforcing laws related to agricultural production and land use?,LAW
+Could you explain the statutes that governed the wool trade in medieval England and their implications on the economy?,LAW
+In the context of feudalism, what legal rights did lords have over serfs' economic activities?,LAW
+What were the primary legal mechanisms used to resolve disputes over debts between merchants during the Medieval period?,LAW
+How did sumptuary laws in the Middle Ages affect trade and commerce by regulating clothing and consumption based on social class?,LAW
+In medieval times, what legal actions could be taken against price gouging during famines or shortages?,LAW
+What was the impact of the Statute of Labourers (1351) on the medieval economy in terms of labor regulation and wages?,LAW
+How did guild charters influence economic activities by setting standards for craftsmanship, prices, and competition within their respective trades?,LAW
+In the Medieval period, what legal processes were involved in resolving disputes over land ownership and inheritance rights?,LAW
+What laws were established to protect tenants from excessive fines and arbitrary eviction by landlords during medieval times?,LAW
+How did the practice of trial by ordeal reflect on the legal and economic status of individuals accused of financial crimes in Medieval Europe?,LAW
+Could you explain how the law of primogeniture influenced land ownership patterns and economic inequality during the Middle Ages?,LAW
+What were some of the key legal reforms that aimed at curbing corruption among local officials responsible for tax collection in medieval towns?,LAW
+How did the concept of sanctuary, as protected under medieval laws, impact the economy by providing refuge to debtors and fugitives from justice?,LAW
+What was the role of Florence in the Medieval economy?,LOC
+How did London contribute to trade during the medieval period?,LOC
+Which goods were primarily traded through Venice's ports in the Middle Ages?,LOC
+In what ways did Paris influence economic development during the medieval era?,LOC
+What impact did the Hanseatic League have on the economy of Lübeck?,LOC
+Why was Constantinople a critical trading hub in the Medieval Economy?,LOC
+How important were the Silk Road routes through Samarkand to medieval trade?,LOC
+What role did Bruges play as an economic center in the Middle Ages?,LOC
+How did the economy of Cordoba differ from other European cities during the medieval period?,LOC
+Why was Novgorod considered a significant trading city during the medieval times?,LOC
+What goods were most commonly traded through the ports of Alexandria in the Medieval Economy?,LOC
+In what ways did the economy of Baghdad evolve to become a center for trade and commerce during the Middle Ages?,LOC
+How did the agricultural practices in the Fertile Crescent impact the Medieval Economy?,LOC
+Why was Cairo an important location for economic exchanges between East and West during medieval times?,LOC
+What role did Timbuktu play in the trans-Saharan trade during the medieval period?,LOC
+How significant was the economy of Granada to the southern Iberian Peninsula during the Middle Ages?,LOC
+In what ways did the economy of Damascus contribute to the broader economic landscape of the Near East in the Medieval Era?,LOC
+What was the significance of Genoa's naval and mercantile power in shaping the medieval Mediterranean economy?,LOC
+Why was Ghent considered an essential trading city within the context of the medieval European economy?,LOC
+How did the geography of Istanbul influence its role as a crucial trading center during the late Medieval period?,LOC
+What was the primary form of money used in medieval Europe?,MONEY
+How did the value of gold compare to silver during the Medieval period?,MONEY
+In medieval times, which coin was commonly used for international trade transactions?,MONEY
+What role did copper coins play in everyday transactions within a medieval town?,MONEY
+Can you describe how the introduction of paper money influenced the economy in parts of the medieval world that adopted it?,MONEY
+How were taxes typically paid in Medieval England, and what kind of currency was most common for this purpose?,MONEY
+What impact did the debasement of coins have on the medieval economy in terms of inflation and trust in currency?,MONEY
+In the context of the Medieval period, how significant was the use of bullion as a form of money or wealth storage?,MONEY
+How did the scarcity of coinage affect trade and commerce in rural versus urban areas during the Middle Ages?,MONEY
+What were some alternative forms of payment used when there was a shortage of coins in medieval times?,MONEY
+During the medieval era, how did the introduction of new minting techniques influence the availability and reliability of money?,MONEY
+How did the concept of a barter system coexist with monetary transactions in Medieval Europe's economy?,MONEY
+What were some major challenges faced by traders when using different currencies across various medieval kingdoms or regions?,MONEY
+In terms of economic transactions, how was the value of gold compared to silver used to determine the exchange rates between different European countries during the Middle Ages?,MONEY
+How did the introduction of foreign coins into a local economy affect its monetary system in Medieval Europe?,MONEY
+What were some common practices for storing wealth that didn't involve traditional money forms like coins or paper currency in medieval times?,MONEY
+In Medieval times, how did economies without widespread use of coinage handle large transactions, such as buying land or paying armies?,MONEY
+How did the fluctuating supply and demand for precious metals affect the stability of monetary systems across different regions during the Middle Ages?,MONEY
+What role did money changers play in facilitating international trade by exchanging various forms of currency in medieval markets?,MONEY
+How did the lack of a standardized currency system impact long-distance trade routes, such as those connecting Europe and Asia in medieval times?,MONEY
+Who were the dominant traders in the Mediterranean during the Medieval period?,NORP
+What role did the Vikings play in the Medieval European economy?,NORP
+How did the Norman conquest influence the economic structure of England?,NORP
+In what ways did the Crusaders impact trade relations between Europe and the Middle East during the Medieval era?,NORP
+Which group was responsible for controlling much of the Mediterranean Sea trade routes during the Medieval period?,NORP
+What role did the Mongols play in facilitating trade between Asia and Europe in the 13th century?,NORP
+How did the Hanseatic League's economic activities influence Northern European economies in the Middle Ages?,NORP
+What was the impact of the Islamic Caliphates on Mediterranean trade during the Medieval times?,NORP
+In what ways did the Mongol Empire's policies affect Silk Road commerce between East and West?,NORP
+How did the Norman presence in southern Italy influence the local economy during the Medieval period?,NORP
+What role did the Franks play in establishing new economic systems in Western Europe after the fall of Rome?,NORP
+How did the Byzantine Empire's economic policies affect trade with its neighbors during the Medieval era?,NORP
+In what ways did the Venetians influence Mediterranean commerce and trade in the Middle Ages?,NORP
+What was the impact of the Moors on Spain’s economy during their rule in the Medieval period?,NORP
+How did the Norman rulers' economic policies affect Sicily's agricultural production and trade?,NORP
+Which group played a significant role in preserving and transmitting knowledge, including economic practices, through the Middle Ages?,NORP
+What was the impact of the Crusaders on local economies during their campaigns in the Holy Land?,NORP
+How did the Lombards contribute to the development of banking and commerce in Italy during the Medieval period?,NORP
+In what ways did the Mongols facilitate trade between Europe and Asia through their vast empire in the 13th century?,NORP
+What role did the Catalans play in establishing a strong merchant marine presence in the Mediterranean during the High Middle Ages?,NORP
+What was the first major trade good in medieval Europe?,ORDINAL
+How many largest fairs were there in medieval times that significantly influenced trade?,ORDINAL
+Which was the second most traded spice during the Middle Ages?,ORDINAL
+In what year did the third Crusade begin, affecting trade routes and economy?,ORDINAL
+What was the first metal to be widely used for coinage in medieval Europe?,ORDINAL
+How many major silver mines were operational by the beginning of the 12th century?,ORDINAL
+Which was the second most common form of payment besides coins in medieval times?,ORDINAL
+In what period did the third wave of agricultural expansion begin in Western Europe?,ORDINAL
+What was the first currency introduced that helped standardize trade across different regions in Europe?,ORDINAL
+How many major gold mines were known to have existed during the High Middle Ages?,ORDINAL
+Which was the second most important trade route for silk and spices in medieval times besides the Silk Road?,ORDINAL
+In what century did the third wave of urbanization start, significantly boosting local economies?,ORDINAL
+What was the first textile imported into Europe from the East that became highly sought after by the nobility?,ORDINAL
+How many major ports were established along the Mediterranean coast during the 10th century to enhance trade activities?,ORDINAL
+Which was the second largest fishing ground in medieval times, contributing significantly to the economy of coastal regions?,ORDINAL
+In what year did the third significant banking crisis occur in medieval Italy, impacting the economy greatly?,ORDINAL
+What was the first major crop to be introduced from the East that changed agricultural practices in Europe?,ORDINAL
+How many major types of guilds were there based on crafts and trades by the end of the 14th century?,ORDINAL
+Which was the second most important source of energy for medieval industrial activities besides water power?,ORDINAL
+In what year did the third wave of plague break out, leading to a significant labor shortage and economic shift?,ORDINAL
+What role did the Church play in managing land and resources during the Medieval period?,ORG
+How did guilds influence trade regulations and economic activities in medieval towns?,ORG
+In what ways did monastic communities contribute to agricultural production and local economies in the Middle Ages?,ORG
+Which organizations were primarily responsible for funding and constructing cathedrals across Europe during the Medieval era?,ORG
+What was the impact of merchant guilds on the development of trade routes in medieval times?,ORG
+How did royal treasuries manage to fund military expeditions without modern banking systems in the Middle Ages?,ORG
+Can you describe how manorial estates operated and their role in the feudal economy?,ORG
+Which organizations were responsible for overseeing the production of coins during the Medieval period?,ORG
+What was the influence of trade guilds on apprenticeship programs in medieval cities?,ORG
+How did monastic orders contribute to literacy and record-keeping that supported economic transactions in the Middle Ages?,ORG
+In what ways did the Knights Templar impact banking practices across Europe during their existence?,ORG
+Which organizations were typically responsible for collecting taxes and maintaining records of property ownership in medieval society?,ORG
+What role did religious institutions play in organizing charity and social welfare programs in Medieval towns?,ORG
+How did merchant associations influence price controls and market regulations in medieval European cities?,ORG
+Can you explain the function of Hanseatic League as a trade organization during the Middle Ages?,ORG
+Which organizations were involved in organizing fairs that acted as hubs for international trade in the Medieval period?,ORG
+What was the role of civic governments in maintaining public works like bridges and roads to support commerce in medieval times?,ORG
+How did the rise of powerful merchant guilds change the political landscape of medieval European cities?,ORG
+Which organizations were responsible for setting standards and regulations for various crafts during the Medieval era?,ORG
+In what ways did monastic communities serve as centers for agricultural innovation and economic exchange during the Middle Ages?,ORG
+What percent of the Medieval European economy was based on agriculture?,PERCENT
+In the medieval period, what percentage of trade goods were textiles?,PERCENT
+During the Middle Ages, by what approximate percent did population growth affect local economies in Europe?,PERCENT
+By what percent did the value of silver coins decrease during the late Medieval period due to inflation?,PERCENT
+What was the estimated percent increase in land productivity due to the three-field system in medieval agriculture?,PERCENT
+How much, in terms of percentage, did serfs typically have to give to their lords as part of the feudal economy?,PERCENT
+In what percentage did the wool trade contribute to England's GDP during the High Middle Ages?,PERCENT
+What percent decrease in economic activity occurred due to the Black Death in Europe during the 14th century?,PERCENT
+By approximately what percent were taxes levied on peasants' agricultural produce in medieval times?,PERCENT
+What percentage of the Medieval European workforce was involved in mining operations?,PERCENT
+How much, in terms of percentage, did urbanization rates increase from the early to late Middle Ages?,PERCENT
+In the context of the Medieval economy, what percent of people lived in towns and cities around the 10th century?,PERCENT
+What approximate percentage of medieval merchants were involved in long-distance trade networks such as those across Europe or between Europe and Asia?,PERCENT
+By what percent did the introduction of new farming tools increase agricultural output in the Medieval period?,PERCENT
+How much, by percentage, did the economy of Venice rely on maritime trade during the height of its power in the Middle Ages?,PERCENT
+What was the approximate percent of the population engaged in craft production within medieval towns and cities?,PERCENT
+In what percent did the economic contribution of the Hanseatic League to Northern Europe's trade volume peak during the late Medieval period?,PERCENT
+How much, by percentage, did agricultural land values increase due to the rise in demand for food products in the 13th century?,PERCENT
+What was the estimated percent decrease in average wages as a result of the economic downturn following the Black Death?,PERCENT
+By what approximate percent did the production of metal goods (such as tools and weapons) contribute to the overall economy during the Medieval period?,PERCENT
+Who were the key merchants that influenced trade during the Medieval period?,PERSON
+Which kings played a significant role in shaping the medieval economy through their policies?,PERSON
+Can you name a notable banker who significantly impacted financial transactions in the Middle Ages?,PERSON
+How did powerful abbots contribute to economic life during the medieval times?,PERSON
+Who were some of the influential moneylenders that shaped medieval commerce and finance?,PERSON
+What role did queens play in managing the economy of their kingdoms during the Medieval period?,PERSON
+Which knights were known for their involvement in trade and economic activities in the Middle Ages?,PERSON
+Can you mention a famous trader from the Medieval era who expanded trade routes?,PERSON
+How did powerful dukes influence local economies through their land management practices?,PERSON
+Who was an important diplomat that facilitated trade agreements during medieval times?,PERSON
+Which bishops were known for their involvement in economic and financial matters in the Middle Ages?,PERSON
+Can you name a significant artisan who contributed to the economy of a specific region in Medieval Europe?,PERSON
+How did influential scholars contribute to the understanding and documentation of medieval economics?,PERSON
+What role did powerful counts play in the trade and commerce of their territories during the Medieval period?,PERSON
+Who were some notable economists or thinkers that studied the economic systems of the Middle Ages?,PERSON
+Can you name a famous merchant who significantly impacted the economy through their business practices in the Medieval era?,PERSON
+How did powerful abbesses contribute to the economic life within monasteries during medieval times?,PERSON
+Which sherrifs were known for their impact on local economies and trade regulations in the Middle Ages?,PERSON
+What role did influential alchemists play in shaping economic practices related to metals and coinage in Medieval Europe?,PERSON
+Who were some of the key tax collectors that played a significant role in the financial administration during the medieval period?,PERSON
+What were the primary agricultural products traded in medieval Europe?,PRODUCT
+Which textiles were highly sought after and considered valuable commodities during the Medieval period?,PRODUCT
+How did spices become a critical product influencing trade routes during the Middle Ages?,PRODUCT
+In the context of the medieval economy, which metals were most commonly mined and used for coinage?,PRODUCT
+What type of wine was predominantly produced in France during the medieval era?,PRODUCT
+Which type of grain was central to the diet and thus production in the Medieval European economy?,PRODUCT
+How did the silk trade from China impact the economy and culture of Europe in the Middle Ages?,PRODUCT
+What kind of leather goods were commonly produced and traded across medieval markets?,PRODUCT
+In medieval times, which types of precious stones were often used for jewelry and as symbols of wealth?,PRODUCT
+Which type of pottery was particularly valued and widely traded during the Medieval period in Europe?,PRODUCT
+How important were wool products to the economy of England during the Middle Ages?,PRODUCT
+What role did salt play as a product in preserving food and thus impacting medieval trade?,PRODUCT
+During the medieval era, which herbal medicines were commonly produced and used across Europe?,PRODUCT
+Which type of glass was highly prized for its craftsmanship during the Medieval period?,PRODUCT
+In terms of construction materials, what kind of stone products were essential for building castles and churches in the Middle Ages?,PRODUCT
+What role did iron weapons play as a product in shaping military technology during medieval times?,PRODUCT
+How significant were olive oil products to the economy of Southern Europe during the medieval period?,PRODUCT
+Which type of fish was most commonly traded across inland waterways in medieval Europe?,PRODUCT
+What kind of paper products began to appear and influence record-keeping practices in late Medieval Europe?,PRODUCT
+In medieval commerce, which types of dyes were used extensively for coloring textiles and signifying social status?,PRODUCT
+What was the approximate percentage of the European population engaged in agriculture during the Medieval period?,QUANTITY
+How many acres on average did a peasant farm in medieval England typically consist of?,QUANTITY
+During the High Middle Ages, what was the estimated number of cattle owned by wealthy landowners per manor?,QUANTITY
+In medieval times, how much grain (in kilograms) could a serf expect to receive as part of their yearly provisions from their lord?,QUANTITY
+What was the average annual income in pounds sterling for a craftsman in 14th century England?,QUANTITY
+How many days per year were typically considered feast or holy days during the medieval period, where labor was not expected?,QUANTITY
+What was the estimated amount of silver (in kilograms) produced annually by mines in Europe during the late Medieval era?,QUANTITY
+In the medieval economy, how much (in grams) could a pound of wool be worth for merchants trading it on international markets?,QUANTITY
+How many different types of coins were commonly used as currency in England during the 13th century?,QUANTITY
+What was the average number of chickens owned by a peasant family to meet their subsistence needs during medieval times?,QUANTITY
+During the Medieval period, how much (in grams) did a typical silver penny weigh in England?,QUANTITY
+How many miles would a typical medieval merchant travel on an average trading journey within Europe?,QUANTITY
+What was the approximate number of fish that could be caught daily by a fishing community during the Medieval times?,QUANTITY
+In medieval England, how much (in pounds) did a bushel of wheat typically cost in 1300 AD?,QUANTITY
+How many hours per day were peasants required to work on their lord's land under the manorial system in medieval Europe?,QUANTITY
+What was the estimated number of sheep that could graze on one acre of common land during the Medieval period?,QUANTITY
+During the Middle Ages, how much (in kilograms) could a typical artisan sell of their goods weekly to sustain themselves and their family?,QUANTITY
+How many ships were part of the Hanseatic League's merchant fleet at its peak in medieval Europe?,QUANTITY
+In medieval times, what was the average number of coins held by a knight as a form of wealth for personal expenses or ransom payments?,QUANTITY
+What was the typical length (in meters) of cloth that could be produced per week by a weaver in a medieval guild?,QUANTITY
+When did the feudal system start to significantly impact the medieval economy?,TIME
+What year marked the beginning of the high medieval period when economic activities began to flourish?,TIME
+How long did it take for the Black Death to spread across Europe and disrupt the medieval economy?,TIME
+During which century did serfdom become a dominant labor system in the medieval European economy?,TIME
+In what time frame did the medieval trade fairs, such as Champagne Fairs, reach their peak?,TIME
+What was the duration of the Great Famine (1315–1322) and its impact on the medieval economy?,TIME
+Which period saw the rise of merchant guilds in the late medieval European economy?,TIME
+When did coinage start to be widely used again in Europe after the decline following the fall of the Roman Empire?,TIME
+How many years did it take for manorialism to become a widespread system in rural economies during the Middle Ages?,TIME
+What was the approximate time period during which the Hanseatic League dominated trade in Northern Europe?,TIME
+When did the Hundred Years' War (1337-1453) begin, leading to significant economic disruptions across medieval Europe?,TIME
+During what era did the woolen industry become a cornerstone of the economy in England and Flanders?,TIME
+What time period is associated with the transition from the manorial system towards more market-oriented economies in Western Europe?,TIME
+When was the first banknote issued, marking an early development towards modern financial systems in China's medieval economy?,TIME
+How long did the Byzantine Empire maintain its influence over trade and commerce in Eastern Europe before being significantly challenged by other powers?,TIME
+In what time frame did the crusades (1095-1272) stimulate economic growth through increased trade with the East?,TIME
+What period saw the end of the medieval guild system as it began to be replaced by more flexible forms of organization in manufacturing and commerce?,TIME
+When did the first stock market, known at the time as a bourse, appear in Antwerp, marking an important step in financial innovation during the late medieval period?,TIME
+During which years did the economic recovery following the Black Death lead to significant changes in labor markets across Europe?,TIME
+What is the time frame associated with the development of craft guilds and their influence on medieval urban economies?,TIME
+What tapestries from the Medieval period depict scenes of agricultural life in great detail?,WORK_OF_ART
+Which illuminated manuscript provides insight into medieval trade and economic activities through its illustrations?,WORK_OF_ART
+Can you name a painting that shows peasants working in fields during the Medieval era, highlighting rural economy?,WORK_OF_ART
+How does the Bayeux Tapestry illustrate aspects of the Medieval economy, especially concerning trade and supply?,WORK_OF_ART
+What is the significance of Dürer's 'Peasant Wedding' in understanding medieval economic practices among the lower classes?,WORK_OF_ART
+Which work of art from the Medieval period best captures the bustling activity of a market day?,WORK_OF_ART
+In what manuscript are there detailed depictions of the production and trade of textiles during the Middle Ages?,WORK_OF_ART
+What sculpture illustrates the process of wine-making, which was an important economic activity in medieval times?,WORK_OF_ART
+How does 'The Lamentation of Christ' by Giotto di Bondone reflect the economic conditions of its time through symbolism?,WORK_OF_ART
+Can you identify a fresco that portrays the labor-intensive processes involved in medieval agriculture?,WORK_OF_ART
+Which medieval painting shows the process of coin minting, an essential part of the economy at the time?,WORK_OF_ART
+What stained glass window depicts merchants and their goods, showcasing trade during the Medieval period?,WORK_OF_ART
+How does 'The Good Samaritan' by Pieter Bruegel the Elder relate to economic life in medieval villages?,WORK_OF_ART
+Which illuminated book includes scenes of feudal lords overseeing their estates, emphasizing the agrarian economy?,WORK_OF_ART
+What is depicted in a medieval carving that shows artisans and craftsmen practicing their trades?,WORK_OF_ART
+Can you name a manuscript that illustrates the process of iron smelting, an important industry in medieval times?,WORK_OF_ART
+How does 'The Haywain Triptych' by Pieter Bruegel the Elder reflect the economic importance of agriculture during the Medieval period?,WORK_OF_ART
+What painting from the Medieval era portrays a feudal market day, showing various trades and goods exchanged?,WORK_OF_ART
+Which sculpture captures the moment of a peasant paying taxes to his lord, highlighting the hierarchical economy of medieval society?,WORK_OF_ART
+How does 'The Miracles of Saint Martin' by Master of Saint Giles illustrate economic exchanges in medieval monasteries through detailed scenes?,WORK_OF_ART
+What were the primary crops grown during the Medieval period in Europe?,PRODUCT
+How did the Black Death affect the economy of medieval England?,EVENT
+What was the value of a pound of silver in terms of currency in the 14th century?,MONEY
+Which city was considered the economic hub of Northern Italy during the High Middle Ages?,LOC
+How many guilds were active in London by the late Medieval period?,CARDINAL
+What role did serfs play in the feudal economy of medieval Europe?,NORP
+During which time period did the Hanseatic League reach its peak influence over trade in northern Europe?,DATE
+Which law restricted peasants' freedom to move and work for wages outside their lord's manor during the Medieval era?,LAW
+What was the significance of the Champagne fairs in medieval France's economy?,EVENT
+How much would a pound of salt cost in medieval times, demonstrating its value as a trading commodity?,MONEY
+Which type of ship was commonly used for trade across the Mediterranean Sea during the Middle Ages?,PRODUCT
+In which year did the Hundred Years' War begin, impacting economic activities in Europe?,DATE
+What was the primary currency used for transactions in medieval England's economy?,MONEY
+How long did it typically take to travel from London to Paris by ship in the 13th century?,TIME
+Which organization played a critical role in promoting trade and commerce along the Baltic Sea?,ORG
+What percentage of the European population died due to the Black Death, affecting labor markets and prices in the economy?,PERCENT
+How many types of coinage were circulating in England during King Edward I's reign?,CARDINAL
+Which festival was known for attracting merchants from all over Europe to trade their goods in medieval times?,EVENT
+What type of fabric was highly valued and traded extensively across the Silk Road during the Medieval period?,PRODUCT
+Where did the Knights Templar establish a banking system that influenced economic transactions during the Crusades era?,LOC

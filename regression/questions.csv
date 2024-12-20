@@ -1,0 +1,272 @@
+question,label
+Who is the current president of the United States?,PERSON
+Who wrote the novel “1984”?,PERSON
+Who won the Best Actor award at the Oscars last year?,PERSON
+Who discovered the theory of relativity?,PERSON
+Who directed the film “Inception”?,PERSON
+Who founded Microsoft?,PERSON
+Who was the first person to walk on the moon?,PERSON
+Who is the CEO of Tesla?,PERSON
+Who authored “Pride and Prejudice”?,PERSON
+Who won the Nobel Peace Prize in 2022?,PERSON
+Who was the first female prime minister of the UK?,PERSON
+Who created the character Sherlock Holmes?,PERSON
+Who is considered the father of modern computing?,PERSON
+Who played Harry Potter in the film series?,PERSON
+Who composed the symphony “Fifth Symphony”?,PERSON
+Who is the founder of Amazon?,PERSON
+Who invented the telephone?,PERSON
+Who was the first president of the United States?,PERSON
+Who wrote “The Great Gatsby”?,PERSON
+Who is the current Secretary-General of the United Nations?,PERSON
+Who designed the Eiffel Tower?,PERSON
+Who was the first female astronaut in space?,PERSON
+Who won the Pulitzer Prize for Fiction in 2023?,PERSON
+Who is the author of the “Harry Potter” series?,PERSON
+Who is the richest person in the world currently?,PERSON
+Who created Facebook?,PERSON
+Who is the lead singer of U2?,PERSON
+Who played James Bond in “Skyfall”?,PERSON
+Who won the Best Director award at Cannes this year?,PERSON
+Who wrote the play “Hamlet”?,PERSON
+Who painted “The Starry Night”?,PERSON
+Who led the civil rights movement in the US?,PERSON
+Who discovered penicillin?,PERSON
+Who was the first black president of South Africa?,PERSON
+Who invented the World Wide Web?,PERSON
+Who composed “The Four Seasons”?,PERSON
+Who was the first female Nobel Prize laureate?,PERSON
+Who is the current Prime Minister of Canada?,PERSON
+Who discovered America?,PERSON
+Who led the independence movement in India?,PERSON
+Who is the main character in “Don Quixote”?,PERSON
+Who developed the polio vaccine?,PERSON
+Who wrote “To Kill a Mockingbird”?,PERSON
+Who is the founder of SpaceX?,PERSON
+Who directed “The Lord of the Rings” trilogy?,PERSON
+Who discovered gravity by observing a falling apple?,PERSON
+Who is the creator of “The Simpsons”?,PERSON
+Who is the protagonist in “The Catcher in the Rye”?,PERSON
+Who played the lead role in “Titanic”?,PERSON
+Who is the CEO of Apple Inc.?,PERSON
+Who discovered the structure of DNA?,PERSON
+Who invented the light bulb?,PERSON
+Who is the author of “The Hobbit”?,PERSON
+Who was the first emperor of Rome?,PERSON
+Who composed “Moonlight Sonata”?,PERSON
+Who founded the charity “Doctors Without Borders”?,PERSON
+Who led the French Resistance during World War II?,PERSON
+Who was the queen of Ancient Egypt famous for her beauty?,PERSON
+Who is the current monarch of the United Kingdom?,PERSON
+Who directed the movie “Pulp Fiction”?,PERSON
+Who won the Pulitzer Prize for Poetry in 2023?,PERSON
+Who is the main character in the novel “Moby Dick”?,PERSON
+Who was the founder of the Catholic Church?,PERSON
+Who was the first African American woman in space?,PERSON
+Who created the Marvel superhero Spider-Man?,PERSON
+Who is the most decorated Olympian in history?,PERSON
+Who designed the Statue of Liberty?,PERSON
+Who is the current Chancellor of Germany?,PERSON
+Who discovered the electron?,PERSON
+Who wrote “The Divine Comedy”?,PERSON
+Who is the main character in “The Odyssey”?,PERSON
+Who directed “Jurassic Park”?,PERSON
+Who composed the opera “Carmen”?,PERSON
+Who played Captain Kirk in “Star Trek”?,PERSON
+Who wrote “War and Peace”?,PERSON
+Who was the first female president of a country?,PERSON
+Who painted the Sistine Chapel ceiling?,PERSON
+Who is the founder of Wikipedia?,PERSON
+Who wrote “The Chronicles of Narnia”?,PERSON
+Who played Wonder Woman in the recent films?,PERSON
+Who discovered radioactivity?,PERSON
+Who is the author of “Brave New World”?,PERSON
+Who was the first European to reach India by sea?,PERSON
+Who was the last Pharaoh of Egypt?,PERSON
+Who is the protagonist in “The Great Gatsby”?,PERSON
+Who invented the printing press?,PERSON
+Who composed the opera “The Marriage of Figaro”?,PERSON
+Who is the main character in “The Catcher in the Rye”?,PERSON
+Who founded Twitter?,PERSON
+Who was the first female Supreme Court Justice in the US?,PERSON
+Who played Frodo in “The Lord of the Rings”?,PERSON
+Who is the author of “The Alchemist”?,PERSON
+Who wrote “Les Misérables”?,PERSON
+Who was the commander of the Apollo 11 mission?,PERSON
+Who created the character of Batman?,PERSON
+Who founded PayPal?,PERSON
+Who played Tony Stark in the Marvel movies?,PERSON
+Who led the Russian Revolution in 1917?,PERSON
+Who is the main character in “Crime and Punishment”?,PERSON
+Who was the first person to circumnavigate the globe?,PERSON
+Who directed “Schindler’s List”?,PERSON
+Who is the founder of Twitter?,PERSON
+Who discovered X-rays?,PERSON
+Who was the first woman to receive the Nobel Prize in Physics?,PERSON
+Who wrote “A Tale of Two Cities”?,PERSON
+Who played the Joker in “The Dark Knight”?,PERSON
+Who invented calculus?,PERSON
+Who led the Allies during World War II?,PERSON
+Who played Luke Skywalker in “Star Wars”?,PERSON
+Who is the current Secretary of State in the US?,PERSON
+Who discovered the North Pole?,PERSON
+Who wrote “One Hundred Years of Solitude”?,PERSON
+Who composed “Rhapsody in Blue”?,PERSON
+Who was the first king of England?,PERSON
+Who discovered insulin?,PERSON
+Who is the creator of “The Walking Dead”?,PERSON
+Who directed “The Matrix”?,PERSON
+Who played James Bond in “Casino Royale”?,PERSON
+Who led the expedition to the South Pole?,PERSON
+Who was the last emperor of China?,PERSON
+Who invented the airplane?,PERSON
+Who is the protagonist of “The Scarlet Letter”?,PERSON
+Who was the first African American US president?,PERSON
+Who discovered Pluto?,PERSON
+Who is the CEO of Google?,PERSON
+Who wrote “The Adventures of Tom Sawyer”?,PERSON
+Who directed “Avatar”?,PERSON
+Who discovered oxygen?,PERSON
+Who is the founder of Netflix?,PERSON
+Who wrote “The Catcher in the Rye”?,PERSON
+Who played Wolverine in the X-Men films?,PERSON
+Who composed “The Nutcracker”?,PERSON
+Who discovered the Titanic wreck?,PERSON
+Who led the first expedition to Mount Everest?,PERSON
+Where is the Eiffel Tower located?,LOC
+Where is the Great Wall of China?,LOC
+Where is the Statue of Liberty situated?,LOC
+Where is the Amazon Rainforest found?,LOC
+Where is Mount Everest located?,LOC
+Where is the Grand Canyon situated?,LOC
+Where is the Taj Mahal located?,LOC
+Where is the Colosseum found?,LOC
+Where is the Sahara Desert situated?,LOC
+Where is the Leaning Tower of Pisa located?,LOC
+Where is the Dead Sea found?,LOC
+Where is the Great Barrier Reef located?,LOC
+Where is Niagara Falls situated?,LOC
+Where is the city of Tokyo located?,LOC
+Where is the Kremlin situated?,LOC
+Where is the city of Sydney found?,LOC
+Where is the Golden Gate Bridge located?,LOC
+Where is Machu Picchu found?,LOC
+Where is the city of Cairo situated?,LOC
+Where is the Acropolis located?,LOC
+Where is the city of Venice found?,LOC
+Where is the Amazon River situated?,LOC
+Where is the Rocky Mountains range located?,LOC
+Where is the city of Rio de Janeiro situated?,LOC
+Where is the Victoria Falls located?,LOC
+Where is the city of Istanbul found?,LOC
+Where is the Great Lakes region situated?,LOC
+Where is the Atacama Desert located?,LOC
+Where is the Suez Canal found?,LOC
+Where is the Himalayas mountain range located?,LOC
+Where is the Galápagos Islands situated?,LOC
+Where is the Mediterranean Sea located?,LOC
+Where is the city of Bangkok found?,LOC
+Where is the city of New York located?,LOC
+Where is the Alps mountain range situated?,LOC
+Where is the Black Forest located?,LOC
+Where is the Angel Falls found?,LOC
+Where is the city of Dubai situated?,LOC
+Where is the Arctic Ocean located?,LOC
+Where is the Caribbean Sea found?,LOC
+Where is the Serengeti National Park located?,LOC
+Where is the Danube River situated?,LOC
+Where is the Yellowstone National Park located?,LOC
+Where is the Baltic Sea found?,LOC
+Where is the city of Paris situated?,LOC
+Where is the Amazon Basin located?,LOC
+Where is the Mount Kilimanjaro found?,LOC
+Where is the Pacific Ocean located?,LOC
+Where is the Sahara found?,LOC
+Where is the city of Los Angeles situated?,LOC
+Where is the Ganges River located?,LOC
+Where is the South Pole found?,LOC
+Where is the Andes mountain range situated?,LOC
+Where is the Arctic Circle located?,LOC
+Where is the Nile River found?,LOC
+Where is the Appalachian Mountains situated?,LOC
+Where is the Persian Gulf located?,LOC
+Where is the Congo Rainforest found?,LOC
+Where is the Swiss Alps situated?,LOC
+Where is the city of Berlin located?,LOC
+Where is the Amazon Delta found?,LOC
+Where is the Yosemite National Park located?,LOC
+Where is the Indian Ocean situated?,LOC
+Where is the Kalahari Desert found?,LOC
+Where is the Dead Sea located?,LOC
+Where is the Mekong River situated?,LOC
+Where is the Mount Fuji found?,LOC
+Where is the Red Sea located?,LOC
+Where is the Caspian Sea found?,LOC
+Where is the Gulf of Mexico situated?,LOC
+Where is the city of Beijing located?,LOC
+Where is the Mount Rushmore found?,LOC
+Where is the Florida Keys situated?,LOC
+Where is the Lake Baikal located?,LOC
+Where is the Arctic Tundra found?,LOC
+Where is the city of Rome located?,LOC
+Where is the Appalachian Trail situated?,LOC
+Where is the Great Rift Valley found?,LOC
+Where is the Colorado River located?,LOC
+Where is the Iguazu Falls situated?,LOC
+Where is the Cook Islands found?,LOC
+Where is the Pyrenees mountain range located?,LOC
+Where is the Yellowstone River situated?,LOC
+Where is the Galápagos Marine Reserve found?,LOC
+Where is the Thar Desert located?,LOC
+Where is the Gulf of California situated?,LOC
+Where is the Alps located?,LOC
+Where is the Black Sea found?,LOC
+Where is the South China Sea located?,LOC
+Where is the Canadian Rockies situated?,LOC
+Where is the Azores Islands found?,LOC
+Where is the Trans-Siberian Railway located?,LOC
+Where is the city of Lisbon situated?,LOC
+Where is the Lake Victoria located?,LOC
+Where is the English Channel found?,LOC
+Where is the Rocky Mountain National Park located?,LOC
+Where is the city of Athens situated?,LOC
+Where is the city of Toronto found?,LOC
+Where is the Bering Sea located?,LOC
+Where is the Appalachian Highlands situated?,LOC
+Where is the Mojave Desert located?,LOC
+Where is the Baltic States found?,LOC
+Where is the Mediterranean region located?,LOC
+Where is the Antarctic Peninsula situated?,LOC
+Where is the Strait of Gibraltar found?,LOC
+Where is the Yucatan Peninsula located?,LOC
+Where is the Amazon River Basin situated?,LOC
+Where is the Patagonian Desert found?,LOC
+Where is the Ural Mountains located?,LOC
+Where is the Lake Superior situated?,LOC
+Where is the city of Chicago found?,LOC
+Where is the Panama Canal located?,LOC
+Where is the Mount Etna situated?,LOC
+Where is the Amazon Jungle found?,LOC
+Where is the Caribbean Islands located?,LOC
+Where is the Great Ocean Road situated?,LOC
+Where is the Tibetan Plateau found?,LOC
+Where is the Baltic Coast located?,LOC
+Where is the city of Vienna situated?,LOC
+Where is the Sahara Basin found?,LOC
+Where is the Kimberley region located?,LOC
+Where is the Appalachian Range situated?,LOC
+Where is the Lofoten Islands found?,LOC
+Where is the Russian Steppe located?,LOC
+Where is the Hudson Bay situated?,LOC
+Where is the city of Melbourne found?,LOC
+Where is the city of Johannesburg located?,LOC
+Where is the Danube Delta situated?,LOC
+Where is the Great Victoria Desert found?,LOC
+Where is the Scottish Highlands located?,LOC
+Where is the Bosphorus Strait situated?,LOC
+Where is the Hawaiian Islands found?,LOC
+Where is the Mount McKinley located?,LOC
+Where is the Carpathian Mountains situated?,LOC
+Where is the East African Rift found?,LOC
+Where is the Borneo Island located?,LOC
+Where is the Antarctic Circle situated?,LOC

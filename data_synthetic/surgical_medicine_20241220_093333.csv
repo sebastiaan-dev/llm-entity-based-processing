@@ -1,0 +1,381 @@
+Question,Entity-Type
+What is the average number of surgeries performed in a major hospital per day?,CARDINAL
+How many types of surgical procedures are listed under general surgery?,CARDINAL
+In what year was minimally invasive surgery first successfully performed on a human patient?,CARDINAL
+Approximately how many hours does it take to complete an open-heart surgery operation?,CARDINAL
+What percentage of surgeries in the United States involve robotic assistance as of 2023?,CARDINAL
+How many years of training are typically required to become a board-certified surgeon?,CARDINAL
+How many incisions are usually made during laparoscopic gallbladder removal surgery?,CARDINAL
+By what year is it predicted that over 50% of surgeries will be performed robotically in the United States?,CARDINAL
+What is the typical length, in centimeters, of an incision for a traditional open appendectomy?,CARDINAL
+How many surgeons are estimated to operate on more than 100 patients per year globally?,CARDINAL
+How many surgical techniques have been developed specifically for pediatric heart surgery since its inception?,CARDINAL
+What is the average recovery time, in days, after an elective hernia repair surgery without complications?,CARDINAL
+How many medical schools worldwide offer specialized training programs in neurosurgery as of 2023?,CARDINAL
+In what year did the first successful organ transplant occur between two humans?,CARDINAL
+Approximately how many surgeries does a surgeon perform annually, on average, to maintain their surgical proficiency?,CARDINAL
+What is the approximate number of surgeons globally specializing in plastic and reconstructive surgery as of 2023?,CARDINAL
+How many different types of anesthetic agents are commonly used during surgical procedures worldwide?,CARDINAL
+In what year did robotic-assisted surgeries first become widely available to hospitals across the United States?,CARDINAL
+What is the estimated number of patients who undergo elective cosmetic surgery each year in the United States?,CARDINAL
+How many days does it typically take for a patient to recover from an uncomplicated joint replacement surgery?,CARDINAL
+When was the first successful kidney transplant performed?,DATE
+What date marked the introduction of laparoscopic surgery in surgical medicine?,DATE
+On what date did the FDA approve the da Vinci Surgical System for general use?,DATE
+Can you provide the year when the first heart transplant took place?,DATE
+Which year saw the inception of minimally invasive cardiac surgery techniques?,DATE
+When was the world's first liver transplant operation conducted?,DATE
+What is the date of the initial approval for robotic-assisted surgery systems by regulatory bodies?,DATE
+Could you tell me the date when surgical robots were first used in a clinical setting?,DATE
+On what date did keyhole surgery become widely accepted in medical practice?,DATE
+When was the landmark trial demonstrating the effectiveness of robotic surgery published?,DATE
+What year marked the significant decline in post-operative infections due to improved surgical techniques?,DATE
+Could you provide the date when antibiotic prophylaxis before surgery became a standard practice?,DATE
+On which date were surgical masks first mandated in operating rooms to prevent infection?,DATE
+When did the use of antibiotics during surgery start becoming common practice to reduce infection rates?,DATE
+What year saw the introduction of the concept of 'sterile technique' by Joseph Lister?,DATE
+Could you give me the date when blood transfusions became routine in surgical procedures?,DATE
+On what date was the first successful organ transplant performed without the use of immunosuppressive drugs announced?,DATE
+When did general anesthesia become widely used in surgical medicine?,DATE
+What is the date associated with the discovery and subsequent use of antiseptics in surgery by Lister?,DATE
+Could you tell me when the concept of aseptic technique was introduced to reduce surgical infection rates?,DATE
+What are the key events leading up to the development of minimally invasive surgery?,EVENT
+When was the first successful organ transplant performed in medical history?,EVENT
+How did the introduction of anesthesia impact surgical procedures in the 19th century?,EVENT
+Can you describe the event when laparoscopic surgery became a standard practice?,EVENT
+What triggered the shift from open-heart surgery to minimally invasive cardiac procedures?,EVENT
+When was the first successful kidney transplant performed, marking a significant milestone in transplantation medicine?,EVENT
+Which event marked the beginning of robotic-assisted surgeries becoming widely accepted in hospitals around the world?,EVENT
+Can you identify when and where the first live-streamed surgical procedure took place for educational purposes?,EVENT
+What major event influenced the widespread adoption of endoscopic techniques in surgical practices?,EVENT
+How did the invention of sutures significantly change surgical outcomes during historical battles or conflicts?,EVENT
+When was the first time a surgical robot was used to perform an operation independently without human assistance?,EVENT
+Can you pinpoint when virtual reality began being used as a training tool for surgeons in surgical medicine?,EVENT
+What event marked the introduction and acceptance of 3D printing technology in pre-surgical planning and custom implants creation?,EVENT
+When did the use of antibiotics during surgery become standard practice, significantly reducing post-operative infections?,EVENT
+Which historical event led to the establishment of sterile techniques in operating theaters, drastically improving patient survival rates?,EVENT
+What was a significant event that led to the development of artificial organs for surgical implantation?,EVENT
+How did the discovery of the human genome impact genetic surgery and personalized medicine in surgical procedures?,EVENT
+When did telemedicine begin playing a role in remote surgical consultations and procedures?,EVENT
+Can you discuss an important event related to the implementation of AI algorithms in aiding surgeons during complex operations?,EVENT
+What significant event spurred the development and integration of nanotechnology in surgical treatments for cancer?,EVENT
+What is the primary function of a scalpel in surgical procedures?,FAC
+How does a laparoscope assist surgeons during minimally invasive surgeries?,FAC
+In surgical medicine, what role do forceps play in patient care?,FAC
+Can you explain how surgical retractors are used to improve visibility during operations?,FAC
+What is the significance of a hemostat in controlling bleeding during surgery?,FAC
+How does an electrocautery device function to cut and coagulate tissue?,FAC
+In what ways do surgical scissors differ from regular scissors for medical procedures?,FAC
+Describe the importance of sutures in closing wounds post-surgery.,FAC
+What is the purpose of a needle driver during suturing processes in surgery?,FAC
+How does an endoscope support internal examination without open surgery?,FAC
+Can you explain the function of a biopsy forceps in collecting tissue samples for analysis?,FAC
+What role do surgical clamps play in temporarily closing off blood vessels or hollow organs during operations?,FAC
+Explain how a scalpel handle and blade work together to perform precise cuts.,FAC
+How does an ultrasound machine assist surgeons in visualizing internal structures during surgery?,FAC
+In surgical medicine, what is the primary use of a bone saw for orthopedic procedures?,FAC
+What role do surgical gloves play in maintaining sterile conditions during operations?,FAC
+Describe how a laser scalpel improves precision and reduces bleeding compared to traditional scalpels.,FAC
+How does an arthroscope aid surgeons in diagnosing and treating joint problems without invasive surgery?,FAC
+Can you explain the use of a retractor system in maintaining access to surgical sites during lengthy procedures?,FAC
+What is the purpose of a speculum in providing clear views of internal structures during gynecological surgeries?,FAC
+What is the role of the World Health Organization in advancing surgical medicine?,GPE
+How has the United States contributed to innovations in minimally invasive surgery techniques?,GPE
+In which ways does the United Kingdom support medical students interested in specializing in surgery?,GPE
+What initiatives have been launched by India to improve rural access to surgical care?,GPE
+Can you describe the impact of China's healthcare reforms on surgical medicine services?,GPE
+How has Brazil addressed the shortage of surgeons in its public health system?,GPE
+What are the key challenges facing surgical medicine in Africa?,GPE
+In what ways does Canada ensure the quality and safety standards in surgical procedures across provinces?,GPE
+How has Germany responded to the increasing demand for elective surgeries due to an aging population?,GPE
+What role do international medical schools play in providing specialized training in surgery for European countries?,GPE
+How have technological advancements in surgical medicine influenced healthcare policies in Japan?,GPE
+What collaborative efforts are there between Australia and New Zealand in enhancing trauma surgery practices?,GPE
+In what ways has the European Union facilitated the exchange of best practices in pediatric surgery across member states?,GPE
+Can you explain how France's national health service integrates telemedicine to support surgical consultations in remote areas?,GPE
+What steps is Russia taking to modernize its surgical medicine infrastructure and training programs?,GPE
+How does Mexico address the disparities in access to surgical care between urban and rural areas?,GPE
+In what ways has South Africa advanced the field of emergency surgery through research and development efforts?,GPE
+What measures have been taken by Indonesia to improve maternal health outcomes through enhanced surgical services?,GPE
+How has Cuba contributed to global healthcare by exporting its expertise in surgical medicine to other countries?,GPE
+What strategies is Thailand employing to attract international patients for surgical treatments, thereby boosting medical tourism?,GPE
+What is the official language used during international surgical conferences?,LANGUAGE
+How does the use of medical terminology in surgery differ across languages?,LANGUAGE
+Can surgical manuals be effectively translated into sign languages for deaf surgeons?,LANGUAGE
+What challenges arise when translating surgical textbooks from English to non-English speaking countries?,LANGUAGE
+In what ways has technology aided the translation of surgical procedures into multiple languages?,LANGUAGE
+How important is it for a surgeon to know medical terms in a language other than their native tongue?,LANGUAGE
+What are the most common linguistic errors made by non-native speakers during surgical training programs?,LANGUAGE
+Are there specific dialects or regional variations within languages that affect communication in surgery?,LANGUAGE
+How do medical schools address the language barriers faced by international students studying surgery?,LANGUAGE
+What role does bilingualism play in a surgeon's ability to communicate with diverse patient populations?,LANGUAGE
+Can you explain how the use of Latin terms in surgical practices affects non-Latin based languages?,LANGUAGE
+What strategies are used to ensure clear communication between surgeons and anesthesiologists speaking different languages?,LANGUAGE
+How has the globalization of medicine influenced the standardization of surgical language across cultures?,LANGUAGE
+In surgical contexts, what are some key phrases that every surgeon should know in a second language?,LANGUAGE
+How does the use of interpreter services impact patient care during multilingual surgeries?,LANGUAGE
+What is the role of language proficiency tests for surgeons working in international hospitals?,LANGUAGE
+Can you discuss any notable instances where language barriers have led to surgical errors?,LANGUAGE
+How do medical professionals handle emergency situations when there are significant language differences between surgeon and patient?,LANGUAGE
+What training programs exist to improve the linguistic skills of surgeons working in multilingual environments?,LANGUAGE
+Are there specific language requirements for obtaining certification in specialized surgical fields internationally?,LANGUAGE
+What are the legal requirements for obtaining consent before surgery in most jurisdictions?,LAW
+How does the Good Samaritan Law protect surgeons who provide emergency care without compensation?,LAW
+Under what circumstances can a surgeon be held liable under medical malpractice laws?,LAW
+What is the role of state licensing boards in regulating surgical practices and enforcing legal standards?,LAW
+Can a surgeon face legal consequences for performing an operation outside their area of expertise without proper certification?,LAW
+How do patient confidentiality laws apply to surgical procedures, particularly in terms of disclosing medical information post-operation?,LAW
+What are the implications of HIPAA (Health Insurance Portability and Accountability Act) on surgical medicine practices in the United States?,LAW
+In what ways can a surgeon be affected by changes in malpractice insurance regulations?,LAW
+How do federal laws, such as the Affordable Care Act, impact access to surgical services and patient coverage?,LAW
+What legal measures are in place to ensure proper sterilization and prevent infections during surgery?,LAW
+Is there a specific law or regulation that mandates reporting of surgical errors to a governing body or public database?,LAW
+How does the concept of informed consent vary between countries, particularly in terms of surgical procedures?,LAW
+What legal actions can be taken against a surgeon who performs unnecessary operations for financial gain?,LAW
+In cases where a patient lacks capacity to give informed consent, what laws govern the process of obtaining consent from a guardian or next-of-kin?,LAW
+How do local health codes and regulations influence surgical practices within healthcare facilities?,LAW
+What legal repercussions can arise if a surgeon breaches confidentiality by discussing details of a case with unauthorized individuals?,LAW
+Under which circumstances can a patient sue for damages due to post-surgical complications, and what laws govern these claims?,LAW
+How do international medical practice laws affect surgeons practicing abroad or in different countries?,LAW
+What are the legal responsibilities of hospitals and surgical teams regarding the storage and disposal of surgical waste?,LAW
+Can a surgeon be held legally accountable if they fail to follow established surgical guidelines set forth by medical boards or governing bodies?,LAW
+What is the primary role of surgical medicine departments in hospitals?,LOC
+How do surgical units in teaching hospitals differ from those in general hospitals?,LOC
+In which location did laparoscopic surgery first become widely practiced?,LOC
+Can you name a major medical center known for pioneering minimally invasive surgeries?,LOC
+Which city hosts the largest number of specialized burn care centers?,LOC
+What are some key features that make a surgical suite efficient and safe?,LOC
+How do rural hospitals compare to urban hospitals in terms of surgical resources availability?,LOC
+In what type of facility would you expect to find a trauma center equipped for emergency surgery?,LOC
+Which country has the highest number of accredited plastic surgery training programs?,LOC
+What is the role of community health centers in providing surgical care to underserved populations?,LOC
+How do military hospitals manage surgical cases differently from civilian hospitals?,LOC
+What are the distinguishing characteristics of pediatric surgical wards compared to adult ones?,LOC
+In which region has robotic surgery become most prevalent due to technological advancements and resources?,LOC
+Can you describe the infrastructure required for a successful transplant center within a hospital?,LOC
+How do research hospitals contribute to the development of new surgical techniques and equipment?,LOC
+What are the challenges faced by surgical units in developing countries when it comes to sterilization and infection control?,LOC
+Which type of medical facility typically offers specialized surgical procedures like neurosurgery or cardiovascular surgery?,LOC
+In what kind of healthcare setting would you find a dedicated surgical intensive care unit (SICU)?,LOC
+How do hospitals with advanced surgical capabilities ensure patient safety during operations?,LOC
+What are the primary functions of an ambulatory surgery center in contrast to those performed in general hospital settings?,LOC
+What is the average cost of a surgical procedure in the United States?,MONEY
+How much does it typically cost to perform heart surgery in Europe?,MONEY
+Can you provide an estimate for the price of knee replacement surgery in Canada?,MONEY
+What are the approximate costs associated with cosmetic surgeries like breast augmentation in Brazil?,MONEY
+How expensive is robotic-assisted surgery compared to traditional surgical methods globally?,MONEY
+Could you tell me about the cost differences between private and public hospitals for surgical procedures in Australia?,MONEY
+What is the reimbursement rate for surgical operations under Medicare in the USA?,MONEY
+On average, how much does a patient pay out-of-pocket for elective surgeries in Germany?,MONEY
+How much does it typically cost to train a surgeon from medical school through residency and specialization worldwide?,MONEY
+Could you explain the financial burden of complications arising post-surgery on patients' insurance premiums?,MONEY
+What is the average expense covered by health insurance for major surgical operations like organ transplants in India?,MONEY
+How much do hospitals typically spend on purchasing new surgical equipment annually in the UK?,MONEY
+Can you provide information on the cost-saving measures that have been implemented in surgical practices due to the pandemic globally?,MONEY
+What is the average expense of a surgical internship program for medical students in Japan?,MONEY
+How does the cost of surgery vary between urban and rural areas in China?,MONEY
+Could you discuss the financial impact of malpractice lawsuits on surgical medicine providers in the US?,MONEY
+What are the typical costs associated with surgical training programs that focus on minimally invasive techniques in France?,MONEY
+Can you provide details about how much medical tourism contributes to the economy by patients traveling for cheaper surgeries internationally?,MONEY
+How does the cost of laparoscopic surgery compare to open surgery in Mexico?,MONEY
+What is the average amount a hospital bills for surgical services per day in South Africa?,MONEY
+What is the role of the British in the advancement of surgical medicine?,NORP
+How have American techniques influenced modern surgery practices globally?,NORP
+In what ways have Canadian surgeons contributed to the field of微创手术 (min inv sha gu, meaning minimally invasive surgery)?,NORP
+Can you describe the influence of French surgical methods on European medical education?,NORP
+What are some notable contributions of German surgeons in the development of laparoscopic procedures?,NORP
+How has Japanese innovation impacted robotic-assisted surgeries worldwide?,NORP
+Could you discuss the impact of Italian surgical pioneers on neurosurgery techniques?,NORP
+What role have Spanish medical professionals played in enhancing post-operative care methods?,NORP
+In what ways have Russian surgeons contributed to reconstructive surgery advancements?,NORP
+How has Indian expertise influenced global standards for cardiac surgeries?,NORP
+Could you explain the contributions of Chinese surgeons in developing new surgical instruments and techniques?,NORP
+What role do Australian surgical teams play in international disaster response and field surgery?,NORP
+How have Dutch medical professionals contributed to improving surgical education and training programs globally?,NORP
+In what ways have Brazilian surgeons influenced the treatment methods for tropical diseases requiring surgery?,NORP
+Could you discuss the impact of Swedish surgeons on developing techniques for joint replacement surgeries?,NORP
+What role do South African medical practitioners play in advancing HIV/AIDS-related surgical procedures?,NORP
+How has the approach to trauma surgery by American military surgeons influenced civilian hospitals worldwide?,NORP
+Can you describe contributions made by Pakistani surgeons to eye and corneal transplantation techniques?,NORP
+In what ways have Turkish medical professionals contributed to advancements in cosmetic and plastic surgeries?,NORP
+What role do Vietnamese surgeons play in the development of low-cost surgical solutions for underprivileged populations?,NORP
+What is the second most common surgical procedure performed worldwide?,ORDINAL
+In the timeline of surgical advancements, which was the third major breakthrough after anesthesia and antisepsis?,ORDINAL
+During a multi-stage surgery, what typically happens in the first phase to prepare for the main operation?,ORDINAL
+How often is it recommended that women over 40 undergo their second annual mammogram screening?,ORDINAL
+In a series of post-operative check-ups, which is the fourth visit usually focused on long-term recovery and rehabilitation?,ORDINAL
+What is typically administered as the first step in preparing a patient for surgery under general anesthesia?,ORDINAL
+Among elective surgeries, what ranks as the fifth most common procedure performed in hospitals today?,ORDINAL
+In the history of surgical medicine, which was the second major innovation that significantly reduced post-operative infections?,ORDINAL
+For patients undergoing heart valve replacement surgery, what is usually the first symptom they notice improvement in after recovery?,ORDINAL
+What is generally considered the third critical phase in patient preparation before a scheduled major surgery?,ORDINAL
+In terms of surgical techniques, which was developed as the fourth major advancement allowing for minimally invasive surgeries?,ORDINAL
+During an appendectomy, what is typically done first to ensure the safety and sterility of the surgical site?,ORDINAL
+What is the second most common complication associated with abdominal surgeries?,ORDINAL
+How many weeks into pregnancy should a woman have her third prenatal visit that includes important tests such as ultrasound for fetal development assessment?,ORDINAL
+In a step-by-step surgical procedure guide, what action is typically listed as the fifth task after preparing the incision site and making initial cuts?,ORDINAL
+What ranks as the second most frequent reason for emergency surgeries in hospitals today?,ORDINAL
+For pediatric patients undergoing minor surgical procedures, which is the first question parents are usually asked by the medical team during the pre-operative consultation?,ORDINAL
+Among various types of joint replacement surgeries, which one was the fourth to become widely accepted and performed globally?,ORDINAL
+In a series of laparoscopic surgery training sessions for medical students, what concept is taught as the third principle following basic instrument handling and suturing techniques?,ORDINAL
+What typically happens in the second phase of recovery for patients who have undergone major abdominal surgeries?,ORDINAL
+What is the role of the American College of Surgeons in setting standards for surgical training programs?,ORG
+How does the World Health Organization contribute to improving surgical safety globally?,ORG
+Can you explain the impact of the Association of American Medical Colleges on medical education and surgical residency programs?,ORG
+What initiatives has the British Surgical Association undertaken to enhance the surgical skills of its members?,ORG
+In what ways does the European Society of Thoracic Surgeons influence thoracic surgery practices across Europe?,ORG
+How does the Society of Surgical Oncology work towards advancing cancer surgery?,ORG
+What role does the American Board of Surgery play in certifying surgeons in the United States?,ORG
+Can you describe the functions and objectives of the Canadian Medical Association in relation to surgical medicine?,ORG
+How has the Royal Australasian College of Surgeons contributed to surgical advancements in Australia and New Zealand?,ORG
+In what capacity does the Society for Vascular Surgery operate to improve vascular surgery outcomes worldwide?,ORG
+What are some of the key contributions made by the American Society of Plastic Surgeons to plastic surgery research and practice?,ORG
+How does the Association of Surgeons of Great Britain and Ireland support surgical education and training?,ORG
+Can you discuss the influence of the Japanese Society for Surgery on surgical practices in Japan?,ORG
+What measures has the Chinese Medical Doctor Association taken to improve surgical medicine standards in China?,ORG
+In what ways does the Association of Women Surgeons advocate for women's rights and issues within surgery?,ORG
+How does the Pan African Thoracic Surgical Union contribute to thoracic surgical care across Africa?,ORG
+What is the role of the International College of Surgeons in promoting global surgical education and standards?,ORG
+Can you explain how the European Board of Surgery ensures that surgeons meet high standards of practice throughout Europe?,ORG
+What actions has the Middle East Surgical Association taken to enhance surgical practices in its region?,ORG
+How does the Brazilian Society of Surgery influence surgical training and research in Brazil?,ORG
+What percentage of surgical procedures are performed under general anesthesia?,PERCENT
+In what percent of cases does postoperative infection occur after elective surgeries?,PERCENT
+What is the approximate success rate in terms of percentage for laparoscopic cholecystectomies?,PERCENT
+How many percent of patients require blood transfusions during cardiac surgery?,PERCENT
+Can you provide the percentage of surgical site infections that occur within 30 days post-surgery?,PERCENT
+What percent of patients experience adverse reactions to anesthesia during major surgeries?,PERCENT
+In what percent of cases is a second operation required after initial surgery for cancer treatment fails?,PERCENT
+How much, in terms of percentage, does the risk of complications increase if surgery is performed on an emergency basis compared to elective procedures?,PERCENT
+What percentage of patients report experiencing chronic pain following surgery that lasts longer than three months?,PERCENT
+Could you tell me the success rate as a percentage for joint replacement surgeries such as knee or hip replacements?,PERCENT
+In what percent of surgical cases are complications related directly to anesthesia reported?,PERCENT
+How many percent of surgical procedures involve some form of minimally invasive technique today compared to open surgery?,PERCENT
+What is the approximate percentage of surgeries that require a hospital stay longer than 7 days post-operation?,PERCENT
+Can you provide information on what percent of pediatric surgeries are conducted under general anesthesia rather than regional anesthesia or sedation alone?,PERCENT
+How many percent of patients undergoing elective surgery have at least one major comorbidity that could affect their recovery process?,PERCENT
+What is the percentage of surgical operations performed worldwide that involve robotic technology as of 2023?,PERCENT
+Could you tell me what percent of surgeons report experiencing symptoms of burnout, which can potentially impact patient safety and outcomes?,PERCENT
+In terms of percentage, how often do hospitals meet or exceed their target rate for surgical site infections based on the latest CDC guidelines?,PERCENT
+What is the approximate success rate in percentage terms for surgeries involving organ transplants such as kidney, liver, heart, or lung?,PERCENT
+How many percent of patients who undergo bariatric surgery see significant improvements in obesity-related health conditions post-surgery?,PERCENT
+Who is considered the pioneer of modern surgical medicine?,PERSON
+Which person developed the first successful blood transfusion technique during surgery?,PERSON
+Who was the surgeon that performed the world's first kidney transplant?,PERSON
+What famous surgeon authored "On the Surgery of the Horse-Shoe Friable Condition of the Uterus" in 1845?,PERSON
+Who is credited with inventing the surgical glove used in modern operations?,PERSON
+Which historical figure conducted one of the earliest recorded operations for a brain tumor?,PERSON
+Who was the lead surgeon on the first successful human liver transplantation team?,PERSON
+What renowned surgeon published "The Principles and Practice of Surgery" in 1875, influencing generations of surgeons globally?,PERSON
+Who is known for their groundbreaking work in minimally invasive surgery techniques?,PERSON
+Which person developed a method to close wounds without sutures during World War I surgeries?,PERSON
+Who was the first woman surgeon to perform a successful appendectomy?,PERSON
+What surgeon wrote extensively about antiseptic surgical practices and how to prevent post-surgical infections in the late 19th century?,PERSON
+Who is recognized for pioneering work in plastic surgery, particularly facial reconstruction after World War I?,PERSON
+Which surgeon developed innovative techniques that led to the reduction of mortality rates in battlefield surgeries during World War II?,PERSON
+Who was instrumental in establishing surgical training programs at medical schools around the world?,PERSON
+What person played a key role in developing the use of X-rays for guiding surgery procedures in the early 20th century?,PERSON
+Which surgeon is credited with founding the American College of Surgeons to improve patient care and set professional standards?,PERSON
+Who was responsible for advancing surgical anesthesiology by researching safer methods of administering anesthesia during operations?,PERSON
+What person developed a famous classification system used in surgical oncology to describe tumor spread and predict prognosis?,PERSON
+Which surgeon is known for their significant contributions to pediatric surgery, particularly in the treatment of congenital defects in infants and children?,PERSON
+What are the latest advancements in surgical lasers used for precision cuts?,PRODUCT
+Which companies lead in the development of robotic surgery systems?,PRODUCT
+How has the introduction of laparoscopic instruments changed minimally invasive surgeries?,PRODUCT
+What kind of sutures are most commonly used in modern surgery and why?,PRODUCT
+Can you describe the functions of the latest endoscopic cameras used during operations?,PRODUCT
+Which brands offer the best quality surgical microscopes for intricate procedures?,PRODUCT
+How do ultrasonic aspirators compare to traditional suction devices in neurosurgery?,PRODUCT
+What is the primary use of image-guided surgery navigation systems in hospitals today?,PRODUCT
+Can you explain how 3D printing has impacted the creation of custom prosthetics?,PRODUCT
+Which surgical staplers are most preferred for colorectal surgeries and why?,PRODUCT
+How effective are bipolar forceps compared to traditional electrocautery devices?,PRODUCT
+What advancements have been made in surgical glue technology as an alternative to sutures?,PRODUCT
+Can you detail the safety features included in modern electrosurgical units (ESUs)?,PRODUCT
+Which type of surgical simulators are most beneficial for training new surgeons?,PRODUCT
+How has the introduction of powered surgical instruments impacted surgery times and outcomes?,PRODUCT
+What is the role of advanced hemostatic agents in reducing blood loss during operations?,PRODUCT
+Can you provide information on the latest advancements in surgical smoke evacuation systems?,PRODUCT
+Which surgical retractors are considered most ergonomic for long procedures?,PRODUCT
+How have intraoperative imaging devices improved diagnostic accuracy during surgery?,PRODUCT
+What innovations are being made in the design of wearable health monitors post-surgery?,PRODUCT
+What is the average number of surgical procedures performed in a hospital per day?,QUANTITY
+How many hours on average does a major surgery take to complete?,QUANTITY
+What percentage of surgeries are typically conducted under general anesthesia?,QUANTITY
+On average, how many days do patients stay in the hospital post-surgery for recovery?,QUANTITY
+What is the approximate number of surgical specialties recognized by most medical boards worldwide?,QUANTITY
+How many types of surgical instruments are commonly used during a laparoscopic procedure?,QUANTITY
+In terms of volume, what percentage of surgeries fail or have complications that require additional intervention?,QUANTITY
+On average, how many years does it take for a surgeon to complete their education and training before practicing independently?,QUANTITY
+What is the estimated number of surgical residents in training at any given time in the United States?,QUANTITY
+How many incisions are typically made during minimally invasive surgery compared to traditional open surgery?,QUANTITY
+Approximately how many surgeries are performed annually worldwide?,QUANTITY
+What percentage of all medical operations globally are elective procedures rather than emergency surgeries?,QUANTITY
+On average, how many surgical teams can work simultaneously in a single operating room facility?,QUANTITY
+How many types of surgical dressings and bandages exist for post-operative wound care?,QUANTITY
+In terms of quantity, what is the typical number of stitches used during a minor surgery like an appendectomy?,QUANTITY
+What percentage reduction in hospital readmission rates can be attributed to improved surgical techniques and patient follow-up practices?,QUANTITY
+How many different types of sutures are commonly available for use by surgeons today?,QUANTITY
+On average, how many minutes does it take for a surgeon to suture an incision after completing the operation?,QUANTITY
+What is the approximate number of surgical simulators used in medical schools and hospitals around the world for training purposes?,QUANTITY
+How many types of surgical gloves are there based on material and size options available?,QUANTITY
+When was the first successful heart transplant surgery performed?,TIME
+What year did laparoscopic surgery become widely accepted in surgical medicine?,TIME
+In which decade did robotic-assisted surgery begin to emerge as a field?,TIME
+Can you provide the date when keyhole surgery techniques were introduced into clinical practice?,TIME
+During what period did open-heart surgeries using heart-lung machines first become common?,TIME
+What is the time frame for the development of minimally invasive surgical techniques?,TIME
+When was the first successful cesarean section recorded in history?,TIME
+Which year marked the introduction of arthroscopic surgery for orthopedic conditions?,TIME
+Can you specify the time when laser technology was integrated into surgical procedures?,TIME
+What is the timeline for the evolution of neurosurgery as a specialized field?,TIME
+When did surgeons first begin using computed tomography (CT) scans to plan surgeries?,TIME
+In what year was the first liver transplant performed successfully on a human patient?,TIME
+Can you mention the time when ultrasound technology became a standard in surgical procedures?,TIME
+What is the timeframe for the introduction and acceptance of bone cement in orthopedic surgery?,TIME
+When did the use of antibiotics before surgery become routine practice to prevent infections?,TIME
+Which period saw the development and widespread adoption of sutures made from synthetic materials?,TIME
+Can you provide information on when reconstructive surgeries, like face transplants, began being performed successfully?,TIME
+What is the timeline for the introduction of 3D printing technology in surgical planning and execution?,TIME
+When did the first successful organ transplant from a genetically modified pig to a human occur?,TIME
+In which time frame did non-invasive brain surgery techniques such as Gamma Knife become widely used in neurosurgery?,TIME
+What painting is known for depicting the first successful surgical operation under general anesthesia?,WORK_OF_ART
+Which piece of art portrays the pioneering surgery performed by Dr. Crawford Long using ether anesthesia?,WORK_OF_ART
+Can you name a sculpture that symbolizes medical innovation in surgery from the early 20th century?,WORK_OF_ART
+Is there a famous print or lithograph illustrating a key moment in surgical history, such as the discovery of antiseptics?,WORK_OF_ART
+Which engraving depicts the evolution of surgical tools and techniques throughout history?,WORK_OF_ART
+What is the name of an iconic drawing that captures the essence of groundbreaking surgical procedures during the Renaissance period?,WORK_OF_ART
+Is there a well-known tapestry that represents the development of modern surgery in Europe?,WORK_OF_ART
+Can you identify a mural that celebrates the historical milestones in surgical medicine?,WORK_OF_ART
+Which piece of embroidery is recognized for its portrayal of significant figures in the history of surgery?,WORK_OF_ART
+What stained glass window captures the essence of medical advancement through surgical innovation?,WORK_OF_ART
+Is there an etching that showcases the intricate details of a surgeon’s work in the Middle Ages?,WORK_OF_ART
+Can you name a mosaic that highlights famous surgeons and their contributions to surgical medicine?,WORK_OF_ART
+Which woodcut illustrates the pioneering use of X-rays in surgery during its early years?,WORK_OF_ART
+What painting captures the moment when keyhole or minimally invasive surgery was first introduced?,WORK_OF_ART
+Is there a well-known sculpture series dedicated to the development of robotic and computer-assisted surgery?,WORK_OF_ART
+Which carving portrays the historical transition from traditional surgical methods to modern practices?,WORK_OF_ART
+Can you identify an art installation that reflects on the future trends in surgical medicine and technology?,WORK_OF_ART
+What sketch or drawing is celebrated for its depiction of life-saving surgeries performed during wartime?,WORK_OF_ART
+Is there a digital artwork that visualizes the complex procedures involved in transplant surgery?,WORK_OF_ART
+Which photograph captures a historical moment in surgical history, such as the first organ transplant?,WORK_OF_ART
+What is the typical duration of a surgical residency program?,CARDINAL
+Which year was minimally invasive surgery first introduced to the medical community?,DATE
+Can you name a significant event that led to major advancements in surgical techniques?,EVENT
+Where is the world-renowned Mayo Clinic, known for its surgical innovations, located?,FAC
+How does the healthcare system of GPE impact the accessibility of advanced surgical procedures?,GPE
+In which language are most medical journals related to surgical medicine published?,LANGUAGE
+Which law requires hospitals to maintain a certain standard in surgical practices?,LAW
+What is the significance of Mount Sinai Hospital's location for conducting surgical research?,LOC
+How much does an average surgery cost in the United States without insurance coverage?,MONEY
+Name an organization that provides accreditation for surgical training programs.,ORG
+What percentage of surgeries performed globally are laparoscopic procedures?,PERCENT
+Who was the first surgeon to perform open-heart surgery successfully?,PERSON
+Which medical equipment company is a leader in providing robotic surgical systems?,PRODUCT
+How much blood loss during surgery is considered critical and might require intervention?,QUANTITY
+At what time of day do most hospitals schedule their elective surgeries for optimal recovery rates?,TIME
+Can you mention a famous piece of artwork that portrays a historical surgical procedure?,WORK_OF_ART
+What is the minimum number of hours a surgical resident must log in the operating room each week?,CARDINAL
+When did the concept of using general anesthesia become widely accepted in surgery?,DATE
+Which event marked the beginning of modern surgery as we know it today?,EVENT
+Where was the first successful organ transplant performed, marking a significant milestone in surgical history?,FAC

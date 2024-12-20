@@ -1,0 +1,372 @@
+Question,Entity-Type
+How many base pairs are typically found in the human genome?,CARDINAL
+What is the approximate molecular weight of an average protein in kilodaltons?,CARDINAL
+In a typical eukaryotic cell, how many different types of ribosomes are present?,CARDINAL
+How many amino acids can be encoded by the genetic code?,CARDINAL
+What is the diameter of a typical DNA double helix in nanometers?,CARDINAL
+How many nucleotides make up an average mRNA transcript before splicing?,CARDINAL
+Approximately how many genes does the human genome contain?,CARDINAL
+In PCR, what is the minimum number of cycles typically required to amplify DNA effectively?,CARDINAL
+What is the approximate size of a plasmid used in molecular cloning in base pairs?,CARDINAL
+How many different kinds of nucleotides are there in RNA?,CARDINAL
+What is the typical pH level at which DNA replication occurs inside cells?,CARDINAL
+How many types of RNA polymerase does E. coli have for transcription?,CARDINAL
+In a ribosome, how many subunits are there that combine to form the active site for protein synthesis?,CARDINAL
+Approximately how many adenine nucleotides would you expect in 100 base pairs of DNA with an A-T content of 25%?,CARDINAL
+How many carbon atoms does glucose have, which is often used as a source of energy in cellular respiration?,CARDINAL
+What is the average length of a microRNA molecule in nucleotides?,CARDINAL
+In the process of transcription, how many types of RNA are primarily produced by eukaryotic cells?,CARDINAL
+How many electrons does oxygen have in its outer shell that makes it highly reactive and critical for cellular respiration?,CARDINAL
+What is the approximate length of a bacterial chromosome in base pairs?,CARDINAL
+How many hydrogen bonds typically form between adenine and thymine in DNA?,CARDINAL
+When was the structure of DNA first discovered?,DATE
+What year did James Watson and Francis Crick publish their model of the DNA double helix?,DATE
+In which year was RNA interference (RNAi) mechanism discovered leading to a Nobel Prize in 2006?,DATE
+During what period did scientists start to understand the concept of molecular cloning?,DATE
+When did the Human Genome Project officially begin?,DATE
+What is the date of the first successful gene therapy treatment on a human patient?,DATE
+In which year was CRISPR-Cas9 technology first used for genome editing in eukaryotic cells?,DATE
+Can you tell me the year when the first complete genome sequence of any organism, Haemophilus influenzae, was published?,DATE
+What date marks the discovery of the polymerase chain reaction (PCR) technique by Kary Mullis?,DATE
+When did Frederick Sanger determine the sequence of insulin, marking a breakthrough in protein sequencing?,DATE
+Which year saw the development of the first recombinant DNA technology that allowed scientists to manipulate genes more precisely?,DATE
+On what date was the term "molecular biology" coined by Warren Weaver?,DATE
+What is the date associated with the discovery of ribozymes and their implications for understanding early evolution on Earth?,DATE
+In which year did the first transgenic animal, a mouse expressing a human protein, get created?,DATE
+When was the technique of Southern blotting invented, crucial for identifying specific DNA sequences among a mixture of DNAs?,DATE
+Can you provide the date when the concept of genetic linkage was proposed based on observation that genes located close together on the same chromosome tend to be inherited together?,DATE
+What year did Barbara McClintock win the Nobel Prize in Physiology or Medicine for her discovery of mobile genetic elements?,DATE
+On what date was the field of genomics initiated with the first complete genome sequence of a free-living organism, Methanococcus jannaschii?,DATE
+Which year marked the publication of the first draft of the human genome by the Human Genome Project consortium and Celera Genomics?,DATE
+When did the CRISPR-Cas system for adaptive immunity in bacteria and archaea get discovered leading to revolutionary gene editing technologies?,DATE
+What events trigger DNA replication in eukaryotic cells?,Event
+How does transcription initiation occur in prokaryotes?,Event
+During which phase of the cell cycle does chromosome condensation typically happen?,Event
+What is the mechanism by which RNA polymerase recognizes promoter sequences during transcription start?,Event
+Can you describe the process of mRNA splicing and its significance in molecular biology events?,Event
+What specific event leads to the activation of DNA repair mechanisms after UV radiation damage?,Event
+How do cells initiate apoptosis when DNA damage cannot be repaired effectively?,Event
+What are the key events that occur during the initiation of translation by ribosomes?,Event
+Can you explain the events involved in the regulation of gene expression through microRNAs?,Event
+Which cellular event is responsible for initiating the process of protein folding?,Event
+How does the cell cycle checkpoint ensure the fidelity of DNA replication as an event in molecular biology?,Event
+What are the sequential events that occur during homologous recombination repair in cells?,Event
+Can you describe the event known as the restriction point, critical for progression through the G1 phase?,Event
+In what way does the event of RNA interference contribute to gene silencing mechanisms?,Event
+What are the cellular events involved in the process of endocytosis and how do they affect signaling pathways?,Event
+How is the event of chromatin remodeling linked to changes in gene expression patterns during development?,Event
+Could you explain the role of mitotic spindle assembly as a key molecular biology event in cell division?,Event
+What are the events that occur during telomere maintenance and their importance for genomic stability?,Event
+In what ways do cellular events such as autophagy contribute to cellular homeostasis under stress conditions?,Event
+How does the event of histone modification lead to changes in gene expression levels?,Event
+What is the function of DNA polymerase in molecular biology?,FAC
+How does RNA polymerase contribute to transcription in molecular biology?,FAC
+Can you explain the role of restriction enzymes in genetic engineering within molecular biology?,FAC
+In molecular biology, what role do ribosomes play in protein synthesis?,FAC
+What is the importance of telomerase enzyme in understanding aging and cancer from a molecular biology perspective?,FAC
+How does CRISPR-Cas9 technology facilitate gene editing studies in molecular biology?,FAC
+Could you describe the function of ligases during DNA replication in molecular biology?,FAC
+In molecular biology, how do kinases phosphorylate proteins to modify their activity?,FAC
+What is the significance of G protein-coupled receptors (GPCRs) in signal transduction within molecular biology studies?,FAC
+How does the lac operon model contribute to understanding gene regulation in molecular biology?,FAC
+Can you explain the function of TATA-binding protein (TBP) and its role in RNA polymerase assembly during transcription in molecular biology?,FAC
+What is the mechanism by which proteasomes degrade proteins in cellular pathways as studied in molecular biology?,FAC
+How does DNA methyltransferase affect gene expression through epigenetic modifications in molecular biology studies?,FAC
+In molecular biology, what role do histone deacetylases play in chromatin structure and function?,FAC
+Could you elaborate on the role of topoisomerases in managing DNA supercoiling during replication and transcription in molecular biology?,FAC
+What is the significance of the lacZ gene as a reporter for studying gene expression in molecular biology?,FAC
+How does RNA interference (RNAi) contribute to our understanding of post-transcriptional regulation in molecular biology studies?,FAC
+Can you describe how enhancers function to regulate gene transcription in molecular biology research?,FAC
+What role do spliceosomes play in the process of mRNA splicing during eukaryotic gene expression as studied in molecular biology?,FAC
+How does the study of chaperone proteins contribute to our understanding of protein folding and stability in molecular biology?,FAC
+What role did Germany play in the development of CRISPR technology?,GPE
+How has China contributed to the field of molecular biology through its research institutions?,GPE
+In what ways has Japan advanced the study of gene expression at a molecular level?,GPE
+Which countries are leading in funding for molecular biology research?,GPE
+What significant discoveries have come from molecular biology studies conducted in the United States?,GPE
+How has South Korea contributed to understanding RNA interference mechanisms?,GPE
+Has Canada made any notable contributions to the field of structural molecular biology?,GPE
+What impact does the European Union's funding have on molecular biology research across member states?,GPE
+Which research institutions in France are at the forefront of protein structure determination using X-ray crystallography?,GPE
+How has India approached the integration of traditional medicine with modern molecular biology techniques?,GPE
+What is the status of genetic engineering studies in Brazil, particularly regarding biofuel production from microorganisms?,GPE
+Does Australia have any unique contributions to the field of epigenetics within molecular biology?,GPE
+In which ways did Russia contribute to the early development of molecular genetics as a discipline?,GPE
+How influential are the molecular biology labs based in Switzerland on global research trends?,GPE
+What role does Italy play in international collaborations concerning genome editing technologies?,GPE
+Can you provide examples of how molecular biology research in Mexico addresses tropical diseases prevalent in that region?,GPE
+What initiatives have been taken by the United Kingdom to support synthetic biology within the realm of molecular biology?,GPE
+How has Turkey advanced its capabilities in biotechnology and molecular biology to become a regional leader?,GPE
+In what capacity does Israel engage with global research communities regarding cancer genomics using molecular biology techniques?,GPE
+What contributions have Swedish scientists made towards elucidating mechanisms of DNA repair at the molecular level?,GPE
+What is the primary language used in writing genetic sequences?,LANGUAGE
+How does molecular biology utilize computational languages for DNA analysis?,LANGUAGE
+In what language are most molecular biology textbooks written worldwide?,LANGUAGE
+Which programming language is commonly used for bioinformatics in molecular biology research?,LANGUAGE
+Can you explain how natural language processing can aid in understanding molecular biology texts?,LANGUAGE
+What role does the English language play in international communication within the field of molecular biology?,LANGUAGE
+How important is the knowledge of technical language in comprehending molecular biology articles and papers?,LANGUAGE
+Which language skills are essential for a student studying molecular biology at an advanced level?,LANGUAGE
+Can you describe how the language used in molecular biology has evolved over time?,LANGUAGE
+What are some unique terms or jargon found in the language of molecular biology that might confuse newcomers to the field?,LANGUAGE
+How does the language in molecular biology differ when explaining concepts to students versus peers in academic papers?,LANGUAGE
+In what ways can language barriers affect collaboration between international molecular biologists?,LANGUAGE
+Can you provide examples of how metaphors and analogies are used within the language of molecular biology for educational purposes?,LANGUAGE
+What is the importance of language accuracy in molecular biology research publications to avoid misinterpretation of data?,LANGUAGE
+How do non-native English speakers contribute to the field of molecular biology, considering the predominant use of English as a scientific lingua franca?,LANGUAGE
+Can you discuss the impact of multilingualism on the accessibility and democratization of knowledge in molecular biology?,LANGUAGE
+What are some common challenges faced by molecular biologists when translating technical terms from English into their native language for educational purposes?,LANGUAGE
+How does the field of molecular biology address the need for language proficiency among its researchers to ensure effective communication at international conferences?,LANGUAGE
+In what ways can advancements in artificial intelligence and machine translation improve cross-linguistic understanding in molecular biology research communities?,LANGUAGE
+What strategies are employed by molecular biologists when writing papers intended for an audience with varying levels of language proficiency in the field's technical jargon?,LANGUAGE
+What are the legal guidelines for conducting genetic modification experiments on human cells?,LAW
+How does international law regulate the sharing of genetic information across borders?,LAW
+Under what circumstances is it legally permissible to patent a naturally occurring gene sequence?,LAW
+Can a country impose sanctions based on another nation's failure to comply with molecular biology research laws?,LAW
+What legal measures are in place to protect patient privacy when conducting DNA sequencing studies?,LAW
+How do data protection laws affect the storage and sharing of genetic information in clinical trials?,LAW
+What are the legal implications for researchers who fail to adhere to biosafety protocols during molecular experiments?,LAW
+Are there specific regulations that govern the ethical treatment of animals used in molecular biology research?,LAW
+In what ways does patent law impact the accessibility of gene editing tools like CRISPR for public use?,LAW
+What legal frameworks exist to prevent the misuse of biotechnology derived from molecular biology research?,LAW
+How do international treaties address the potential for using molecular biology technologies as weapons?,LAW
+What are the legal repercussions for a company that releases a genetically modified organism without proper authorization?,LAW
+Can genetic discrimination be legally prevented in employment based on one's DNA profile according to current laws?,LAW
+How does the law define informed consent when it comes to human participants in molecular biology studies involving gene therapy?,LAW
+What are the legal standards for ensuring the environmental safety of genetically modified organisms released into nature?,LAW
+Under what legal conditions can governments intervene in private companies' research on recombinant DNA technology?,LAW
+How does current legislation address the issue of intellectual property rights in collaborative international molecular biology projects?,LAW
+What laws govern the ethical considerations and reporting requirements for unexpected findings in genetic studies?,LAW
+Can a researcher legally withhold information from public databases about a potentially dangerous pathogen they've created through molecular techniques?,LAW
+How do current laws protect against the unauthorized use of personal genomic data by third parties for commercial gain?,LAW
+Where does DNA replication primarily occur within the cell?,LOC
+Where in the cell does transcription of RNA take place?,LOC
+In which part of the cell do ribosomes begin to synthesize proteins?,LOC
+During protein synthesis, where does translation mainly happen?,LOC
+What is the location of the Golgi apparatus in a eukaryotic cell relative to the nucleus?,LOC
+Where within the chloroplasts does photosynthesis take place?,LOC
+In which cellular compartment are mitochondria found and what is their role in molecular biology?,LOC
+Where do lysosomes, containing digestive enzymes, primarily exist in a cell?,LOC
+What location within the cell acts as the command center for all cellular activities?,LOC
+Where in plant cells can you find vacuoles involved in storing molecules?,LOC
+In which part of the eukaryotic cell does the endoplasmic reticulum reside and function?,LOC
+Where do peroxisomes, involved in lipid metabolism, locate themselves within a cell?,LOC
+What is the location of centrioles during cell division in animal cells?,LOC
+During molecular biology processes, where are microfilaments found within the cytoskeleton?,LOC
+In which area of the nucleus does DNA packing occur to form chromosomes?,LOC
+Where do spindle fibers attach to chromosomes during mitosis and meiosis?,LOC
+What cellular location is crucial for the modification of proteins before they are transported out of the cell?,LOC
+Where in a cell would you find intermediate filaments providing structural support?,LOC
+In which specific part of the mitochondrion does the electron transport chain occur?,LOC
+Where do plasmodesmata, channels between plant cells, exist to allow molecular transport?,LOC
+What is the average cost of sequencing a human genome in 2023?,MONEY
+How much does it typically cost for a lab to purchase and maintain a fluorescence microscope used in molecular biology research?,MONEY
+What are the approximate funding requirements for a molecular biologist starting a new research project at a university?,MONEY
+Can you estimate the price of a high-throughput sequencing machine used in molecular biology studies?,MONEY
+How much does a typical CRISPR-Cas9 kit cost for use in gene editing experiments?,MONEY
+What is the average budget allocated to a biotech company for developing new molecular biology tools and techniques?,MONEY
+In terms of funding, what are the estimated costs associated with publishing research findings in high-impact molecular biology journals?,MONEY
+How much does it typically cost for an academic institution to build and equip a dedicated molecular biology lab?,MONEY
+What is the average salary range for a senior researcher specializing in molecular biology at a pharmaceutical company?,MONEY
+Can you provide an estimate of the costs involved in organizing a major international conference on molecular biology?,MONEY
+How much funding does the National Institutes of Health (NIH) allocate annually to molecular biology research grants?,MONEY
+What are the estimated operational costs for running a biotechnology startup focused on molecular biology innovations?,MONEY
+In molecular biology, what is the average cost for purchasing custom-made antibodies for protein detection experiments?,MONEY
+How much does it typically cost for a university to license advanced software for analyzing large molecular datasets in genomics research?,MONEY
+What are the estimated costs associated with implementing safety measures and protocols in a molecular biology lab to ensure compliance with regulatory standards?,MONEY
+Can you estimate the financial investment required for a company to develop a new molecular diagnostic test from concept to market release?,MONEY
+How much does it typically cost for a molecular biologist to attend specialized training courses or workshops to learn advanced techniques like RNA sequencing?,MONEY
+What is the average price range for purchasing reagents and consumables needed for routine PCR (Polymerase Chain Reaction) experiments in a lab setting?,MONEY
+In terms of investment, what are the estimated costs associated with acquiring intellectual property rights related to new molecular biology discoveries or inventions?,MONEY
+How much does it typically cost for a research institution to hire consultants or experts to provide guidance on specific areas of molecular biology research?,MONEY
+What role do cultural backgrounds play in the collaboration and innovation within molecular biology research teams?,NORP
+How have international norms regarding genetic modification been influenced by different national perspectives on molecular biology?,NORP
+In what ways does the diversity of nationalities among researchers contribute to advancements in molecular biology?,NORP
+Can you describe any significant contributions made by a particular nationality to the field of molecular biology?,NORP
+What are the cultural implications for societies when applying principles from molecular biology, such as genetic modification or cloning?,NORP
+How do national regulations and ethical standards vary between countries regarding the use of CRISPR technology in molecular biology research?,NORP
+Which nationality has been most influential in shaping modern practices and technologies within molecular biology?,NORP
+What challenges might researchers from different nationalities face when conducting joint projects on molecular genetics?,NORP
+How does the perception and acceptance of molecular biology differ across various ethnic groups globally?,NORP
+In what ways have international collaborations between different nations impacted advancements in the study of RNA molecules within molecular biology?,NORP
+What role do national policies play in fostering or hindering research and development in the area of molecular diagnostics?,NORP
+How does the educational background provided by different countries influence a scientist's approach to solving problems in molecular biology?,NORP
+Can you explain how the concept of genetic heritage is viewed differently across various cultures and nations within the scope of molecular biology?,NORP
+What are some examples of how national health policies have been affected by discoveries made through molecular biology research?,NORP
+How does the funding for molecular biology research vary among different countries, and what impact does this have on scientific progress?,NORP
+In what ways do researchers from various ethnic backgrounds contribute to our understanding of genetic diseases in molecular biology?,NORP
+What are some examples of how national laws regarding biotechnology have been influenced by discoveries made through molecular biology?,NORP
+How might the cultural norms of a country impact its scientists' views on controversial topics within molecular biology, such as human cloning or gene editing?,NORP
+Can you discuss any instances where international guidelines in molecular biology research were shaped significantly by the stance of a particular nationality?,NORP
+What influence do national healthcare systems have on the application and acceptance of new technologies developed through molecular biology?,NORP
+What is the first step in DNA replication?,ORDINAL
+Which is the third stage of RNA processing that involves splicing out introns?,ORDINAL
+In the central dogma of molecular biology, what is the second process after transcription?,ORDINAL
+During protein synthesis, which is the fifth amino acid to be added to the polypeptide chain in a specific sequence?,ORDINAL
+What is the fourth component of the DNA nucleotides in terms of their structure (sugar, phosphate, base)?,ORDINAL
+In the order of gene expression regulation, what is the first step that occurs before transcription initiation?,ORDINAL
+Which is the second type of RNA polymerase involved in eukaryotic mRNA synthesis?,ORDINAL
+During the process of translation, which is the third stage after the initiation and elongation phases?,ORDINAL
+What is the fifth enzyme used in DNA replication for unwinding the double helix structure?,ORDINAL
+In the sequence of steps for creating recombinant DNA, what is the fourth step after obtaining the gene of interest?,ORDINAL
+How many base pairs are typically found in a first position within a codon?,ORDINAL
+Which is the second method used to amplify DNA besides PCR (Polymerase Chain Reaction)?,ORDINAL
+In ribosomal RNA processing, which is the third enzymatic activity that modifies rRNA?,ORDINAL
+What is the fourth type of genetic mutation based on their effect on DNA structure and function?,ORDINAL
+During chromatin remodeling, what is the second step after the recruitment of ATP-dependent complexes?,ORDINAL
+Which is the first mechanism by which cells can repair damaged DNA?,ORDINAL
+In the order of steps for gene cloning, what is the fifth process that occurs after inserting the DNA into a vector and transforming cells with this recombinant DNA molecule?,ORDINAL
+What is the third step in CRISPR-Cas9 gene editing technology after designing the guide RNA and creating a plasmid to deliver Cas9 enzyme and guide RNA to target cell's nucleus?,ORDINAL
+Which is the fourth stage of protein folding that involves proper disulfide bond formation?,ORDINAL
+In the regulation of gene expression, what is the third type of non-coding RNA used for post-transcriptional modifications after microRNAs and siRNAs?,ORDINAL
+What was the role of Cold Spring Harbor Laboratory in advancing CRISPR-Cas9 technology?,ORG
+How did the Human Genome Project Consortium contribute to our understanding of human genetics?,ORG
+Can you describe the function and impact of the European Molecular Biology Organization (EMBO) on molecular biology research?,ORG
+Which significant discoveries has the Max Planck Institute for Biophysical Chemistry made in the field of molecular biology?,ORG
+What advancements in DNA sequencing technology have been contributed by Illumina Inc. to molecular biology research?,ORG
+How does the National Institutes of Health (NIH) support molecular biology research and development?,ORG
+In what ways has the American Association for the Advancement of Science (AAAS) influenced the dissemination of knowledge in molecular biology?,ORG
+What contributions did the Salk Institute for Biological Studies make to the field of molecular biology?,ORG
+How does the Wellcome Trust Sanger Institute contribute to genomic research within molecular biology?,ORG
+Can you discuss the role of Genentech Inc. in developing therapeutic proteins using molecular biology techniques?,ORG
+Which major breakthroughs have been published by Nature Publishing Group in the area of molecular biology?,ORG
+What is the significance of Cold Spring Harbor Laboratory's work on epigenetics for molecular biology?,ORG
+How does the Howard Hughes Medical Institute (HHMI) support and influence research in molecular biology?,ORG
+Can you explain the impact of the Rosalind Franklin University of Medicine and Science on the field of molecular biology through education and research?,ORG
+What role has the American Society for Biochemistry and Molecular Biology (ASBMB) played in fostering collaboration among researchers in the USA?,ORG
+How does Cell Press contribute to advancements in molecular biology by publishing high-impact research papers?,ORG
+Can you discuss the contributions of Amgen Inc. to molecular biology, particularly in drug discovery and development?,ORG
+What are some key discoveries made by researchers at the Whitehead Institute for Biomedical Research that have impacted molecular biology?,ORG
+How does the European Molecular Biology Laboratory (EMBL) facilitate international collaboration in molecular biology research?,ORG
+In what ways has the American Chemical Society (ACS) contributed to molecular biology through publications and conferences?,ORG
+What percentage of DNA is typically methylated in human somatic cells?,PERCENT
+In gene expression studies, what percent increase in mRNA levels might indicate a significant upregulation response to a stimulus?,PERCENT
+Approximately what percent of the human genome consists of protein-coding sequences?,PERCENT
+What percent of mutations in cancerous cells are thought to be passenger mutations rather than driver mutations?,PERCENT
+In molecular biology experiments, what percentage of recombinant DNA molecules might contain the desired insert after ligation reactions?,PERCENT
+What is the approximate percent efficiency of PCR amplification for a typical gene fragment under optimal conditions?,PERCENT
+During cell cycle arrest in response to DNA damage, how much percent decrease can be expected in cells progressing from G1 to S phase?,PERCENT
+How much percent similarity does a homologous gene typically share at the nucleotide level across closely related species?,PERCENT
+What percentage of amino acids might change in a protein without altering its function significantly according to molecular biology studies?,PERCENT
+In the context of CRISPR-Cas9 genome editing, what is the typical percent efficiency for successful integration of a desired DNA sequence into a target site?,PERCENT
+If you can't generate more questions, stop.
+Who was the lead scientist in the discovery of the DNA double helix structure?,PERSON
+Which Nobel laureate is known for her work on RNA interference and its role in gene silencing?,PERSON
+Who developed the polymerase chain reaction (PCR) technique that revolutionized molecular biology research?,PERSON
+What researcher first introduced the concept of genetic code breaking through their pioneering work with phages?,PERSON
+Can you name a scientist who made significant contributions to understanding the structure of proteins at a molecular level?,PERSON
+Which biologist won a Nobel Prize for discovering transfer RNA and its role in protein synthesis?,PERSON
+Who is recognized for their groundbreaking research on CRISPR-Cas9 genome editing technology?,PERSON
+What researcher was pivotal in elucidating the mechanism of DNA replication in bacteria?,PERSON
+Can you identify a molecular biologist who has contributed immensely to our understanding of how genes are regulated during development?,PERSON
+Which scientist's work led to the creation of green fluorescent protein (GFP) as a revolutionary tool for observing living cells and organisms?,PERSON
+Who was the first to describe and demonstrate the use of restriction enzymes in recombinant DNA technology?,PERSON
+Can you name the biochemist who played a key role in deciphering the genetic code through experiments with synthetic RNA?,PERSON
+Which scientist is known for their work on the lac operon, providing insights into gene regulation mechanisms?,PERSON
+Who conducted seminal research that led to the understanding of how ribosomes translate mRNA into proteins?,PERSON
+What molecular biologist has made significant contributions to the study of transcription factors and their role in cancer development?,PERSON
+Can you name a scientist who contributed to our knowledge of DNA topoisomerases, enzymes crucial for DNA replication and repair?,PERSON
+Who is known for pioneering work on how viruses replicate and affect host cells at a molecular level?,PERSON
+Which researcher has made groundbreaking contributions to the field of synthetic biology by designing new biological parts and systems?,PERSON
+What biologist's research led to understanding the role of telomeres in cell aging and cancer formation?,PERSON
+Who conducted influential studies that revealed the structure and function of ribosomal RNA, essential for protein synthesis?,PERSON
+What is the latest PCR machine used in molecular biology labs?,PRODUCT
+Which DNA sequencer is known for high-throughput sequencing capabilities?,PRODUCT
+Can you recommend a reliable microcentrifuge for isolating nucleic acids?,PRODUCT
+What type of gel documentation system is best for imaging DNA gels?,PRODUCT
+Which brand of thermal cycler offers the fastest ramp rates in molecular biology experiments?,PRODUCT
+Is there a particular brand of pipette that's preferred in molecular biology labs for its precision?,PRODUCT
+What are some high-quality qPCR instruments used for gene expression analysis?,PRODUCT
+How does one choose the right benchtop centrifuge for their molecular biology lab needs?,PRODUCT
+Which company produces the most advanced Western blotting systems for protein detection?,PRODUCT
+Can you suggest an affordable but efficient gel electrophoresis system for DNA separation?,PRODUCT
+What kind of automated liquid handling systems are used in high-throughput molecular biology research?,PRODUCT
+Are there any specific brands of microscopes that are particularly useful for viewing biological samples at the molecular level?,PRODUCT
+Which type of DNA extraction kit is considered the most efficient and reliable on the market?,PRODUCT
+How do you select a good quality flow cytometer for analyzing cell populations in molecular biology studies?,PRODUCT
+What kind of protein purification systems are preferred by researchers in molecular biology labs?,PRODUCT
+Can you recommend an effective and user-friendly bioinformatics software suite for analyzing molecular data?,PRODUCT
+Which laboratory freezers are best suited for storing biological samples at the molecular level?,PRODUCT
+Are there particular brands or models of nanodrop spectrophotometers that are favored for their accuracy in measuring nucleic acid concentrations?,PRODUCT
+What type of automated colony pickers are used to streamline cloning processes in molecular biology research?,PRODUCT
+Which companies produce top-quality RNA extraction kits for use in gene expression studies?,PRODUCT
+How many base pairs are typically found in the human genome?,QUANTITY
+What is the average length of an mRNA molecule in eukaryotes measured in nucleotides?,QUANTITY
+Approximately how many different types of RNA molecules exist within a cell?,QUANTITY
+In a typical bacterial ribosome, how many subunits can be distinguished based on their sedimentation coefficients?,QUANTITY
+How many amino acids are there that are encoded by the genetic code for protein synthesis?,QUANTITY
+What is the approximate diameter in nanometers of a double-stranded DNA molecule?,QUANTITY
+On average, how many copies of ribosomal RNA are present in each eukaryotic cell's nucleus?,QUANTITY
+In terms of molecular weight, what is the typical range in Daltons for a small protein?,QUANTITY
+How many distinct domains does the largest known protein complex, the ribosome, contain?,QUANTITY
+What is the average number of hydrogen bonds that stabilize a base pair in DNA?,QUANTITY
+How many types of RNA polymerases are found in eukaryotic cells?,QUANTITY
+In molecular biology, what is the typical size range in kilobases for plasmids used in cloning experiments?,QUANTITY
+Approximately how many genes does the human genome contain that code for proteins?,QUANTITY
+What is the average number of nucleotides in a tRNA molecule?,QUANTITY
+How many electrons are typically involved in the formation of a covalent bond between two atoms?,QUANTITY
+In terms of base pairs, what is the approximate length of an intron found within eukaryotic genes?,QUANTITY
+What is the typical number of amino acids that fit into one turn of an alpha helix structure?,QUANTITY
+How many types of histones are involved in the formation of nucleosomes in chromatin?,QUANTITY
+In a typical yeast two-hybrid system, how many plasmids are used to study protein-protein interactions?,QUANTITY
+What is the average length in base pairs for a small circular DNA molecule called a minicircle?,QUANTITY
+When did the discovery of DNA's double helix structure occur?,TIME
+What year was the Central Dogma of molecular biology proposed by Francis Crick?,TIME
+In which decade were restriction enzymes first identified as a tool in genetic engineering?,TIME
+During what time period did the Human Genome Project begin and end?,TIME
+When was RNA interference (RNAi) mechanism discovered, leading to significant advancements in gene silencing studies?,TIME
+What year saw the Nobel Prize awarded for the development of PCR technology which revolutionized molecular biology?,TIME
+In which specific year did CRISPR-Cas9 start being used as a genome editing tool in eukaryotic cells?,TIME
+When was the first genetically modified organism created, marking a significant milestone in biotechnology and molecular biology?,TIME
+During what time frame did the concept of operons, a key regulatory element in gene expression, become widely accepted after its initial proposal by Jacob and Monod?,TIME
+What year marked the discovery of the lac operon, a critical model system for studying gene regulation?,TIME
+When was the first complete genome sequence of a free-living organism completed, showcasing the power of molecular biology techniques in genomics?,TIME
+In which time period did the field of epigenetics emerge as an important area of study within molecular biology, focusing on heritable changes that do not involve alterations to the DNA sequence itself?,TIME
+When was the term 'molecular biology' first coined by Warren Weaver in a famous article advocating for research into the physical and chemical basis of life?,TIME
+What year did the development of green fluorescent protein (GFP) as a tool for tracking gene expression revolutionize molecular biology research methods?,TIME
+During which period did recombinant DNA technology, allowing genes from one organism to be inserted into another's genome, become widely utilized in both research and industry applications?,TIME
+When was the concept of RNA world hypothesis proposed, suggesting that life might have originated with RNA molecules capable of self-replication?,TIME
+What year saw the Nobel Prize awarded for the discovery of the mechanism of protein synthesis, a cornerstone process in molecular biology involving mRNA, tRNA, and ribosomes?,TIME
+In which time did the field of comparative genomics begin to take shape, utilizing sequence data from various organisms to study evolution and genetic relationships?,TIME
+When was the first successful gene therapy trial conducted on humans, marking a significant step forward in the application of molecular biology principles towards medical treatments?,TIME
+What year did the elucidation of the structure of transfer RNA (tRNA) occur, providing crucial insights into how genetic information is translated into proteins during protein synthesis?,TIME
+What is the molecular biology behind the creation of the work of art "DNA Portrait"?,WORK_OF_ART
+How does the piece "Eternal DNA" use molecular biology concepts in its design and composition?,WORK_OF_ART
+Can you explain how the artist created the visual representation of genetic information in "The Genetic Canvas"?,WORK_OF_ART
+In what ways did the creator of "Molecular Ballet" utilize principles of molecular biology to convey movement and interaction at a microscopic level?,WORK_OF_ART
+What techniques were used in "Gene Weaving" to depict the intricate patterns found within DNA sequences?,WORK_OF_ART
+How does the installation "Life's Code" reflect the complexity of genetic information through its artistic medium?,WORK_OF_ART
+Could you discuss how "The Genome Symphony" translates molecular biological concepts into a visual or auditory art form?,WORK_OF_ART
+What inspired the creation of "Chromosome Collage", and how does it represent aspects of molecular biology in its composition?,WORK_OF_ART
+How is the concept of genetic mutation portrayed in the artwork titled "Mutations in Color"?,WORK_OF_ART
+In what ways does "The Double Helix Dance" use the iconic shape of DNA to tell a story or convey an idea through art?,WORK_OF_ART
+What are some unique features of the molecular biology-inspired sculpture "RNA Rhythms" that distinguish it from other works of art in its genre?,WORK_OF_ART
+How do the fractal patterns seen in "Fractal Genome" mirror real-life genetic structures and processes observed in molecular biology?,WORK_OF_ART
+Could you describe how the use of color in "Genetic Gradient" relates to different aspects or functions within molecular biology?,WORK_OF_ART
+What message does the work of art titled "The Genetic Thread" aim to convey about the interconnectedness of life through DNA sequences?,WORK_OF_ART
+How is the concept of gene editing portrayed or referenced in the piece known as "CRISPR Canvas"?,WORK_OF_ART
+In what ways do the sculptures in "Cellular Symphony" depict various components and processes within cells using principles from molecular biology?,WORK_OF_ART
+What inspired the artist to create "The DNA Mosaic", and how does it reflect their understanding of genetic information and structure?,WORK_OF_ART
+How does the painting series "Chromosomes" capture the essence of each chromosome's unique characteristics through color, shape, and form?,WORK_OF_ART
+In what ways is the artwork "Epigenetic Echoes" a reflection on environmental influences affecting gene expression as studied in molecular biology?,WORK_OF_ART
+Could you explain how the artist behind "Molecular Memoirs" utilized personal genetic information to create an autobiographical piece of art based on principles from molecular biology?,WORK_OF_ART
+What is the primary function of RNA in molecular biology?,PRODUCT
+Which technique is commonly used to amplify DNA sequences in molecular biology research?,PRODUCT
+How does the process of transcription differ from translation in molecular biology?,EVENT
+What role do restriction enzymes play in molecular cloning techniques?,PRODUCT
+Can you explain the central dogma of molecular biology?,WORK_OF_ART
+Who first proposed the double-helix structure of DNA?,PERSON
+What is the significance of PCR (Polymerase Chain Reaction) in molecular biology?,PRODUCT
+Which molecule carries genetic information from DNA to ribosomes during protein synthesis?,PRODUCT
+In molecular biology, what does CRISPR stand for and what is its primary use?,PRODUCT
+How do mutations affect the function of proteins in molecular biology studies?,EVENT
+What is a plasmid and how is it used in molecular cloning?,PRODUCT
+Who was involved in the Human Genome Project that mapped human DNA?,ORG
+Which Nobel Prize-winning scientist contributed to understanding the structure of RNA molecules?,PERSON
+Can you describe the process of gel electrophoresis used in analyzing DNA fragments?,EVENT
+What role do transcription factors play in gene expression studies within molecular biology?,PRODUCT
+How has the study of epigenetics impacted our understanding of molecular biology?,WORK_OF_ART
+Which molecule is responsible for carrying amino acids to the ribosome during protein synthesis?,PRODUCT
+Can you name a few key figures who have contributed significantly to the field of molecular biology over time?,PERSON
+What are some ethical considerations in using genetic modification techniques like CRISPR-Cas9?,EVENT
+How has the development of bioinformatics tools impacted research in molecular biology?,PRODUCT

@@ -1,0 +1,381 @@
+Question,Entity-Type
+How many years did World War I last?,CARDINAL
+What was the total number of countries involved in World War II?,CARDINAL
+Approximately how many soldiers died in World War I?,CARDINAL
+How old was Winston Churchill when he became Prime Minister during World War II?,CARDINAL
+In which year did World War I officially end with the signing of the Treaty of Versailles?,CARDINAL
+What is the approximate number of civilians who died as a result of World War II?,CARDINAL
+During World War II, how many atomic bombs were dropped on Japan by the United States?,CARDINAL
+How many days was the Battle of Stalingrad fought in World War II?,CARDINAL
+In what year did World War II begin with Germany's invasion of Poland?,CARDINAL
+What was the approximate number of Jews killed during the Holocaust in World War II?,CARDINAL
+How many battleships were sunk by the Japanese at Pearl Harbor on December 7, 1941?,CARDINAL
+During World War I, how many countries formed the Allied Powers coalition against the Central Powers?,CARDINAL
+In which year did the Battle of the Somme take place during World War I?,CARDINAL
+What is the approximate number of military deaths in the Russian Empire during World War I?,CARDINAL
+How old was Adolf Hitler when he started his invasion of Poland, beginning World War II?,CARDINAL
+During World War II, how many countries were involved in the D-Day landings on June 6, 1944?,CARDINAL
+What year did the Treaty of Brest-Litovsk end Russia's involvement in World War I with Germany?,CARDINAL
+How many major battles were fought during World War I involving British forces?,CARDINAL
+Approximately how many tanks were used by all sides combined during World War II?,CARDINAL
+In which year was the armistice signed to stop the fighting of World War I on November 11?,CARDINAL
+When did World War I officially begin?,DATE
+What date was the Treaty of Versailles signed, ending World War I?,DATE
+On what date did Germany invade Poland, marking the start of World War II?,DATE
+When was D-Day, the Allied invasion of Normandy during World War II?,DATE
+What is the exact date when Japan surrendered in World War II, officially ending the conflict?,DATE
+On which day was the Battle of Stalingrad considered to have ended in World War II?,DATE
+Can you provide the date when the United States entered World War I?,DATE
+When did World War II conclude in Europe with VE Day?,DATE
+What is the specific date that marked the beginning of the Battle of Britain in World War II?,DATE
+On what date was the Battle of Midway fought, a pivotal moment in World War II's Pacific theater?,DATE
+Which day saw the signing of the Molotov-Ribbentrop Pact between Germany and the Soviet Union before World War II began?,DATE
+When did Italy enter World War I on the side of the Allies?,DATE
+Can you tell me the date when Operation Barbarossa, the German invasion of the Soviet Union, started during World War II?,DATE
+What was the date of the Battle of El Alamein's first phase start in North Africa during World War II?,DATE
+On what date did Japan launch its surprise attack on Pearl Harbor, bringing the United States into World War II?,DATE
+When was the start of Operation Overlord, also known as D-Day, during World War II?,DATE
+Could you provide the exact date when the Battle of Berlin ended in 1945?,DATE
+What is the date considered to be the beginning of the Holocaust by Nazi Germany?,DATE
+On which date did the Soviet Union declare war on Japan, entering into the final stages of World War II?,DATE
+When was the first atomic bomb dropped on Hiroshima during World War II?,DATE
+What event marked the beginning of World War I?,EVENT
+When did the United States officially enter World War II?,EVENT
+Which battle is considered the turning point in the Eastern Front during World War II?,EVENT
+What was the significance of the Battle of Stalingrad during World War II?,EVENT
+How did the Treaty of Versailles affect the aftermath of World War I?,EVENT
+Can you name the event that led to the United States entering World War I?,EVENT
+Which naval battle is considered a major turning point in the Pacific Theater of World War II?,EVENT
+What was the outcome of the Battle of Britain during World War II?,EVENT
+In which year did the Battle of Verdun take place during World War I?,EVENT
+How did the use of trench warfare change military tactics during World War I?,EVENT
+Which event is considered to have ended World War II in Europe?,EVENT
+What was the significance of the Battle of Midway during World War II?,EVENT
+Can you describe the impact of the Battle of the Somme on World War I's Western Front?,EVENT
+How did the D-Day invasion change the course of World War II?,EVENT
+Which event led to the end of World War I with the armistice agreement?,EVENT
+What role did the Battle of Kursk play in turning the tide for the Allies during World War II?,EVENT
+When was the Battle of El Alamein fought, and why is it significant in the context of World War II?,EVENT
+How did the invasion of Normandy on D-Day affect the course of World War II?,EVENT
+What was the significance of the Yalta Conference held towards the end of World War II?,EVENT
+Which event led to the start of the Russian Revolution, impacting World War I's outcome?,EVENT
+What was the primary location of the Battle of Verdun during World War I?,FAC
+Which city became famously known as the 'Gateway to Hell' due to its intense battles in World War I?,FAC
+Where was the Gallipoli Campaign fought during World War I?,FAC
+In which European country did most of World War II's Eastern Front battles occur?,FAC
+What significant naval battle took place at Midway Island during World War II?,FAC
+Which European city hosted the signing of the Treaty of Versailles that ended World War I?,FAC
+Where was the infamous Battle of Stalingrad fought in World War II?,FAC
+In which French location did Allied forces launch a major invasion on D-Day during World War II?,FAC
+What is the name of the Polish city where the German-Soviet Invasion began in 1939?,FAC
+Which British airfield was heavily involved in the Battle of Britain?,FAC
+Where did the Japanese attack that led to the United States entering World War II take place?,FAC
+In which Italian city was the Armistice signed marking the end of Italy's participation in World War I?,FAC
+What is the name of the German military operation launched against Russia on June 22, 1941?,FAC
+Which French fortress is notable for its lengthy resistance during World War II before being captured by Germany?,FAC
+Where did the first nuclear bomb used as a weapon detonate during World War II?,FAC
+What significant conference took place in Yalta involving leaders from three countries to discuss post-World War II planning?,FAC
+In which French city did Charles de Gaulle make his famous speech calling for resistance against Nazi occupation at the start of World War II?,FAC
+Which British ship was sunk by a German U-boat, leading to significant loss of life and strengthening American resolve to enter World War I?,FAC
+Where were the Nuremberg Trials held after World War II to prosecute major war criminals?,FAC
+What French port city became the scene for one of the bloodiest battles in history during World War I?,FAC
+What countries were part of the Central Powers during World War I?,GPE
+Which European country initiated World War II with the invasion of Poland in 1939?,GPE
+How did the Soviet Union contribute to the defeat of Nazi Germany in World War II?,GPE
+During World War II, which Asian country was a key member of the Axis powers alongside Germany and Italy?,GPE
+What role did the United States play in both World Wars?,GPE
+Which African territories were battlegrounds during World War I?,GPE
+How significant was the Battle of Stalingrad for the Soviet Union's war effort against Nazi Germany in WWII?,GPE
+In World War II, which Southeast Asian country became a focus of Japanese expansion and Allied resistance?,GPE
+What impact did World War I have on the dissolution of the Ottoman Empire?,GPE
+Which Latin American countries declared war on the Axis powers during World War II?,GPE
+How did the United Kingdom's involvement in both World Wars shape its global influence post-conflict?,GPE
+During World War I, which Middle Eastern territories were affected by the collapse of the Ottoman Empire and the Sykes-Picot Agreement?,GPE
+Which European country was a major battlefield during World War II and saw significant resistance movements against Nazi occupation?,GPE
+How did China's participation in World War II affect its international status at the end of the conflict?,GPE
+What role did Canada play as part of the British Commonwealth during both World Wars?,GPE
+Which African colonies were involved in supporting Allied forces during World War II?,GPE
+In what ways did India contribute to the Allied war effort during World War II under British colonial rule?,GPE
+How did France's defeat and occupation by Germany affect its empire during World War II?,GPE
+What was the impact of World War I on the geopolitical landscape of Eastern Europe, particularly in countries like Poland and Czechoslovakia?,GPE
+Which Asian country was invaded by Japan after the signing of the Soviet-Japanese Neutrality Pact but later became a battleground in World War II?,GPE
+What language was primarily used for communication in the Allied forces during World War II?,LANGUAGE
+Which language did the Axis powers predominantly use for their official documents and orders during World War II?,LANGUAGE
+How many languages were officially spoken within the territories of countries involved in World War I?,LANGUAGE
+In which language were most of the treaties ending World War I written?,LANGUAGE
+What role did translation services play in facilitating communication between different Allied nations during World War II?,LANGUAGE
+During World War II, what was the significance of the Navajo language used by the US military for secure communications?,LANGUAGE
+Which language became a unifying factor among soldiers from various countries fighting under the French flag during World War I?,LANGUAGE
+How did the use of multilingual radio broadcasts affect propaganda efforts in World War II?,LANGUAGE
+What impact did the lack of a common language have on logistics and coordination between British and American forces during World War II?,LANGUAGE
+Why was Russian considered an important language for intelligence officers working with Eastern European allies during both world wars?,LANGUAGE
+How were messages encoded using different languages to ensure secrecy in naval communications during World War I?,LANGUAGE
+What role did the translation of intercepted enemy communications play in turning the tide of battles during World Wars?,LANGUAGE
+Which language was primarily used by German commanders for issuing orders during World War II, and how did this influence tactical decisions on the battlefield?,LANGUAGE
+How did the knowledge of multiple languages among soldiers contribute to intelligence gathering on the front lines during World War I?,LANGUAGE
+What strategies were employed to train multilingual soldiers for espionage missions in enemy territories during both world wars?,LANGUAGE
+In what ways did the widespread use of English as a second language amongst allies benefit communication efforts during World War II?,LANGUAGE
+How did the International Commercial Secretariat's use of multiple languages impact the coordination and efficiency of war-related commerce during World Wars I and II?,LANGUAGE
+What was the role of Latin in diplomatic communications between warring nations at the beginning of World War I?,LANGUAGE
+Which language became most influential as a result of the expansion of empires involved in World War I, particularly for the purpose of administration in newly conquered territories?,LANGUAGE
+How did the diversity of languages spoken by soldiers affect morale and unit cohesion within multinational divisions during World War II?,LANGUAGE
+What were the key international laws that governed the conduct of nations during World War I?,LAW
+How did the Treaty of Versailles impact international law and the establishment of the League of Nations after World War I?,LAW
+Can you explain how the concept of war crimes was legally established following World War II with the Nuremberg Trials?,LAW
+What were the legal ramifications of the use of nuclear weapons during World War II under international humanitarian law?,LAW
+How did the Geneva Conventions evolve as a result of experiences from both World Wars to protect victims of armed conflict?,LAW
+In what ways did World War I influence the development of international treaties and conventions on chemical warfare?,LAW
+What laws were created in response to the atrocities committed during World War II, specifically targeting genocide and crimes against humanity?,LAW
+How did the concept of neutrality under international law change due to the global nature of World Wars?,LAW
+Could you discuss how the United Nations Charter emerged from the legal frameworks developed post-World War II?,LAW
+What are some specific laws that were designed to prevent the recurrence of devastating conflicts like those seen in both World Wars?,LAW
+How did international law address the issue of reparations after World War I and what precedents were set for future conflicts?,LAW
+Can you explain how the legal principle of "crimes against peace" was developed following World War II?,LAW
+What are some examples of laws that aimed to limit the size and scope of military forces in order to prevent another world war after 1945?,LAW
+How did international law evolve regarding the treatment of prisoners of war as a result of experiences from both World Wars?,LAW
+In what ways did the legal status of colonial territories change following World War II under international law?,LAW
+What were some significant changes in international maritime laws due to naval battles and blockades during World Wars?,LAW
+Could you discuss how the laws concerning state responsibility for acts of aggression evolved after World War II?,LAW
+How did the legal framework around the use of force in international relations shift post-World War II with the United Nations Charter?,LAW
+What role did international law play in determining the boundaries and sovereignty issues after both World Wars?,LAW
+Can you explain how the International Military Tribunal for the Far East was established to address war crimes committed during World War II under international law?,LAW
+Where was World War I primarily fought?,LOC
+Which city hosted the signing of the Treaty of Versailles to end World War I?,LOC
+What location served as the main setting for the Battle of the Somme during World War I?,LOC
+In which country did the Battle of Verdun take place during World War I?,LOC
+Where was the Gallipoli Campaign fought in World War I?,LOC
+Which European city was heavily bombed by the Luftwaffe during World War II?,LOC
+What is the name of the French port city where D-Day landings took place during World War II?,LOC
+In which country did the Battle of Stalingrad occur during World War II?,LOC
+Where in France was the Normandy Campaign fought during World War II?,LOC
+Which Asian location saw significant fighting between Japanese and Allied forces during World War II?,LOC
+What European city became famous for its resistance against Nazi occupation during World War II?,LOC
+In which country did the Battle of El Alamein take place during World War II?,LOC
+Where was the Holocaust primarily carried out by the Nazis during World War II?,LOC
+Which island saw fierce fighting in the Pacific Theater of World War II, including the Battle of Iwo Jima?,LOC
+What location served as a significant naval base and site of an attack that led to U.S. entry into World War II?,LOC
+In which European country did the Battle of Kursk take place during World War II?,LOC
+Where was the Warsaw Ghetto located during World War II, a place known for Jewish resistance against Nazi occupation?,LOC
+Which city in Italy was liberated by Allied forces at the start of 1944, marking a significant turning point in World War II?,LOC
+In which African country did the North Africa Campaign predominantly take place during World War II?,LOC
+Where did Operation Market Garden occur, aiming to capture several key bridges over major rivers in this location during World War II?,LOC
+What was the total cost of World War I for all participating countries?,MONEY
+How much did the United States spend on military expenditures during World War II?,MONEY
+What was the approximate economic cost of rebuilding Europe after World War II under the Marshall Plan?,MONEY
+How much did Germany have to pay as reparations following World War I in today's dollars?,MONEY
+What was the estimated cost for Britain to fight World War II?,MONEY
+How many gold marks were initially set as reparation payments by the Treaty of Versailles in 1921?,MONEY
+What is the total economic loss attributed to both World Wars combined, considering inflation and today's currency values?,MONEY
+How much did the Soviet Union spend on its military efforts during World War II?,MONEY
+What was the cost of manufacturing a single B-17 bomber in World War II adjusted for 2023 dollars?,MONEY
+How much money did the United States save by rationing and reallocating resources during World War II compared to current economic values?,MONEY
+What was the total financial support provided by the United Kingdom to various nations under Lend-Lease during World War II, in today's currency terms?,MONEY
+How much did it cost to develop and build the atomic bomb as part of the Manhattan Project during World War II in today’s dollars?,MONEY
+What were the estimated economic losses suffered by France due to World War I when converted into current monetary values?,MONEY
+How much was the budget for military spending in Germany from 1933 to 1945, accounting for inflation and current currency values?,MONEY
+What was the cost of rebuilding major cities like Berlin after World War II in today's money?,MONEY
+How much did Italy spend on its war efforts during both World Wars combined when adjusted for inflation to modern monetary terms?,MONEY
+What were the financial contributions made by the Allies (US, UK, and USSR) to support resistance movements in Europe during World War II, in current value of dollars?,MONEY
+How many pounds sterling did Britain have to spend on post-war recovery efforts after World War II, converted into today's currency values?,MONEY
+What was the total cost of the Battle of Stalingrad from both Axis and Soviet perspectives when adjusted for 2023 monetary terms?,MONEY
+How much money was lost in trade due to naval blockades during World War I, considering inflation and current economic value?,MONEY
+Which nation led the Central Powers during World War I?,NORP
+What was the primary nationality of soldiers in the Red Army during World War II?,NORP
+Which country's army formed a significant part of the Axis powers along with Germany and Italy?,NORP
+How did the French Resistance contribute to the Allied victory in Europe?,NORP
+Name a major battle where Polish forces played a crucial role.,NORP
+What was the primary nationality of soldiers serving in the Imperial Japanese Army during World War II?,NORP
+Which nationality predominantly comprised the Italian Royal Army (Regio Esercito) during World War II?,NORP
+How did Australian troops contribute to Allied efforts in the Pacific theater of World War II?,NORP
+What was the role of the British Indian Army in the North African and European campaigns of World War II?,NORP
+Which nationality were the members of the Special Operations Executive (SOE) primarily composed of during World War II?,NORP
+How did Canadian forces participate in the D-Day landings on June 6, 1944?,NORP
+What was the primary role of U.S. forces in the liberation of Europe during World War II?,NORP
+Which nationality made up the majority of soldiers in the Wehrmacht during World War II?,NORP
+How did the Soviet Union's Red Army contribute to the defeat of Nazi Germany?,NORP
+What was a significant contribution of Chinese forces in resisting Japanese aggression during World War II?,NORP
+In what way were New Zealand troops involved in the campaigns against the Axis powers in World War II?,NORP
+Which nationality predominantly comprised the soldiers of the Royal Air Force (RAF) during the Battle of Britain?,NORP
+How did South African forces contribute to Allied victories in North Africa and Europe during World War II?,NORP
+What was the role of French colonial troops in supporting the Allies during World War II?,NORP
+Which nationality were the majority of soldiers in the Free French Forces under Charles de Gaulle during World War II?,NORP
+Which was the first World War to involve aircraft?,ORDINAL
+What is the name of the second major conflict that occurred in the 20th century?,ORDINAL
+In which year did the third major naval battle of World War II take place?,ORDINAL
+How many days did the Battle of Stalingrad, the second deadliest battle in history, last during World War II?,ORDINAL
+Which country declared war on Germany first after the start of World War I?,ORDINAL
+What was the name given to the third operation involving allied forces landing in Normandy during World War II?,ORDINAL
+How many battleships were sunk at Pearl Harbor in the second wave of attacks by Japan during World War II?,ORDINAL
+Which battle is considered the first major offensive launched by British Empire troops on the Western Front in World War I?,ORDINAL
+During World War I, which was the second deadliest chemical weapon used on the battlefield?,ORDINAL
+What was the name of the second front opened by Allied forces against Nazi Germany during World War II?,ORDINAL
+Which country was the first to use tanks in battle during World War I?,ORDINAL
+How many days did the Battle of Berlin, considered the last major offensive of World War II, last for as the second phase of this battle?,ORDINAL
+What was the name given to the second largest military operation in Europe during World War II after D-Day?,ORDINAL
+Which nation signed the second non-aggression pact with another country just before the start of World War II?,ORDINAL
+In World War I, which battle is considered the second bloodiest engagement in history?,ORDINAL
+How many aircraft carriers were sunk by the Japanese in their second attack on Pearl Harbor during World War II?,ORDINAL
+Which was the second major campaign fought between British and German air forces during World War II?,ORDINAL
+What event marks the second time the United States declared war against a country in World War II after Japan?,ORDINAL
+During World War II, which country launched the second largest submarine offensive against Allied shipping?,ORDINAL
+How many times did Russia change sides between alliances during the course of the first two world wars?,ORDINAL
+What was the main role of the League of Nations during World War I?,ORG
+Which organization led the Allied Powers in World War II?,ORG
+How did the United Nations come into existence after World Wars?,ORG
+Who were the primary members of the Axis Powers during World War II?,ORG
+In what way did the Red Cross operate during both World Wars?,ORG
+What role did the International Committee of the Red Cross play during World War I and World War II?,ORG
+How did the Treaty of Versailles impact international organizations formed after World War I?,ORG
+Which military alliance was formed in response to the threat posed by the Axis Powers before World War II began?,ORG
+What was the primary function of the Triple Alliance during World War I?,ORG
+What were the objectives of the Central Powers during World War I?,ORG
+How did the Commonwealth contribute to the Allied victory in both World Wars?,ORG
+What actions did the United States government take that influenced the outcomes of both World Wars?,ORG
+Which organization was responsible for enforcing the peace terms after World War I and later dissolved into the United Nations?,ORG
+Who were the members of the Triple Entente during World War I, and how did this alliance evolve post-war?,ORG
+How did the International Labour Organization address labor issues arising from both world wars?,ORG
+What were some significant decisions made by the League of Nations regarding conflicts that arose after World War I?,ORG
+Which international financial institutions were established in response to the economic conditions following World War II?,ORG
+In what ways did the United States Army play a role in shaping post-World War II Europe?,ORG
+How did the British Empire's military strategy change from World War I to World War II?,ORG
+What was the function of the Secretariat of the League of Nations during its existence?,ORG
+What percent of soldiers survived World War I?,PERCENT
+By what percentage did the global population decrease due to both World Wars combined?,PERCENT
+What was the approximate percentage of civilian casualties in World War II compared to military casualties?,PERCENT
+How much percentage of the world's countries were involved in World War II at its peak?,PERCENT
+What percent of Germany’s GDP was spent on war efforts during World War II?,PERCENT
+In what percentage did agricultural production fall in Europe during World War I due to labor shortages and land destruction?,PERCENT
+By what percentage did life expectancy decrease globally during the years of World War II compared to the pre-war period?,PERCENT
+What percent of French soldiers were killed or injured in World War I?,PERCENT
+How much, as a percentage, did global trade decline after the onset of World War I?,PERCENT
+What was the estimated percentage increase in women’s participation in the workforce during World War II compared to pre-war levels?,PERCENT
+By what percent did the production of war materials (like ammunition and tanks) increase in Allied countries compared to Axis powers during World War II?,PERCENT
+How much, as a percentage, did the average income decrease in Europe after World War I due to economic disruption?,PERCENT
+What was the approximate percentage of total casualties that were attributed to diseases rather than combat injuries in World War I?,PERCENT
+In what percentage did the global population increase between the end of World War II and 1960, compared to the period just before the war began?,PERCENT
+How much, as a percentage, did the debt-to-GDP ratio of countries involved in World War II rise by the end of the conflict compared to pre-war levels?,PERCENT
+What percent of European cities were damaged or destroyed during World War II?,PERCENT
+By what percentage did international migration decrease from 1939 to 1945 due to World War II?,PERCENT
+How much, as a percentage, did the number of patents filed in major world powers drop during World War I compared to the pre-war peak year?,PERCENT
+What was the estimated percentage increase in food prices globally during World War II due to supply shortages and transportation disruptions?,PERCENT
+By what percent did military spending as a portion of total government expenditure decrease from 1945 to 1950 in major Allied countries after World War II ended?,PERCENT
+Who was the commander-in-chief of the Allied forces in Europe during World War II?,PERSON
+Which American president led the country through most of World War II?,PERSON
+Who served as the Prime Minister of the United Kingdom throughout much of World War II and is known for his powerful speeches?,PERSON
+What Russian leader played a significant role in leading the Soviet Union through World War II?,PERSON
+Who was the German commander known as the 'Desert Fox' during World War II?,PERSON
+Which Italian dictator ruled Italy from 1922 to 1943 and was an ally of Germany during World War II?,PERSON
+Who led the Japanese forces in the Pacific Theater during World War II?,PERSON
+What French general is known for founding the French Resistance against Nazi occupation during World War II?,PERSON
+Which Soviet leader made significant decisions that influenced the outcome of World War II?,PERSON
+Who was the U.S. General that oversaw operations in the European theater during World War II?,PERSON
+What British military commander is famous for his leadership and strategy during the D-Day landings?,PERSON
+Who was the commander of the German Air Force, known as the Luftwaffe, during World War II?,PERSON
+Which Soviet general led the Red Army to victory over Nazi Germany in World War II?,PERSON
+Who was the leader of France during its occupation by Germany in World War II and is associated with collaborationist policies?,PERSON
+What American inventor and industrialist played a significant role in supplying war materials for the Allied Powers during World War II?,PERSON
+Which U.S. general commanded United Nations forces during the Korean War, which started shortly after World War II ended?,PERSON
+Who was the British Field Marshal that planned and executed major operations in North Africa and Italy during World War II?,PERSON
+What American President declared war on Japan following the attack on Pearl Harbor, thereby entering the U.S. into World War II?,PERSON
+Which Soviet leader served as Premier of the USSR from 1953 until his death, shortly after World War II ended?,PERSON
+Who was the British Field Marshal and Chief of the Imperial General Staff during World War I?,PERSON
+What was the primary firearm used by British soldiers during World War I?,PRODUCT
+Which model of submarine had the most significant impact on naval warfare in World War II?,PRODUCT
+What type of tank was widely used by German forces during both World Wars?,PRODUCT
+Which brand of aircraft played a crucial role in bombing missions during World War II?,PRODUCT
+Can you name the radio communication device that was essential for infantry coordination in World War I?,PRODUCT
+Which model of artillery gun saw extensive use throughout World War II?,PRODUCT
+What kind of radar technology was pivotal in detecting enemy aircraft during World War II?,PRODUCT
+Which type of flamethrower caused significant terror among soldiers on the battlefield in World War I?,PRODUCT
+Can you identify a notable reconnaissance camera used by aerial photographers during World War II?,PRODUCT
+What was the name of the portable anti-tank weapon that changed tactics during World War II?,PRODUCT
+Which aircraft manufacturer produced one of the most famous bombers used in World War II?,PRODUCT
+What kind of armored vehicle is known for its role in trench warfare during World War I?,PRODUCT
+Can you mention a chemical compound that was widely used as a chemical weapon in World War I?,PRODUCT
+Which communication device was crucial for submarines to maintain contact with command centers during World War II?,PRODUCT
+Name a specific type of grenade launcher that saw widespread use during World War II.,PRODUCT
+What was the name of the most produced machine gun by the United States during World War II?,PRODUCT
+Can you identify a brand of aircraft carrier that played a key role in naval battles during World War II?,PRODUCT
+Which model of fighter plane is credited with defending Britain against German bombers in World War II?,PRODUCT
+What type of artillery shell was used to devastating effect on both sides during World War I?,PRODUCT
+Which brand of armored personnel carrier became iconic due to its use in amphibious assaults during World War II?,PRODUCT
+How many countries were involved in World War I?,QUANTITY
+What was the approximate number of military deaths in World War II?,QUANTITY
+How many civilians are estimated to have died during World War II?,QUANTITY
+What is the total number of battles fought during World War I?,QUANTITY
+In World War II, how many tanks did the Soviet Union produce by the end of the war?,QUANTITY
+How many aircraft carriers were sunk during World War II?,QUANTITY
+Approximately how many submarines were lost by all sides in World War II?,QUANTITY
+What was the number of days between the start and end dates of World War I?,QUANTITY
+How many soldiers from the United States served in Europe during World War II?,QUANTITY
+How many ships did Germany lose to Allied attacks in World War II?,QUANTITY
+How many countries declared war on Japan after the attack on Pearl Harbor?,QUANTITY
+What was the total number of civilian evacuations performed in Britain during World War II?,QUANTITY
+How many atomic bombs were dropped by the United States during World War II?,QUANTITY
+During World War I, how many zeppelins did Germany deploy for bombing missions over England?,QUANTITY
+How many prisoners of war were there at the end of World War II in Europe?,QUANTITY
+What was the total number of merchant ships sunk by German U-boats during World War II?,QUANTITY
+In World War I, how many battleships did Britain have at the Battle of Jutland?,QUANTITY
+How many V-2 rockets were launched by Nazi Germany against Allied targets during World War II?,QUANTITY
+What was the approximate number of soldiers involved in the D-Day landings on June 6, 1944?,QUANTITY
+How many fighter planes did Japan lose at the Battle of Midway?,QUANTITY
+When did World War I officially begin?,TIME
+What year did World War II end in Europe?,TIME
+In which month and year was the Treaty of Versailles signed, ending World War I?,TIME
+On what date did Germany invade Poland, marking the start of World War II?,TIME
+When were the atomic bombs dropped on Hiroshima and Nagasaki during World War II?,TIME
+What day did the Battle of Stalingrad begin in 1942 during World War II?,TIME
+In which year was the United States officially involved in World War I?,TIME
+During what time period did trench warfare primarily occur in World War I?,TIME
+On what date did D-Day take place during World War II?,TIME
+When was the armistice signed that ended fighting on the Western Front of World War I?,TIME
+What year did Italy enter World War II on the side of the Axis powers?,TIME
+In which month and year did the Soviet Union join World War II by invading Poland alongside Germany?,TIME
+When was the first day of the Battle of the Somme in World War I?,TIME
+On what date did the First Battle of the Marne begin in World War I?,TIME
+What time period saw the largest naval battle of World War I, the Battle of Jutland?,TIME
+During which year did the U.S. enter World War II following the attack on Pearl Harbor?,TIME
+When was the last day of the Siege of Leningrad during World War II?,TIME
+In what month and year did the Battle of Britain begin in World War II?,TIME
+What year marked the beginning of the Italian invasion of Ethiopia that would later be part of World War II's prelude?,TIME
+On which date was the Armistice with Italy signed, bringing an end to Italy’s participation in World War II?,TIME
+What is the name of the famous painting that depicts a scene from World War I trenches?,WORK_OF_ART
+Which painting by Pablo Picasso reflects his thoughts on the devastating impact of war during World War II?,WORK_OF_ART
+Can you name a sculpture that symbolizes peace and was created in response to the horrors of World Wars?,WORK_OF_ART
+What lithograph series by Otto Dix portrays the brutal realities of World War I?,WORK_OF_ART
+Which musical composition is widely recognized as a reflection on the human cost of World War II?,WORK_OF_ART
+Is there an iconic photograph that captures the moment when peace was declared at the end of World War II?,WORK_OF_ART
+What documentary film provides an in-depth look into the life of soldiers during World War I?,WORK_OF_ART
+Which book of poetry explores themes of loss and despair due to the casualties of World Wars?,WORK_OF_ART
+Can you name a painting that portrays the emotional impact on civilians during World War II bombings?,WORK_OF_ART
+What is the title of an opera composed as a critique of militarism, inspired by the events of World War I?,WORK_OF_ART
+Which play explores the psychological effects of war through characters directly affected by World Wars?,WORK_OF_ART
+Is there a novel that focuses on the experiences of refugees displaced by World War II?,WORK_OF_ART
+What is an example of a film that captures the spirit and struggles during the D-Day landings in World War II?,WORK_OF_ART
+Which ballet was inspired by the tragic stories of soldiers from World War I?,WORK_OF_ART
+Can you name a memoir or diary entry turned into an exhibit about life on the home front during World Wars?,WORK_OF_ART
+What piece of digital art or video game reflects on historical events from either World War through a modern lens?,WORK_OF_ART
+Which radio drama series delves into the personal narratives and tragedies of individuals caught in World Wars?,WORK_OF_ART
+Is there an animated film that tackles the themes of innocence lost during wartime, specifically referring to World Wars?,WORK_OF_ART
+What collection of letters or correspondence has been published as a book, offering insights into life during World War II?,WORK_OF_ART
+Which graphic novel series uses its unique format to explore the complex history and narratives surrounding World Wars?,WORK_OF_ART
+What were the main causes of World War I?,EVENT
+How many countries were involved in World War II?,CARDINAL
+Which battle is considered to be the turning point of World War II?,EVENT
+Where was the Treaty of Versailles signed after World War I?,LOC
+When did World War II officially end?,DATE
+What organization was established as a result of World War II to prevent future conflicts?,ORG
+How many lives were lost during World War I globally?,CARDINAL
+Which military strategy was famously used in trench warfare during World War I?,PRODUCT
+Who was the commander-in-chief of the Allied forces in Europe during World War II?,PERSON
+What was the name of the operation that marked the beginning of the end for Nazi Germany in World War II?,EVENT
+How did World War I impact global economies post-war?,WORK_OF_ART
+Which naval battle is considered decisive in turning the tide against Japan in World War II?,EVENT
+Where were the atomic bombs dropped during World War II?,LOC
+What percentage of Europe's pre-World War II population was lost during the conflict?,PERCENT
+How did technological advancements during World War I change warfare methods forever?,WORK_OF_ART
+Who were some key leaders responsible for starting World War II?,PERSON
+What was the primary reason for the United States entering World War I in 1917?,EVENT
+Which country hosted the D-Day invasion during World War II?,LOC
+How did communication technologies evolve due to the demands of warfare in World War II?,PRODUCT
+What is the name given to the military operation that began the Normandy campaign in World War II?,EVENT

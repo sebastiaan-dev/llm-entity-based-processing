@@ -1,0 +1,382 @@
+Question,Entity-Type
+How many years did World War I last?,CARDINAL
+What was the approximate number of soldiers involved in the D-Day invasion during WWII?,CARDINAL
+In which year did the Korean War officially end?,CARDINAL
+How many countries were part of NATO when it was founded in 1949?,CARDINAL
+During the Vietnam War, how many U.S. military personnel were deployed at its peak?,CARDINAL
+What is the estimated number of casualties in the Battle of Stalingrad?,CARDINAL
+In what year did Operation Desert Storm begin?,CARDINAL
+How many days was the Gulf War fought for before Iraq agreed to a ceasefire?,CARDINAL
+What was the total number of atomic bombs dropped by the United States on Japan during World War II?,CARDINAL
+During which year did the Soviet-Afghan War officially start?,CARDINAL
+In how many years did the Cold War last approximately?,CARDINAL
+How many aircraft carriers were part of the U.S. Navy fleet at the beginning of WWII in 1941?,CARDINAL
+What was the approximate number of Axis casualties in World War II?,CARDINAL
+How many states had the United States expanded to by the time of its involvement in World War I?,CARDINAL
+In what year did the Falklands War conclude?,CARDINAL
+During which year did NATO intervene militarily in Kosovo?,CARDINAL
+What is the approximate number of military personnel involved in the Battle of Midway on both sides combined?,CARDINAL
+How many battleships were sunk or severely damaged by the Japanese during the attack on Pearl Harbor?,CARDINAL
+In what year was the Peace of Westphalia signed, ending the Thirty Years' War?,CARDINAL
+What is the estimated number of deaths resulting from the Rwandan Genocide in 1994?,CARDINAL
+When was the Battle of Waterloo fought?,DATE
+What year did World War I begin?,DATE
+In which month and year did the Gulf War start?,DATE
+On what date did D-Day occur during World War II?,DATE
+When did the Korean War officially end with an armistice?,DATE
+What is the exact date when the Vietnam War started according to many historians?,DATE
+Which day in history marks the bombing of Pearl Harbor by Japan in 1941?,DATE
+On what date was the Treaty of Versailles signed, ending World War I?,DATE
+When did the Six-Day War between Israel and its neighbors take place?,DATE
+What is the date considered as the beginning of the Falklands War in 1982?,DATE
+Can you provide the specific date when the Russian Revolution started in 1917?,DATE
+On what day was the Soviet-Afghan War officially declared over by the Soviet Union?,DATE
+When did Operation Desert Storm begin in the Persian Gulf War?,DATE
+What is the date associated with the start of the Iran-Iraq War in 1980?,DATE
+Can you tell me the exact date when the Spanish Civil War ended?,DATE
+Which day marks the beginning of World War II in Europe following Germany's invasion of Poland?,DATE
+On what date did the Cuban Missile Crisis officially begin?,DATE
+What year did the Rwandan Genocide start?,DATE
+When was Operation Iraqi Freedom launched by the United States?,DATE
+Can you provide the specific date when the Napoleonic Wars concluded with Napoleon's final defeat at Waterloo?,DATE
+What were the main causes of World War I?,EVENT
+How did the Battle of Stalingrad influence the outcome of World War II?,EVENT
+Which event marked the beginning of the Korean War?,EVENT
+What was the turning point in the Vietnam War?,EVENT
+Can you describe the impact of the Gulf War on Middle Eastern politics?,EVENT
+How did the events of 9/11 lead to the War in Afghanistan?,EVENT
+What were the key battles during the American Civil War?,EVENT
+In what ways did the Cuban Missile Crisis affect international relations?,EVENT
+Describe the significance of the Battle of Waterloo.,EVENT
+Which event triggered the Spanish Civil War?,EVENT
+How did Operation Desert Storm unfold during the Gulf War?,EVENT
+Can you explain the events leading up to the Rwandan Genocide?,EVENT
+What was the outcome of the Tet Offensive in Vietnam War?,EVENT
+How significant were the Normandy landings on D-Day for World War II?,EVENT
+Describe the series of events that constituted the Battle of Gettysburg.,EVENT
+Which event is considered the start of the Russo-Japanese War?,EVENT
+Can you discuss the importance of the Battle of Midway during World War II?,EVENT
+How did the fall of Saigon affect the conclusion of the Vietnam War?,EVENT
+What were the immediate consequences of the Yom Kippur War?,EVENT
+Describe the sequence of events that led to the Armistice ending World War I.,EVENT
+What was the primary function of the Maginot Line during World War II?,FAC
+How did the Berlin Wall serve as a military conflict barrier between East and West Germany?,FAC
+In what way did the Great Wall of China act as a defensive structure against invasions?,FAC
+What role did the Siegfried Line play in defending Nazi Germany from Allied forces during World War II?,FAC
+How effective was the Maginot Line in preventing German advancements at the start of WWII?,FAC
+Can you describe the strategic importance of the Atlantic Wall for Nazi Germany's defense against an invasion by the Allies?,FAC
+What was the role of the Iron Curtain as a symbol and physical barrier during the Cold War?,FAC
+How did the fortifications of Gibraltar serve Britain in military conflicts throughout history?,FAC
+In what ways did Hadrian's Wall function to control movement across the Roman Empire's northern border?,FAC
+Describe the significance of the Demilitarized Zone (DMZ) between North and South Korea.,FAC
+What was the strategic purpose behind constructing Vauban fortresses in Europe during the 17th century?,FAC
+How did the Line of Contravallation protect besieging armies during prolonged sieges in military history?,FAC
+Can you explain how the Panama Canal became a critical military and economic asset for the United States in both World Wars?,FAC
+What was the strategic importance of the Suez Canal to British military operations during the World War II period?,FAC
+How did the construction of the Limes Germanicus contribute to Roman control over their territories north of the Danube River?,FAC
+Describe the role of the Isthmus of Corinth in ancient Greek military conflicts.,FAC
+What was the strategic advantage of fortifying the Strait of Hormuz for countries with interests in Persian Gulf oil?,FAC
+Can you discuss the significance of the Vauban fortress system in maintaining French territorial control during various wars and conflicts in early modern Europe?,FAC
+How did the fortifications at Quebec City play a role in British military operations during the Seven Years' War (French and Indian War)?,FAC
+What was the strategic importance of the Panama Canal Zone to the United States for naval operations during World War II?,FAC
+What was the role of NATO in the Kosovo War?,GPE
+How did the United Nations respond to the invasion of Kuwait by Iraq in 1990?,GPE
+Which countries were involved when Russia invaded Crimea in 2014?,GPE
+In which region did the Vietnam War primarily take place?,GPE
+What was the impact of the Gulf War on Middle Eastern politics?,GPE
+During World War II, how did Japan's attack on Pearl Harbor affect international relations?,GPE
+How has the conflict in Syria affected the European Union’s refugee policies?,GPE
+Which GPE led the coalition forces during the Iraq War in 2003?,GPE
+What role did China play in the Korean War?,GPE
+Can you describe the involvement of ASEAN countries in the Cambodian-Vietnamese War?,GPE
+How did the Cold War tension between the USA and USSR influence global military strategies?,GPE
+Which GPEs were part of the Allied forces during World War I?,GPE
+What was the impact of the Rwandan Genocide on neighboring African nations?,GPE
+In which region was the Falklands War fought, and how did it affect UK-Argentina relations?,GPE
+How did the Soviet-Afghan War influence Central Asian geopolitics?,GPE
+Which GPE provided support to both sides during the Lebanese Civil War?,GPE
+What were the consequences of India-Pakistan wars on South Asia's geopolitical landscape?,GPE
+Can you discuss the involvement of the European Union in peacekeeping missions in Bosnia and Herzegovina?,GPE
+How did the Six-Day War affect Israel’s diplomatic relations with its neighboring countries?,GPE
+Which GPEs participated in the coalition against ISIS, especially in Iraq and Syria?,GPE
+What language is primarily used in official communications during military conflicts involving NATO countries?,LANGUAGE
+In the context of historical military conflicts, which language has been predominantly used for international treaties and agreements?,LANGUAGE
+During World War II, which language was predominantly spoken among Allied forces for coordination and strategy discussions?,LANGUAGE
+Which language became a crucial element for intelligence gathering and translation services in the Vietnam War?,LANGUAGE
+How important is learning Arabic for U.S. military personnel serving in the Middle East?,LANGUAGE
+In multi-national peacekeeping missions, what is the most commonly used language for communication among soldiers from different countries?,LANGUAGE
+What role does the English language play in modern military conflicts regarding command and control systems?,LANGUAGE
+Which language was considered essential for British military operations during the colonial era in India?,LANGUAGE
+How has the use of the Russian language influenced military communications in Eastern Europe historically?,LANGUAGE
+In contemporary military conflicts, how significant is the ability to understand and communicate in Pashto for soldiers operating in Afghanistan?,LANGUAGE
+What impact did the lack of a common language have on operations during the Hundred Years' War between England and France?,LANGUAGE
+How has the adoption of French as an official language affected military communications within Francophone African countries involved in regional conflicts?,LANGUAGE
+Which language was crucial for American forces to learn during the Korean War to improve communication with South Korean allies?,LANGUAGE
+In military conflicts in former Yugoslavia, why was knowledge of Serbian important for international peacekeeping forces?,LANGUAGE
+How does proficiency in Mandarin influence U.S. military strategy and intelligence operations related to China?,LANGUAGE
+What role did the use of German play in World War I communications among Central Powers troops?,LANGUAGE
+Why is understanding Spanish considered essential for U.S. military personnel deployed along the Mexican border due to potential conflicts or emergencies?,LANGUAGE
+In the context of the Cold War, how significant was the ability to speak Russian for NATO intelligence and military operatives?,LANGUAGE
+What challenges arise from language barriers in multi-ethnic rebel groups involved in internal conflicts?,LANGUAGE
+How does the prevalence of English as a global lingua franca affect communication strategies in multinational military exercises?,LANGUAGE
+What international laws govern the treatment of prisoners of war?,LAW
+How does the Geneva Convention influence military conflicts?,LAW
+Can nations bypass international law when declaring a state of emergency during conflict?,LAW
+Under what circumstances is the use of chemical weapons considered legal under international law?,LAW
+What legal frameworks are in place to prevent child soldiers from being recruited in armed conflicts?,LAW
+How does the United Nations Charter affect the legality of preemptive strikes by nations?,LAW
+In military conflicts, how do laws regarding territorial sovereignty apply when a country invades another without declaration of war?,LAW
+What are the legal consequences for countries that violate the laws of armed conflict during international disputes?,LAW
+Can non-state actors be held legally accountable under international law for engaging in hostilities within a military conflict?,LAW
+How does the principle of proportionality apply to military operations under humanitarian law?,LAW
+Under what conditions can economic sanctions be legally imposed on a country by international bodies during conflicts?,LAW
+What legal measures are available to enforce compliance with international human rights laws in areas affected by military conflict?,LAW
+In the context of military conflicts, how does the concept of 'jus ad bellum' relate to the legality of going to war?,LAW
+How do international courts use legal standards to judge crimes committed during military conflicts?,LAW
+What role does international law play in regulating the transfer and sale of weapons between nations involved in a conflict?,LAW
+Can international laws be invoked to compel countries to cease using certain types of weaponry that cause excessive civilian casualties?,LAW
+How do legal frameworks address the issue of refugees who flee their homes due to military conflicts?,LAW
+What are the legal implications for soldiers accused of war crimes when their actions were following orders from superiors during a conflict?,LAW
+In the event of an international military conflict, how does the law determine whether an attack on civilian infrastructure is permissible under self-defense claims?,LAW
+How do international laws protect cultural heritage sites in regions affected by ongoing military conflicts?,LAW
+Where did the Battle of Stalingrad primarily take place?,LOC
+What was the main location for the D-Day invasion during World War II?,LOC
+In which country did the Vietnam War mainly occur?,LOC
+Which city was heavily bombed during the Blitz in WWII?,LOC
+What is the name of the mountain range where the Chosin Reservoir Campaign took place during the Korean War?,LOC
+Where did the Battle of Waterloo happen?,LOC
+During the American Revolutionary War, which state saw a significant battle at Saratoga?,LOC
+Which island was the site of intense fighting in the Pacific Theatre during WWII known as the Battle of Okinawa?,LOC
+In what country does the Iran-Iraq War primarily take place?,LOC
+Where did the Battle of Gettysburg occur during the American Civil War?,LOC
+What is the location of the ancient city where the Siege of Troy took place?,LOC
+During World War I, which region was known as the Western Front?,LOC
+In what country did the Russo-Japanese War take place?,LOC
+Where did Operation Desert Storm primarily happen in 1991?,LOC
+Which island saw significant conflict during the Spanish-American War?,LOC
+What is the location of the major naval battle called the Battle of Midway during WWII?,LOC
+During the Napoleonic Wars, where was the Battle of Austerlitz fought?,LOC
+Where did the Falklands War between Argentina and the United Kingdom take place in 1982?,LOC
+Which city saw fierce fighting during the Crimean War at the Siege of Sevastopol?,LOC
+What is the location of the site where the Battle of Hastings took place in 1066?,LOC
+What is the estimated budget for the U.S. military in fiscal year 2023?,MONEY
+How much did Russia spend on its military operations in Ukraine by mid-2022?,MONEY
+What was the approximate cost of the F-35 fighter jet program as of 2021?,MONEY
+How much funding did NATO members pledge to increase their defense budgets to, reaching at least what percentage of GDP by 2024?,MONEY
+What is the estimated total cost of the Vietnam War in today's dollars?,MONEY
+How much has China reportedly spent on its military modernization efforts since 1985?,MONEY
+What was the approximate cost for Israel to develop and deploy its Iron Dome missile defense system?,MONEY
+How much did the United Kingdom allocate to its defense budget in the fiscal year 2022-23?,MONEY
+What is the estimated cost of Operation Iraqi Freedom from 2003 to 2011 in today's dollars?,MONEY
+What was the approximate financial impact on Syria’s GDP due to the civil war as of 2021?,MONEY
+How much did the U.S. spend on the Korean War when adjusted for inflation to today's dollars?,MONEY
+What is the estimated cost for developing and deploying the Aegis missile defense system?,MONEY
+How much funding was cut from the European Union's military spending as a result of economic crises in 2010-2015?,MONEY
+What was the total budget allocated to NATO operations in Afghanistan during the coalition combat mission period (2001-2014)?,MONEY
+How much did France spend on its defense budget in fiscal year 2023?,MONEY
+What is the estimated cost of maintaining nuclear weapons for the U.S. over a decade from 2018 to 2027?,MONEY
+How much did Russia reportedly invest in developing and deploying its S-400 Triumf air defense system?,MONEY
+What was the financial impact on Yemen's economy due to the ongoing conflict as of 2021?,MONEY
+How much did India spend on its military budget in fiscal year 2023?,MONEY
+What is the estimated cost for developing and deploying the Patriot missile defense system?,MONEY
+Which Norps were involved in the Battle of Hastings?,NORP
+How did the Zulu Nation participate in military conflicts during colonial times?,NORP
+What role did the Samurai play in Japanese military conflicts?,NORP
+In which military conflict did the Maori resist European invasion?,NORP
+Can you name a military conflict where the Hmong were involved as a resistance group?,NORP
+How did the Apache engage in military conflicts against Spanish colonization?,NORP
+Which military conflicts saw the involvement of the Cheyenne tribe?,NORP
+What is the significance of the Boer Wars for the Afrikaners?,NORP
+In which battles were the Vikings known to have fought during their raids and conquests?,NORP
+How did the Iroquois Confederacy participate in European colonial conflicts in North America?,NORP
+Which military conflict marked a significant struggle for the Sioux tribe?,NORP
+What role did the Gurkhas play in British military campaigns?,NORP
+During which military conflict was the Irish Republican Army formed as a resistance force against British rule?,NORP
+How were the Zapatistas involved in Mexican revolutionary conflicts?,NORP
+Which military conflict is associated with the resistance of the Māori people against New Zealand colonization?,NORP
+What military conflicts did the Tutsi and Hutu groups engage in within Rwanda's history?,NORP
+Can you describe a military conflict where the Pathans (Pashtuns) played a significant role as fighters or rebels?,NORP
+How did the Jewish partisans contribute to World War II resistance movements?,NORP
+What was the involvement of the Hmong people in the Vietnam War as allies of the United States?,NORP
+Which military conflict saw the participation of the Tuareg as insurgents or rebels within West Africa's history?,NORP
+What was the first major battle of World War I?,ORDINAL
+Which battle marked the third significant naval engagement during the Spanish-American War?,ORDINAL
+In what year did the second world war officially end?,ORDINAL
+How many days into the conflict was the fourth air raid conducted in the Gulf War?,ORDINAL
+During the Vietnam War, how many years passed before the North Vietnamese launched their famous Tet Offensive as the second major campaign of that scale?,ORDINAL
+What was the name of the operation during the fifth day of the Battle of Stalingrad?,ORDINAL
+Which battle is considered the third turning point in the Pacific theater of World War II?,ORDINAL
+In the context of the American Civil War, which engagement is recognized as the second bloodiest after Gettysburg?,ORDINAL
+During the Falklands War, what was the date of the third major naval battle?,ORDINAL
+What significant event happened on the sixth day of the Six-Day War?,ORDINAL
+Which conflict marked the first use of nuclear weapons in warfare?,ORDINAL
+In the series of battles during the Korean War, which one is noted as the fourth largest infantry vs. infantry engagement?,ORDINAL
+How many months after the beginning of the Arab-Israeli War did the third phase commence?,ORDINAL
+What was the second major offensive launched by NATO forces during the Kosovo War?,ORDINAL
+In the chronological order of battles in the Crimean War, which one is recognized as the fourth critical battle?,ORDINAL
+During World War II, what operation marked the Allies' fifth significant amphibious assault on continental Europe after D-Day?,ORDINAL
+Which was the third major naval battle fought between Japan and the United States during the Pacific campaign of World War II?,ORDINAL
+In the timeline of conflicts in Afghanistan since 2001, how many years passed before the second major offensive by NATO forces occurred against the Taliban?,ORDINAL
+What significant military action took place on the seventh day of the Israel-Lebanon conflict in 2006 known as the Second Lebanon War?,ORDINAL
+Which battle is considered the first large-scale engagement between the Union and Confederate armies during the American Civil War?,ORDINAL
+What was the role of NATO during the Kosovo War?,ORG
+Which organization led the coalition forces in the Gulf War?,ORG
+How did the United Nations respond to the Korean War?,ORG
+In which military conflict did the Red Army play a significant role?,ORG
+Who were the main military organizations involved in World War II?,ORG
+What was the primary function of the Axis powers during WWII?,ORG
+Which alliance was formed as a response to the threat posed by Nazi Germany before WWII?,ORG
+How did the League of Nations react to the outbreak of World War I?,ORG
+What role did the Viet Minh play in the First Indochina War?,ORG
+Who were the key military organizations involved in the Vietnam War?,ORG
+Which organization provided peacekeeping forces during the Rwandan Civil War?,ORG
+What was the purpose of Operation Desert Storm, led by a coalition force?,ORG
+In what way did the Soviet Union contribute to conflicts in Afghanistan?,ORG
+How significant was the role of the Warsaw Pact during the Cold War era?,ORG
+Who were the main combatants in the Six-Day War involving the Arab League?,ORG
+What was the United States' military organization called that fought in the Korean War?,ORG
+Which group led the resistance against British colonial rule in India's struggle for independence?,ORG
+How did the African Union get involved in the Darfur conflict?,ORG
+In which historical conflict was the Irgun, a Zionist paramilitary organization, involved?,ORG
+What role did the Organisation of African Unity play during conflicts in Africa?,ORG
+What percentage of troops were injured in the conflict between Country A and Country B?,PERCENT
+By what percent did military spending increase from 2019 to 2020 during the ongoing conflict in Region X?,PERCENT
+In the latest military report, what is the reported casualty rate for soldiers involved in the conflict?,PERCENT
+How much of the total budget was allocated towards humanitarian aid in terms of percentage during a specific military conflict?,PERCENT
+What percent of the population in Country Z fled as refugees due to a recent military conflict?,PERCENT
+During Operation Alpha, what percentage of the planned objectives were achieved according to official reports?,PERCENT
+How many soldiers, expressed as a percentage of the total force, deserted during the Battle of X?,PERCENT
+In the aftermath of War Y, by what percent did the unemployment rate among veterans increase compared to pre-war levels?,PERCENT
+What is the estimated percentage of child soldiers involved in the conflict in Region W?,PERCENT
+By what percentage were civilian casualties lower this year compared to last year during a prolonged military engagement?,PERCENT
+How much, as a percentage, did the approval rating for military action drop among civilians following reports of war crimes?,PERCENT
+What percent of the landmines deployed by both sides in Conflict M have been successfully cleared to date?,PERCENT
+In terms of percentage, how much did food prices increase due to supply chain disruptions caused by recent warfare?,PERCENT
+How many military-age males are estimated to be missing as a result of War N, expressed as a percentage of the population?,PERCENT
+What percent of media coverage on Military Conflict O was found to be biased in favor of one side over another according to an independent study?,PERCENT
+By what percent did the refugee return rate increase this year compared to last year following a ceasefire agreement in Region P?,PERCENT
+How much, as a percentage of GDP, is spent by Country Q on its military after declaring war on Country R?,PERCENT
+What percentage of the population in War-Torn City S is living below the poverty line due to the ongoing conflict?,PERCENT
+In terms of percentage, how many soldiers from the peacekeeping force have been deployed to Conflict Zone T since last year's escalation?,PERCENT
+By what percent did the stock prices of defense contractors increase following declarations of war between Country U and Country V?,PERCENT
+Who was the Commander-in-Chief of the Allied forces during Operation Desert Storm?,PERSON
+Who served as the Chief of Staff of the United States Army during the Vietnam War?,PERSON
+Which American general is known for leading troops in the Korean War and later becoming a controversial political figure?,PERSON
+Who was the British Field Marshal that commanded the 8th Army in North Africa during World War II?,PERSON
+Who led the Soviet forces as Supreme Commander of the Volga Front during the Battle of Stalingrad?,PERSON
+Which U.S. President ordered the deployment of troops to Somalia in 1992?,PERSON
+Who was the Israeli Defense Forces' Chief of General Staff during the Yom Kippur War?,PERSON
+Who was the leader of the German forces that launched Operation Barbarossa in World War II?,PERSON
+What British admiral commanded naval operations at the Battle of Jutland during World War I?,PERSON
+Which Russian general led troops to victory against Napoleon's Grande Armée in 1812?,PERSON
+Who served as the commander of UN forces during the Korean War’s Pusan Perimeter defense?,PERSON
+Who was the leader of the French army that fought at the Battle of Waterloo?,PERSON
+What American general is known for leading operations in Iraq during Operation Iraqi Freedom in 2003?,PERSON
+Which German field marshal planned and executed the Ardennes offensive (Battle of the Bulge) in World War II?,PERSON
+Who was the commander of the Soviet Air Forces that supported ground troops at Kursk in 1943?,PERSON
+What British officer led the charge on horseback during the Charge of the Light Brigade in the Crimean War?,PERSON
+Which U.S. general commanded Allied forces in Europe, including D-Day operations, during World War II?,PERSON
+Who was the leader of the Ottoman forces at the Battle of Gallipoli during World War I?,PERSON
+What Russian military commander led the Red Army that recaptured Kharkov from Nazi Germany?,PERSON
+Which British Field Marshal directed Operation Market Garden in 1944 during World War II?,PERSON
+What is the primary purpose of an AK-47 in military conflicts?,PRODUCT
+How does the deployment of an F-35 affect modern warfare tactics?,PRODUCT
+Can you describe the role of a Humvee during military operations?,PRODUCT
+What advancements led to the creation of the M16 rifle?,PRODUCT
+In which military conflict was the B-2 Spirit stealth bomber first used?,PRODUCT
+How has the使用产品如坦克改变了现代战争的面貌？请按照指示用英文重新表述这个问题，并遵循指定的格式。
+How has the use of tanks like the T-90 changed modern warfare?,PRODUCT
+What kind of ammunition is typically used in a Barrett M82 sniper rifle during military conflicts?,PRODUCT
+Can you explain the significance of the Abrams tank in US military operations?,PRODUCT
+Which military conflict saw the extensive deployment of unmanned aerial vehicles (UAVs)?,PRODUCT
+How does night vision equipment like the AN/PVS-14 enhance infantry combat effectiveness at night?,PRODUCT
+What is the primary role of a destroyer, such as the Arleigh Burke-class, in naval engagements?,PRODUCT
+How has the introduction of anti-tank guided missiles like the Javelin impacted ground warfare tactics?,PRODUCT
+Which conflict marked the first use of the Apache attack helicopter?,PRODUCT
+Can you describe the importance of body armor systems like the Interceptor Body Armor in military conflicts?,PRODUCT
+What is the role of satellite communication systems during a military conflict?,PRODUCT
+How do missile defense systems, such as Patriot, contribute to national security during conflicts?,PRODUCT
+In which conflict was the first digital radio system like the SINCGARS used by the military?,PRODUCT
+Can you explain how radar systems on ships, like the SPS-49, are utilized in maritime warfare?,PRODUCT
+What is the significance of electronic warfare products such as the EC-130H Compass Call in modern conflicts?,PRODUCT
+How does the use of artillery systems like the M777 Lightweight 155mm howitzer influence military operations on the battlefield?,PRODUCT
+How many countries were involved in World War I?,QUANTITY
+What was the approximate number of casualties in the Battle of Stalingrad?,QUANTITY
+How many aircraft carriers does the United States Navy currently have active in its fleet?,QUANTITY
+During the Vietnam War, approximately how many American soldiers lost their lives?,QUANTITY
+In the Iraq War, what is the estimated number of Iraqi civilian deaths by 2014?,QUANTITY
+What was the total number of battleships used by Japan during World War II?,QUANTITY
+How many nuclear weapons were detonated during the Cold War arms race at its peak?,QUANTITY
+Approximately how many soldiers fought on the Allied side in the Battle of Midway?,QUANTITY
+What is the estimated number of troops involved in the Korean War on both sides combined?,QUANTITY
+In the Falklands War, how many British naval vessels were lost?,QUANTITY
+How many peacekeepers are typically deployed to conflict zones under UN missions at any given time?,QUANTITY
+During Operation Desert Storm, about how many coalition forces participated in the Gulf War?,QUANTITY
+What is the approximate number of landmines laid during World War II across Europe and Asia combined?,QUANTITY
+In the Crimean War (1853-1856), what was the total number of British soldiers who died from disease rather than combat injuries?,QUANTITY
+How many tanks were lost by German forces in the Battle of Kursk?,QUANTITY
+What is the estimated quantity of ammunition expended during the D-Day landings on June 6, 1944?,QUANTITY
+Approximately how many aircraft did the Luftwaffe lose during the Battle of Britain compared to the RAF losses?,QUANTITY
+How many V-2 rockets were launched by Nazi Germany towards Allied cities during World War II?,QUANTITY
+What was the approximate number of naval mines laid in the waters around Japan during WWII by Allied forces?,QUANTITY
+In the Gulf War (1990-1991), how many Scud missiles did Iraq fire at Israel and Saudi Arabia combined?,QUANTITY
+When did World War I officially begin?,TIME
+What year was the Battle of Waterloo fought in?,TIME
+In which month and year did D-Day occur during World War II?,TIME
+When was the Korean War declared over with the signing of the armistice?,TIME
+What is the exact date when the Vietnam War ended?,TIME
+During what time period did the Cold War exist?,TIME
+When did the Gulf War start according to the United Nations Resolution 678?,TIME
+In what year did the Falklands War take place?,TIME
+What was the starting date of the Iraq War in 2003?,TIME
+When was the Tet Offensive launched during the Vietnam War?,TIME
+Which year saw the beginning of the Rwandan Genocide?,TIME
+When were the NATO bombings against Yugoslavia initiated in Kosovo Conflict?,TIME
+In what month and year did the Syrian Civil War officially begin?,TIME
+What is the date considered as the start of the Six-Day War between Israel and its neighboring countries?,TIME
+During which time frame did the American Revolutionary War occur?,TIME
+When was the Battle of Stalingrad, a major turning point in World War II, fought?,TIME
+In what year was Operation Desert Storm launched during the Gulf War?,TIME
+What is the date of the fall of Berlin in 1945 that marked the end of World War II in Europe?,TIME
+When did the first Gulf War officially come to an end with a cease-fire?,TIME
+Which month and year did the Battle of Gettysburg, a pivotal point in the American Civil War, occur?,TIME
+What is the name of the painting that depicts the Battle of Waterloo?,WORK_OF_ART
+Which famous engraving by Goya shows the horrors of war in The Disasters of War series?,WORK_OF_ART
+Can you identify a sculpture that commemorates the Vietnam War veterans?,WORK_OF_ART
+Who painted "Guernica," a powerful anti-war statement after the bombing during the Spanish Civil War?,WORK_OF_ART
+What lithograph series by Otto Dix captures the brutal realities of World War I?,WORK_OF_ART
+Which famous photograph from the Vietnam War shows a naked girl running away from a napalm attack?,WORK_OF_ART
+Name a film that portrays the American experience in the Korean War?,WORK_OF_ART
+Who created "The Burial of the Dead," a painting series about the Franco-Prussian War?,WORK_OF_ART
+What documentary is known for its raw depiction of World War II battles?,WORK_OF_ART
+Can you name an installation art piece that deals with themes from modern warfare?,WORK_OF_ART
+Which novel provides insights into the psychological effects of military conflict on soldiers?,WORK_OF_ART
+Name a war poem that vividly describes the trenches of World War I.,WORK_OF_ART
+What comic book series explores themes of heroism and trauma in the context of military service?,WORK_OF_ART
+Who composed "The Rite of Spring," which is often associated with scenes from World War I?,WORK_OF_ART
+Which song became an anthem for soldiers returning home after World War II?,WORK_OF_ART
+Name a play that delves into the complexities of war through its characters' dialogues and actions?,WORK_OF_ART
+What film explores the impact of military conflict on civilians in Iraq?,WORK_OF_ART
+Can you identify a piece of music composed to honor fallen soldiers from the Civil War?,WORK_OF_ART
+Which novel is set against the backdrop of the Napoleonic Wars and focuses on the life of a British naval officer?,WORK_OF_ART
+Who wrote "For Whom the Bell Tolls," a novel about the Spanish Civil War?,WORK_OF_ART
+What was the primary cause of World War I?,EVENT
+How many countries were involved in the Vietnam War?,CARDINAL
+Which conflict marked the beginning of the Cold War?,EVENT
+Where did the Battle of Stalingrad take place?,LOC
+When did the Korean War officially end with an armistice?,DATE
+What was the duration of the Hundred Years' War?,TIME
+How much did World War II cost in terms of global economic loss?,MONEY
+Which alliance faced off against NATO during the Cold War?,NORP
+Who was the commander-in-chief of the Allied forces in Europe during WWII?,PERSON
+Where is the DMZ located between North and South Korea?,FAC
+What language were most official documents written in during the Napoleonic Wars?,LANGUAGE
+How many atomic bombs were dropped on Japan by the US in World War II?,CARDINAL
+Which naval battle decisively turned the tide against Nazi Germany's control of the Atlantic during WWII?,EVENT
+When did Operation Barbarossa commence?,DATE
+What was the total number of deaths attributed to the Thirty Years' War?,QUANTITY
+Where is the site of the Battle of Waterloo located today?,LOC
+How many soldiers were involved in D-Day landings on June 6, 1944?,CARDINAL
+Which treaty formally ended hostilities between North Korea and South Korea after the Korean War?,LAW
+What was the average age of a US soldier serving in Vietnam during the conflict?,ORDINAL
+Who wrote "The Art of War", an influential book that has shaped military strategy for centuries?,PERSON

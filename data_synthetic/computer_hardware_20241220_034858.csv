@@ -1,0 +1,372 @@
+Question,Entity-Type
+What is the typical number of pins on a DDR4 SDRAM module?,CARDINAL
+How many cores does an AMD Ryzen 9 processor usually have?,CARDINAL
+In a standard QWERTY keyboard layout for computers, how many keys are there in total?,CARDINAL
+What is the maximum number of USB devices that can be connected to a single host controller without hubs?,CARDINAL
+How many bits does a PCIe Gen4 x16 slot transfer at once per direction?,CARDINAL
+A standard SATA cable used in hard drives and SSDs typically has how many pins?,CARDINAL
+What is the default width in bits of the internal bus on an Intel Core i7 processor?,CARDINAL
+In terms of speed, what is the highest transfer rate in Gbit/s for PCIe Gen3 lanes?,CARDINAL
+How many watts is a typical 80 Plus Bronze certified power supply rated at?,CARDINAL
+What is the maximum capacity in GB for a single DDR4 RAM module according to JEDEC standards?,CARDINAL
+How many layers does a standard PCB used in motherboards usually have?,CARDINAL
+A typical modern laptop SSD can reach up to how many MB/s read speeds?,CARDINAL
+What is the default clock speed in MHz of a USB 3.0 port?,CARDINAL
+In graphics cards, what is the highest number of CUDA cores found on an NVIDIA GeForce RTX 3080 as of its release year?,CARDINAL
+How many pins are there on a standard ATX power supply connector (24-pin)?,CARDINAL
+What is the maximum resolution in pixels supported by HDMI 2.1 for 120Hz refresh rate displays?,CARDINAL
+A typical high-end gaming mouse can have a DPI sensitivity up to how many dots per inch?,CARDINAL
+How many USB ports are typically found on a standard ATX motherboard as of 2023?,CARDINAL
+What is the default voltage in volts for an Intel CPU's Vcore when running under load?,CARDINAL
+A typical modern NVMe SSD can reach up to how many GB/s read speeds on PCIe Gen4 lanes?,CARDINAL
+When was the first hard disk drive (HDD) invented?,DATE
+What year did Intel release the 4004 microprocessor?,DATE
+In which year was the floppy disk introduced by IBM?,DATE
+Can you tell me the date when Apple released its first Macintosh computer?,DATE
+When did Microsoft introduce the first version of Windows OS with a graphical user interface?,DATE
+Which year saw the introduction of USB (Universal Serial Bus)?,DATE
+What is the launch date for the first solid-state drive (SSD) for personal computers?,DATE
+Can you provide the release date of the Intel Core i7 processor series?,DATE
+When was the first widely-used mouse patented by Douglas Engelbart?,DATE
+On what date did AMD introduce its first 64-bit processor architecture, Opteron?,DATE
+What year marked the introduction of the world's first commercial computer, UNIVAC I?,DATE
+In which year did IBM introduce the PC/AT, featuring the Intel 80286 CPU?,DATE
+Can you tell me when the first Pentium processor was released by Intel?,DATE
+When was the Ethernet network technology patented and introduced to the public?,DATE
+What is the release date for the first version of USB flash drives?,DATE
+On what date did IBM announce its System/360, a mainframe computer system that revolutionized computing?,DATE
+Which year saw the creation of PCI (Peripheral Component Interconnect)?,DATE
+Can you name the year when the first commercial webcam was created at Cambridge University?,DATE
+What is the release date for Intel's first dual-core processor?,DATE
+When did Apple unveil the Mac Pro with an Intel Xeon W processor?,DATE
+What was the release event for the first Intel Core i7 processor?,EVENT
+When did AMD announce the launch of their Ryzen processors?,EVENT
+Which event marked the introduction of IBM's first PC in 1981?,EVENT
+What significant hardware event led to the widespread adoption of USB ports?,EVENT
+Can you name the event where Apple unveiled the Mac Pro for the first time?,EVENT
+During which event did Intel announce the discontinuation of their HD Graphics branding?,EVENT
+Which major event showcased the debut of NVIDIA's GeForce GTX 1080 graphics card?,EVENT
+What event is associated with Microsoft's launch of the Surface Book laptop?,EVENT
+At what event was Samsung first introduced as a leading manufacturer in SSD technology?,EVENT
+Can you identify the event that marked AMD's shift towards Zen architecture CPUs?,EVENT
+Which consumer electronics event featured Intel's introduction of their 10th Gen processors?,EVENT
+What notable event saw Nvidia reveal their RTX series graphics cards to the public?,EVENT
+When did Dell hold its global press conference for launching new Alienware gaming PCs?,EVENT
+At which event did HP announce the creation of their Spectre x360 line of laptops?,EVENT
+Which significant industry event marked the launch of ASUS' ROG Mothership gaming laptop?,EVENT
+What was the first event where Corsair introduced their new generation of high-speed RAM modules?,EVENT
+Can you pinpoint the event that led to the public unveiling of MSI's Creator Z17 series laptops?,EVENT
+When did Kingston Technologies use an industry event to showcase their latest DDR5 memory solutions?,EVENT
+Which hardware launch event was pivotal for showcasing the capabilities of Gigabyte's AORUS graphics cards?,EVENT
+At what major tech event was Western Digital's innovative data storage solution publicly unveiled?,EVENT
+What is the primary function of a CPU in computer hardware?,FAC
+How does RAM contribute to the performance of a computer system?,FAC
+Can you explain what a GPU is and its importance in computer systems?,FAC
+Describe the role of motherboard in connecting different components of a PC.,FAC
+What is the purpose of a power supply unit (PSU) in a desktop computer?,FAC
+How does an SSD compare to an HDD in terms of data access speed?,FAC
+Explain the function of a cooling fan in maintaining optimal operating temperatures for hardware.,FAC
+What role do expansion cards play in enhancing computer functionality?,FAC
+Can you discuss the importance of BIOS or UEFI firmware in booting up a computer system?,FAC
+How does the type and quality of cables affect data transfer between hardware components?,FAC
+What is the significance of the form factor when selecting a case for your computer build?,FAC
+Explain the difference between active and passive cooling systems used in CPUs.,FAC
+Describe how USB ports facilitate connectivity between computers and external devices.,FAC
+Can you elaborate on the function of a network interface card (NIC) within a computer system?,FAC
+What is the impact of using different types of RAM, such as DDR3 or DDR4, on system performance?,FAC
+How do solid-state drives improve overall system speed and responsiveness compared to traditional hard drives?,FAC
+Explain the importance of bus architecture in enabling communication between hardware components.,FAC
+Can you describe how a graphics card (GPU) enhances multimedia and gaming experiences on computers?,FAC
+What is the role of a sound card in providing audio output from a computer system?,FAC
+How do wireless adapters integrate into a computer to enable Wi-Fi connectivity?,FAC
+What role does China play in the manufacturing of computer hardware components?,GPE
+How has Japan's semiconductor industry influenced global computer hardware production?,GPE
+In what ways has Taiwan become a critical player in supplying DRAM for computers worldwide?,GPE
+What impact has South Korea had on the advancement and production of SSD drives for computers?,GPE
+How does Germany contribute to the development of precision components used in assembling computer systems?,GPE
+Which European Union policies affect the environmental standards of disposing e-waste from computers?,GPE
+In which ways has India's IT sector grown through the manufacturing of computer hardware?,GPE
+What are some challenges faced by the United States in maintaining its lead in high-performance computing hardware?,GPE
+How does Singapore attract investments for research and development in new computing technologies?,GPE
+Has Russia ever been involved in the production or distribution of any significant computer hardware components?,GPE
+What role has Malaysia played in assembling motherboards for global computer manufacturers?,GPE
+Which ASEAN countries are leading in the export of semiconductor chips used in computers?,GPE
+How have environmental regulations in China impacted the manufacturing processes of computer hardware?,GPE
+In what way does Ireland support multinational tech companies setting up operations focused on hardware production?,GPE
+What influence does Israel's technology sector have on developing innovative computing components and devices?,GPE
+How has the United Kingdom's exit from the EU affected its computer hardware industry supply chains?,GPE
+Can you discuss the role of Vietnam in assembling lower-cost personal computers for global markets?,GPE
+Which African countries are emerging as locations for manufacturing computer hardware due to lower labor costs?,GPE
+What impact have sanctions on Iran had on their ability to develop and manufacture computer hardware internally?,GPE
+How does the government of Canada support its tech industry's efforts in the development of quantum computing technologies?,GPE
+What language is commonly used for writing BIOS firmware?,LANGUAGE
+How do you describe the assembly language in terms of computer hardware programming?,LANGUAGE
+Can you explain what scripting languages are used to manage hardware configurations on a Linux system?,LANGUAGE
+Which high-level programming language is essential for developing device drivers?,LANGUAGE
+In the context of hardware diagnostics, which language would be most appropriate for creating custom scripts?,LANGUAGE
+What role does C++ play in the development of hardware-oriented applications?,LANGUAGE
+How is Python utilized to interact with computer hardware components like GPIOs on a Raspberry Pi?,LANGUAGE
+Which language is more suitable for low-level hardware manipulation: Assembly or JavaScript?,LANGUAGE
+Can you write a program in SQL to directly control any aspect of computer hardware?,LANGUAGE
+What are the benefits of using Java over C when programming for embedded systems hardware?,LANGUAGE
+How does the use of Perl contribute to automating tasks involving hardware monitoring?,LANGUAGE
+In the context of creating a custom operating system, which language offers more direct access to hardware: Ruby or Rust?,LANGUAGE
+Which scripting language is most commonly used in shell scripts for interfacing with hardware on Unix-like systems?,LANGUAGE
+What are the limitations of using PHP when it comes to programming directly connected hardware devices?,LANGUAGE
+Can you develop a hardware abstraction layer using Go, and if so, what advantages does it offer over C#?,LANGUAGE
+How effective is MATLAB as a language for controlling and analyzing data from hardware sensors in real-time applications?,LANGUAGE
+Which language provides more efficient memory management when working with limited hardware resources: Swift or Dart?,LANGUAGE
+What is the role of TypeScript in developing web-based interfaces that interact with computer hardware through APIs?,LANGUAGE
+Can you discuss the use of Lua as a scripting language for embedded systems where hardware control is critical?,LANGUAGE
+How does the choice between R and Julia affect data processing tasks when interfacing with hardware like GPUs or TPUs?,LANGUAGE
+What are the legal regulations that govern the disposal of electronic waste in the United States?,LAW
+How does international law address the exportation and importation of second-hand computer hardware?,LAW
+Under what laws is it mandated to label electronic products with their energy efficiency ratings?,LAW
+Which legislation requires manufacturers to provide repair services for computer hardware within a certain period after purchase?,LAW
+What are the legal implications of reverse engineering hardware firmware under copyright law?,LAW
+How do data protection laws impact the design and manufacturing standards of hard drives and SSDs?,LAW
+Are there specific laws that mandate the recyclability of computer components by manufacturers?,LAW
+What compliance measures must be adhered to when manufacturing computer hardware for sale in Europe according to EU directives?,LAW
+Under which law is it necessary to test computer hardware for electromagnetic compatibility before selling in certain regions?,LAW
+Which legal frameworks enforce the reduction of hazardous substances used in electronic equipment under RoHS regulations?,LAW
+How does patent law protect new technological advancements in computer hardware design?,LAW
+What are the jurisdictional laws that regulate the cross-border shipment of sensitive computer components like CPUs and GPUs?,LAW
+Can privacy laws influence the standards for data encryption embedded within hardware chips?,LAW
+Which legal requirements dictate the inclusion of cooling systems to prevent overheating issues in personal computers sold commercially?,LAW
+How does consumer protection law affect warranty periods offered on computer hardware purchases?,LAW
+What are the cybersecurity laws that require hardware manufacturers to include specific security features?,LAW
+Under which legislative acts is it required for companies to report data breaches potentially caused by hardware vulnerabilities?,LAW
+Which legal guidelines ensure the accessibility of computer hardware for individuals with disabilities through design standards?,LAW
+How do anti-discrimination laws impact the diversity and inclusion policies within hardware manufacturing firms?,LAW
+What are the tax laws regarding the depreciation of computer hardware assets in business financial statements?,LAW
+What is the location of the largest computer hardware manufacturing facility in the United States?,LOC
+Where are most of the world's semiconductor chips manufactured?,LOC
+Which city hosts the headquarters for Intel Corporation?,LOC
+In which country is the main research and development center for AMD located?,LOC
+Where does the majority of Apple's Mac computer assembly take place?,LOC
+What city serves as home to Nvidia’s corporate headquarters?,LOC
+Can you name a major hub for computer hardware innovation in Europe?,LOC
+Which Asian city is known for its significant contribution to global computer hardware supply chains?,LOC
+What region is renowned for producing high-performance computing components?,LOC
+Where is the primary manufacturing site of Dell Technologies located?,LOC
+In which country does Lenovo have its main assembly plant for personal computers?,LOC
+What location hosts one of the largest international computer hardware trade shows?,LOC
+Which American state is home to a significant number of tech giants involved in computer hardware production?,LOC
+Where can you find some of the world's leading research institutions focused on advancing computer hardware technologies?,LOC
+What city is considered a leader in developing and exporting server hardware internationally?,LOC
+Can you identify a specific geographic area that specializes in producing motherboards for personal computers?,LOC
+Which country houses multiple data centers critical to global cloud computing services?,LOC
+Where do many of the world’s leading tech companies choose to set up their R&D facilities for computer hardware?,LOC
+What region is known for its significant role in the development and production of solid-state drives (SSDs)?,LOC
+In which location would you find a large number of companies dedicated to producing high-end graphics cards?,LOC
+What is the average cost of upgrading a laptop's RAM to 16GB?,MONEY
+How much does it typically cost to replace a motherboard in a desktop PC?,MONEY
+What is the price range for a high-end graphics card used in gaming computers?,MONEY
+How much would you expect to pay for a new solid-state drive with 1TB storage capacity?,MONEY
+What's the average expense for installing water cooling systems in custom-built PCs?,MONEY
+Can you estimate the cost of purchasing a quality power supply unit (PSU) rated at 750W?,MONEY
+How much more expensive is a liquid-crystal display monitor compared to an older cathode-ray tube model with similar specifications?,MONEY
+What would be the price difference between a basic and a high-performance CPU for gaming purposes?,MONEY
+On average, how much does it cost to repair a broken laptop screen?,MONEY
+How much should one budget for purchasing a reliable wireless mouse and keyboard set for computer use?,MONEY
+What's the typical amount you would pay for an external hard drive with 4TB storage capacity?,MONEY
+How expensive is it to upgrade the cooling system of a high-end gaming PC from air cooling to liquid cooling?,MONEY
+What is the cost implication of choosing an SSD over a HDD when building a new computer?,MONEY
+Can you provide an estimate for replacing all the RAM in a workstation with 64GB modules?,MONEY
+How much does it usually cost to install additional fans and improve airflow in a gaming PC case?,MONEY
+What is the average price of a mid-range graphics card suitable for casual gaming?,MONEY
+How expensive is the process of custom engraving on a computer case or component like a CPU cooler?,MONEY
+What would be the total cost of purchasing a new desktop motherboard and installing it yourself, including any potential labor fees?,MONEY
+If you were to replace the optical drive in your PC with an SSD, what's the expected cost for just the hardware components?,MONEY
+How much does it generally cost to have a technician repair or fix a faulty computer power supply unit (PSU)?,MONEY
+What are some notable contributions of American engineers to the development of computer hardware?,NORP
+How has Chinese innovation impacted modern computer hardware technology?,NORP
+In what ways have British researchers influenced the design and production of computer components?,NORP
+Which Indian companies are leading in the manufacturing of computer hardware parts?,NORP
+What role do Canadian firms play in the advancement of computer hardware technology?,NORP
+How significant is Japanese influence on the development of computer hardware specifications?,NORP
+Can you name some German contributions to the field of computer hardware engineering?,NORP
+Which South Korean companies are at the forefront of developing new computer hardware technologies?,NORP
+What are the key contributions of Taiwanese manufacturers to the global computer hardware market?,NORP
+How have Russian scientists contributed to the innovation in computer hardware design?,NORP
+What impact have French technology firms had on the evolution of computer hardware?,NORP
+In what ways have Dutch engineers influenced modern computer hardware components?,NORP
+Which Italian companies are known for their contributions to computer hardware technology?,NORP
+How significant is Mexican influence in the production and innovation of computer hardware?,NORP
+What role do Brazilian firms play in developing cutting-edge computer hardware solutions?,NORP
+Can you name some Spanish contributions to advancements in computer hardware engineering?,NORP
+Which Israeli companies are leading innovators in computer hardware technology?,NORP
+How have Turkish manufacturers contributed to the diversity of computer hardware offerings?,NORP
+What impact have Swedish technology firms had on the efficiency and sustainability of computer hardware components?,NORP
+In what ways do Finnish engineers contribute to global advancements in computer hardware design and manufacturing?,NORP
+What is the 1st component of a computer that acts like the brain controlling all operations?,ORDINAL
+Which storage device would be considered the 2nd most important for data retention in a computer system?,ORDINAL
+How does the 3rd generation of processor technology differ from its predecessors in terms of performance and energy efficiency?,ORDINAL
+What role does the 4th component in a computer’s architecture play in enhancing user experience through audio and visual feedback?,ORDINAL
+In the hierarchy of computer hardware components, which part is recognized as the 5th most critical for system stability?,ORDINAL
+Can you explain how the 6th sense technology is integrated into modern computer hardware to enhance interaction methods?,ORDINAL
+What advancements have been made in the 7th version of USB connectors compared to earlier versions?,ORDINAL
+Which innovation marked the 8th leap forward in terms of memory storage capacity and speed for computers?,ORDINAL
+How has the 9th iteration of solid-state drive technology improved upon its predecessors in terms of read/write speeds?,ORDINAL
+What new feature was introduced with the 10th generation of Intel processors that significantly boosted performance in gaming applications?,ORDINAL
+Which component saw significant improvements as part of the 11th major update to computer hardware standards, making computers more energy efficient?,ORDINAL
+How did the 12th milestone in hard drive technology impact data security measures within computers?,ORDINAL
+What was a key change introduced with the 13th revision to Wi-Fi standards that improved connectivity for computer hardware?,ORDINAL
+Can you describe how the 14th generation of graphics cards has influenced the development of virtual reality environments in computing systems?,ORDINAL
+Which significant update was part of the 15th generation of laptop design principles, particularly impacting battery life and portability?,ORDINAL
+What new technology is highlighted as a key feature in the 16th version of Thunderbolt ports, enhancing data transfer rates for peripheral devices?,ORDINAL
+How has the 17th iteration of SSDs impacted the performance of modern computer systems by reducing latency times?,ORDINAL
+Which recent advancement marks the 18th improvement in computer hardware cooling solutions to increase efficiency and longevity of components?,ORDINAL
+What innovative feature was introduced with the 19th generation of RAM modules, enhancing multitasking capabilities on computers?,ORDINAL
+How did the 20th milestone in touchscreen technology influence user interaction with all-in-one desktop computers?,ORDINAL
+What is the primary role of Intel in the development of computer hardware?,ORG
+How has IBM contributed to advancements in computer hardware technology over the years?,ORG
+Which specific contributions did AMD make towards improving computer hardware performance?,ORG
+In what ways has Dell influenced the design and manufacturing process of computer hardware components?,ORG
+Can you explain HP's innovation in creating energy-efficient computer hardware solutions?,ORG
+What role does Lenovo play in integrating various computer hardware components for seamless user experience?,ORG
+How does ASUS contribute to enhancing the reliability and durability of computer hardware?,ORG
+Which company, MSI, has significantly impacted the market with its high-performance graphics cards?,ORG
+What advancements has NVIDIA made in the field of GPU technology for computer hardware?,ORG
+In what ways has Apple Inc. revolutionized the design and functionality of computer hardware?,ORG
+How has Razer's expertise influenced the gaming-focused aspects of computer hardware?,ORG
+Can you discuss the impact of Cooler Master on cooling solutions within computer hardware?,ORG
+What is Gigabyte's contribution to motherboard technology in the context of computer hardware?,ORG
+In what way does Corsair play a significant role in memory and storage solutions for computer hardware?,ORG
+How has Western Digital shaped the landscape of storage devices used in modern computer hardware?,ORG
+What innovations has Kingston Technology brought to the table regarding memory modules in computer hardware?,ORG
+Which company, Cooler Master, stands out in creating effective cooling systems for overclocking purposes in computer hardware?,ORG
+In what manner does Logitech contribute towards enhancing peripheral components used in computer hardware setups?,ORG
+How does Thermaltake influence the development of innovative cases and cooling solutions for computer hardware?,ORG
+What unique features has EVGA introduced to improve graphics card performance within the realm of computer hardware?,ORG
+What percentage of a computer's total cost is typically allocated for the CPU?,PERCENT
+By what percentage has the size of SSD drives decreased over the past five years?,PERCENT
+How much percent increase in processing speed does upgrading from DDR3 to DDR4 RAM provide?,PERCENT
+Approximately, by what percentage can overclocking a GPU increase its performance?,PERCENT
+What is the average percentage of heat dissipated by a high-performance CPU cooler compared to the total heat generated by the CPU?,PERCENT
+By what percent does the power consumption drop when switching from an HDD to an SSD?,PERCENT
+How much percent of a computer's operational noise can be attributed to its cooling fans on average?,PERCENT
+What percentage increase in storage capacity can you expect when moving from 1080p resolution monitors to 4K resolution monitors for the same screen size?,PERCENT
+On average, what percentage of a typical desktop PC's components cost is spent on RAM modules?,PERCENT
+By what percentage does the lifespan of an SSD decrease with each full write cycle compared to its initial state?,PERCENT
+What percent faster are NVMe SSDs than SATA III SSDs in terms of data read/write speeds?,PERCENT
+How much percent more power-efficient are modern CPUs compared to those from a decade ago at similar performance levels?,PERCENT
+On average, what percentage of a computer's total weight is made up by the motherboard and its attached components like CPU and RAM?,PERCENT
+What is the typical increase in battery life percentage when upgrading from an HDD to an SSD in laptops?,PERCENT
+How much percent of the total noise produced by a gaming PC can be attributed to its GPU fans under load?,PERCENT
+By what percentage does the efficiency of a power supply unit (PSU) generally increase from entry-level models to high-end models?,PERCENT
+What is the approximate percentage decrease in heat production when using liquid cooling compared to air cooling for CPUs and GPUs?,PERCENT
+How much percent can the performance of a gaming PC improve by upgrading from integrated graphics to a dedicated GPU?,PERCENT
+By what percentage does the cost of components typically increase as you move up from entry-level to high-end computer builds?,PERCENT
+What is the average reduction in boot time, expressed as a percentage, when switching from an HDD to an SSD?,PERCENT
+Who is considered the father of modern computer hardware?,PERSON
+Which computer hardware pioneer developed the first programmable digital electronic computer called ENIAC?,PERSON
+Who invented the microprocessor that revolutionized the field of computer hardware?,PERSON
+Can you name a key figure in the development of Random Access Memory (RAM)?,PERSON
+Who is one of the inventors of the hard disk drive, a critical component in computer hardware?,PERSON
+Which person played a crucial role in the invention of the mouse for computer input devices?,PERSON
+Who was instrumental in developing the first graphical user interface (GUI) that significantly impacted computer hardware design?,PERSON
+Can you name an engineer who contributed to the development of solid-state drives (SSDs)?,PERSON
+Who is recognized as one of the key developers behind the USB flash drive technology?,PERSON
+Which individual led the team responsible for creating the first personal computer, the Altair 8800?,PERSON
+Who developed the video card that made high-resolution graphics possible in home computers?,PERSON
+Can you name a person who was pivotal in designing the architecture of the IBM PC in the early 1980s?,PERSON
+Which engineer is famous for working on the development of the ethernet, an essential networking hardware component?,PERSON
+Who invented the first computer motherboard that standardized how components connect to each other?,PERSON
+Can you name a notable inventor who played a role in the creation of the solid-state drive (SSD)?,PERSON
+Who developed the FireWire technology for high-speed data transfer and is also known for their contributions to computer hardware?,PERSON
+Which person was influential in the design and development of the first microcomputer kit, the MITS Altair 8800?,PERSON
+Can you name a prominent figure who contributed significantly to the miniaturization of computer hardware through integrated circuits (ICs)?,PERSON
+Who is known for developing the graphical user interface that popularized the use of windows and icons in computing?,PERSON
+Which individual was part of the team that created the Apple I, one of the first successful personal computers?,PERSON
+What is the latest model of Apple's MacBook Pro?,PRODUCT
+Which company manufactures the Ryzen 9 processor?,PRODUCT
+How many cores does the Intel Core i7-12700K have?,PRODUCT
+What type of memory is used in the Nintendo Switch console?,PRODUCT
+Can you list some popular graphics cards from NVIDIA’s GeForce RTX series?,PRODUCT
+What is the storage capacity of a standard PS5 console?,PRODUCT
+Which brand offers the XMG Omen Obelisk gaming PC?,PRODUCT
+How does the cooling system work in Dell's Alienware area-51m R2?,PRODUCT
+What kind of processors are installed in HP's Spectre x360 laptops?,PRODUCT
+Where can I find information about the specifications of the ASUS ROG Zephyrus G14?,PRODUCT
+Which company produces the B450 motherboard for AMD CPUs?,PRODUCT
+Can you recommend a good SSD to upgrade my laptop's storage?,PRODUCT
+What are some key features of the Corsair Vengeance LPX DDR4 RAM modules?,PRODUCT
+How do I install an NVMe SSD in my desktop PC?,PRODUCT
+Which brand makes the G.Skill Trident Z RGB memory kits?,PRODUCT
+Can you tell me about the cooling technology used in Lenovo’s ThinkPad X1 Extreme Gen 3?,PRODUCT
+What is the refresh rate of the screen on the MSI GF65 Thin gaming laptop?,PRODUCT
+How can I choose a motherboard that supports overclocking for my Intel CPU?,PRODUCT
+Which components are included in the pre-built CyberPowerPC Gamer Supreme VR Tower?,PRODUCT
+Where can I buy an expansion card to add USB-C ports to my desktop computer?,PRODUCT
+What is the typical refresh rate in Hz for most modern computer monitors?,QUANTITY
+How many cores does an Intel Core i7 processor usually have?,QUANTITY
+What is the standard RAM capacity in GB for a budget gaming PC build?,QUANTITY
+How many pins are there on a standard ATX power supply connector for a motherboard?,QUANTITY
+What is the maximum resolution, in pixels, that a 4K monitor can display horizontally?,QUANTITY
+What is the common width, in nanometers (nm), of the manufacturing process used in modern CPUs as of 2023?,QUANTITY
+How many USB ports does an average desktop computer have?,QUANTITY
+In terms of storage capacity, what is the typical size in TB for a consumer-grade SSD?,QUANTITY
+What is the power consumption, in watts (W), of a high-performance graphics card used for gaming?,QUANTITY
+How many SATA ports are commonly found on most modern motherboards?,QUANTITY
+What is the standard voltage output in volts (V) from the 12V rail of an ATX power supply to power components like GPUs?,QUANTITY
+In terms of capacity, how much storage space can a typical external hard drive provide in TB?,QUANTITY
+How many pins does a DDR4 RAM module typically have?,QUANTITY
+What is the common frequency range in GHz for DDR4 memory modules used in desktop computers?,QUANTITY
+How many PCIe lanes are available on most modern AMD CPUs for connecting to various components like GPUs and SSDs?,QUANTITY
+In terms of speed, what is the typical transfer rate in Gbps of a USB 3.2 Gen 2 port?,QUANTITY
+What is the standard width, in inches (in), of a desktop computer case form factor such as ATX or Micro-ATX?,QUANTITY
+How many bits can a single DDR5 memory channel handle at once compared to previous generations like DDR4?,QUANTITY
+In terms of speed, what is the rotational speed in RPM for high-performance hard disk drives (HDDs) used in computers?,QUANTITY
+What is the typical thermal design power (TDP), in watts (W), for a high-end desktop CPU designed for gaming and content creation tasks?,QUANTITY
+When was the first microprocessor invented?,TIME
+What year did IBM introduce the first PC (Personal Computer)?,TIME
+In which decade did solid-state drives begin to replace traditional hard disk drives in computers?,TIME
+During what period did the transition from vacuum tubes to transistors occur in computer hardware development?,TIME
+When were USB flash drives first introduced to the market?,TIME
+What year saw the introduction of Intel's first Core series processor?,TIME
+In which time frame did RAM prices drastically decrease, making it more accessible for home computers?,TIME
+Can you tell me when DDR (Double Data Rate) SDRAM was first released?,TIME
+When did 3D graphics cards become a common component in gaming PCs?,TIME
+What year marked the introduction of Blu-ray drives as an alternative to DVD drives in computers?,TIME
+When were liquid cooling systems for CPUs first introduced commercially?,TIME
+In what time period did SATA (Serial ATA) interfaces start replacing PATA (Parallel ATA) for hard drives and optical drives?,TIME
+Can you mention when was the floppy disk drive technology first commercialized?,TIME
+What year saw the beginning of the use of CMOS (Complementary Metal-Oxide-Semiconductor) in CPU manufacturing?,TIME
+When did wireless networking hardware, such as Wi-Fi cards, start to become standard components in laptop computers?,TIME
+Which time frame witnessed the introduction and rapid adoption of SSDs in high-performance computing environments like data centers?,TIME
+What year was marked by the first commercial release of FireWire (IEEE 1394) for connecting external devices to a computer?,TIME
+When did Thunderbolt technology, developed by Intel, start appearing in consumer computers?,TIME
+During what time period did the trend towards miniaturization in hardware design significantly accelerate, leading to smaller form factor motherboards and components?,TIME
+Can you tell me when was the first time USB (Universal Serial Bus) was included as a standard feature on most new PCs?,TIME
+It seems there might have been some confusion in your request. The topic 'Computer Hardware' is generally related to technical components and systems such as CPUs, GPUs, RAM, etc., while the entity type 'WORK_OF_ART' relates to paintings, sculptures, music pieces, literary works, and other forms of creative expression.
+
+Given this mismatch between the technical nature of computer hardware and the artistic concept of a work of art, it's challenging to generate meaningful questions that align both criteria. However, if we creatively interpret "work of art" in the context of innovative or aesthetically significant hardware designs, here are some adjusted questions:
+
+1. Which piece of computer hardware is considered an iconic design of the 20th century?,WORK_OF_ART
+2. What is the most visually striking motherboard ever created and why?,WORK_OF_ART
+3. How has artistic expression influenced the design of high-performance gaming laptops?,WORK_OF_ART
+4. Who designed the first computer case that won a major industrial design award?,WORK_OF_ART
+5. Can you name a piece of hardware known for its unique shape, making it stand out in exhibitions?,WORK_OF_ART
+
+These questions attempt to blend the technical with the aesthetic, focusing on how computer hardware can be seen as a form of artistic expression or engineering artistry.
+What is the primary function of RAM in computer hardware?,PRODUCT
+How many cores does an Intel Core i7 processor typically have?,CARDINAL
+Which company is known for producing the Ryzen series of processors?,ORG
+When was the first IBM PC released to the market?,DATE
+What does GPU stand for in the context of computer hardware?,PRODUCT
+What type of storage device uses magnetic technology to store data long-term?,PRODUCT
+How much RAM is typically found in entry-level gaming computers as of 2023?,QUANTITY
+Which component of a computer determines its overall processing speed and efficiency?,PRODUCT
+What does SSD stand for, referring to the type of storage used in modern computers?,PRODUCT
+What is the main purpose of a cooling system like liquid cooling or air cooling in a computer setup?,PRODUCT
+How many bits can be processed at once by a 64-bit processor architecture?,CARDINAL
+Which input device allows users to interact with graphical user interfaces on a computer screen?,PRODUCT
+What type of cable is commonly used for high-speed data transfer between computers and peripheral devices, often denoted as USB?,PRODUCT
+When was the first microprocessor, the Intel 4004, introduced by Intel Corporation?,DATE
+How many gigabytes (GB) are there in one terabyte (TB)?,QUANTITY
+What kind of device converts digital signals from a computer into sound waves for speakers to play audio?,PRODUCT
+Which event marked the beginning of the modern personal computing era with the launch of the Apple II by Apple Inc. in 1977?,EVENT
+How many pins does a DDR4 SDRAM module typically have compared to its predecessor, DDR3?,CARDINAL
+What is the name given to the circuit board that holds essential components and connectors for other hardware devices in a computer?,PRODUCT
+Which organization sets standards for computer hardware interfaces such as USB and PCI?,ORG

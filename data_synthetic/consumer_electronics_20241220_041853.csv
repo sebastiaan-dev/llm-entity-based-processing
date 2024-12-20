@@ -1,0 +1,379 @@
+Question,Entity-Type
+How many megapixels does the average smartphone camera have in 2023?,CARDINAL
+What is the typical refresh rate in Hz for high-end LCD TVs this year?,CARDINAL
+In the last decade, how many times has the storage capacity of USB flash drives increased approximately?,CARDINAL
+How many inches is the screen size of the smallest tablet currently available on the market?,CARDINAL
+As of 2023, what is the average number of smart home devices owned by a household with high-tech adoption rates?,CARDINAL
+What percentage of new smartphones sold in 2022 came equipped with foldable screens?,CARDINAL
+How many gigabytes does the internal storage start at for most budget Android phones released this year?,CARDINAL
+In terms of battery capacity, what is the median mAh found in today's smartwatches?,CARDINAL
+What is the average number of watts used by a 4K Ultra HD TV when operating at peak brightness levels?,CARDINAL
+How many different models of earbuds are currently manufactured by leading tech companies worldwide?,CARDINAL
+In 2023, what is the typical number of speakers included in an entry-level soundbar system?,CARDINAL
+What is the average refresh rate increase (in Hz) from a standard to a gaming monitor?,CARDINAL
+How many terabytes does the highest capacity hard drive for desktop computers reach as of this year?,CARDINAL
+In the last five years, by what factor has the maximum resolution on consumer-grade digital cameras improved approximately?,CARDINAL
+What is the average number of hours of battery life advertised for new headphones in 2023?,CARDINAL
+How many different wireless charging standards are currently competing for market dominance in smartphones?,CARDINAL
+As of 2023, what percentage of laptops sold have touchscreens as a feature compared to previous years?,CARDINAL
+What is the typical pixel density (in PPI) of OLED displays used in high-end phones today?,CARDINAL
+How many times has the speed of USB flash drives increased from USB 1.0 to USB 3.2 generation 2x2?,CARDINAL
+In terms of frequency, how many GHz does a top-of-the-line gaming laptop's processor typically run at as of this year?,CARDINAL
+When was the first smartphone with a touch screen released?,DATE
+What date did Apple unveil the original iPad?,DATE
+On what date did Sony introduce the Walkman to the US market?,DATE
+Which year saw the launch of the first consumer-grade digital camera by Logitech?,DATE
+Can you tell me the date when Nintendo released the Wii console?,DATE
+When was the first commercial LCD TV available on the market?,DATE
+What is the release date for the first iPod Touch?,DATE
+In which year did Samsung introduce its first Galaxy smartphone?,DATE
+On what date did Toshiba launch the world's first laptop computer, the T1100?,DATE
+Could you provide the date when the first Kindle e-reader was announced by Amazon?,DATE
+When did Microsoft release the first version of Surface Pro?,DATE
+What is the exact date that Google introduced its first Pixel phone?,DATE
+On which day did LG announce the world's first 4K Ultra HD TV?,DATE
+Can you name the date when HP launched its first TouchSmart PC?,DATE
+Which year was marked by the release of the first Amazon Echo smart speaker?,DATE
+When was the first commercial tablet computer, the GRiDPad, introduced to the market?,DATE
+What is the date when Dell announced its first 2-in-1 laptop?,DATE
+On what date did Motorola unveil the Moto Z series smartphones with modular accessories?,DATE
+Could you tell me the release date for the first Oculus Rift virtual reality headset for consumers?,DATE
+When was the first wireless Bluetooth earbuds model released by Apple named AirPods?,DATE
+What was the main event at CES 2021 that impacted consumer electronics?,EVENT
+When did Apple announce the first iPhone in its history?,EVENT
+Which significant event led to the popularity of smartwatches among consumers in 2015?,EVENT
+What major event caused a shift towards wireless earbuds in consumer electronics?,EVENT
+Can you tell me about the event that marked the introduction of 4K TVs by Samsung?,EVENT
+During which event did Sony first present its line of Bravia TVs to the public?,EVENT
+What event is associated with the launch of Google's Nest Hub for home automation?,EVENT
+Which event saw the first foldable smartphone being showcased by Samsung to the world?,EVENT
+Can you name an event where major tech companies announced new VR headsets in 2019?,EVENT
+When did LG unveil its first OLED TV at a significant consumer electronics show?,EVENT
+What was the key event that led to the decline of CD players as mainstream consumer electronics?,EVENT
+Which event marked the beginning of electric vehicles' integration with smart home technology by Tesla?,EVENT
+Can you identify an event where HP showcased its latest line of 3D printers for consumers?,EVENT
+When did Intel host a major event to introduce new chips specifically designed for VR devices?,EVENT
+What significant event in the tech industry led to the widespread adoption of e-readers like Kindle?,EVENT
+Which event saw Huawei showcasing its latest advancements in smartphone cameras?,EVENT
+Can you mention an event where Dell announced its transition towards more sustainable consumer electronics production methods?,EVENT
+When did Xiaomi hold a press conference to announce new smart home devices that integrate AI technology?,EVENT
+What was the event that led to ASUS unveiling its first gaming laptops with dedicated graphics cards for consumers?,EVENT
+During which significant tech event did Microsoft present its latest advancements in AR technology for consumer use?,EVENT
+What is the highest resolution display offered on recent smartphones?,FAC
+How many megapixels do top-of-the-line digital cameras typically have nowadays?,FAC
+Which company currently leads in the market share of smart TVs globally?,FAC
+What battery capacity does the latest flagship smartphone model offer?,FAC
+Can you name a popular brand that specializes in noise-cancelling headphones?,FAC
+How much storage space is typical for entry-level laptops these days?,FAC
+Which manufacturer is known for producing high-performance gaming laptops?,FAC
+What's the average refresh rate of modern computer monitors designed for gamers?,FAC
+Which brand dominates the market for wireless earbuds with active noise cancellation technology?,FAC
+How much memory (RAM) do most current mid-range smartphones come with?,FAC
+What is a distinguishing feature of the latest smartwatch models in terms of health tracking capabilities?,FAC
+Which company has been innovative recently in foldable smartphone technology?,FAC
+Can you tell me about any recent advancements in e-reader screen technology?,FAC
+How many cores do most high-end soundbars have for surround sound quality?,FAC
+What kind of processor is typically found in the newest tablets on the market?,FAC
+Which brand offers the longest battery life for their portable Bluetooth speakers?,FAC
+How has the size of SSD storage evolved in recent desktop computer systems?,FAC
+Can you provide information about the latest advancements in virtual reality headsets used with gaming consoles?,FAC
+What is a common feature found in modern fitness trackers besides step counting and heart rate monitoring?,FAC
+Which brand is known for integrating smart home devices with their televisions effectively?,FAC
+How has Japan's consumer electronics industry evolved over the past decade?,GPE
+What role does South Korea play in the global consumer electronics market?,GPE
+How significant is China's contribution to the manufacturing of consumer electronics worldwide?,GPE
+In what ways have Taiwanese companies influenced the development of consumer electronics technology?,GPE
+Which European countries are leading in innovation within the consumer electronics sector?,GPE
+What impact has Germany had on the advancement of consumer electronics technologies?,GPE
+How does the United States influence global trends in consumer electronics consumption and production?,GPE
+What challenges do Indian manufacturers face in competing with other major players in consumer electronics globally?,GPE
+Can you describe the competitive landscape of consumer electronics companies based in Japan?,GPE
+How has Taiwan's focus on consumer electronics affected its economy?,GPE
+In what ways have UK-based companies contributed to advancements in smart home technology, a segment of consumer electronics?,GPE
+What strategies are Chinese manufacturers using to dominate the global consumer electronics market?,GPE
+Which Southeast Asian countries have emerged as key players in the production and export of consumer electronics?,GPE
+How does the Italian government support its domestic consumer electronics industry?,GPE
+What impact has the United States' trade policies had on the import and export dynamics of consumer electronics?,GPE
+In what ways do Japanese companies continue to lead in certain segments of the consumer electronics market?,GPE
+How are Scandinavian countries contributing to sustainable practices within the consumer electronics sector?,GPE
+Which African nations have begun developing their own consumer electronics industries, and how significant is this development?,GPE
+What measures has South Korea taken to maintain its position as a leader in high-tech consumer electronics?,GPE
+How does France's consumer electronics market compare with other European Union countries in terms of innovation and sales?,GPE
+What languages are commonly used in the user manuals of consumer electronics?,LANGUAGE
+How do language settings impact the functionality of smart home devices?,LANGUAGE
+Can voice-activated gadgets understand multiple languages simultaneously?,LANGUAGE
+What role does natural language processing play in improving virtual assistants' performance?,LANGUAGE
+Are there any specific programming languages that dominate the development of consumer electronic applications?,LANGUAGE
+How important is localization in enhancing user experience with consumer electronics for non-native speakers?,LANGUAGE
+Which language features are crucial for developing intuitive interfaces on consumer electronics?,LANGUAGE
+What challenges do manufacturers face when translating the firmware of their devices into multiple languages?,LANGUAGE
+In what ways does multilingual support affect the global marketability of consumer electronics?,LANGUAGE
+How can language barriers be overcome to ensure accessibility in consumer electronic products for people with hearing impairments?,LANGUAGE
+Do different programming languages offer unique advantages for developing specific types of consumer electronics, such as smartphones or smartwatches?,LANGUAGE
+What are the primary considerations when choosing a language for software development in consumer electronics?,LANGUAGE
+How does the choice of language impact the security features of consumer electronic devices?,LANGUAGE
+Are there any emerging trends in language technology that could revolutionize how we interact with our gadgets?,LANGUAGE
+How does the integration of artificial intelligence in consumer electronics rely on advancements in language processing technologies?,LANGUAGE
+What are some common pitfalls to avoid when implementing multilingual support for a new line of consumer electronics?,LANGUAGE
+How can developers ensure consistency across languages while localizing user interfaces for global consumers?,LANGUAGE
+In what ways has the evolution of programming languages influenced the capabilities and limitations of modern consumer electronics?,LANGUAGE
+Why is it important for product designers to consider linguistic diversity when creating accessible technology solutions in consumer electronics?,LANGUAGE
+What are some innovative uses of language technology in enhancing the personalization features of wearable consumer electronics?,LANGUAGE
+What are the current laws regarding the disposal of consumer electronics in California?,LAW
+Is there a law that mandates manufacturers to provide repair manuals for consumer electronics?,LAW
+How does GDPR impact consumer data collected by smart home devices?,LAW
+Does the EU have specific regulations governing the sale of second-hand electronic gadgets?,LAW
+What laws protect consumers from fraudulent claims made about the durability of electronic products?,LAW
+Can a state law require all consumer electronics to be repairable for at least five years after purchase?,LAW
+Are there any federal laws that mandate companies to make their consumer electronics accessible to people with disabilities?,LAW
+How do privacy laws affect the development and deployment of smart home devices in different countries?,LAW
+What are the implications of e-waste regulations on international trade for electronic goods?,LAW
+Is it legal for a country to ban the import of second-hand computers if they pose environmental risks?,LAW
+Which laws apply when consumer electronics collect personal data without explicit consent?,LAW
+Are there specific laws that regulate the use of rare earth minerals in manufacturing consumer electronics?,LAW
+What are the legal requirements for ensuring that electronic products comply with energy efficiency standards?,LAW
+How do intellectual property laws impact innovation and competition in the consumer electronics market?,LAW
+Can a country implement its own regulations on data security for smart devices, overriding international standards?,LAW
+Which international laws govern the cross-border transfer of personal data collected by smart devices?,LAW
+What are the legal consequences for not complying with consumer protection laws when selling electronic products online?,LAW
+Does any law require companies to disclose the environmental impact of their electronics during production and disposal?,LAW
+Are there specific statutes that limit the use of harmful substances in the manufacturing of electronic gadgets?,LAW
+How do international trade agreements affect tariffs on imported consumer electronics?,LAW
+Where is the largest consumer electronics show held annually?,LOC
+Which city hosts the biggest consumer electronics exhibition in Europe?,LOC
+In which Asian country is the world's leading electronic goods manufacturing hub located?,LOC
+What major metropolitan area in California serves as a key center for startup consumer electronics companies?,LOC
+Which European capital has become a significant location for new technology and consumer electronics development centers?,LOC
+Where does the Consumer Electronics Show (CES) take place every year?,LOC
+Can you name the city that houses the biggest smartphone manufacturing plant globally?,LOC
+What is the name of the Japanese city renowned for its contributions to the evolution of consumer electronics?,LOC
+In which German city are numerous headquarters of leading consumer electronics companies found?,LOC
+Where in South Korea are most of the world's top-tier consumer electronics brands based out of?,LOC
+Which Italian city is well-known for its design influence on high-end consumer electronic goods?,LOC
+What major city in China has transformed into a global epicenter for innovation and production in consumer electronics?,LOC
+In which U.S. state does the world-famous CES (Consumer Electronics Show) occur every year?,LOC
+Can you identify the French region that hosts significant research facilities focused on improving consumer electronics technologies?,LOC
+Where is the headquarters of Sony, a leading company in consumer electronics products, located?,LOC
+Which city is home to a large number of electronic goods recycling plants due to its proximity to major manufacturing areas?,LOC
+What urban area has become synonymous with the development and testing of new smart devices for consumers?,LOC
+In which country do most luxury consumer electronics brands have their showrooms in Europe?,LOC
+Where does the International Consumer Electronics Show (ICE) take place outside North America?,LOC
+Which city serves as a hub for both manufacturing and retailing of affordable consumer electronic products globally?,LOC
+What is the average cost of a smart TV in 2023?,MONEY
+How much does it typically cost to upgrade from a basic smartphone to a high-end model with advanced camera features?,MONEY
+What is the price range for a popular brand's latest gaming console release?,MONEY
+Can you provide an estimate of the average spending on headphones per consumer annually in the U.S.?,MONEY
+How much do consumers typically spend on a new laptop each year?,MONEY
+What is the cost difference between a standard refrigerator and one with smart features?,MONEY
+On average, how much more expensive are OLED TVs compared to LED TVs of similar size?,MONEY
+What is the approximate price tag for a high-end home theater sound system setup?,MONEY
+How much do consumers spend on upgrading their smartphone every two years on average?,MONEY
+What does it cost on average to replace an old microwave with a new model featuring advanced cooking functions?,MONEY
+What's the estimated total expenditure on consumer electronics by U.S. households in 2023?,MONEY
+How much would you expect to pay for a premium quality, high-resolution monitor for gaming or professional use?,MONEY
+What is the average amount spent annually on wearable technology like smartwatches and fitness trackers per person?,MONEY
+Can you estimate how much more expensive it might be to choose a 4K UHD television over a regular HD model of the same size and brand?,MONEY
+How much does an average household spend on electronic gadgets such as tablets, e-readers, and smart home devices each year in the United States?,MONEY
+What is the typical price range for a high-performance external hard drive suitable for storing large amounts of data for backups or media files?,MONEY
+Can you provide an estimate of how much it costs to outfit a modern kitchen with internet-connected appliances like refrigerators and ovens?,MONEY
+How much would one expect to pay for a top-of-the-line smart home security system, including cameras, sensors, and central control units?,MONEY
+What is the average price increase when opting for a 5G capable smartphone versus its 4G counterpart in the same model line?,MONEY
+How much more does it cost on average to purchase a laptop with an OLED display compared to one with a standard LED screen?,MONEY
+What are some popular consumer electronics brands that originated from the United States?,NORP
+How has Japanese technology influenced modern consumer electronics?,?,NORP
+Which European countries have contributed significantly to advancements in consumer electronics technology?,NORP
+Are there any notable consumer electronic innovations coming out of South Korea recently?,NORP
+What role does Chinese manufacturing play in the global consumer electronics market?,NORP
+How has Taiwanese innovation impacted the consumer electronics industry globally?,NORP
+Which American companies are leading in the development of smart home technology?,NORP
+Can you name some influential French companies in the consumer electronics sector?,NORP
+What contributions have German engineers made to consumer electronics technology?,NORP
+In what ways has Indian entrepreneurship shaped the consumer electronics market globally?,NORP
+Which Italian brands are known for their design in consumer electronics products?,NORP
+How significant is the contribution of British companies to the advancement of wearable tech within consumer electronics?,NORP
+What innovations have come from Canadian firms in the realm of consumer electronics?,NORP
+Are there any Scandinavian companies that stand out in the field of eco-friendly consumer electronics?,NORP
+Which Brazilian brands are making waves with their latest products in the consumer electronics market?,NORP
+How has Mexican engineering influenced the design and functionality of consumer electronic devices?,NORP
+What role do Russian companies play in the development of advanced consumer electronics technology?,NORP
+Are there any Turkish manufacturers that have become key players in producing components for global consumer electronics brands?,NORP
+What is the 1st feature of the latest smartphone model?,ORDINAL
+Which company released the 2nd most popular smartwatch this year?,ORDINAL
+How does the 3rd generation of virtual reality headsets improve upon previous models?,ORDINAL
+In the lineup of tablets, which one is the 4th best-selling model according to recent sales data?,ORDINAL
+What battery technology advancement was introduced in the 5th version of that popular electronic device?,ORDINAL
+Which company leads with the 6th largest market share in smart home devices?,ORDINAL
+Can you tell me about the 7th most anticipated new gadget expected to be released next year?,ORDINAL
+How much has the price of the 8th model of this particular brand's headphones decreased compared to its predecessor?,ORDINAL
+What is the 9th most downloaded app that works specifically with smart TVs?,ORDINAL
+Which feature was added in the 10th update of the software for that new drone on the market?,ORDINAL
+How has the 11th iteration of this camera model changed since its first release?,ORDINAL
+What is the 12th most popular brand among consumers looking to buy a new tablet?,ORDINAL
+Can you provide details about the 13th generation of gaming consoles and their improvements over previous models?,ORDINAL
+Which company has released the 14th version of their smart speaker this year, incorporating significant sound quality enhancements?,ORDINAL
+What is the 15th most sought-after accessory for smartphones in the current market?,ORDINAL
+How does the 16th model of fitness trackers compare in terms of features and price to other brands on the market?,ORDINAL
+Which smart home device was named as the 17th most innovative product at the latest technology expo?,ORDINAL
+What new feature did the company introduce with their 18th version of the smart thermostat?,ORDINAL
+How has the design of headphones evolved in the 19th iteration compared to older models by the same brand?,ORDINAL
+Which streaming service was ranked as the 20th most popular among users of connected TVs according to recent surveys?,ORDINAL
+What is the current market share of Apple in the consumer electronics industry?,ORG
+How has Samsung's innovation strategy impacted the consumer electronics sector?,ORG
+In what ways has LG Electronics diversified its product offerings in recent years?,ORG
+Can you provide an overview of Sony's expansion into smart home technology?,ORG
+Which strategies have contributed to Huawei's growth in the global consumer electronics market?,ORG
+What are some of the key products Panasonic is focusing on for the upcoming year?,ORG
+How does Xiaomi differentiate itself from other major players in the consumer electronics industry?,ORG
+What role has Dell Technologies played in advancing personal computing technology?,ORG
+Can you discuss Lenovo's initiatives to enhance its brand presence among younger consumers?,ORG
+In what ways has TCL Corp. expanded into international markets for its electronic devices?,ORG
+How is Huawei planning to compete with Apple and Samsung in the smartphone segment?,ORG
+What innovative technologies have been introduced by Sony in their latest consumer electronics lineup?,ORG
+What are some of the notable collaborations between Intel and other tech giants in the consumer electronics space?,ORG
+Can you highlight some of the environmental initiatives undertaken by HP Inc. related to its consumer electronics products?,ORG
+How has Asus positioned itself in the competitive gaming laptop market segment?,ORG
+Which smart home devices have been most successful for Samsung, and why?,ORG
+What are the primary factors driving LG's success in the OLED TV market?,ORG
+Can you discuss Sharp's contributions to LCD technology used in modern consumer electronics products?,ORG
+How has Microsoft approached the development of its Surface line to compete in the consumer electronics market?,ORG
+What strategies have been employed by Acer to maintain a competitive edge in laptop sales?,ORG
+What percentage of consumers prefer smartphones with foldable screens in 2023?,PERCENT
+By what percent has the sales of smart home devices increased from 2021 to 2023?,PERCENT
+What is the projected growth percentage for virtual reality headsets by 2025?,PERCENT
+How much has the market share of electric vehicles increased in terms of percentage over the last five years?,PERCENT
+By what percent did the usage of smart speakers decrease among teenagers compared to adults in 2022?,PERCENT
+What is the expected increase in percentage for sales of wireless earbuds by 2030?,PERCENT
+How much has consumer interest in augmented reality devices grown by, in percentage terms, over the past year?,PERCENT
+By what percent are manufacturers reducing the size and weight of their latest laptop models compared to previous versions?,PERCENT
+What is the projected decline in percentage for traditional TV sales due to streaming services taking over?,PERCENT
+How much has the adoption rate of smartwatches increased by, in terms of a percentage, among people aged 60+?,PERCENT
+By what percent did the demand for gaming consoles increase during the pandemic compared to the pre-pandemic period?,PERCENT
+What is the expected rise in percentage for the use of e-readers among students studying remotely?,PERCENT
+How much has the reliance on digital cameras decreased by, as a percentage, with the improvement of smartphone camera quality?,PERCENT
+By what percent did the sales of fitness trackers decline after the initial surge during the pandemic?,PERCENT
+What is the anticipated increase in percentage for home automation systems among new homeowners in 2023?,PERCENT
+How much has consumer satisfaction with current smartwatch battery life improved by, as a percentage, over the last year?,PERCENT
+By what percent are consumers more likely to purchase a tablet if it comes with a stylus, compared to those without?,PERCENT
+What is the expected drop in percentage for traditional desktop computer sales due to the rise of laptops and tablets?,PERCENT
+How much has the average battery life of smartphones improved by, as a percentage, over the past five years?,PERCENT
+By what percent are consumers willing to pay extra for eco-friendly consumer electronics products?,PERCENT
+Who is the CEO of Sony responsible for the consumer electronics division?,PERSON
+Which engineer at Samsung led the development of their latest smartphone technology?,PERSON
+Who was the primary inventor of the first digital camera at Kodak?,PERSON
+What Apple executive is in charge of overseeing new product launches in the consumer electronics category?,PERSON
+Who is credited with pioneering work on liquid crystal displays (LCD) used widely in TVs and monitors?,PERSON
+Which Microsoft executive manages their division that includes Surface tablets and other consumer electronics?,PERSON
+Who developed the first personal computer, a milestone in consumer electronics history?,PERSON
+What Sony employee played a key role in popularizing the Walkman portable music player globally?,PERSON
+Who is the head of research and development at LG focused on future innovations in home appliances?,PERSON
+Which engineer was instrumental in developing the first commercial lithium-ion battery powering many modern gadgets?,PERSON
+Who holds the position of chief marketing officer at TCL, focusing on consumer electronics market strategies?,PERSON
+What leader at Huawei leads their team that focuses on smart wearables and IoT devices within consumer electronics?,PERSON
+Who is recognized for pioneering work in creating the first successful portable CD player by Philips?,PERSON
+Which executive at Xiaomi is responsible for overseeing the global expansion of their consumer electronics portfolio?,PERSON
+Who led the development team at JBL responsible for crafting innovative wireless speaker technologies?,PERSON
+What senior figure at Panasonic directs efforts to integrate AI into home entertainment systems and other devices?,PERSON
+Who played a crucial role in developing the first commercially successful tablet PC, influencing the market greatly?,PERSON
+Which executive at HP is tasked with driving innovation in printers and imaging devices under consumer electronics?,PERSON
+Who was the key developer behind the creation of the original Nintendo Game Boy, revolutionizing handheld gaming consoles?,PERSON
+What Samsung official oversees their consumer insights team that focuses on understanding user needs for new product development in consumer electronics?,PERSON
+What are the latest features in the iPhone 13?,PRODUCT
+Which brand offers the best budget headphones for music enthusiasts?,PRODUCT
+How has the LG OLED TV series improved over previous years?,PRODUCT
+Can you recommend a reliable smartwatch for fitness tracking?,PRODUCT
+What is the battery life of the Samsung Galaxy Tab S8 tablet?,PRODUCT
+Are there any new innovative features in the Sony WH-1000XM4 headphones?,PRODUCT
+Which camera has the best low-light performance among recent models?,PRODUCT
+How does the Google Pixel 6 compare to other flagship smartphones in terms of photography?,PRODUCT
+What are the key specifications of the latest MacBook Pro with M1 chip?,PRODUCT
+Which gaming laptop offers the best value for money according to current reviews?,PRODUCT
+Can you suggest a high-quality Bluetooth speaker under $100?,PRODUCT
+How does theCanon EOS R5 compare to other mirrorless cameras in terms of video capabilities?,PRODUCT
+What are the standout features of the new iPad Pro with mini-LED display technology?,PRODUCT
+Which smart thermostat models integrate seamlessly with popular home automation systems?,PRODUCT
+Are there any recent updates or improvements to the Amazon Echo Show line of smart displays?,PRODUCT
+How does the Dell XPS 13 perform compared to other premium laptops in its class?,PRODUCT
+What is the waterproof rating for the latest GoPro HERO cameras?,PRODUCT
+Which noise-cancelling headphones are currently favored by frequent travelers?,PRODUCT
+Can you provide an overview of the new features in the Microsoft Surface Duo 2 foldable phone?,PRODUCT
+How has the Sony Xperia 1 III fared against other high-end smartphones on the market?,PRODUCT
+How many smartphones were sold globally in 2022?,QUANTITY
+What is the average number of smartwatches owned per person in the United States?,QUANTITY
+Approximately how many hours a day do teenagers spend on their tablets?,QUANTITY
+By what percentage did global sales of televisions increase last year?,QUANTITY
+How many gigabytes of storage does an average consumer expect in a new smartphone as of 2023?,QUANTITY
+What is the typical battery life, measured in hours, for a modern laptop under heavy use?,QUANTITY
+About how many pixels are there per inch on high-definition television screens sold today?,QUANTITY
+How much memory (in GB) do most consumer-grade digital cameras offer as standard storage nowadays?,QUANTITY
+By what factor has the cost of consumer drones decreased over the past five years?,QUANTITY
+What is the average number of megapixels in modern smartphone cameras?,QUANTITY
+How many Bluetooth headphones were shipped worldwide last year?,QUANTITY
+What percentage increase did smart home devices see in sales during the pandemic compared to the previous year?,QUANTITY
+On average, how much faster are current gaming consoles than those released five years ago?,QUANTITY
+Approximately how many times per day do people check their smartphones on average?,QUANTITY
+How many different models of headphones does a typical electronics store carry in inventory?,QUANTITY
+What is the expected percentage growth for virtual reality headsets over the next three years?,QUANTITY
+By what factor has the price of 4K televisions dropped since their introduction to the market?,QUANTITY
+On average, how long (in months) do consumers wait before upgrading their smartphones?,QUANTITY
+How many different smartwatch models are currently available on the market as of this year?,QUANTITY
+What is the typical weight in grams for a new release of ultra-light laptops?,QUANTITY
+When was the first smartphone introduced?,TIME
+What year did smartwatches become widely available to consumers?,TIME
+In which month did Sony launch its latest TV model?,TIME
+Since when have wireless headphones been popular among tech enthusiasts?,TIME
+Can you tell me the date when virtual reality headsets were first released to the public?,TIME
+During which decade did portable music players like the Walkman become a cultural phenomenon?,TIME
+What is the release timeline for the next generation of gaming consoles?,TIME
+When did high-definition TVs start dominating the market over standard definition models?,TIME
+Could you provide the launch date of the first iPad by Apple Inc.?,TIME
+How long ago were e-readers such as the Kindle introduced to consumers?,TIME
+What was the release period for 4K resolution monitors in consumer electronics?,TIME
+When did the trend of foldable smartphones begin?,TIME
+In what year did Bluetooth technology become a standard feature in consumer electronics devices?,TIME
+Since when have smart home devices, like voice-activated assistants, been around in households?,TIME
+Could you tell me about the timeline for 5G-enabled mobile phones hitting the market?,TIME
+What was the period of introduction for wearable fitness trackers?,TIME
+When did camera phones start to replace traditional cameras among consumers?,TIME
+Can you share when virtual reality gaming headsets were first introduced to gamers?,TIME
+During which time frame did augmented reality smart glasses become available for purchase by general consumers?,TIME
+Since what year have consumer electronics companies started focusing on sustainability in their products?,TIME
+What is the most influential consumer electronics advertisement of all time?,WORK_OF_ART
+Which consumer electronics commercial won the most prestigious award in advertising history?,WORK_OF_ART
+Can you name a short film that was created to showcase new technology in consumer electronics and received critical acclaim?,WORK_OF_ART
+Who painted the famous portrait featuring an individual with a consumer electronic device, considered a masterpiece of modern art?,WORK_OF_ART
+What sculpture is known for its depiction of early 21st-century consumer electronics and resides in a major museum?,WORK_OF_ART
+Which novel explores the theme of human dependency on consumer electronics through its protagonist's journey?,WORK_OF_ART
+What graphic design from a popular magazine cover became iconic in representing consumer electronics culture?,WORK_OF_ART
+Which piece of conceptual art used consumer electronics as its main medium to explore themes of technology and humanity?,WORK_OF_ART
+Can you identify the digital artwork that was created using only consumer electronic devices as tools?,WORK_OF_ART
+What video installation is famous for its critique on the consumption patterns related to consumer electronics?,WORK_OF_ART
+Which opera incorporated modern consumer electronics into its set design, creating a unique visual experience?,WORK_OF_ART
+Who composed a symphony that reflects upon the influence of consumer electronics on society?,WORK_OF_ART
+Can you name a documentary film that focuses on the creation and impact of iconic consumer electronic devices?,WORK_OF_ART
+What short story collection explores various aspects of life through the lens of different consumer electronics products?,WORK_OF_ART
+Which photography exhibition solely features images captured using only consumer electronic cameras?,WORK_OF_ART
+Who directed a feature-length film that depicts the world without any consumer electronics and its effect on society?,WORK_OF_ART
+Can you name an art installation that used recycled consumer electronics to create a statement about technology waste?,WORK_OF_ART
+What theatrical play discusses the ethical implications of manufacturing processes in the consumer electronics industry?,WORK_OF_ART
+Which radio drama explored themes related to the invention and societal impact of early consumer electronic devices?,WORK_OF_ART
+Who created a web series that humorously critiques the culture surrounding new releases of consumer electronics products?,WORK_OF_ART
+What is the average price range of smart TVs launched in 2023?,MONEY
+How many units of the latest iPhone model were sold globally in its first week?,CARDINAL
+When was the first smartphone introduced to the market?,DATE
+Which event marks the beginning of the consumer electronics revolution?,EVENT
+Where is the largest consumer electronics exhibition usually held?,LOC
+What is the name of a popular brand that specializes in manufacturing headphones and speakers?,PRODUCT
+How much did the sales of wearable tech increase from 2019 to 2020 globally?,PERCENT
+Which country leads in the production of high-quality OLED screens for smartphones?,GPE
+What was the market size of virtual reality devices by the end of 2021?,QUANTITY
+Can you name a law that regulates the disposal of electronic waste?,LAW
+How many hours do people typically spend on their mobile devices daily according to recent studies?,TIME
+Which organization sets the standards for Wi-Fi technology?,ORG
+What is the percentage of consumers who own at least one smart home device?,PERCENT
+Who invented the transistor, a key component in modern electronics?,PERSON
+What is the name of the latest gaming console released by Sony?,PRODUCT
+How many pixels does the highest resolution smartphone screen have as of 2023?,QUANTITY
+Which type of battery technology is expected to dominate consumer electronics in the future?,PRODUCT
+When did the first Apple Watch go on sale to the public?,DATE
+What is the most popular streaming service among young adults in North America?,PRODUCT
+How many patents does a major tech company like Samsung hold globally?,CARDINAL

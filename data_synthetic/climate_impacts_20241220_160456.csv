@@ -1,0 +1,381 @@
+Question,Entity-Type
+What percentage of global greenhouse gas emissions come from deforestation?,CARDINAL
+How many degrees Celsius has the Earth's average temperature increased since pre-industrial times?,CARDINAL
+By what year is it predicted that sea levels could rise by up to 1 meter if current trends continue?,CARDINAL
+What was the total cost in billions of dollars for damages caused by hurricanes in the US in 2020?,CARDINAL
+How many acres of Arctic sea ice are estimated to have melted between 1979 and 2018?,CARDINAL
+In which year did global carbon dioxide concentrations first surpass 400 parts per million at the Mauna Loa Observatory?,CARDINAL
+What is the projected increase in temperature by 2100 under a high-emission scenario compared to pre-industrial levels, in degrees Celsius?,CARDINAL
+How many gigatons of carbon are released into the atmosphere annually due to human activities?,CARDINAL
+Approximately how many million people are expected to be displaced worldwide by climate change impacts by 2050?,CARDINAL
+What was the increase in average global temperatures from 1983-2012 compared to pre-industrial levels, in degrees Celsius?,CARDINAL
+How much has the global sea level risen on average since 1900, in millimeters?,CARDINAL
+In how many years is it estimated that coral reefs could become uninhabitable due to ocean acidification and warming?,CARDINAL
+By what year is it predicted that summer Arctic sea ice will disappear completely under a high-emission scenario?,CARDINAL
+How many billion metric tons of carbon dioxide does the transportation sector emit annually worldwide?,CARDINAL
+What percentage of global greenhouse gas emissions come from agriculture, including both crop production and livestock?,CARDINAL
+How many square kilometers of land are estimated to be at risk of desertification due to climate change by 2050?,CARDINAL
+By what year did more than half of the world's glaciers lose mass since records began?,CARDINAL
+What was the increase in average global temperature between 1880 and 2016, in degrees Celsius?,CARDINAL
+How many billion people are at risk from water stress by 2050 due to climate change impacts on freshwater resources?,CARDINAL
+In how many countries is it expected that food security could worsen as a result of increased droughts and floods linked to climate change by 2030?,CARDINAL
+When was the first recorded instance of climate change recognized globally?,DATE
+What date marked the beginning of the Paris Agreement coming into force?,DATE
+On what date did the Intergovernmental Panel on Climate Change (IPCC) release its first assessment report?,DATE
+Which year saw a significant increase in global temperature records due to climate change?,DATE
+When were the first international talks about climate change held under the United Nations Framework Convention on Climate Change (UNFCCC)?,DATE
+On what date did the world witness the highest average temperature recorded historically?,DATE
+What is the date of the earliest known written record discussing unusual climatic conditions?,DATE
+Which specific year marked a turning point in global awareness of climate change impacts due to extreme weather events?,DATE
+When was the Kyoto Protocol, aimed at reducing greenhouse gas emissions, adopted by many countries?,DATE
+On what date did NASA first launch a satellite dedicated specifically to studying Earth's climate?,DATE
+What date signifies the end of the last Ice Age, which is crucial for understanding current climatic patterns?,DATE
+Which year saw a landmark agreement among nations to limit global warming to well below 2 degrees Celsius above pre-industrial levels?,DATE
+When did the United Nations Environment Programme (UNEP) first release its assessment report on climate change impacts?,DATE
+What date marks the start of widespread protests and movements focused on demanding action against climate change?,DATE
+Which year witnessed a significant decrease in Arctic ice cover, highlighting severe impacts of global warming?,DATE
+On what date did scientists first confirm the melting of glaciers at an unprecedented rate due to rising temperatures?,DATE
+When was the World Meteorological Organization founded, playing a key role in monitoring and reporting on climate change?,DATE
+What is the date associated with the creation of the Earth Summit (Rio de Janeiro), which emphasized sustainable development and environmental protection?,DATE
+Which year marked a critical point where more than 50% of countries experienced temperatures not seen since pre-industrial times due to climate impacts?,DATE
+On what date did the United Nations officially declare a climate emergency, acknowledging the urgent need for action on global warming?,DATE
+What are the impacts of El Niño on global weather patterns?,EVENT
+How does La Niña affect temperature and precipitation around the world?,EVENT
+Can volcanic eruptions influence climate patterns for years after the eruption?,EVENT
+What were the immediate climate effects following the Mount Pinatubo eruption in 1991?,EVENT
+How did the Dust Bowl of the 1930s alter agricultural practices in affected areas?,EVENT
+In what ways does deforestation contribute to changes in local and global climates?,EVENT
+How do significant drought events impact biodiversity in affected regions?,EVENT
+What role do hurricanes play in redistributing heat from tropical to temperate latitudes?,EVENT
+Can the formation of ice ages be linked to specific climatic tipping points or events?,EVENT
+How does the melting of polar ice caps during interglacial periods affect sea levels globally?,EVENT
+What were the climate impacts following the eruption of Krakatoa in 1883?,EVENT
+How do forest fires influence local and regional climates, particularly regarding temperature and precipitation patterns?,EVENT
+In what way did the Little Ice Age impact European society and agriculture during its peak period from the 16th to the 19th centuries?,EVENT
+What is the effect of El Niño on ocean ecosystems and fisheries globally?,EVENT
+How do significant heatwaves affect urban infrastructure and public health in affected areas?,EVENT
+Can you describe the climate effects associated with a major flood event, such as those seen during the Mississippi River floods of 1927 or 2011?,EVENT
+What are the long-term climate implications of widespread volcanic ash clouds on solar radiation and temperature globally?,EVENT
+How does a severe cold snap affect crop yields in agricultural regions not accustomed to such conditions?,EVENT
+In what ways did major meteorological events like hurricanes Harvey, Irma, and Maria impact local ecosystems and recovery efforts post-event?,EVENT
+What are the climate impacts of prolonged periods without significant rainfall, as seen during Australia's Millennium Drought from 1997-2009?,EVENT
+What are the primary impacts of climate change on agricultural productivity?,FAC
+How does deforestation contribute to climate change and its impacts?,FAC
+In what ways has climate change affected global water cycles and availability?,FAC
+What role do greenhouse gases play in exacerbating climate impacts around the world?,FAC
+Can you explain how rising sea levels are impacting coastal ecosystems worldwide?,FAC
+How does climate change affect biodiversity and species distribution globally?,FAC
+What measures can be taken to mitigate the effects of urban heat islands due to climate change?,FAC
+Describe the impact of climate change on global health, particularly in terms of infectious diseases.,FAC
+In what ways have extreme weather events intensified as a result of climate change?,FAC
+How does air pollution contribute to and affect climate change impacts globally?,FAC
+What are some adaptive strategies communities can implement to cope with increasing temperatures due to climate change?,FAC
+Can you elaborate on the effects of ocean acidification caused by climate change on marine life?,FAC
+How do changes in precipitation patterns due to climate change impact food security?,FAC
+In what ways has climate change influenced global migration and displacement patterns?,FAC
+What are the economic implications of climate change impacts, particularly for developing countries?,FAC
+Describe the role of renewable energy in mitigating climate change impacts.,FAC
+How does climate change affect water resources management and allocation strategies globally?,FAC
+Can you discuss the impact of melting glaciers on local communities and ecosystems due to climate change?,FAC
+What are some key challenges faced by urban areas in adapting to climate change impacts such as heatwaves and flooding?,FAC
+How do changes in seasonal patterns influence agricultural practices worldwide, particularly with regard to planting and harvesting times due to climate change?,FAC
+What are the primary climate impacts affecting agricultural production in France?,GPE
+How has sea-level rise affected coastal areas of Bangladesh?,GPE
+In what ways have heatwaves intensified in India due to climate change?,GPE
+What measures is Brazil taking to mitigate deforestation-related climate impacts?,GPE
+How has Australia addressed the increase in bushfire frequency due to rising temperatures?,GPE
+What are the key challenges facing Egypt's Nile Delta due to climate-induced sea-level rise?,GPE
+In what ways has the water scarcity issue been exacerbated by climate change in South Africa?,GPE
+How have drought conditions impacted food security in Ethiopia?,GPE
+What strategies is Canada employing to protect Arctic communities from permafrost thawing?,GPE
+How does increased precipitation variability affect flood management in Germany?,GPE
+What are the main impacts of glacier melting on water supply in Nepal?,GPE
+In what ways have coral reef degradation due to warming seas affected tourism in Australia?,GPE
+How has climate change intensified hurricanes affecting the United States?,GPE
+What steps is China taking to address air pollution exacerbated by climate conditions?,GPE
+How are rising temperatures impacting urban infrastructure in cities of Pakistan?,GPE
+In what ways have coastal erosion issues been addressed in response to climate change in The Netherlands?,GPE
+What measures has Japan implemented to protect against typhoon intensification due to warming seas?,GPE
+How does El Niño affect agricultural cycles in Peru due to its influence on climate patterns?,GPE
+What are the implications of melting ice caps for indigenous communities in Greenland?,GPE
+In what ways have changes in precipitation patterns affected hydropower generation in Norway?,GPE
+What languages are most commonly used in discussions about the impacts of climate change on biodiversity?,LANGUAGE
+How does the use of indigenous languages affect the understanding and preservation of traditional knowledge related to climate impacts?,LANGUAGE
+In what ways do language barriers impact the dissemination of climate change information in multilingual regions?,LANGUAGE
+Which languages have the richest vocabulary for describing climate phenomena unique to their geographical locations?,LANGUAGE
+What role do translation services play in ensuring that climate change reports are accessible to non-English speaking populations?,LANGUAGE
+How can language learning programs incorporate content related to the impacts of climate change to enhance global awareness?,LANGUAGE
+Are there specific phrases or terms in different languages that better convey the urgency of addressing climate impacts?,LANGUAGE
+What strategies are used by international organizations to make climate impact reports comprehensible across various linguistic communities?,LANGUAGE
+How do language policies within countries influence public discourse and action on mitigating climate change impacts?,LANGUAGE
+Can you explain how multilingual approaches can improve global cooperation in responding to climate change threats?,LANGUAGE
+What is the importance of using local languages in climate education programs for community-specific adaptation strategies?,LANGUAGE
+Are there examples where the loss of a language has also meant the loss of traditional environmental knowledge related to climate?,LANGUAGE
+How do language differences affect the accuracy and reliability of translating climate impact studies across different regions?,LANGUAGE
+In what ways can incorporating multiple languages in climate research publications enhance global scientific collaboration?,LANGUAGE
+What challenges do scientists face when trying to communicate complex climate impacts through non-specialist, local languages?,LANGUAGE
+How does the dominance of English as a scientific language affect the participation and contribution of non-English speaking researchers in climate studies?,LANGUAGE
+Could you discuss the impact of language on the effectiveness of international climate agreements and their implementation strategies?,LANGUAGE
+What are some initiatives that use technology to overcome language barriers in spreading awareness about climate impacts globally?,LANGUAGE
+How do languages used in literature and media influence public perception and action towards addressing climate change?,LANGUAGE
+Can bilingual or multilingual environmental policies be more effective in engaging a broader audience on climate issues?,LANGUAGE
+What laws govern international cooperation in mitigating climate impacts?,LAW
+How do national laws address the adaptation to climate change impacts on agriculture?,LAW
+Which legal frameworks are primarily responsible for regulating greenhouse gas emissions from industrial sources?,LAW
+Can you explain how local ordinances influence climate resilience measures in urban areas?,LAW
+What role does international environmental law play in addressing cross-border pollution that contributes to climate change?,LAW
+How do existing trade laws impact the global market for renewable energy technologies and thereby affect climate outcomes?,LAW
+Which specific laws mandate the reporting of greenhouse gas emissions by corporations?,LAW
+In what ways can state-level building codes contribute to reducing buildings' carbon footprints in light of climate impacts?,LAW
+What legal measures are in place to protect biodiversity from the effects of climate change-induced habitat loss?,LAW
+How do national water resource management laws address the variability and unpredictability caused by climate change?,LAW
+Which legislative actions can be taken at a federal level to support communities vulnerable to sea-level rise due to climate impacts?,LAW
+What are the legal mechanisms for enforcing compliance with international agreements on reducing carbon emissions?,LAW
+How do local zoning laws impact the development of renewable energy projects in response to climate change?,LAW
+Can you outline the legal provisions that allow for the designation of protected areas aimed at mitigating climate change impacts?,LAW
+What role does environmental impact assessment legislation play in shaping infrastructure projects in light of potential climate impacts?,LAW
+Which laws regulate the transportation sector's contribution to greenhouse gas emissions, aiming to mitigate climate change?,LAW
+How do international agreements on waste management contribute to reducing methane and other potent greenhouse gases linked to climate impacts?,LAW
+What legal frameworks are designed to support research and development into technologies that can reduce or remove atmospheric carbon dioxide in response to climate impacts?,LAW
+Which national laws provide a basis for the creation of carbon markets as part of broader efforts to address climate change impacts?,LAW
+How do domestic policies on land use and forestry contribute to addressing climate change through sequestration of carbon emissions?,LAW
+How has the climate change affected agriculture in Africa?,LOC
+What are the main impacts of rising sea levels on coastal areas in Australia?,LOC
+How is deforestation in the Amazon rainforest impacting global climate patterns?,LOC
+Can you describe the effects of melting glaciers on water supply in the Andes?,LOC
+In what ways has climate change influenced biodiversity in the Arctic region?,LOC
+What are the primary challenges faced by coral reefs in the Great Barrier Reef due to climate change?,LOC
+How is the frequency and severity of droughts changing in Europe due to climate impacts?,LOC
+Could you explain how urban heat islands affect cities in North America differently than rural areas?,LOC
+What measures are being taken to combat desertification in Africa's Sahel region?,LOC
+How have temperature increases impacted crop yields in South Asia over the past decade?,LOC
+What are the implications of sea-level rise for low-lying island nations in the Pacific Ocean?,LOC
+Can you discuss the impact of climate change on river flows in Southeast Asia?,LOC
+What strategies are coastal communities in Bangladesh employing to adapt to increased flooding due to climate change?,LOC
+How has the frequency and intensity of hurricanes changed in the Caribbean Sea due to climate impacts?,LOC
+Could you explain the effects of ocean acidification on marine life around the Antarctic region?,LOC
+In what ways is permafrost thaw affecting infrastructure in Northern Canada?,LOC
+What are some specific examples of how climate change has impacted wildlife migration patterns in Africa?,LOC
+How have changes in rainfall patterns affected water management practices in China's Yangtze River Basin?,LOC
+Could you describe the impact of heatwaves on public health in cities across Europe due to climate change?,LOC
+What measures are being implemented to protect ecosystems from the effects of wildfires in California, USA?,LOC
+What are the estimated costs for coastal cities to adapt to rising sea levels due to climate change?,MONEY
+How much does it cost annually to maintain and expand renewable energy infrastructure in developing countries affected by climate impacts?,MONEY
+What is the projected financial loss to global agriculture industries due to extreme weather events intensified by climate change over the next decade?,MONEY
+Can you provide an estimate of how much money will be required for insurance companies to cover claims related to climate-induced disasters in 2030?,MONEY
+How much funding is needed annually to support research and development in clean technologies aimed at mitigating climate impacts?,MONEY
+What are the financial implications, in terms of lost earnings, for small island developing states due to rising sea levels by 2050?,MONEY
+Estimate the cost of relocating populations from areas prone to flooding and other severe weather events exacerbated by climate change.,MONEY
+How much would it cost governments worldwide to implement all necessary infrastructure upgrades to protect against climate-induced natural disasters over the next five years?,MONEY
+What is the total monetary damage estimated for the global tourism industry due to climate impacts, such as coral bleaching and loss of attractions, by 2040?,MONEY
+Can you give an estimate on how much money will be required for rebuilding after a major climate-induced disaster in a developed country?,MONEY
+What is the projected cost increase for food production due to decreased crop yields caused by higher temperatures and erratic weather patterns linked to climate change?,MONEY
+How much additional financial support do developing countries need each year to effectively address and adapt to the impacts of climate change?,MONEY
+Estimate the yearly cost for healthcare systems globally as a result of increased frequency and severity of heatwaves, respiratory issues from air pollution, and vector-borne diseases due to climate change.,MONEY
+What are the financial costs associated with lost work days and productivity in industries affected by extreme weather conditions intensified by climate impacts?,MONEY
+How much money is expected to be spent on emergency services and disaster relief worldwide due to more frequent and severe natural disasters caused by climate change over the next 20 years?,MONEY
+What are the economic losses anticipated from reduced water availability for agricultural use in regions experiencing droughts exacerbated by climate change over the next decade?,MONEY
+Can you provide an estimate on how much money will be required to invest annually in green energy projects worldwide to mitigate the effects of climate change and meet international agreements such as the Paris Accord?,MONEY
+What is the projected financial cost for businesses globally due to supply chain disruptions caused by extreme weather events made more severe by climate impacts over the next 30 years?,MONEY
+How much additional investment will be required in adaptation technologies, such as flood barriers and drought-resistant crops, to mitigate the economic impact of climate change on vulnerable communities?,MONEY
+What is the total financial burden expected for property owners globally due to increased insurance premiums and repairs caused by climate-induced natural disasters over the next 50 years?,MONEY
+How have the agricultural practices of the Maasai people been affected by climate change?,NORP
+What are the traditional climate adaptation strategies used by the Inuit in response to global warming?,NORP
+In what ways has climate change impacted the nomadic lifestyle of the Bedouin tribes?,NORP
+How have the indigenous people of the Amazon Rainforest, such as the Yanomami, been affected by increased deforestation and rising temperatures due to climate change?,NORP
+What role do the Sami reindeer herders play in monitoring the effects of climate change on their traditional lands?,NORP
+How has climate change influenced the migration patterns of the Tuareg people across North Africa?,NORP
+Can you explain how rising sea levels affect the lifestyle and culture of the Moken, a sea-nomadic people from Southeast Asia?,NORP
+What challenges have the Bajau Laut, known as "sea gypsies," faced due to climate change in their maritime territories?,NORP
+How has the climate impact on water resources affected the livelihoods of the Nenet reindeer herders in Siberia?,NORP
+In what ways are the Tuvaluans adapting to rising sea levels and increased saltwater intrusion into freshwater sources?,NORP
+What are the impacts of drought, exacerbated by climate change, on the Maasai communities' cattle herding practices?,NORP
+How have the traditional fishing methods of the Moken people been affected by warmer ocean temperatures and changing fish migration patterns due to climate change?,NORP
+In what ways has permafrost thawing influenced the living conditions of the Inupiat in Alaska?,NORP
+What are some specific examples of how climate impacts, such as increased rainfall and flooding, have affected the Dayak communities in Borneo?,NORP
+How do the Matsés people adapt their hunting practices to changes in animal migration patterns due to a warming climate?,NORP
+Can you describe the strategies employed by the Sherpa community in Nepal to cope with glacial melting caused by rising temperatures?,NORP
+What role do the Masai play in managing wildlife conservation areas that are affected by climate change in East Africa?,NORP
+How have fishing communities like the Bajau Laut adapted their traditional way of life due to changes in marine ecosystems from climate change?,NORP
+In what ways has the Nenet people's reindeer herding been impacted by warmer winters and changing landscapes in Siberia due to climate change?,NORP
+What are some unique challenges faced by the Saami, an indigenous group in Scandinavia, due to changes in weather patterns affecting their traditional semi-nomadic lifestyle?,NORP
+What is the first effect of climate change on global sea levels?,ORDINAL
+Which is the second largest glacier affected by climate change?,ORDINAL
+How does the third most populous city in the world prepare for climate impacts?,ORDINAL
+Can you name the fifth continent to experience a significant rise in temperature due to climate change?,ORDINAL
+What are the primary crops grown in the fourth most affected region by droughts caused by climate change?,ORDINAL
+Which is the seventh largest river experiencing changes due to climate-induced rainfall patterns?,ORDINAL
+How has the sixth biggest coral reef system been impacted by rising sea temperatures?,ORDINAL
+Can you identify the third highest mountain whose snow line is retreating due to climate change?,ORDINAL
+What actions have been taken in the fifth most populated country to mitigate climate impacts on agriculture?,ORDINAL
+Which natural disaster is considered the first major indicator of climate change impact in coastal areas?,ORDINAL
+How does the second largest rainforest contribute to mitigating global warming effects?,ORDINAL
+What changes has the eighth longest coastline experienced due to sea-level rise from climate change?,ORDINAL
+Can you discuss the impacts on the fourth most biodiverse ecosystem under threat by climate change?,ORDINAL
+Which is the tenth biggest lake facing challenges due to altered precipitation patterns caused by climate change?,ORDINAL
+How are communities in the seventh largest country adapting to rising temperatures and increased droughts caused by climate change?,ORDINAL
+Can you explain how the ninth largest desert's expansion relates to global warming effects?,ORDINAL
+What measures have been implemented by the fourth largest urban area to reduce its carbon footprint due to climate impacts?,ORDINAL
+How does the eleventh most affected region experience climate-induced health issues among its population?,ORDINAL
+Which is the sixth oldest city dealing with increased flooding incidents as a result of climate change effects?,ORDINAL
+What initiatives are in place by the fifth largest country's government to address climate impacts on water scarcity?,ORDINAL
+How has the World Bank addressed climate impacts in its investment strategies?,ORG
+What initiatives have been launched by Greenpeace to combat the effects of climate change on biodiversity?,ORG
+In what ways does the United Nations Environment Programme (UNEP) support countries in adapting to climate impacts?,ORG
+Which technologies for reducing carbon emissions are being developed with support from the European Union?,ORG
+How is the Intergovernmental Panel on Climate Change (IPCC) influencing policy decisions regarding climate adaptation strategies globally?,ORG
+What role does the Global Environment Facility play in financing projects that mitigate climate impacts?,ORG
+Can you explain how the International Energy Agency supports nations in transitioning to renewable energy sources to combat climate change?,ORG
+How has the Nature Conservancy contributed to resilience against climate impacts through its conservation efforts?,ORG
+Which partnerships has the World Wildlife Fund (WWF) established to enhance local communities' ability to cope with climate change effects?,ORG
+What is the Asian Development Bank's strategy for incorporating climate risks into infrastructure projects in Asia and the Pacific?,ORG
+How does the Climate Action Network encourage governments worldwide to implement policies that address climate impacts?,ORG
+In what capacity has the African Union been involved in developing strategies to deal with the increasing droughts due to climate change?,ORG
+What actions have been taken by the American Lung Association to protect public health from the respiratory effects of air pollution exacerbated by climate change?,ORG
+How does Oxfam work towards reducing vulnerability and enhancing adaptive capacities in communities affected by climate impacts?,ORG
+Which projects has the Red Cross Red Crescent Climate Centre initiated to improve early warning systems for extreme weather events?,ORG
+What are some key recommendations made by The Nature Conservancy for cities facing severe flooding due to climate change?,ORG
+How does the National Wildlife Federation engage with policymakers and communities in addressing wildlife conservation challenges posed by climate impacts?,ORG
+Which research collaborations has the Center for Climate and Energy Solutions established to advance solutions to global warming?,ORG
+What is the role of Conservation International in promoting forest preservation as a means to mitigate climate impacts?,ORG
+How does the Environmental Defense Fund advocate for legislative measures that reduce greenhouse gas emissions contributing to climate change?,ORG
+What percent of global greenhouse gas emissions are attributed to deforestation?,PERCENT
+By what percentage has the Earth's average surface temperature increased since the pre-industrial era due to climate change?,PERCENT
+How much did the concentration of CO2 in the atmosphere increase from 2019 to 2020 as a percentage?,PERCENT
+What percent decrease in Arctic sea ice thickness has been observed over the past few decades?,PERCENT
+By what percentage are coral reefs expected to decline if global temperatures rise by an additional half-degree Celsius?,PERCENT
+How much, in terms of percentage, have glaciers worldwide shrunk since the 1960s due to climate change?,PERCENT
+What percent increase in extreme weather events can be attributed to human-induced climate change according to recent studies?,PERCENT
+By what percentage has global sea level risen over the past century?,PERCENT
+How much of a reduction, in terms of percentage, is needed in CO2 emissions by 2050 to limit warming to 1.5 degrees Celsius?,PERCENT
+What percent of species are at higher risk of extinction due to climate change impacts on their habitats?,PERCENT
+By what percentage have droughts increased globally since the beginning of the 20th century?,PERCENT
+How much, in terms of percentage, has agricultural productivity declined in some areas due to changes in rainfall patterns and temperature increases?,PERCENT
+What percent increase in global food prices could result from the impacts of climate change on crop yields by 2050?,PERCENT
+By what percentage are coastal flooding events expected to increase if sea levels continue to rise at current rates?,PERCENT
+How much, as a percentage, has the frequency of Category 4 and 5 hurricanes increased since the early 1980s due to climate change impacts on ocean temperatures?,PERCENT
+What percent of global freshwater resources are projected to be under significant stress by mid-century because of climate change?,PERCENT
+By what percentage have marine heatwave occurrences increased over the last century as a result of rising sea surface temperatures?,PERCENT
+How much, in terms of percentage, has air pollution contributed to premature deaths around the world due to changes in wind patterns caused by climate change?,PERCENT
+What percent reduction in forested areas could occur if current trends in deforestation and climate change continue over the next 50 years?,PERCENT
+By what percentage have wildfires increased in frequency and intensity across various regions of the globe as a result of rising temperatures and changing precipitation patterns due to climate change?,PERCENT
+How has Al Gore's advocacy influenced public perception of climate impacts?,PERSON
+What role does Michael Mann play in the research on global warming effects?,PERSON
+In what ways has Jane Goodall contributed to understanding the impact of climate change on wildlife?,PERSON
+How does Christiana Figueres' leadership affect international efforts against climate impacts?,PERSON
+Can you explain the contributions of James Hansen in alerting the public about climate change consequences?,PERSON
+What influence does Greta Thunberg have on young people regarding awareness of climate impacts?,PERSON
+In what capacity has Rajendra Pachauri impacted the IPCC's reports on climate change?,PERSON
+How did Bill McKibben’s activism highlight the urgency of addressing climate impacts?,PERSON
+Can you describe the efforts by Arnold Schwarzenegger in promoting renewable energy to combat climate effects?,PERSON
+What are some initiatives taken by Elon Musk that address the issue of climate impacts?,PERSON
+In what ways has Naomi Klein's work impacted public discourse on climate change?,PERSON
+How does Antonio Guterres' role as UN Secretary-General influence global strategies against climate impacts?,PERSON
+Can you discuss the involvement of Alastair Cameron in studying the effects of climate change on ecosystems?,PERSON
+What are the contributions of Katharine Hayhoe in communicating the science behind climate impacts to the general public?,PERSON
+How has Leonardo DiCaprio's philanthropy affected awareness and action towards mitigating climate impacts?,PERSON
+Can you explain the role of David Keith in researching technologies to mitigate climate effects?,PERSON
+In what ways does Johan Rockström contribute to understanding planetary boundaries related to climate change?,PERSON
+What influence does Vandana Shiva have on discussions about sustainable agriculture in the context of climate impacts?,PERSON
+How has Mark Lynas impacted debates surrounding genetically modified organisms as a solution to climate effects?,PERSON
+Can you discuss the role of Connie Hedegaard in European Union's policies aimed at reducing greenhouse gas emissions?,PERSON
+How does climate change affect the durability of solar panels?,PRODUCT
+What are the impacts of rising temperatures on electric vehicle battery life?,PRODUCT
+Can extreme weather events due to climate change damage wind turbines?,PRODUCT
+How do changing rainfall patterns influence the performance of agricultural drones?,PRODUCT
+Are smart thermostats designed to cope with fluctuating seasonal temperature variations caused by climate change?,PRODUCT
+In what ways does increased air pollution, a consequence of climate change, affect HVAC systems?,PRODUCT
+What measures can be taken to ensure the reliability of water purification filters in the face of changing climatic conditions?,PRODUCT
+How do shifts in temperature impact the efficiency of heat pumps as a result of climate change?,PRODUCT
+Are there specific requirements for designing climate-resilient laptops that can withstand extreme weather events?,PRODUCT
+Can you explain how global warming influences the lifespan of refrigerators?,PRODUCT
+What are the effects of increased humidity, due to climate change, on clothes dryers?,PRODUCT
+How does climate impact the performance and longevity of LED lighting systems?,PRODUCT
+Are there any innovations in the design of washing machines to cope with water scarcity issues caused by climate change?,PRODUCT
+In what ways do changing weather patterns influence the operational efficiency of home security cameras?,PRODUCT
+What are the potential impacts of sea-level rise on the durability of marine navigation equipment such as GPS devices?,PRODUCT
+How can manufacturers ensure that smart home devices remain functional in extreme heat conditions due to climate change?,PRODUCT
+Are there any specific features in air purifiers designed for environments with higher levels of pollution caused by climate change?,PRODUCT
+What is the impact of climate change on the efficiency and lifespan of electric water heaters?,PRODUCT
+Can you discuss how the changing climate affects the performance of indoor air quality monitors?,PRODUCT
+How does increased frequency of storms due to climate change influence the structural integrity of solar panel mounting systems?,PRODUCT
+What percentage of global greenhouse gas emissions come from deforestation?,QUANTITY
+How many gigatons of CO2 were emitted globally in 2019 due to human activities?,QUANTITY
+Approximately how many degrees Celsius has the Earth's average temperature risen since pre-industrial times?,QUANTITY
+By what percentage have sea levels risen over the last century?,QUANTITY
+What is the estimated number of species at risk of extinction due to climate change by 2050?,QUANTITY
+How much land area, in square kilometers, has been affected by desertification globally?,QUANTITY
+What is the approximate increase in ocean acidity since pre-industrial times as a percentage?,QUANTITY
+How many more extreme weather events have there been over the past decade compared to the 1980s and 1990s?,QUANTITY
+In terms of volume, how much ice has melted from glaciers globally each year on average in recent years, measured in cubic kilometers?,QUANTITY
+What is the projected increase in global temperature by the end of this century if greenhouse gas emissions continue at their current rate, in degrees Celsius?,QUANTITY
+How many metric tons of carbon dioxide are released into the atmosphere annually due to fossil fuel use alone?,QUANTITY
+By what factor has the frequency of extreme heatwaves increased since 1950 due to climate change?,QUANTITY
+What is the estimated number of people who will be displaced by 2050 due to climate impacts, in millions?,QUANTITY
+How many billion metric tons of CO2 could reforestation efforts potentially sequester from the atmosphere each year by 2050 if ambitious goals are met?,QUANTITY
+What is the average increase in ocean heat content since 1970 as a percentage?,QUANTITY
+By what number has the rate of global ice sheet loss increased over the past two decades compared to the previous two decades, expressed as a multiplication factor?,QUANTITY
+How many hectares of forest are lost annually due to deforestation and other land-use changes?,QUANTITY
+What is the projected sea level rise by 2100, measured in millimeters if current trends continue unchecked?,QUANTITY
+By what percentage has the Arctic sea ice volume decreased over the past four decades?,QUANTITY
+How many billion cubic meters of freshwater are lost to glaciers melting each year globally?,QUANTITY
+How has climate change affected global temperatures over the last century?,TIME
+What were the main climatic conditions 10,000 years ago during the Holocene epoch?,TIME
+By what year is it predicted that Arctic sea ice will be completely gone in summer due to warming trends?,TIME
+In which decade did scientists first publish warnings about the dangers of global warming?,TIME
+How has precipitation changed since the beginning of the 21st century?,TIME
+What was the average temperature increase from pre-industrial times until now?,TIME
+During which period did ice core samples show the highest levels of carbon dioxide?,TIME
+By when do projections suggest that sea levels could rise by one meter due to climate change?,TIME
+How long have coral reefs been present on Earth before significant impacts from climate change began affecting them?,TIME
+What year marked a significant increase in global temperatures according to historical records?,TIME
+Which years saw the most extreme weather events linked to climate change in recent history?,TIME
+When did the Intergovernmental Panel on Climate Change (IPCC) release its first comprehensive assessment report?,TIME
+How long does it take for carbon dioxide levels to decrease after emissions are reduced globally?,TIME
+What is the time frame over which paleoclimatologists study past climate conditions using ice cores and tree rings?,TIME
+When did deforestation begin significantly impacting local climates around the world?,TIME
+Over what period have global temperatures risen by approximately 1 degree Celsius since the pre-industrial era?,TIME
+How many years has it taken for the Earth's average temperature to warm up by about half a degree Celsius due to human activities?,TIME
+What time frame do climate models typically use when projecting future climate conditions under different emission scenarios?,TIME
+When did scientists first observe widespread glacier retreat as an indicator of global warming?,TIME
+How many years ago did the last Ice Age end, marking the beginning of our current warm period called the Holocene epoch?,TIME
+How does "The Great Wave off Kanagawa" reflect the climate conditions of its time?,WORK_OF_ART
+What message about climate change is conveyed in Leonardo DiCaprio's documentary "Before the Flood"?,WORK_OF_ART
+In what way does the painting "Sunset Over the Sea" depict the effects of changing climates on marine life?,WORK_OF_ART
+How has the sculpture "Ice Watch" by Olafur Eliasson highlighted the issue of melting ice caps due to climate change?,WORK_OF_ART
+What is the portrayal of climate impacts in the novel "Flight Behavior" by Barbara Kingsolver?,WORK_OF_ART
+Does the documentary film "An Inconvenient Truth" effectively communicate the urgency of addressing global warming issues?,WORK_OF_ART
+How does the play "The Climate Wars" address the political and social implications of climate change?,WORK_OF_ART
+In what ways has the artwork "Warming World: 1850-2050" by various artists visually represented the projected impacts of climate change?,WORK_OF_ART
+What is the main theme related to climate in the song "The Times They Are A-Changin'" by Bob Dylan?,WORK_OF_ART
+How does the painting series "Meltdown" capture the essence of glacial retreat due to rising temperatures?,WORK_OF_ART
+Can the poem "Elegy for the Arctic" be considered a lamentation over the loss of ice caps due to global warming?,WORK_OF_ART
+What is the significance of the mural "Climate Hope" in raising awareness about renewable energy solutions?,WORK_OF_ART
+In what way does the film "2040" envision a hopeful future concerning climate impacts and sustainability efforts?,WORK_OF_ART
+How do the illustrations in the children's book "The Lorax" relate to environmental degradation caused by human activity?,WORK_OF_ART
+What narrative about climate change is explored in the graphic novel "This Changes Everything"? ,WORK_OF_ART
+Does the art installation "Fossil Fuels" critique our dependency on non-renewable resources that contribute to climate impacts?,WORK_OF_ART
+How does the photography series "Before They Are Gone" document the disappearing landscapes due to environmental changes?,WORK_OF_ART
+What aspects of climate change are highlighted in the song "This Too Shall Pass" by Foo Fighters when interpreted metaphorically for our times?,WORK_OF_ART
+In what ways has the artwork "Greenhouse Effect" used color and form to express the idea of a warming planet?,WORK_OF_ART
+How does the sculpture "Carbon Sink" symbolize the urgency to address carbon emissions and their impact on the environment?,WORK_OF_ART
+What percentage of the world's coral reefs are at risk due to climate change?,PERCENT
+How many billion tons of CO2 were emitted globally in 2019?,CARDINAL
+By what year is it predicted that Arctic summers will be largely free of sea ice if current trends continue?,DATE
+Which global event led to a temporary reduction in carbon emissions in early 2020 due to lockdown measures?,EVENT
+What famous landmark might be permanently altered by rising sea levels?,FAC
+How does climate change affect the frequency and intensity of hurricanes hitting the Gulf Coast region (GPE)?,GPE
+In which language are most climate science reports written that influence international policy?,LANGUAGE
+Which piece of legislation in the United States aims to address greenhouse gas emissions?,LAW
+What location is considered a hot spot for glacier melting due to global warming?,LOC
+How much money was pledged by developed countries at COP26 to help developing nations adapt to and mitigate climate change impacts?,MONEY
+Which non-governmental organization (NORP) has been most influential in spreading awareness about the urgency of climate action?,NORP
+What is the third leading cause of biodiversity loss due to climate impacts, after habitat destruction and pollution?,ORDINAL
+How does climate impact research funded by the National Science Foundation contribute to our understanding of global warming?,ORG
+What percentage of global greenhouse gas emissions come from deforestation activities?,PERCENT
+Who is the primary author of the influential book "Silent Spring" that helped launch the modern environmental movement?,PERSON
+Which smartphone app (PRODUCT) can accurately measure local air quality and pollution levels due to climate change impacts?,PRODUCT
+How many meters has the global sea level risen since 1900 according to recent studies?,QUANTITY
+What time of year does El Niño typically occur, affecting weather patterns worldwide?,TIME
+Name a work of art that highlights the impact of climate change on human societies.,WORK_OF_ART
+Which historical event led to significant international cooperation in addressing climate change through setting binding emission reduction targets for developed countries?,EVENT

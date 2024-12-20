@@ -1,0 +1,369 @@
+Question,Entity-Type
+How many pairs of chromosomes are typically found in human cells?,CARDINAL
+What is the approximate number of genes in the human genome?,CARDINAL
+How many base pairs does the average human chromosome contain?,CARDINAL
+In a standard diploid cell, how many copies of each chromosome are present?,CARDINAL
+What percentage of the human genome is composed of protein-coding DNA sequences approximately?,CARDINAL
+How many autosomal chromosomes do humans have in addition to sex chromosomes?,CARDINAL
+Approximately how many different alleles can a gene have in a population?,CARDINAL
+On average, how many mutations occur per generation in human genetics?,CARDINAL
+What is the typical number of nucleotides that make up a short tandem repeat (STR) locus in forensic DNA profiling?,CARDINAL
+How many types of RNA are involved in protein synthesis within cells?,CARDINAL
+In genetic crosses, if you cross two heterozygous organisms for a single trait, what percentage of offspring would be expected to show the recessive phenotype assuming complete dominance?,CARDINAL
+What is the approximate number of mitochondria DNA (mtDNA) molecules per cell?,CARDINAL
+How many different amino acids are there that can be encoded by mRNA sequences in protein synthesis?,CARDINAL
+In a Punnett square for a dihybrid cross, how many boxes would you typically draw to represent all possible combinations?,CARDINAL
+What is the number of chromosomes in a gamete compared to somatic cells in organisms with sexual reproduction?,CARDINAL
+How many daughter chromosomes are produced from one parent chromosome during mitosis?,CARDINAL
+In humans, approximately how many genes are associated with genetic disorders as of now?,CARDINAL
+What percentage of DNA sequences do humans share with their closest living relatives, the chimpanzees and bonobos?,CARDINAL
+How many exons can a single human gene contain at maximum based on current research?,CARDINAL
+How many different blood types exist in the ABO system when considering both antigens and antibodies present?,CARDINAL
+When was the Human Genome Project completed?,DATE
+What date marks the discovery of the DNA double helix structure by Watson and Crick?,DATE
+In what year did Barbara McClintock receive the Nobel Prize in Physiology or Medicine for her genetic research?,DATE
+On which date did the first genetically modified organism (GMO) patent get issued in the United States?,DATE
+When was the first successful human gene therapy treatment conducted?,DATE
+What is the date of publication for James Watson's and Francis Crick's seminal paper on DNA structure?,DATE
+On what date did Gregor Mendel present his genetic research findings to the Brünn Natural History Society?,DATE
+Which year saw the birth of the field of epigenetics with the discovery of transposons by Barbara McClintock?,DATE
+What was the release date for the first draft of the human genome sequence by the Human Genome Project consortium?,DATE
+On which date did Rosalind Franklin present her critical X-ray diffraction images of DNA to Maurice Wilkins and James Watson?,DATE
+When did the Genetic Information Nondiscrimination Act (GINA) become law in the United States?,DATE
+What year marked the beginning of the CRISPR-Cas9 revolution in genetic engineering technology?,DATE
+On what date was the first genetically modified animal, a mouse, successfully created by scientists at Harvard University?,DATE
+Which year saw the cloning of Dolly the sheep, marking a significant milestone in genetic research and biotechnology?,DATE
+When did the European Patent Office issue its first patent for a genetically modified organism (GMO)?,DATE
+What is the date when the term "genetics" was coined by William Bateson?,DATE
+In what year did scientists sequence the genome of Neanderthals for the first time?,DATE
+On which date did the United Nations adopt the Universal Declaration on the Human Genome and Human Rights?,DATE
+When did the first successful cloning of a mammal from an adult somatic cell occur, leading to Dolly the sheep's birth?,DATE
+What year was marked by the sequencing of the complete human genome for the first time as part of the HapMap Project?,DATE
+What event triggered the Human Genome Project's completion in 2003?,Event
+When was the discovery of DNA's double helix structure announced by Watson and Crick?,Event
+Which historical event led to the development of genetic engineering techniques in the early 1970s?,Event
+In what year did CRISPR-Cas9 gene editing technology become widely recognized for its precision and ease of use?,Event
+What significant event marked the first successful cloning of a mammal, Dolly the sheep, in 1996?,Event
+When was the Genetic Information Nondiscrimination Act (GINA) passed in the United States to prevent discrimination based on genetic information?,Event
+Which pivotal moment led to the sequencing of the first full human genome in 2000 as part of the Human Genome Project?,Event
+What event involved the mapping and sequencing of the rice genome, which was completed in 2001?,Event
+When did scientists announce the successful editing of genes in human embryos using CRISPR-Cas9 for the first time?,Event
+Which event led to the understanding that mitochondrial DNA is inherited solely from the mother?,Event
+What significant event occurred when the ethical considerations surrounding genetic modification came into public debate in the early 2000s?,Event
+When did the first successful gene therapy treatment take place, marking a milestone in genetic medicine?,Event
+In which year was the discovery of RNA interference, a mechanism that regulates gene expression, awarded with the Nobel Prize in Physiology or Medicine?,Event
+What event led to the realization and acceptance of epigenetics as an important field within genetics?,Event
+When did the first genetically modified organism (GMO) receive approval for commercial release, marking the beginning of GMO agriculture?,Event
+Which historical event caused a significant shift in genetic research from individual genes to complex interactions between multiple genes and environmental factors?,Event
+What significant event marked the announcement of the Neanderthal Genome Project's completion in 2010?,Event
+When was the first synthetic cell created, marking a major milestone in genetics and biotechnology?,Event
+Which event led to the discovery that telomeres play a critical role in aging and cancer by protecting chromosome ends?,Event
+What significant genetic event occurred when researchers successfully mapped the genome of an extinct species for the first time in 2008?,Event
+What is the function of DNA in遗传学中的DNA功能是什么?,FAC
+How do genes determine physical traits such as eye color and height?,FAC
+Can mutations lead to genetic disorders like cystic fibrosis or sickle cell anemia?,FAC
+What role does RNA play in protein synthesis within a cell?,FAC
+Is it possible for two parents with brown eyes to have a child with blue eyes due to recessive genes?,FAC
+How does the process of meiosis contribute to genetic diversity among offspring?,FAC
+What are the ethical considerations surrounding gene editing technologies like CRISPR?,FAC
+Can environmental factors influence the expression of certain genes through epigenetics?,FAC
+In genetics, what is the difference between genotype and phenotype?,FAC
+How does the study of chromosomes help in understanding hereditary diseases?,FAC
+What are the potential risks associated with genetically modified organisms (GMOs)?,FAC
+Can genetic testing predict an individual's susceptibility to certain diseases like breast cancer or Alzheimer's?,FAC
+How do mitochondrial DNA mutations affect energy production in cells and lead to disorders?,FAC
+What is the significance of the Human Genome Project in advancing our understanding of genetics?,FAC
+How does the concept of natural selection explain the variation in genetic traits within a species over time?,FAC
+Can prenatal genetic testing provide information about potential birth defects or chromosomal abnormalities in unborn babies?,FAC
+What role do regulatory genes play in controlling when other genes are turned on or off during development?,FAC
+How does the inheritance of X-linked recessive disorders differ between males and females?,FAC
+In genetics, how does a carrier status influence the probability of passing on a genetic disorder to offspring?,FAC
+Can twin studies help researchers understand the relative contributions of genes versus environment in determining certain traits or behaviors?,FAC
+What role did Germany play in the early development of genetics?,GPE
+How has genetic research in China contributed to global medical advancements?,GPE
+In what ways has the United Kingdom influenced modern genetic engineering practices?,GPE
+What significant discoveries were made by scientists from France in the field of genetics?,GPE
+Has India implemented any unique policies regarding genetic testing and privacy?,GPE
+Which countries are leading in gene editing technology, particularly CRISPR research?,GPE
+How has Brazil's diversity contributed to studies in human genetics?,GPE
+What impact has Japan had on agricultural genetics through selective breeding techniques?,GPE
+Can you describe the ethical guidelines for genetic modification established by Canada?,GPE
+What contributions have scientists from Russia made to understanding inherited diseases?,GPE
+How does Australia regulate gene patenting and its use in medical treatments?,GPE
+Which African countries are at the forefront of applying genetics to improve crop yields?,GPE
+Has South Africa faced any challenges with genetic modification laws concerning agriculture?,GPE
+What role has Italy played in advancing human genome sequencing technologies?,GPE
+In what ways has Mexico contributed to maize genetics and its global distribution?,GPE
+How does Switzerland support research into genetically modified organisms (GMOs) in the EU context?,GPE
+Are there any notable genetic studies conducted by researchers from Iran on rare diseases?,GPE
+What are some of the key genetic discoveries made at universities in Turkey?,GPE
+How influential has Israel been in developing gene therapy for hereditary conditions?,GPE
+Has the Netherlands experienced public resistance to genetic modification technology in agriculture?,GPE
+What is the genetic code primarily composed of?,LANGUAGE
+How do mutations in genes affect an organism's traits?,LANGUAGE
+Can you explain what a gene mutation is and its types?,LANGUAGE
+What role does DNA play in genetics?,LANGUAGE
+How is RNA involved in the process of protein synthesis from genes?,LANGUAGE
+Explain the concept of genetic inheritance.,LANGUAGE
+What are the differences between dominant and recessive genes?,LANGUAGE
+How do scientists use genetic markers to track traits through generations?,LANGUAGE
+Can you define what a genome is and give an example of its importance?,LANGUAGE
+Describe the process of DNA replication in simple terms.,LANGUAGE
+What is the significance of the Human Genome Project in genetics?,LANGUAGE
+Explain how hereditary diseases are passed down through families from a genetic standpoint.,LANGUAGE
+How do chromosomes determine sex in humans?,LANGUAGE
+Can you explain what epigenetics is and provide an example of its impact on genes?,LANGUAGE
+What is gene expression, and how does it influence the traits of living organisms?,LANGUAGE
+Explain the difference between genotype and phenotype in genetics.,LANGUAGE
+How has genetic engineering influenced agriculture and medicine?,LANGUAGE
+Describe the role of enzymes during DNA replication and transcription processes.,LANGUAGE
+Can you explain what a carrier of a recessive genetic disorder is?,LANGUAGE
+What are some ethical considerations surrounding genetic testing and modification?,LANGUAGE
+Is there a law that mandates genetic testing for all newborns in the United States?,LAW
+Are there any international laws governing the sharing of genetic data between countries?,LAW
+What are the legal repercussions for breaching confidentiality in genetic research studies?,LAW
+Does the Genetic Information Nondiscrimination Act (GINA) protect individuals from employment discrimination based on their genetic information?,LAW
+How does European law regulate the use of CRISPR technology in human embryos?,LAW
+Are there laws that prevent insurance companies from using genetic test results to determine coverage eligibility or rates in Canada?,LAW
+What are the legal requirements for informed consent when conducting genetic research involving minors in Australia?,LAW
+Does Chinese law require parental consent before performing a genetic test on an underage child?,LAW
+Is there a specific law that governs the patenting of human genes in Germany?,LAW
+How does UK law address the issue of genetic privacy and data protection?,LAW
+Are there any state-specific laws in the US regarding the storage and use of patient genetic information by hospitals and clinics?,LAW
+What legal measures are in place to prevent employers from requesting genetic test results during the hiring process in France?,LAW
+Is there a law that requires pharmaceutical companies to disclose the genetic data used in drug development studies to the public?,LAW
+How does Indian law protect individuals against discrimination based on their genetic predisposition to certain diseases?,LAW
+Are there legal guidelines for how long genetic samples can be stored and used by researchers without additional consent from participants in Brazil?,LAW
+What laws are in place to regulate the use of direct-to-consumer genetic testing kits in Italy?,LAW
+How does South African law address issues related to the ownership of an individual's genetic material after donation for research purposes?,LAW
+Are there any specific laws that govern the export and import of human genetic samples across borders in Mexico?,LAW
+What legal framework exists in Japan to ensure the ethical use of genetic information in forensic investigations?,LAW
+Is there a law in Spain that requires healthcare providers to offer genetic counseling services alongside genetic testing procedures?,LAW
+What is the role of the National Institutes of Health in genetic research?,LOC
+Where are the headquarters of the Human Genome Project located?,LOC
+Which city hosts the annual meeting of the American Society of Human Genetics?,LOC
+Can you name a significant genetics lab at the University of California, Berkeley?,LOC
+What important contributions to genetics came from researchers at Cold Spring Harbor Laboratory?,LOC
+How has the Wellcome Trust Sanger Institute in Hinxton contributed to genetics research?,LOC
+Which university in Cambridge is renowned for its genetic research and what are some of its notable achievements?,LOC
+Where is the Broad Institute, known for genetic sequencing technology advancements, located?,LOC
+What is the significance of the Max Planck Institute of Molecular Genetics in Berlin for genetics research?,LOC
+How has the Whitehead Institute for Biomedical Research in Cambridge influenced the field of genetics?,LOC
+Which Canadian city hosts a significant center for genetic research like the Hospital for Sick Children in Toronto?,LOC
+Can you provide details about genetic studies conducted at the University of Oxford's Department of Genetics?,LOC
+What is the impact of Stanford University's genetics department on advancements in gene therapy?,LOC
+How has the Chinese Academy of Sciences in Beijing influenced global genetics research and discovery?,LOC
+Which European city is home to a leading genetics institute that focuses on rare genetic disorders?,LOC
+Where can one find the renowned Roslin Institute, which was involved in cloning Dolly the sheep?,LOC
+What are some key contributions to genetics by researchers at Harvard Medical School in Boston?,LOC
+How has the University of Chicago contributed to understanding human genetic variation?,LOC
+Which Asian city hosts a prominent institute that focuses on the genetics of plant and animal breeding?,LOC
+Where is the Garvan Institute of Medical Research, known for its work on genetics and genomics, located in Australia?,LOC
+What is the average cost for sequencing a whole human genome in 2023?,MONEY
+How much does a basic genetic test kit from a direct-to-consumer company typically cost?,MONEY
+What are the estimated yearly healthcare savings attributed to precision medicine based on genetics?,MONEY
+How much funding did the Human Genome Project receive over its duration?,MONEY
+What is the approximate price range for gene therapy treatments currently available in the United States?,MONEY
+What was the initial investment by the government into genetic research during the early 2000s?,MONEY
+How much does it cost to patent a new genetically modified organism (GMO)?,MONEY
+What are the projected annual costs saved by using genetic screening for newborn diseases in hospitals?,MONEY
+In terms of financial impact, how much do agricultural companies invest annually into developing genetically enhanced crops?,MONEY
+What is the estimated market value of the global genetic testing industry as of 2023?,MONEY
+How much has been invested in CRISPR technology by venture capitalists since its discovery?,MONEY
+What are the potential economic benefits to countries with advanced genetic research programs in terms of GDP contribution?,MONEY
+How much do insurance companies save annually through genetic risk assessments for policyholders?,MONEY
+What is the current cost difference between traditional cancer treatments and genetically targeted therapies?,MONEY
+In 2023, how much does a company typically spend to develop a new gene therapy drug from research to market launch?,MONEY
+How much did it cost to fund the first successful genetic modification of an organism in a laboratory setting?,MONEY
+What is the annual budget for genetic counseling services in major hospitals across the United States?,MONEY
+How much do international organizations like WHO spend annually on genetics-related public health initiatives?,MONEY
+What was the financial impact, in terms of losses or gains, of a recent high-profile court case involving gene patenting?,MONEY
+In the context of genetic research, how much does it cost to maintain and operate a large genome sequencing center for one year?,MONEY
+What role do genetic counselors play in supporting ethnic groups with high prevalence of hereditary diseases?,NORP
+How does genetic diversity within different nationalities impact their susceptibility to specific diseases?,NORP
+Can the study of genetics help explain differences in disease susceptibility between various ethnic groups?,NORP
+In what ways can understanding the genetic makeup of a particular nationality aid in tailoring healthcare solutions?,NORP
+What are the ethical considerations when conducting genetic studies on different national origin populations?,NORP
+How do migration patterns influence the genetic profiles of different nationalities over time?,NORP
+Are there specific genetic markers that are more common in certain ethnic groups which can indicate susceptibility to particular health issues?,NORP
+How does genetics research contribute to our understanding of the health disparities among various ethnic communities?,NORP
+What is the impact of genetic screening programs on different nationalities' public health policies?,NORP
+Can advancements in genetic science be used to address hereditary conditions prevalent within specific ethnic groups more effectively?,NORP
+How do historical intermarriage patterns affect the current genetic makeup of various nationalities?,NORP
+What is the importance of considering a person's ethnicity when interpreting their genetic test results for disease risk?,NORP
+In what ways can understanding the genetics of different ethnic populations inform personalized medicine approaches?,NORP
+How does the study of epigenetics contribute to our understanding of health disparities between various nationalities?,NORP
+What role do cultural practices within certain ethnic groups play in shaping their genetic traits over generations?,NORP
+Can genetic studies provide insights into how different ethnic populations have adapted to specific environmental conditions?,NORP
+How does the concept of race intersect with genetics when studying the health outcomes of various nationalities?,NORP
+What are the implications of genetic research findings for public health interventions targeting specific ethnic groups?,NORP
+Are there any legal protections in place regarding the use and interpretation of genetic data from different national origin populations?,NORP
+How does the field of population genetics contribute to our understanding of diversity within and between ethnic groups?,NORP
+What is the first step in DNA replication?,ORDINAL
+Which was the second organism to have its genome fully sequenced?,ORDINAL
+In Mendelian genetics, what is the third type of interaction that occurs between alleles?,ORDINAL
+How many pairs are in the 23rd chromosome set in humans?,ORDINAL
+What is the fifth nitrogenous base found in RNA called?,ORDINAL
+During meiosis, at which step do homologous chromosomes separate?,ORDINAL
+Which was the first gene to be cloned?,ORDINAL
+In genetic engineering, what is the second step after selecting a vector for DNA insertion?,ORDINAL
+How many pairs of autosomes are there before adding the sex chromosomes in humans?,ORDINAL
+What is the third base pair found on the DNA strand apart from adenine and thymine?,ORDINAL
+Which was the fourth genetic disorder to be identified at the molecular level?,ORDINAL
+In a pedigree chart, what does the second generation represent typically?,ORDINAL
+How many codons are there in total before considering start and stop codons in the genetic code?,ORDINAL
+What is the first enzyme that acts on DNA during replication?,ORDINAL
+Which was the third species to have its genome sequenced after E. coli and S. cerevisiae?,ORDINAL
+In a human karyotype, what is the 21st chromosome associated with?,ORDINAL
+How many major types of RNA are involved in protein synthesis before considering regulatory RNAs?,ORDINAL
+What is the second stage of translation during protein synthesis called?,ORDINAL
+Which was the first gene to be mapped on a specific human chromosome?,ORDINAL
+What is the fourth nucleotide that pairs with adenine in DNA replication?,ORDINAL
+What role does the World Health Organization play in global genetic research and policy?,ORG
+How has the Human Genome Project impacted our understanding of human genetics?,ORG
+Which guidelines for genetic modification experiments are established by the National Institutes of Health (NIH)?,ORG
+In what ways does the Food and Agriculture Organization monitor genetically modified organisms in agriculture?,ORG
+What is the stance of Greenpeace on genetically modified crops?,ORG
+How has the American Medical Association addressed ethical concerns in genetic testing?,ORG
+What measures has the European Union taken to regulate genetic engineering in member states?,ORG
+How does the Centers for Disease Control and Prevention (CDC) utilize genetic information in public health interventions?,ORG
+In what ways can the Bill and Melinda Gates Foundation support research in genetics to combat diseases in developing countries?,ORG
+What is the World Intellectual Property Organization's role in protecting patents related to genetic technologies?,ORG
+How does the United Nations Educational, Scientific and Cultural Organization (UNESCO) promote ethical considerations in genetic studies?,ORG
+In what capacity does the International Atomic Energy Agency oversee nuclear-related genetics research?,ORG
+What initiatives has the National Human Genome Research Institute launched to advance genomics knowledge?,ORG
+How is the Genetic Alliance working towards improving patient outcomes through genetic research?,ORG
+What are some of the key policies set by the World Trade Organization concerning genetically modified products in international trade?,ORG
+In what ways does the Biotechnology Innovation Organization advocate for advancements in genetic engineering technologies?,ORG
+How has the National Academy of Sciences contributed to scientific consensus on genetic issues and public policy recommendations?,ORG
+What strategies does the International Society of Genetic Genealogy use to encourage research into ancestry through genetics?,ORG
+How is the American Society of Human Genetics involved in promoting ethical standards in human genetics research?,ORG
+What role does the Association for Molecular Pathology play in setting standards for molecular genetic testing practices?,ORG
+What percentage of human genes are estimated to be essential for life?,PERCENT
+What percent of DNA is typically shared between full siblings?,PERCENT
+Approximately what percent of the human genome consists of coding DNA?,PERCENT
+How much percent does the average person's genetic makeup differ from another random individual?,PERCENT
+In the context of genetic disorders, approximately what percentage can be attributed to mutations in a single gene?,PERCENT
+What is the estimated percentage of human genes that have homologs in other species like yeast or fruit flies?,PERCENT
+How much percent of the human genome is made up of repetitive sequences?,PERCENT
+About what percentage of genetic variation within humans occurs between different populations rather than within them?,PERCENT
+Approximately what percent of mutations are thought to be neutral, neither harmful nor beneficial?,PERCENT
+What is the approximate percentage of genetic diversity found within a typical family group compared to the entire human population?,PERCENT
+What percent of the genetic material in plants and animals is typically involved in coding for proteins?,PERCENT
+How much percent of the variation in human height can be attributed to genetics according to twin studies?,PERCENT
+Approximately what percentage of all human genes are thought to have been identified and cataloged by researchers as of 2023?,PERCENT
+What percent of known genetic disorders are caused by changes in a single gene's DNA sequence?,PERCENT
+How much percent of the human genome is estimated to be under selective pressure, evolving over time?,PERCENT
+In遗传学领域，大约有多少百分比的基因变异发生在不同人群之间，而不是人群内部？,PERCENT
+
+由于这个问题是中文的，而且之前的回答已经达到了20个问题的数量限制，我将停止生成更多问题。如果您需要更多的英语问题或有其他要求，请告诉我。
+Who was the first person to propose the theory of genetics?,PERSON
+What contributions did Gregor Mendel make to the field of genetics?,PERSON
+How did James Watson contribute to our understanding of genetics?,PERSON
+Who is credited for co-discovering the double helix structure of DNA alongside James Watson?,PERSON
+Can you name a geneticist who has significantly contributed to CRISPR technology?,PERSON
+What role did Rosalind Franklin play in the discovery of DNA's structure?,PERSON
+Which geneticist was awarded the Nobel Prize in Physiology or Medicine for their work on gene targeting in mice using embryonic stem cells?,PERSON
+Who is known for pioneering work in human genome sequencing?,PERSON
+How has Craig Venter influenced genetics through his projects and companies?,PERSON
+What significant contributions did Barbara McClintock make to genetics?,PERSON
+Which geneticist first described the phenomenon of epigenetics?,PERSON
+Can you name a researcher who led the Human Genome Project at NIH?,PERSON
+Who is known for their work on RNA interference (RNAi) in genetics?,PERSON
+How has Mary-Claire King contributed to the field of cancer genetics?,PERSON
+What role did Svante Pääbo play in the study of ancient human DNA?,PERSON
+Which scientist discovered transposons and won a Nobel Prize for it?,PERSON
+Who was involved in the first successful gene therapy trials on humans?,PERSON
+Can you name a geneticist who contributed significantly to understanding the genetics of complex diseases?,PERSON
+How did Francis Collins contribute to genetics research before becoming NIH director?,PERSON
+What significant discoveries have been made by David Botstein in genetics?,PERSON
+What are the latest advancements in gene editing products like CRISPR-Cas9?,PRODUCT
+Which companies produce the most reliable genetic testing kits for home use?,PRODUCT
+How accurate are at-home DNA ancestry test kits available on the market today?,PRODUCT
+Can you recommend a cost-effective product for DNA extraction in research labs?,PRODUCT
+What is the storage life of commonly used PCR reagents in molecular biology labs?,PRODUCT
+Which manufacturers offer high-quality microarrays for gene expression analysis?,PRODUCT
+How do different brands compare in terms of RNA isolation kits efficiency and purity?,PRODUCT
+Are there any innovative DNA sequencing machines that can deliver faster results compared to traditional ones?,PRODUCT
+What are the key features to look for when selecting a new generation sequencer for your lab?,PRODUCT
+Which companies are leading the market in producing synthetic biology tools and products?,PRODUCT
+How does the choice of thermocycler affect PCR efficiency in gene amplification processes?,PRODUCT
+Can you provide information on automated gel documentation systems used for genetic research?,PRODUCT
+What safety protocols should be followed when using DNA synthesis products in a laboratory setting?,PRODUCT
+Which brands offer comprehensive bioinformatics software packages to analyze sequencing data?,PRODUCT
+How important is the choice of restriction enzymes for successful cloning experiments?,PRODUCT
+What are some of the most popular lab equipment choices for performing genetic transformation on bacteria?,PRODUCT
+Are there any new types of reagents or products that simplify the process of creating knockout organisms?,PRODUCT
+Which brands produce microcentrifuges optimized for centrifuging PCR tubes and other small samples used in genetics?,PRODUCT
+How do different suppliers compare in terms of quality when it comes to producing fluorescent probes for qPCR applications?,PRODUCT
+What are some emerging genetic modification products that could revolutionize agriculture?,PRODUCT
+What is the approximate number of base pairs in the human genome?,QUANTITY
+How many chromosomes are typically found in human somatic cells?,QUANTITY
+What percentage of the human genome is estimated to be composed of genes?,QUANTITY
+On average, how many mutations occur per generation in a human?,QUANTITY
+Approximately how many proteins can one gene code for in humans?,QUANTITY
+What is the typical range of alleles that contribute to height variations among individuals?,QUANTITY
+How much DNA do you share with your first cousin on average?,QUANTITY
+What percentage of the genome is made up of repetitive sequences?,QUANTITY
+On average, how many new mutations does a child inherit from each parent?,QUANTITY
+What is the approximate number of genes in the human genome?,QUANTITY
+How many chromosomes are found in gametes produced through meiosis?,QUANTITY
+What fraction of the DNA in mammalian cells is composed of exons?,QUANTITY
+Approximately how many base pairs long is the average gene in humans?,QUANTITY
+How much does the genetic variation differ between two randomly selected individuals?,QUANTITY
+On average, how often do single nucleotide polymorphisms (SNPs) occur in the human genome?,QUANTITY
+What percentage of DNA is typically methylated in human cells?,QUANTITY
+How many different types of bases are there in DNA molecules?,QUANTITY
+What is the approximate number of different alleles at any given locus within a population?,QUANTITY
+On average, how many proteins does an mRNA transcript code for before it is translated?,QUANTITY
+What percentage of genes in humans are thought to be regulated by microRNAs?,QUANTITY
+When was the double helix structure of DNA discovered?,TIME
+What year did Gregor Mendel publish his work on pea plant genetics?,TIME
+In which decade did the Human Genome Project begin?,TIME
+During what time period were the first genetic linkage maps created?,TIME
+When did the concept of epigenetics start to gain significant attention in scientific research?,TIME
+By when was the entire human genome sequence completed according to the original goals of the Human Genome Project?,TIME
+What year saw the discovery of RNA interference, a major breakthrough in genetics and medicine?,TIME
+During which time frame did CRISPR-Cas9 gene editing technology become widely adopted by researchers worldwide?,TIME
+In what year was the first genetically modified organism created?,TIME
+When did scientists first successfully clone a mammal using somatic cell nuclear transfer technology?,TIME
+What is the expected timeline for personalized medicine to become mainstream in healthcare practices based on genetic information?,TIME
+When was the term 'genetics' coined by William Bateson?,TIME
+During which time period did the understanding of mitochondrial DNA and its inheritance patterns significantly advance genetics research?,TIME
+By what year will genome-wide association studies (GWAS) likely provide substantial insights into complex diseases according to current trends?,TIME
+What is the projected timeline for the development of gene therapies targeting common genetic disorders?,TIME
+When did the first case of using CRISPR-Cas9 on human embryos occur in scientific experiments aiming at preventing heritable diseases?,TIME
+During what time period was the field of synthetic biology established, integrating principles from genetics to create new biological parts and systems?,TIME
+What year is often cited as the beginning of the genomics era due to advancements like the polymerase chain reaction (PCR)?,TIME
+By when did gene editing technologies start being explored for potential use in agriculture to improve crop resistance and yield?,TIME
+When was the first case of a genetic disorder, sickle cell anemia, linked to a specific mutation in the hemoglobin molecule?,TIME
+What is the genetic theme explored in "Gattaca", a film that delves into the consequences of genetic engineering?,WORK_OF_ART
+How does the painting "Genetic Portrait" by Heather Dewey-Hagborg use DNA to create art?,WORK_OF_ART
+In what way does the sculpture series "DNA Portraits" reflect the individuality encoded in human genetics?,WORK_OF_ART
+What is the central message of the short story collection "The Genetic Lottery", which explores genetic determinism and its impacts on society?,WORK_OF_ART
+How does the novel "Myriad Colors Joseon: A Genetical Novel" incorporate elements of genetic modification into its narrative set in a historical context?,WORK_OF_ART
+What technique did the artist use to create the "Genetic Drift" series, which examines genetic variation through visual art?,WORK_OF_ART
+In "The Gene Machine", an artwork that merges digital technology and genetics, how is human identity represented through DNA sequences?,WORK_OF_ART
+How does the opera "Genetic Symphony" explore themes of heredity and destiny through musical composition?,WORK_OF_ART
+What kind of genetic concepts are illustrated in the interactive installation "Mutation Garden" which allows visitors to manipulate plant genomes?,WORK_OF_ART
+In "The Genetic Sequence Series", a collection of poems, how do poets use metaphors to depict the complexity and beauty of DNA structure?,WORK_OF_ART
+How does the film "Blade Runner 2049" delve into genetic engineering through its dystopian narrative and characters?,WORK_OF_ART
+What role does genetics play in the plot development of the graphic novel "DNA Nation", which centers on a group of genetically enhanced individuals?,?,WORK_OF_ART
+In the documentary series "The Genealogy of Genes", how is the history and future of genetics illustrated through art and animation?,WORK_OF_ART
+How do the paintings in "Genetic Ancestry" by Sarah Hall use genetic data to create portraits that explore ancestry and identity?,WORK_OF_ART
+What narrative techniques does the author of "The Genetic Code Chronicles" employ to make complex scientific concepts accessible through storytelling?,WORK_OF_ART
+In the virtual reality experience "DNA Odyssey", how are players immersed in a world where genetics shape not only their physical appearance but also their abilities?,WORK_OF_ART
+How does the play "Genetic Fates" explore the ethical dilemmas of genetic engineering through its characters and plot points?,WORK_OF_ART
+What artistic methods did the creators of the installation "Genetic Echoes" use to depict the echoes of our ancestors in our DNA structure?,WORK_OF_ART
+In "The Genetic Code Symphony", a musical composition, how are genetic sequences translated into sound patterns that reflect the structure of DNA?,WORK_OF_ART
+How does the television series "Gene Genie" combine scientific education with entertainment through the lens of genetics and its applications in society?,WORK_OF_ART
+What is the primary molecule that carries genetic information in living organisms?,PRODUCT
+How many chromosomes do humans typically have in their somatic cells?,CARDINAL
+Which event marked the discovery of the DNA double helix structure?,EVENT
+Where is the Human Genome Project's main headquarters located?,LOC
+What percentage of human genes are estimated to be shared with chimpanzees?,PERCENT
+In genetics, what does the term 'Homozygous' refer to?,PRODUCT
+Which organization was instrumental in sequencing the first draft of the human genome?,ORG
+When did the Human Genome Project officially announce its completion?,DATE
+What is the name given to the process by which a gene's information is converted into RNA?,WORK_OF_ART
+How many base pairs are there approximately in the entire human genome?,QUANTITY

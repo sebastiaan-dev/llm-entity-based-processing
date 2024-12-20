@@ -1,17 +1,21 @@
 from typing import Any
+import joblib
 import requests as req
 
-from debug import print_debug, print_info
+from debug import print_debug, print_error, print_info
 from models import Entity, Problem
 
 
 # TODO: Use SVM to classify the question type and handle it accordingly.
 # TODO: If cannot decide we should fall back to the more popular entity.
+# TODO: Use aliases to improve entity matching.
 
 
 class Solver:
     def __init__(self):
         self.wikipedia_api = "https://en.wikipedia.org/w/api.php"
+        self.svc_model = joblib.load("regression/best_model.joblib")
+        self.label_encoder = joblib.load("regression/label_encoder.joblib")
 
     def query_wikipedia(self, query: Any) -> Any:
         response = req.get(self.wikipedia_api, params=query)
@@ -25,16 +29,23 @@ class Solver:
         """
         Remove possible prefixes from the question for correct downstream parsing.
         """
-        q = question.strip()
-        if q.lower().startswith("question:"):
+        q = question.strip().lower()
+
+        if q.startswith("question:"):
             q = q[len("question:") :].strip()
+
+        if "answer:" in q:
+            before_answer = q[: q.index("answer:")].strip()
+            after_answer = q[q.index("answer:") + len("answer:") :].strip()
+            q = f"{before_answer} {after_answer}"
+
         return q
 
     def is_yes_no_question(self, question: str) -> bool:
         """
         Verify the question is of the expected format for a yes/no question.
         """
-        q_norm = self.normalize_question(question).lower()
+        q_norm = self.normalize_question(question)
         return q_norm.startswith(("is ", "are ", "does ", "do ", "can ", "did "))
 
     def handle_yes_no_question(self, answer: str) -> str:
@@ -48,44 +59,7 @@ class Solver:
         else:
             raise ValueError(f"Invalid answer for yes/no question: {answer}")
 
-    def clean_superfluous_entities(
-        self, question_entities: list[Entity], answer_entities: list[Entity]
-    ) -> list[Entity]:
-        """
-        Remove entities that are present in the question from the answer entities,
-        as this entity is already known from the question it would not make sense to use it for the answer.
-        """
-        removed_entities = []
-        cleaned_entities = []
-
-        for a_entity in answer_entities:
-            duplicate = False
-
-            for q_entity in question_entities:
-                # If they have equal semantic meaning, remove the answer entity.
-                if a_entity.link.lower() == q_entity.link.lower():
-                    duplicate = True
-                    removed_entities.append(a_entity)
-                    break
-                # A more aggressive approach is expressed here, if the answer entity is a substring of the question entity,
-                # it is removed as well.
-                if a_entity.text.lower() in q_entity.text.lower():
-                    duplicate = True
-                    removed_entities.append(a_entity)
-                    break
-
-            if not duplicate:
-                cleaned_entities.append(a_entity)
-
-        if len(removed_entities) > 0:
-            print_debug(
-                "Removed superfluous entities:",
-                ", ".join([e.text for e in removed_entities]),
-            )
-
-        return cleaned_entities
-
-    def get_wikipedia_wordcount(self, entity: Entity, word: str) -> int:
+    def get_wikipedia_wordcount(self, entity: Entity, word: str) -> tuple[int, int]:
         """
         Get the word count of a Wikipedia page.
         """
@@ -95,50 +69,144 @@ class Solver:
             "prop": "extracts",
             "format": "json",
             "explaintext": True,
+            "redirects": "1",
         }
 
         data = self.query_wikipedia(params)
         page = list(data["query"]["pages"].values())[0]
         extract = page.get("extract", "")
 
-        return extract.lower().count(word.lower())
+        return extract.lower().count(word.lower()), len(extract.split())
 
-    def handle_open_question(self, problem: Problem) -> str:
-        """
-        Handles open questions.
-        """
-        problem.answer_entities = self.clean_superfluous_entities(
-            problem.question_entities, problem.answer_entities
-        )
-
-        # No entities found means we cannot solve the problem.
-        if len(problem.answer_entities) == 0:
-            return ""
-
-        # Handle the edge case where we found only 1 entity, there is nothing more to filter
-        # and we can return the link directly.
-        if len(problem.answer_entities) == 1:
-            return problem.answer_entities[0].link
-
-        distribution = {}
+    def get_counts_a_in_q(self, problem: Problem) -> dict[str, int]:
+        a_in_q_distribution = {}
 
         for a_entity in problem.answer_entities:
             total_word_count = 0
 
             for q_entity in problem.question_entities:
-                word_count = self.get_wikipedia_wordcount(a_entity, q_entity.text)
-                total_word_count += word_count
+                word_count, len = self.get_wikipedia_wordcount(a_entity, q_entity.text)
+                normalized_word_count = word_count / len
+                total_word_count += normalized_word_count
 
-            distribution[a_entity.text] = total_word_count
+            a_in_q_distribution[a_entity.text] = total_word_count
 
-        print_debug("Distribution:", [f"{k}: {v}" for k, v in distribution.items()])
+        print_debug(
+            "A -> Q Distribution:",
+            [f"{k}: {v}" for k, v in a_in_q_distribution.items()],
+        )
 
-        max_text = max(distribution, key=distribution.get)
-        # Return the link of the entity with the highest word count.
-        for entity in problem.answer_entities:
-            if entity.text == max_text:
-                print_info(f"Selected entity:", entity.text)
-                return entity.link
+        return a_in_q_distribution
+
+    def get_counts_q_in_a(self, problem: Problem) -> dict[str, int]:
+        q_in_a_distribution = {}
+
+        for q_entity in problem.question_entities:
+            for a_entity in problem.answer_entities:
+                word_count, len = self.get_wikipedia_wordcount(q_entity, a_entity.text)
+                normalized_word_count = word_count / len
+
+                if (q_entity.text, a_entity.text) not in q_in_a_distribution:
+                    q_in_a_distribution[a_entity.text] = normalized_word_count
+                else:
+                    q_in_a_distribution[a_entity.text] += normalized_word_count
+
+        print_debug(
+            "Q -> A Distribution:",
+            [f"{k}: {v}" for k, v in q_in_a_distribution.items()],
+        )
+
+        return q_in_a_distribution
+
+    def get_ranked_by_wordcount(self, problem: Problem) -> list[Entity]:
+        a_in_q_distribution = self.get_counts_a_in_q(problem)
+        q_in_a_distribution = self.get_counts_q_in_a(problem)
+
+        total_distribution = {}
+
+        # Combine the distributions.
+        for entity, count in a_in_q_distribution.items():
+            total_distribution[entity] = count
+
+        for entity, count in q_in_a_distribution.items():
+            if entity in total_distribution:
+                total_distribution[entity] += count
+            else:
+                total_distribution[entity] = count
+
+        return sorted(
+            problem.answer_entities,
+            key=lambda entity: total_distribution[entity.text],
+            reverse=True,
+        )
+
+    def preprocess_question(self, q: str) -> str:
+        return q.lower().strip()
+
+    def classify_new_question(self, question, model, label_encoder):
+        preprocessed = self.preprocess_question(question)
+        pred_encoded = model.predict([preprocessed])
+        pred_label = label_encoder.inverse_transform(pred_encoded)[0]
+
+        return pred_label
+
+    def test_model():
+
+        new_question = "Where is the Great Barrier Reef located?"
+        predicted_label = classify_new_question(new_question, svc_model, label_encoder)
+        print(f"Predicted Label: {predicted_label}")
+
+    def derive_question_type(self, question: str) -> str:
+        """
+        Derive the question entity target type from the question text.
+
+        Returns the entity label (should be the same as the labels used in the recognition pipeline).
+        """
+        q = self.normalize_question(question)
+
+        if q.startswith("who"):
+            return "PERSON"
+        elif q.startswith("where"):
+            return "LOC"
+        elif q.startswith("when"):
+            return "DATE"
+
+        # We could not derive the question type using regex, so we use a classifier.
+        return self.classify_question(q)
+
+    def handle_open_question(self, problem: Problem) -> str:
+        """
+        Handles open questions.
+        """
+        # No entities found means we cannot solve the problem.
+        if len(problem.answer_entities) == 0:
+            print_error("No entities found, cannot solve the problem.")
+            return ""
+
+        # Handle the edge case where we found only 1 entity, there is nothing more to filter
+        # and we can return the link directly.
+        if len(problem.answer_entities) == 1:
+            print_info("Only 1 entity found, returning the link directly.")
+            return problem.answer_entities[0].link
+
+        print_debug(
+            "Answer entities:",
+            [(entity.text, entity.link) for entity in problem.answer_entities],
+        )
+        print_debug(
+            "Question entities:",
+            [(entity.text, entity.link) for entity in problem.question_entities],
+        )
+
+        # Get the ranked entities by word count.
+        ranked_entities = self.get_ranked_by_wordcount(problem)
+
+        # max_text = max(ranked_entities, key=ranked_entities.get)
+        # # Return the link of the entity with the highest word count.
+        # for entity in problem.answer_entities:
+        #     if entity.text == max_text:
+        #         print_info(f"Selected entity:", entity.text)
+        #         return entity.link
 
     def solve(self, problem: Problem) -> str:
         """

@@ -1,3 +1,6 @@
+import logging
+from logging.handlers import RotatingFileHandler
+
 from colorama import init
 
 from extractor import EntityExtractor
@@ -7,6 +10,11 @@ from llm import LLM
 from models import Problem, Solution
 from solver import Solver
 from verifier import Verifier
+
+file_handler = RotatingFileHandler(
+    "logs/app.log", maxBytes=10 * 1024 * 1024, backupCount=10
+)
+logging.basicConfig(level=logging.INFO, handlers=[file_handler])
 
 
 class Pipeline:
@@ -26,6 +34,8 @@ class Pipeline:
         self.solver = solver
         self.verifier = verifier
 
+        self.logger = logging.getLogger(__name__)
+
     def resolve(self):
         """
         This function acts as a pipeline for the different stages of the resolution process.
@@ -40,6 +50,8 @@ class Pipeline:
 
         solutions = []
         for question in questions:
+            self.logger.info(f"[START] question: {question.id}")
+
             answer = self.model.answer(question)
 
             question_entities = self.extractor.extract_entities(question.text)
@@ -52,6 +64,10 @@ class Pipeline:
                 answer_entities, answer.text
             )
 
+            answer_entities = self.extractor.clean_superfluous_entities(
+                question_entities, answer_entities
+            )
+
             problem = Problem(
                 question=question,
                 question_entities=question_entities,
@@ -61,7 +77,7 @@ class Pipeline:
 
             extracted_answer = self.solver.solve(problem)
             correct = self.verifier.verify(problem, extracted_answer)
-
+            # correct = self.verifier.verify(problem)
             solutions.append(
                 Solution(
                     problem=problem,
@@ -69,6 +85,8 @@ class Pipeline:
                     correct=correct,
                 )
             )
+
+            self.logger.info(f"[END] question: {question.id}")
 
         self.file_manager.write(solutions)
 

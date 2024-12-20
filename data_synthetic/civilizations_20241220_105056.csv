@@ -1,0 +1,382 @@
+Question,Entity-Type
+How many ancient civilizations are recognized to have developed independently?,CARDINAL
+What year did the Indus Valley Civilization approximately begin?,CARDINAL
+Around what century did the Mayan civilization reach its peak population?,CARDINAL
+In which millennium BCE did the Sumerian civilization flourish?,CARDINAL
+How many major cities were part of the Harappan civilization at its height?,CARDINAL
+What is estimated to be the population of the Roman Empire at its peak in 100 AD?,CARDINAL
+Around what year did the Egyptian Old Kingdom period end?,CARDINAL
+In which year did the Han Dynasty, a significant era in Chinese civilization, begin?,CARDINAL
+Approximately how many years did the Minoan civilization exist from its beginning to its collapse?,CARDINAL
+What was the approximate population of the Aztec capital Tenochtitlan at the time of Spanish conquest?,CARDINAL
+How many pyramids are there in Egypt as part of ancient Egyptian civilization legacy?,CARDINAL
+In which century BCE did the Gupta Empire, known for a golden age of Hindu culture, begin its reign?,CARDINAL
+What year marks the fall of Constantinople and the end of the Byzantine Empire?,CARDINAL
+Approximately how many miles long was the Great Wall of China at its greatest extent during various Chinese dynasties?,CARDINAL
+How many years did the Inca civilization last before Spanish conquest?,CARDINAL
+In which century BCE did the Olmec civilization, often considered the "mother culture" of Mesoamerica, start to flourish?,CARDINAL
+What is the estimated population of the Indus Valley cities like Mohenjo-Daro at their peak?,CARDINAL
+Around what year did the Kingdom of Aksum reach its height as one of the world's greatest civilizations?,CARDINAL
+How many emperors ruled during the entire period of the Roman Empire from 27 BC to 476 AD in the West?,CARDINAL
+What is the approximate area, in square kilometers, covered by the Angkor Wat complex in Cambodia, a symbol of Khmer civilization at its peak?,CARDINAL
+When was the rise of the Indus Valley Civilization?,DATE
+What date marks the fall of the Western Roman Empire?,DATE
+On what date did the construction of the Great Wall of China begin?,DATE
+Which year is considered the start of the Bronze Age in Mesopotamia?,DATE
+In which year did the Mayan civilization reach its peak?,DATE
+When was the first dynasty, the Xia Dynasty, believed to have started according to traditional Chinese historiography?,DATE
+What date marks the end of the Neolithic period in Ancient Egypt?,DATE
+On what date was the city of Caral in Peru founded, one of the oldest civilizations in the Americas?,DATE
+In which year did the construction of Stonehenge begin?,DATE
+When did the Gupta Empire reach its zenith, marking a Golden Age in Indian history?,DATE
+Which date signifies the beginning of the Shang Dynasty in China, known for their bronze work and writing system?,DATE
+What is the estimated date for the establishment of the city of Jericho, one of the world's oldest cities?,DATE
+On which date did the Olmec civilization begin to flourish in Mesoamerica?,DATE
+In what year was the first known Egyptian pharaoh, Menes, believed to have unified Upper and Lower Egypt?,DATE
+What is the approximate date for the beginning of the Harappan phase of the Indus Valley Civilization?,DATE
+Which year marks the establishment of the Kingdom of Aksum as a major power in Africa?,DATE
+When did the construction of the Terracotta Army in China, associated with the first emperor Qin Shi Huang, begin?,DATE
+What date is often given for the beginning of the Iron Age in Europe?,DATE
+In which year did the Inca Empire reach its maximum territorial extent under the rule of Pachacuti?,DATE
+When was the Akkadian Empire, founded by Sargon of Akkad, established, marking it as the first ancient empire of Mesopotamia?,DATE
+What event marked the beginning of the Indus Valley Civilization?,EVENT
+When did the Agricultural Revolution occur, leading to the rise of early civilizations?,EVENT
+Which event signified the fall of the Roman Empire in the West?,EVENT
+What significant event triggered the Bronze Age collapse across Eurasia and North Africa?,EVENT
+Can you name an event that led to the decline of the Mayan Civilization?,EVENT
+During which event did Mesopotamian city-states first start engaging in trade on a large scale?,EVENT
+Which event is considered as the starting point for the construction of the Great Wall of China by different Chinese states and empires over centuries?,EVENT
+What was the event that led to the establishment of the Maurya Empire, one of India's largest empires?,EVENT
+Can you identify an event that marked the transition from Ancient Egyptian civilization to Greek rule?,EVENT
+Which event is often associated with the beginning of the Neolithic Revolution and the rise of early civilizations worldwide?,EVENT
+What event led to the establishment of the first known urban settlement in Mesopotamia, Uruk?,EVENT
+Can you name an event that marked the unification of Upper and Lower Egypt under one ruler, leading to the development of Ancient Egyptian civilization?,EVENT
+Which significant event contributed to the rapid expansion of the Persian Empire during its early years?,EVENT
+What was the event known as that led to the decline of the Harappan Civilization in the Indian subcontinent?,EVENT
+During which event did the Aztec civilization begin to expand rapidly and establish their capital Tenochtitlan?,EVENT
+Can you identify an event that marked the end of the Shang Dynasty and the rise of the Zhou Dynasty, leading to significant changes in Chinese civilization?,EVENT
+Which event is often associated with the beginning of the Iron Age in Europe, marking a shift in technology and warfare that affected many civilizations?,EVENT
+What event led to the downfall of the Mycenaean Civilization during the Late Bronze Age collapse?,EVENT
+Can you name an event that marked the rise of the Inca Empire as a dominant civilization in South America?,EVENT
+Which significant event is associated with the beginning of the Hellenistic period, following the death of Alexander the Great and leading to cultural changes across the Mediterranean world and Near East?,EVENT
+What are the major architectural landmarks of the Mayan Civilization?,FAC
+Which famous temple complex is associated with Ancient Egyptian civilization?,FAC
+Can you name a significant monumental site from the Indus Valley Civilization?,FAC
+What iconic structure represents the height of Mesopotamian architecture and engineering?,FAC
+Where can one find the remnants of the Great Wall, a symbol of Chinese Civilization?,FAC
+Which famous ancient library was a center of learning in the Hellenistic world?,FAC
+What is the name of the fortress palace that epitomizes the Inca civilization's architectural prowess?,FAC
+Can you identify the massive pyramid that stands as a testament to Aztec engineering skills?,FAC
+Where are the ruins of the Acropolis, a significant landmark of Ancient Greek Civilization?,FAC
+Which famous tower is an iconic symbol of medieval European architecture and civilization?,FAC
+What ancient city is renowned for its well-preserved Roman architecture and baths?,FAC
+Can you name a significant amphitheater that showcases the architectural achievements of the Roman Empire?,FAC
+Where can one find the Taj Mahal, which represents Mughal architectural grandeur in India?,FAC
+Which famous cathedral is considered a masterpiece of Gothic architecture in Europe?,FAC
+What landmark building symbolizes the rise and fall of the Ottoman Empire in Istanbul?,FAC
+Can you name an iconic temple complex that exemplifies Khmer architectural artistry from Angkor Wat's civilization?,FAC
+Where are the remains of Machu Picchu, a significant Incan site reflecting their advanced engineering skills?,FAC
+Which famous pyramid complex is considered one of Egypt’s most recognized monuments of Ancient Egyptian Civilization?,FAC
+What is the name of the great palace and fortress complex that represents Moorish architecture in Spain?,FAC
+Where can you find the iconic Colosseum, a symbol of Roman engineering and architectural prowess?,FAC
+What were the major achievements of the Mayan civilization?,GPE
+How did the Roman Empire influence modern Western civilizations?,GPE
+In what ways did the Indus Valley Civilization impact contemporary urban planning?,GPE
+Which Ganges River valley civilization is known for its advanced urban infrastructure and drainage systems?,GPE
+Can you describe the political structure of the ancient Mesopotamian city-states?,GPE
+What role did geography play in the development of Chinese civilization along the Yellow River?,GPE
+How did the Inca Empire manage to maintain control over such a vast territory without wheeled vehicles or horses?,GPE
+What were the key factors that contributed to the decline of the Byzantine Empire?,GPE
+Describe the economic systems used by the ancient Egyptian civilization.,GPE
+What was the significance of the Silk Road in connecting Eastern and Western civilizations?,GPE
+How did the location of the city of Carthage contribute to its prosperity as a trade hub?,GPE
+In what ways did the Aztec Empire utilize their environment for agricultural development?,GPE
+Describe the cultural exchanges that occurred between the Islamic Golden Age and European Renaissance.,GPE
+What impact did the trans-Saharan trade routes have on African civilizations such as Mali and Songhai?,GPE
+How did the geographical features of Greece influence its political structure into city-states?,GPE
+Can you explain how the Phoenicians established a network of colonies around the Mediterranean Sea?,GPE
+What were some technological innovations developed by Mesopotamian civilization that are still in use today?,GPE
+Describe the legal system and code of laws established by Hammurabi for Babylon.,GPE
+How did the Maurya Empire in India influence neighboring civilizations through its administrative practices?,GPE
+What role did the Silk Road play in spreading religions such as Buddhism from East to West?,GPE
+What language was primarily used in the Mayan civilization for their inscriptions and texts?,LANGUAGE
+Which language family does Ancient Egyptian belong to, given its significant role in the civilization's religious texts and daily communications?,LANGUAGE
+In the context of the Indus Valley Civilization, what language is hypothesized to have been spoken based on the script found on seals and pottery?,LANGUAGE
+What language was used as a diplomatic and commercial lingua franca throughout the Persian Empire?,LANGUAGE
+Which ancient language was crucial for recording the laws and religious texts of the Babylonian civilization?,LANGUAGE
+How did the spread of Arabic influence the languages and scripts in regions conquered during the Islamic Golden Age?,LANGUAGE
+In the context of the Chinese civilization, which ancient script is considered to be one of the earliest forms of writing found on oracle bones?,LANGUAGE
+What language served as the primary literary vehicle for the transmission of knowledge in classical Indian civilization?,LANGUAGE
+Which language was predominantly used in the Inca Empire for administrative records and communication across its vast territory?,LANGUAGE
+How did Latin evolve from being the spoken language of Rome to becoming the basis for many modern European languages?,LANGUAGE
+What language family do most indigenous languages in the Andean region belong to, reflecting their cultural heritage and ancient civilizations?,LANGUAGE
+Which script was developed by the Etruscans and later adopted and modified by the Romans into the Latin alphabet we use today?,LANGUAGE
+How did the development of cuneiform writing impact communication and record-keeping in Mesopotamian civilization?,LANGUAGE
+What language is associated with the mysterious Rongorongo script found on Easter Island, a site linked to Polynesian civilization?,LANGUAGE
+Which ancient Greek dialect was used as the standard form for literary works during the Hellenistic period across the Mediterranean world?,LANGUAGE
+How did the spread of Buddhism influence languages and scripts in East Asia, particularly with the adoption of Sanskrit terminology and writing systems?,LANGUAGE
+What language served as the lingua franca for trade and diplomacy along the Silk Road during the height of its use by various civilizations?,LANGUAGE
+Which ancient language is known for its complex logographic system that was used to write the religious texts of the Aztec civilization?,LANGUAGE
+How did the Norman Conquest influence the development of English, incorporating a significant amount of vocabulary from Old French into what became Middle English?,LANGUAGE
+What role did the Proto-Indo-European language play in shaping the linguistic landscape across Europe and parts of Asia through its descendants?,LANGUAGE
+What were the primary laws governing trade in ancient Mesopotamian civilizations?,LAW
+How did the Code of Hammurabi influence modern legal systems?,LAW
+In what ways did Roman law shape the legal frameworks of European countries?,LAW
+Can you explain the concept of "lex talionis" as it appears in early civilizational laws?,LAW
+What role did religious texts play in shaping laws within ancient civilizations such as Egypt and Israel?,LAW
+How were property rights protected under the法律体系，<entity-type>格式要求是以英文回答的，因此这里需要更正为：How were property rights protected under the legal systems of early civilizations?,LAW
+What was the significance of Draco's law code in ancient Athens for subsequent Greek and Western legal traditions?,LAW
+Could you describe how laws regarding inheritance varied among different ancient civilizations?,LAW
+In what ways did the Magna Carta limit the power of English monarchs and influence modern constitutional law?,LAW
+How did the concept of justice evolve from ancient civilization to medieval times, particularly in terms of legal practices?,LAW
+What were the primary differences between the legal systems of the Aztec and Inca civilizations?,LAW
+How did the laws of the Maurya Empire affect trade and commerce during its reign in India?,LAW
+Can you discuss the role of law in the administration of the Persian Achaemenid Empire?,LAW
+What were some key features of the legal system in the Indus Valley Civilization that have been deduced from archaeological findings?,LAW
+How did the Justinian Code influence laws across Europe and beyond?,LAW
+In what ways did the Tokugawa shogunate's legal framework impact Japanese society during its rule?,LAW
+What were some of the most significant laws in ancient China under dynasties like Qin and Han, and how did they shape Chinese civilization?,LAW
+How did laws concerning citizenship vary between Sparta and Athens in ancient Greece?,LAW
+Could you explain the influence of Islamic law (Sharia) on legal systems in various parts of the world since its inception?,LAW
+What was the role of law in regulating public behavior in the Inca civilization, and how was it enforced?,LAW
+How did laws governing land ownership contribute to social hierarchies in ancient civilizations such as Mesopotamia or Egypt?,LAW
+Where was the ancient civilization of Mesopotamia located?,LOC
+What city was the center of the Inca Empire's civilization?,LOC
+In which country did the Indus Valley Civilization flourish?,LOC
+Which river is central to the development of Ancient Egyptian civilization?,LOC
+The ancient civilization of Mohenjo-Daro is situated in which modern-day location?,LOC
+Where did the Sumerian city-states develop their early civilization?,LOC
+What geographical area was home to the Harappan civilization?,LOC
+In what region were the major cities of the Maya civilization found?,LOC
+On which river did the Shang Dynasty, an early Chinese civilization, primarily thrive?,LOC
+Which valley is considered the cradle of Mesopotamian civilization?,LOC
+Where in modern-day Turkey can you find the remains of the ancient city of Troy?,LOC
+What desert surrounds many sites of Ancient Egyptian civilization?,LOC
+The Olmec civilization was one of the earliest in which current country?,LOC
+On what river did the ancient Babylonian civilization develop its early cities?,LOC
+Which island was a center for Minoan civilization?,LOC
+Where is Machu Picchu, an important symbol of Incan civilization, located?,LOC
+In which geographical feature did the ancient civilization of the Nubians emerge?,LOC
+What region in Central America was a hub for Mayan civilization's development?,LOC
+Which Asian country holds significant archaeological sites related to the Angkor Wat temple complex and Khmer Empire civilization?,LOC
+Where is the site of the ancient city of Mohenjo-Daro, part of the Indus Valley Civilization, located today?,LOC
+What was the value of the currency used in the Roman Empire at its height?,MONEY
+How much did the construction of the Great Wall of China cost during the Ming Dynasty?,MONEY
+What was the estimated wealth in gold and silver that the Aztec civilization possessed before Spanish conquest?,MONEY
+How much did the Inca Empire's royal treasury hold in precious metals by the time of its fall to the Spanish?,MONEY
+In ancient Mesopotamia, how much would a skilled artisan be paid for their work per day?,MONEY
+What was the average price of land during the peak of the Egyptian civilization in terms of its currency at that time?,MONEY
+How much did the construction of the pyramids in Egypt cost when adjusted to modern monetary value?,MONEY
+What was the estimated value of trade goods like spices and silk along the Silk Road during the height of its use?,MONEY
+In the Mayan civilization, how much would a typical slave cost?,MONEY
+How much did the construction of Angkor Wat cost in terms of the resources and wealth of the Khmer Empire at that time?,MONEY
+What was the average transaction value for trade between the Phoenician city-states and their trading partners?,MONEY
+How much was the ransom demanded by Mongol invaders for not destroying a captured city during the height of the Mongol Empire?,MONEY
+In ancient Greece, what was the price of olive oil, a major export good at that time?,MONEY
+What was the average cost to hire mercenaries in ancient Greece's golden age when money played a significant role in warfare economics?,MONEY
+How much wealth did the Indus Valley Civilization possess before its decline, considering both material goods and currency values at that time?,MONEY
+In medieval Japan during the Heian period, what would be the average cost of purchasing a samurai sword, a status symbol for warriors of that era?,MONEY
+What was the total revenue generated by trade taxes in the Byzantine Empire under Emperor Justinian I's rule?,MONEY
+How much did the construction and maintenance of the Great Library of Alexandria cost annually during its peak period?,MONEY
+In ancient China, what was the price range for silk, one of the most valuable exports on the Silk Road?,MONEY
+What was the estimated market value of spices like pepper in the trade ports of the Byzantine Empire at its height?,MONEY
+What are some notable achievements of the Ancient Egyptians?,NORP
+How did the Romans influence modern Western legal systems?,NORP
+In what ways did the Aztecs contribute to pre-Columbian Mesoamerican culture?,NORP
+Can you describe the social structure of the Mayan civilization?,NORP
+What were some daily life practices in the Inca Empire?,NORP
+How did the Greeks establish their cultural dominance in antiquity?,NORP
+What role did the Phoenicians play in ancient Mediterranean trade networks?,NORP
+Describe the governance system of the Maurya Dynasty.,NORP
+In what ways did the Han Chinese contribute to early East Asian history and culture?,NORP
+What were some key elements of the Byzantine Empire's defense strategies?,NORP
+How did the Vikings shape Scandinavian history during their age of exploration?,NORP
+Can you explain the religious practices of the Celts before Christianization?,NORP
+What contributions did the Sumerians make to early Mesopotamian civilization?,NORP
+Describe the military conquests of Alexander the Great.,NORP
+How did the Mongols maintain control over their vast empire during its peak?,NORP
+In what ways did the Persians influence art and architecture in ancient times?,NORP
+What were some significant technological advancements made by the Song Dynasty Chinese?,NORP
+Can you describe the societal norms of the Shang Dynasty people?,NORP
+How did the Gupta Empire contribute to Indian classical mathematics and astronomy?,NORP
+What role did the Carthaginians play in ancient North African trade networks?,NORP
+Which was the first civilization to develop writing systems?,ORDINAL
+What is considered the second major empire of ancient Egypt?,ORDINAL
+In what year did the third dynasty of Ur come into power in Mesopotamia?,ORDINAL
+How many years passed between the establishment of the first and second Indus Valley cities?,ORDINAL
+Which was the fifth city to be founded along the Yellow River by ancient Chinese civilizations?,ORDINAL
+What role did the fourth king play in expanding the Mayan civilization's territory?,ORDINAL
+During which century did the third dynasty of Göbekli Tepe flourish?,ORDINAL
+How many leaders were there before the first known female ruler emerged in the Sumerian city-states?,ORDINAL
+Which was the second major trade route established by the Phoenicians?,ORDINAL
+What language became dominant during the fifth dynasty of the Inca civilization?,ORDINAL
+In which millennium did the second wave of agricultural revolution occur, significantly impacting early civilizations?,ORDINAL
+How many years did it take for the third dynasty of ancient Assyria to reach its peak power?,ORDINAL
+Which was the first city-state in Greece to develop a form of democracy?,ORDINAL
+What event marked the beginning of the fourth dynasty of the ancient Korean kingdom of Goguryeo?,ORDINAL
+Which was the second major religious text developed by the civilization of the Indus Valley?,ORDINAL
+How many battles did it take for the first emperor of the Qin Dynasty to unify China under his rule?,ORDINAL
+In what region was the fifth great city of the ancient Norte Chico civilization located?,ORDINAL
+What technological advancement occurred during the second dynasty of the Olmec civilization that distinguished them from their contemporaries?,ORDINAL
+How many years did it take for the third kingdom of Kush to establish its influence over Nubia and parts of Egypt?,ORDINAL
+Which was the first major trade goods to be exported by ancient Carthage that helped solidify its position as a key player in Mediterranean trade routes?,ORDINAL
+What was the role of the United Nations Educational, Scientific and Cultural Organization (UNESCO) in preserving ancient civilizations?,ORG
+How did the Roman Empire influence the development of Western civilization?,ORG
+In what ways has the European Union contributed to the preservation and study of cultural heritage across Europe?,ORG
+Which international organization has led major archaeological excavations around the world to uncover lost civilizations?,ORG
+What role does the World Trade Organization (WTO) play in the economic aspects that shape modern civilizations?,ORG
+How has the International Monetary Fund (IMF) impacted the economic development and stability of various civilizations globally?,ORG
+Can you describe how the Islamic Golden Age was influenced by the Caliphate's promotion of knowledge and science during its reign?,ORG
+What significant contributions did the League of Nations make towards fostering international cooperation between different civilizations?,ORG
+How does the United Nations Children’s Fund (UNICEF) contribute to cultural preservation among diverse civilizations worldwide?,ORG
+Which organization played a key role in the discovery and excavation of the Indus Valley Civilization?,ORG
+What measures has NATO taken to protect historical sites during conflicts in regions with rich civilizational histories?,ORG
+How did the British East India Company's policies affect the Indian subcontinent's cultural landscape and societal structures?,ORG
+In what ways have international sports organizations like FIFA influenced global cultures and interactions between civilizations?,ORG
+Which organization has been pivotal in the restoration of ancient Mesopotamian sites that are significant to world heritage?,ORG
+What is the role of the World Bank in supporting projects that preserve historical sites important for understanding past civilizations?,ORG
+How did the Ottoman Empire's administrative policies influence the development and integration of different cultures within its borders?,ORG
+Which organization leads initiatives to digitize and make accessible ancient manuscripts from various civilizations around the world?,ORG
+What is the primary goal of UNESCO in protecting intangible cultural heritage across different civilizations?,ORG
+In what ways has the Association for Research into Crimes against Art (ARCA) contributed to safeguarding cultural heritage during conflicts between civilizations?,ORG
+How does the Organization of American States (OAS) promote cross-cultural understanding and dialogue among its member states to preserve their rich civilizational histories?,ORG
+What percentage of ancient civilizations practiced some form of agriculture?,PERCENT
+By what percent did literacy rates increase in Mesopotamian civilization compared to earlier periods?,PERCENT
+Approximately what percent of the Inca population was involved in agricultural activities during the peak of their civilization?,PERCENT
+What percent of the Roman Empire's economy was based on slave labor at its height?,PERCENT
+How much, in percentage terms, did trade contribute to the GDP of the Phoenician civilization?,PERCENT
+By what percent did the population of the Mayan cities decrease during their decline period?,PERCENT
+What is the estimated percent of women who held leadership roles in the Indus Valley Civilization?,PERCENT
+Approximately what percent of the Egyptian pyramids were built during the Old Kingdom period compared to all periods combined?,PERCENT
+By what percentage did the population increase in China under the rule of Emperor Wu of Han compared to the previous dynasties?,PERCENT
+What percent of the Aztec economy was dependent on tributes from conquered territories?,PERCENT
+How much, in terms of a percentage, did the average life expectancy increase from the Neolithic period to the early Bronze Age civilizations?,PERCENT
+By what percent did the urban population grow in the Harappan cities compared to earlier village settlements?,PERCENT
+What is the estimated percent of the workforce involved in religious activities in ancient Egyptian society?,PERCENT
+How much, in percentage terms, did the use of iron increase from the Bronze Age to the Iron Age across various civilizations?,PERCENT
+Approximately what percent of the Great Wall of China was built during the Ming Dynasty compared to its entire length?,PERCENT
+What is the estimated percent of the population that could read and write in ancient Greece compared to other contemporary societies?,PERCENT
+By what percentage did the Silk Road trade volume increase from its inception to its peak under the Mongol Empire?,PERCENT
+Approximately what percent of the Parthenon's construction materials came from quarries within 10 miles of Athens?,PERCENT
+How much, in terms of a percentage, did the use of horses for warfare increase among Eurasian nomadic civilizations compared to settled agricultural societies?,PERCENT
+What is the estimated percent decrease in population size of the Ancestral Puebloans during their Great Drought period from 1276-1299 AD?,PERCENT
+Who was the founder of the Inca civilization?,PERSON
+Which Egyptian pharaoh is known for his extensive building projects and is often associated with the Great Pyramid of Giza?,PERSON
+What contributions did Julius Caesar make to Roman civilization?,PERSON
+Who was the legendary first ruler of the Chinese Xia Dynasty, marking the beginning of Chinese civilization according to tradition?,PERSON
+How did Cleopatra influence Egyptian civilization during her reign?,PERSON
+In what ways did Confucius shape Chinese civilization through his teachings and philosophies?,PERSON
+What role did Hammurabi play in shaping Babylonian civilization with his code of laws?,PERSON
+Who was the Mesopotamian king known for expanding Sumerian civilization and is also famous for having one of the oldest written biographies?,PERSON
+How did Genghis Khan influence the Mongol Empire and its impact on Asian civilizations?,PERSON
+What were some of the key achievements of Akhenaten in ancient Egyptian civilization?,PERSON
+Who was the leader that unified the Silla Kingdom, which later became a significant part of Korean civilization?,PERSON
+In what ways did Alexander the Great affect Persian and Greek civilizations through his conquests?,PERSON
+How did Queen Nefertiti contribute to cultural changes during her reign over ancient Egypt's 18th dynasty?,PERSON
+Who was the leader that transformed Athens into a major center of art, philosophy, and democracy in classical civilization?,PERSON
+What role did Mansa Musa play in expanding the Mali Empire and its influence on West African civilizations?,PERSON
+How did Emperor Ashoka contribute to the spread of Buddhism throughout Indian civilization?,PERSON
+Who was the ruler responsible for initiating the construction of the Acropolis in ancient Greek civilization?,PERSON
+In what ways did Nebuchadnezzar II shape Babylonian civilization through his architectural achievements and military conquests?,PERSON
+What contributions did King Harald Fairhair make to Norwegian civilization by uniting its disparate tribes into a single kingdom?,PERSON
+How did Emperor Justinian contribute to the Byzantine Empire's cultural and legal legacy in Roman civilization?,PERSON
+What product did the ancient Egyptians use to create their famous papyrus scrolls?,PRODUCT
+Which civilization invented the abacus for mathematical calculations and commerce?,PRODUCT
+What is a notable product from Mesopotamian civilization used in construction that still influences building today?,PRODUCT
+In the context of the Roman Empire, which architectural product was widely adopted and remains iconic in its design and functionality?,PRODUCT
+Which ancient Chinese civilization product revolutionized navigation across the world?,PRODUCT
+The Indus Valley Civilization is known for its advanced urban planning. What specific product or feature did they develop to ensure clean water supply within their cities?,PRODUCT
+What product, essential for preserving food, was innovatively created by the Incas using a process called freeze-drying or 'charki'?,PRODUCT
+Which ancient Greek civilization product had a significant impact on communication and record-keeping in its time?,PRODUCT
+How did the Aztec civilization utilize a product made from local materials to enhance their agricultural productivity?,PRODUCT
+What product did the Mayan civilization use as a form of currency for trade, which was also integral to their religious ceremonies?,PRODUCT
+In what way did the Mesopotamian civilization use clay tablets as a product that revolutionized record-keeping and education?,PRODUCT
+Which product from the Han Dynasty is considered one of the four great inventions of ancient China and had a profound impact on warfare worldwide?,PRODUCT
+What was an innovative construction material or product developed by the Byzantine Empire that allowed for stunning architectural achievements like domes in churches?,PRODUCT
+How did the Incan civilization use a specific product to maintain communication across their vast empire, which lacked wheeled vehicles?,PRODUCT
+Which product from the Islamic Golden Age significantly improved timekeeping and became widely used in managing daily life and religious practices?,PRODUCT
+What was an important agricultural product developed by the Native American civilizations that contributed immensely to global cuisine post-Columbian exchange?,PRODUCT
+How did the Viking civilization use a specific navigational product that allowed them to explore vast distances across the North Atlantic?,PRODUCT
+Which product, originating from the ancient Babylonian civilization, was crucial in developing early forms of law and governance through codification?,PRODUCT
+What was an innovative transportation or travel-related product used by the Mongol Empire that enhanced their military campaigns and trade networks?,PRODUCT
+How did the Phoenician civilization's development of a specific product contribute to advancements in maritime navigation across the Mediterranean Sea?,PRODUCT
+How many ancient civilizations are considered to have developed independently?,QUANTITY
+What is the approximate population of the largest known civilization in prehistory?,QUANTITY
+In how many years did the Indus Valley Civilization thrive before it declined?,QUANTITY
+Approximately how many cities were part of the Mayan civilization at its peak?,QUANTITY
+How many miles long was the Great Wall of China, which is a symbol of Chinese civilization?,QUANTITY
+What is the estimated number of people who lived in the Roman Empire at its height?,QUANTITY
+Around how many years did it take for the Egyptian civilization to build all the pyramids?,QUANTITY
+How many books are there in the Dead Sea Scrolls that represent significant texts from ancient Middle Eastern civilizations?,QUANTITY
+About how many languages were spoken across the Inca Empire during its peak?,QUANTITY
+What is the estimated number of people who lived within the boundaries of the Aztec civilization at its zenith?,QUANTITY
+How many different scripts did the Ancient Mesopotamian civilization use throughout its history?,QUANTITY
+Approximately how many soldiers did the Mongol Empire, at its height under Genghis Khan, have in its army?,QUANTITY
+What is the estimated number of obelisks that were constructed during the peak of ancient Egyptian civilization for religious and monumental purposes?,QUANTITY
+How many years did it take for the construction of Angkor Wat, which symbolizes the Khmer Empire's architectural achievements?,QUANTITY
+Around how many people lived in Mohenjo-Daro at its peak as one of the major cities of the Indus Valley Civilization?,QUANTITY
+What is the approximate number of temples built during the height of the Greek civilization on mainland Greece and its colonies?,QUANTITY
+How many years did it take for the development of the Chinese script, starting from the earliest forms to the classical period of Han dynasty?,QUANTITY
+Approximately how many miles of roads were constructed by the Roman Empire at its peak as part of their extensive infrastructure network?,QUANTITY
+What is the estimated number of texts that were produced during the Vedic civilization in ancient India between 1500 and 500 BCE?,QUANTITY
+How many different materials were used to construct the pyramids of Egypt, representing various aspects of Egyptian engineering knowledge and resource management at the time of their construction?,QUANTITY
+When did the Indus Valley Civilization reach its peak?,TIME
+What year marked the beginning of Ancient Egyptian civilization?,TIME
+In which time period did the Roman Empire fall?,TIME
+During what era was Mesopotamia considered one of the first civilizations to emerge?,TIME
+Can you name the century when the Mayan civilization flourished?,TIME
+When exactly did the Bronze Age begin in China's Xia Dynasty?,TIME
+What is the estimated date for the establishment of the Harappan cities?,TIME
+In what time frame did the Neolithic Revolution take place, leading to the development of early civilizations?,TIME
+Which period saw the rise and fall of the Aztec civilization?,TIME
+When was the height of the Maurya Empire in Ancient India?,TIME
+At what point in history did the Olmec civilization begin?,TIME
+What time frame defines the peak of the Incan Empire?,TIME
+Can you tell me when the Kingdom of Aksum flourished as a major power?,TIME
+When exactly was the golden age of the Mali Empire?,TIME
+In which historical period did the Shang Dynasty dominate ancient China?,TIME
+Could you provide the timeline for the existence of the Phoenician civilization?,TIME
+What year marks the beginning of Ancient Greek civilization?,TIME
+At what time did the Viking Age take place, marking significant cultural and political changes in Northern Europe?,TIME
+When did the Gupta Empire reach its zenith in India?,TIME
+Which period saw the rise of the Assyrian Empire as a dominant force in Mesopotamia?,TIME
+What is the significance of the Mona Lisa in representing Renaissance civilization?,WORK_OF_ART
+How does The Great Wave off Kanagawa reflect Japanese Edo period culture?,WORK_OF_ART
+Which civilization does the sculpture 'The Thinker' by Rodin belong to and what does it symbolize?,WORK_OF_ART
+In which ancient civilization was the bust of Nefertiti created, and what is its historical significance?,WORK_OF_ART
+What is the cultural importance of the cave paintings in Lascaux within European prehistoric civilizations?,WORK_OF_ART
+How does the work 'The School of Athens' portray different philosophers from various civilizations?,WORK_OF_ART
+Describe the civilization behind the creation of the Terracotta Army and its purpose.,WORK_OF_ART
+Which civilization is associated with Michelangelo's fresco on the ceiling of the Sistine Chapel, and what themes does it explore?,WORK_OF_ART
+What does the intricate design of the Bayeux Tapestry reveal about medieval European civilizations?,WORK_OF_ART
+In which civilization was the 'Dancing Girl' from Mohenjo-daro created, and what can we infer about that society's values?,WORK_OF_ART
+How do the detailed carvings on Trajan's Column reflect Roman military victories and cultural practices of their time?,WORK_OF_ART
+What does the use of jade in Chinese art pieces from ancient civilizations indicate about their beliefs or social hierarchy?,WORK_OF_ART
+Which civilization produced the 'Warrior' frieze found at Persepolis, and what message did it convey to visitors then and now?,WORK_OF_ART
+Describe how the 'Ishtar Gate' represents Babylonian civilization's architectural style and religious practices.,WORK_OF_ART
+How does the intricate gold work of the Mask of Agamemnon reflect Mycenaean Greek civilization's artistic achievements?,WORK_OF_ART
+What do the Moche portrait vessels from ancient Peru tell us about that civilization’s approach to portraiture and identity?,WORK_OF_ART
+Which civilization is associated with the elaborate mosaics at Pella, Greece, and what stories or myths are depicted?,WORK_OF_ART
+How does the ancient Egyptian civilization's use of faience in their art pieces showcase their craftsmanship and beliefs?,WORK_OF_ART
+What can we learn about Aztec civilization from the intricate work on the Sun Stone (Aztec Calendar)?,WORK_OF_ART
+Which civilization is behind the creation of the 'Standard of Ur', and what does it tell us about Sumerian society?,WORK_OF_ART
+What are the oldest civilizations known to historians?,DATE
+How many major river valleys supported early civilizations?,CARDINAL
+Where did the Indus Valley Civilization primarily develop its cities?,LOC
+Which famous architectural structure is a symbol of ancient Egyptian civilization?,FAC
+What was the primary language used in the Mesopotamian civilization?,LANGUAGE
+Which law code is associated with the Babylonian king Hammurabi and influenced many civilizations?,LAW
+Can you name an important event that marked the decline of the Mayan civilization?,EVENT
+How did trade routes like the Silk Road impact ancient civilizations?,WORK_OF_ART
+What percentage of the Roman Empire's economy was based on agriculture at its peak?,PERCENT
+Which organization is responsible for protecting and studying world heritage sites related to various civilizations?,ORG
+Who was a significant leader in the Inca civilization that expanded its territory extensively?,PERSON
+How many major inventions are attributed to ancient Chinese civilization?,CARDINAL
+What time period saw the rise of the Akkadian Empire, one of the earliest empires in history?,TIME
+Which monetary system did the Lydian civilization develop that influenced trade across civilizations?,MONEY
+In what geographical place was the Neolithic Revolution, which led to the development of early civilizations, most evident?,GPE
+What is the name given to the group of people who study ancient civilizations through archaeology and anthropology?,NORP
+Which quantity of years did the Byzantine Empire last before its fall in 1453?,QUANTITY
+How many books are there in the Corpus Hermeticum, which influenced many early civilizations' religious beliefs?,ORDINAL
+What is a notable work of art or literature that originated from the ancient Greek civilization and has had lasting influence?,WORK_OF_ART
+Can you identify a specific product invented by the Phoenicians that was crucial for trade and navigation across different civilizations?,PRODUCT

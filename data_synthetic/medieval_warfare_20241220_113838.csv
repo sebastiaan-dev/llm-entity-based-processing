@@ -1,0 +1,381 @@
+Question,Entity-Type
+What was the approximate number of soldiers in the army during the Battle of Hastings?,CARDINAL
+How many years did the Hundred Years' War last?,CARDINAL
+What year did the First Crusade begin?,CARDINAL
+During the medieval period, how many major crusades were launched by European powers?,CARDINAL
+In which year was the Treaty of Troyes signed that temporarily ended hostilities between England and France?,CARDINAL
+How many days did the Battle of Agincourt last in 1415?,CARDINAL
+What is the estimated number of knights at the Battle of Crecy in 1346?,CARDINAL
+In what year was the siege of Orleans, which Joan of Arc participated in, lifted?,CARDINAL
+How many men are estimated to have died in the Battle of Towton in 1461 due to heavy snow and freezing weather conditions?,CARDINAL
+What number signifies the start of the War of the Roses in England?,CARDINAL
+In what year did Edward III declare himself King of France, marking the beginning of the Hundred Years' War?,CARDINAL
+How many years passed between the signing of the Treaty of Bretigny and the Battle of Agincourt during the Hundred Years' War?,CARDINAL
+What was the approximate population of Constantinople at the time of its fall in 1453 to Ottoman forces?,CARDINAL
+During which year did Richard III die in battle, ending the Wars of the Roses?,CARDINAL
+How many ships are believed to have been part of the First Crusade's naval force when it departed from Western Europe in 1096?,CARDINAL
+In what year was William the Conqueror crowned King of England after defeating Harold Godwinson at Hastings?,CARDINAL
+What is the approximate number of years that the Norman conquests lasted, influencing much of medieval warfare and politics across Europe?,CARDINAL
+How many sieges are estimated to have taken place during the entire period of the Crusades in the Levant region?,CARDINAL
+In what year did the Battle of Grunwald occur, where Polish-Lithuanian forces decisively defeated the Teutonic Knights?,CARDINAL
+What number represents the approximate size of the Mongol army under Genghis Khan when he invaded the Khwarezmian Empire in 1219?,CARDINAL
+When was the Battle of Hastings fought?,DATE
+What year did the First Crusade begin?,DATE
+In which year did the Hundred Years' War start?,DATE
+When did the Magna Carta get signed?,DATE
+What date marks the beginning of the Siege of Jerusalem during the First Crusade?,DATE
+On what date was the Battle of Agincourt fought?,DATE
+Which year saw the end of the Hundred Years' War?,DATE
+In which year did the Albigensian Crusade start?,DATE
+When was the decisive Battle of Crecy between England and France fought during the Hundred Years' War?,DATE
+What year marked the onset of the War of the Roses?,DATE
+Which date is associated with the end of the Third Crusade?,DATE
+On what date did the Second Crusade officially begin?,DATE
+When was the Treaty of Brétigny, which temporarily ended hostilities during the Hundred Years' War, signed?,DATE
+What year did the Battle of Falkirk take place during the First War of Scottish Independence?,DATE
+In which year did the Siege of Antioch start during the First Crusade?,DATE
+When was the Battle of Grunwald fought between the Teutonic Order and an alliance of Polish and Lithuanian forces?,DATE
+What date signifies the beginning of the War of the Roses' final phase, known as Bosworth Field?,DATE
+Which year did the Third Crusade conclude with the signing of a treaty between Richard I of England and Saladin?,DATE
+On what date was the Battle of Poitiers fought during the Hundred Years' War?,DATE
+When did the Second War of Scottish Independence officially end?,DATE
+What were the key events leading up to the Battle of Hastings in 1066?,EVENT
+Which battle marked the end of the Viking Age in medieval Europe?,EVENT
+How did the Battle of Agincourt influence the outcome of the Hundred Years' War?,EVENT
+In which year was the decisive Battle of Grunwald fought between the Teutonic Knights and allied Polish-Lithuanian forces?,EVENT
+What significant event triggered the Norman Conquest of England in 1066?,EVENT
+Describe the role of the Battle of Tours (732) in halting the Muslim advance into Western Europe.,EVENT
+Which military conflict is known for the extensive use of the trebuchet during its siege warfare?,EVENT
+What event marked the beginning of the Crusades in medieval times?,EVENT
+How did the fall of Constantinople to the Fourth Crusade impact Byzantine control over the Mediterranean Sea?,EVENT
+Describe an event that led to the decline of the Knights Templar.,EVENT
+Which battle is considered a turning point for Mongol invasions in Europe and why?,EVENT
+What significant military operation was launched by Richard the Lionheart during his crusading campaigns?,EVENT
+How did the Battle of Lewes (1264) influence English political power structures?,EVENT
+Identify an event that marked the resurgence of Welsh resistance against English rule in the late 13th century.,EVENT
+Which battle saw the last major use of cavalry charges in medieval warfare?,EVENT
+What event led to the end of the War of the Roses and the beginning of the Tudor dynasty?,EVENT
+How did the Battle of Bannockburn (1314) affect Scottish independence from England?,EVENT
+Describe an event that demonstrated the effectiveness of infantry over heavy cavalry in medieval battles.,EVENT
+Which naval battle is considered crucial for ending the power of the Aragonese House of Barcelona in Sardinia?,EVENT
+What significant event during the Hundred Years' War led to the French resurgence under Joan of Arc?,EVENT
+What were the primary fortifications used during medieval warfare?,FAC
+How did castles serve as strategic advantages in medieval battles?,FAC
+Which type of siege engine was most effective for breaching castle walls in medieval times?,FAC
+Can you describe the design and purpose of a trebuchet in medieval warfare?,FAC
+What role did moats play around medieval fortresses during sieges?,FAC
+How were drawbridges used to protect medieval castles from invasions?,FAC
+Which structures were commonly found within a medieval fortress for housing troops and supplies?,FAC
+What was the function of a keep in medieval warfare?,FAC
+Could you explain how arrow slits on castle walls improved defense tactics in medieval times?,FAC
+How did the layout of concentric castles enhance their defensive capabilities during medieval conflicts?,FAC
+In medieval warfare, what specific fortification allowed defenders to shoot arrows from a protected position?,FAC
+What was the purpose of a barbican in the context of medieval castle defenses?,FAC
+How were portcullises used strategically within medieval fortresses during times of attack?,FAC
+Which medieval military facility served as a base for knights and their horses during campaigns?,FAC
+What type of structure was essential for storing ammunition and weapons safely within medieval fortifications?,FAC
+Could you describe the role of a bailey in the layout of a typical medieval castle?,FAC
+How did the development of gunpowder change the design of medieval military strongholds?,FAC
+Which medieval siege weapon was primarily used to smash through fortified walls or gates?,FAC
+What architectural feature allowed defenders on a castle wall to move along it without being exposed to enemy fire?,FAC
+How were gatehouses engineered in medieval fortifications to provide multi-layered defense against attackers?,FAC
+What role did England play in the Hundred Years' War?,GPE
+How significant was France's defense during the Hundred Years' War?,GPE
+Which Italian city-states were involved in the Crusades of the Medieval period?,GPE
+In what ways did the Byzantine Empire influence medieval warfare tactics?,GPE
+What strategies did Spain use to reconquer territories from Muslim rule during the Reconquista?,GPE
+How did the Kingdom of Sicily contribute to military innovations in the Middle Ages?,GPE
+Which battles were crucial for Germany's control over its regions in the Medieval period?,GPE
+Can you describe the role of the Ottoman Empire in medieval European warfare?,GPE
+What impact did the Mongol invasions have on Eastern Europe during the 13th century?,GPE
+How did Russia resist the Mongol conquests and develop its own military strength?,GPE
+Which Welsh campaigns were pivotal in shaping English rule over Wales in the Middle Ages?,GPE
+In what ways did Scotland's geography influence its defense against English invasions?,GPE
+What was Portugal’s military strategy during the Crusades?,GPE
+How did the Swiss confederation develop unique military tactics to fend off their neighbors?,GPE
+Which Scandinavian kingdoms participated actively in the Viking raids of medieval Europe?,GPE
+What role did Ireland play in the Hundred Years' War through its alliances with England and France?,GPE
+Can you explain how the Holy Roman Empire's fragmented structure affected its military campaigns in the Middle Ages?,GPE
+How did the Duchy of Burgundy affect the political and military landscape of Europe during the late medieval period?,GPE
+What was the impact of the Norman Conquest on warfare in Britain and France?,GPE
+Which battles were decisive for the Kingdom of Poland in establishing its influence over neighboring territories in the Middle Ages?,GPE
+What language was commonly used in diplomatic communications during the Medieval Warfare period?,LANGUAGE
+Which language was predominantly used for writing battle chronicles in medieval Europe?,LANGUAGE
+During the Hundred Years' War, which language was primarily used by the French nobility in their correspondence?,LANGUAGE
+In medieval warfare, what language did the Norman invaders use upon landing in England in 1066?,LANGUAGE
+What language were most of the military orders written in during the Crusades?,LANGUAGE
+Which language became increasingly important for international communication among European armies after the mid-13th century?,LANGUAGE
+During medieval times, which was a common language used by mercenaries across Europe?,LANGUAGE
+What was the primary liturgical and scholarly language that influenced warfare literature in medieval Western Europe?,LANGUAGE
+In the context of medieval warfare, what language did the Knights Templar use for their official documents?,LANGUAGE
+Which language served as a lingua franca among various European armies during the late Middle Ages?,LANGUAGE
+During the medieval period, which language was commonly used by scholars and military strategists to communicate tactical knowledge across Europe?,LANGUAGE
+What language was predominantly used in the composition of chivalric romances that often depicted warfare?,LANGUAGE
+In medieval warfare history, which language provided the vocabulary for many terms related to siege engines and tactics?,LANGUAGE
+Which language was most frequently used in treaties between warring states during the Middle Ages?,LANGUAGE
+What language did the Byzantine Empire use in military communications that influenced Eastern European armies?,LANGUAGE
+During the Medieval period, which language became a common medium for translating military treatises from Arabic into Western texts?,LANGUAGE
+In medieval warfare literature, what language was often used to describe the strategies of the Mongol hordes?,LANGUAGE
+What language dominated the field manuals of mercenary companies operating in Italy during the 14th century?,LANGUAGE
+Which language was frequently used by historians to record military campaigns and battles of the Hundred Years' War?,LANGUAGE
+During medieval times, what language did Spanish knights use in their military documents and letters?,LANGUAGE
+What were the laws governing the conduct of knights during medieval warfare?,LAW
+How did the laws of chivalry influence military strategies in Medieval Warfare?,LAW
+In Medieval Europe, what legal measures were taken to control the spread of private armies?,LAW
+Could a peasant appeal under law against a feudal lord who misused his military powers during wartime?,LAW
+What were the legal repercussions for breaking the terms of surrender in medieval warfare?,LAW
+How did international laws of war, as understood in the Middle Ages, affect cross-border conflicts?,LAW
+What legal rights did women have regarding land ownership and inheritance if their husbands died in Medieval Warfare?,LAW
+In the context of Medieval Warfare, what were the legal ramifications for soldiers who deserted from their armies?,LAW
+How did medieval laws address the issue of non-combatant immunity during wartime?,LAW
+Was there a specific law that regulated the use of siege warfare against fortified cities and castles in medieval times?,LAW
+What legal documents were commonly used to settle disputes over territorial gains post-medieval warfare?,LAW
+Did the Church have laws that impacted how kingdoms conducted their military campaigns in Medieval Warfare?,LAW
+How did the Magna Carta affect the conduct of warfare by limiting the power of kings?,LAW
+In medieval times, what legal mechanisms were used to resolve conflicts between different noble families on matters of warfare?,LAW
+What role did local laws play in regulating the conscription practices during Medieval Warfare?,LAW
+How were the terms and enforcement of truces regulated by law during periods of conflict in medieval Europe?,LAW
+Could a medieval monarch legally impose taxes specifically for war purposes, and what laws governed this practice?,LAW
+In Medieval Warfare, how did legal systems deal with the issue of POWs (Prisoners of War)?,LAW
+What were the legal consequences for leaders who violated agreements made during peace talks in medieval warfare?,LAW
+How did the concept of 'trial by combat' influence judicial processes and decisions related to Medieval Warfare?,LAW
+What was the strategic importance of castles in Medieval Warfare?,LOC
+Which medieval fortress saw the longest siege during the Middle Ages?,LOC
+How did the geography of the Rhine River impact military strategies in Medieval Europe?,LOC
+In which town did the Battle of Agincourt take place, marking a significant English victory over France?,LOC
+What role did the city of Constantinople play in medieval warfare before its fall to the Ottomans?,LOC
+Which mountain pass was crucial for controlling trade and movement during medieval times?,LOC
+How did the landscape around Lake Peipus influence the Battle of the Ice outcome in 1242?,LOC
+What defensive advantages did the city of Carcassonne offer during the Albigensian Crusade?,LOC
+Can you describe the role of the English Channel as a natural barrier in medieval warfare?,LOC
+Which medieval battlefield is known for being the site where Richard the Lionheart won victory over French forces?,LOC
+How did the geography of the Po Valley affect military campaigns during the Italian Wars?,LOC
+What was the significance of the Danube River in the context of border defense and invasion routes in medieval Europe?,LOC
+In what city was the first successful cannon siege carried out, changing warfare dynamics forever?,LOC
+Which forest provided a natural defensive advantage for the Teutonic Knights until their defeat at Grunwald?,LOC
+How did the position of the city of Acre affect its role as a strategic point during the Crusades?,LOC
+What role did the North Sea play in naval battles and maritime defense strategies during medieval times?,LOC
+Which mountain range served as a natural boundary between warring kingdoms during the Middle Ages?,LOC
+Can you explain how the terrain around the river Somme influenced military engagements in earlier medieval periods?,LOC
+How did the location of the city of Troyes influence its significance in military alliances and conflicts?,LOC
+What was the strategic importance of the Strait of Gibraltar during medieval naval warfare between European and Islamic powers?,LOC
+What was the cost of hiring a mercenary knight in medieval times?,MONEY
+How much did it typically cost to equip a fully armored knight for battle?,MONEY
+What amount of money did peasants owe as taxes to support their kingdom's military expenses?,MONEY
+During the Medieval period, how much did a crossbow typically cost compared to a longbow?,MONEY
+In medieval warfare, what was the average compensation given to foot soldiers in terms of coinage for each campaign they participated in?,MONEY
+What sum of money would a lord have to pay to ransom back his captured knight during the Crusades period?,MONEY
+How much did it cost to construct and maintain a siege engine such as a trebuchet in medieval times?,MONEY
+What was the average bribe amount that could convince a soldier to switch sides in a battle?,MONEY
+In terms of currency, what did it typically cost for a commoner to avoid military service by paying a substitute during Medieval times?,MONEY
+How much money would a king need to raise an army consisting of 1000 knights and their retinues?,MONEY
+What was the monetary value of a ransom for a captured noble in medieval warfare?,MONEY
+In medieval Europe, how much did it typically cost to buy off an attacking force to prevent them from sacking your town or city?,MONEY
+How much money would a vassal owe their lord annually as part of their feudal dues to support military campaigns?,MONEY
+What was the approximate amount of gold or silver a medieval army would loot and divide among its soldiers after defeating a fortified city?,MONEY
+In terms of coinage, what did it cost to supply an entire cavalry unit for one year in Medieval warfare?,MONEY
+How much money could be offered as a bounty for the capture or death of a notable enemy commander during medieval times?,MONEY
+What was the monetary compensation given to the families of soldiers who died while serving in their lord's army?,MONEY
+During the Middle Ages, how much did it cost to maintain and feed one horse used in military service per month?,MONEY
+How much money would a town need to raise through taxation or loans to fund its own militia for defense purposes?,MONEY
+What was the average price paid by nobles for hiring assassins during times of war in medieval Europe?,MONEY
+What were the main tactics used by the Knights Templar during the Crusades?,NORP
+How did the Mongol Empire's cavalry units impact medieval warfare in Europe?,NORP
+In what ways did the Norman Conquest influence military strategies in England?,NORP
+Describe the role of the Janissaries in Ottoman military campaigns.,NORP
+What were the significant contributions of the Swiss pikemen to European battlefield tactics during the late Middle Ages?,NORP
+How did the Welsh longbowmen change the dynamics of medieval battles?,NORP
+Which Norse warriors, known for their ferocity and independence, played a crucial role in many conflicts of the early medieval period?,NORP
+What strategies did the English use to counter the French knights at the Battle of Agincourt?,NORP
+How did the Scottish forces under Robert the Bruce utilize guerrilla warfare against the English during the Wars of Scottish Independence?,NORP
+Compare the military organization and tactics of the Byzantine Empire's Varangian Guard with those of the Viking raiders.,NORP
+What impact did the Swiss Confederacy have on medieval warfare through their unique battle formations?,NORP
+How did the Hussite Wars demonstrate the effectiveness of peasant armies equipped with early gunpowder weapons against heavily armored knights?,NORP
+In what ways did the Italian city-states' Condottieri change the nature of military service in Europe during the Renaissance period?,NORP
+What were some key differences between the siege tactics employed by the Spanish and those used by other medieval powers in their conquests?,NORP
+How did the use of the pike square formation by the German Landsknechts influence battle dynamics in 16th-century Europe?,NORP
+What role did the French heavy cavalry, known as the Gendarmes, play in late medieval warfare?,NORP
+Compare and contrast the naval tactics used by the Venetian Republic with those of their rivals, such as the Genoese.,NORP
+How did the Teutonic Knights' military order shape the political landscape of Eastern Europe during the Middle Ages?,NORP
+What were some innovative siege engines developed by the English during the Hundred Years' War and how effective were they against French fortifications?,NORP
+Describe the impact of the Almogavars, a Catalan mercenary infantry unit, on medieval warfare in Iberia.,NORP
+What was the first major battle fought between the Normans and the Anglo-Saxons?,ORDINAL
+Which ordinal year marked the start of the Hundred Years' War between England and France?,ORDINAL
+In which numbered Crusade did the Battle of Hattin take place, a significant defeat for the Crusaders?,ORDINAL
+What was the second largest naval battle during the medieval period involving the Venetian fleet?,ORDINAL
+During the medieval times, what ordinal year saw the signing of the Treaty of Troyes between England and France?,ORDINAL
+Which numbered Crusade ended with the fall of Acre to Muslim forces in 1291?,ORDINAL
+What was the third major battle that led to the decline of the Byzantine Empire in the 14th century?,ORDINAL
+In terms of chronology, what ordinal year witnessed the Battle of Agincourt during the Hundred Years' War?,ORDINAL
+How many years into the reign of Richard I did the Third Crusade begin?,ORDINAL
+What was the first battle that demonstrated the effectiveness of gunpowder weapons in European warfare?,ORDINAL
+Which numbered crusade led to the fall of Constantinople, a turning point for medieval Europe and the Byzantine Empire?,ORDINAL
+In which ordinal year did Edward III of England launch his invasion of France starting the Hundred Years' War?,ORDINAL
+What was the second significant battle involving the Scots against the English during the Wars of Scottish Independence?,ORDINAL
+How many years into the reign of Emperor Charles V did the first major conflict of the Italian Wars occur?,ORDINAL
+Which numbered Crusade saw the Children's Crusades, a movement by European children to reclaim Jerusalem?,ORDINAL
+What was the third great siege of Acre in which the Crusaders attempted to retake the city from Muslim forces?,ORDINAL
+In terms of chronology, what ordinal year marked the end of the Third Crusade with the Treaty of Jaffa and Ascalon?,ORDINAL
+How many years into the reign of Frederick Barbarossa did he lead his army on the Third Crusade in support of Jerusalem?,ORDINAL
+What was the second largest battle that took place during the Hundred Years' War involving French and English forces?,?,ORDINAL
+Which numbered crusade ended with a truce between Richard I of England and Saladin without any territorial gains for the Christians?,ORDINAL
+What was the primary role of the Knights Templar in medieval warfare?,ORG
+How did the organization of the Janissaries evolve during the medieval period?,ORG
+In what ways did the military orders like the Teutonic Knights influence European politics?,ORG
+Which strategies were commonly used by the Byzantine army to defend Constantinople against invaders?,ORG
+What role did the Mongol Empire play in shaping warfare techniques during the medieval era?,ORG
+How did the structure of the English Longbowmen units contribute to their effectiveness on the battlefield?,ORG
+Can you describe the organizational changes in the Ottoman Army that occurred due to contact with medieval European armies?,ORG
+In what ways did the organization of the Vikings' naval forces impact their success in raids and warfare?,ORG
+What were some notable tactics used by the Swiss pikemen formations during medieval conflicts?,ORG
+How did the administrative structure of the Mamluk Sultanate influence its military effectiveness against Crusader states?,ORG
+What was the significance of the Battle of Agincourt for the French army organization?,ORG
+How did the organization of the Spanish Conquistadors contribute to their success in medieval warfare?,ORG
+Can you explain how the Papal States' military organizations changed after the Investiture Controversy?,ORG
+In what ways did the defensive strategies of the Order of Saint John evolve during their control of Rhodes and Malta?,ORG
+How did the organization of the Varangian Guard within the Byzantine Empire influence medieval warfare tactics?,ORG
+What were some of the key organizational principles behind the success of the Polish-Lithuanian Commonwealth's military forces in medieval times?,ORG
+Can you describe how the English army's structure under King Edward I influenced its effectiveness against Welsh and Scottish adversaries?,ORG
+How did the organization of the Knights Hospitaller differ from that of other Crusader states during the medieval period?,ORG
+In what ways did the administrative changes within the Burgundian Army reflect broader trends in late medieval military organization?,ORG
+What role did the Castilian Navy play in expanding Spanish influence through naval warfare in the Mediterranean and Atlantic during the medieval era?,ORG
+What percentage of medieval warfare casualties were due to diseases rather than combat injuries?,PERCENT
+In the context of medieval sieges, what approximate percentage of attacking armies typically perished before capturing a well-defended castle?,PERCENT
+During the Hundred Years' War, what percent of battles did English longbowmen contribute to winning for England?,PERCENT
+What was the estimated percentage of cavalry in a typical medieval army's composition during the 14th century?,PERCENT
+In medieval warfare, approximately what percent of soldiers were foot soldiers compared to those mounted on horses?,PERCENT
+How much of a percentage did naval battles account for in total military conflicts between European countries during the Medieval period?,PERCENT
+What percentage of weapons found at archaeological sites from the medieval era are believed to be non-functional or ceremonial?,PERCENT
+During the Crusades, what percent of knights were known to have survived their campaigns and returned home safely?,PERCENT
+In medieval warfare, what percentage of battles resulted in a decisive victory rather than a stalemate or withdrawal by one side?,PERCENT
+What was the estimated percentage of children among the civilian casualties during a typical medieval siege scenario?,PERCENT
+By the end of the Middle Ages, how much did armor and weapons account for as a percent of a knight's total yearly expenses?,PERCENT
+How many percent of soldiers in medieval armies were professional soldiers rather than conscripted peasants or levies?,PERCENT
+In terms of fortifications, what percentage increase in manpower was required to defend a castle with moats versus one without them during the Middle Ages?,PERCENT
+What approximate percentage of medieval warfare casualties occurred due to starvation within besieged cities compared to direct combat injuries?,PERCENT
+How much of a percent did the invention and use of gunpowder change the outcome of battles in late Medieval Europe?,PERCENT
+During the period of 1000-1300 AD, what was the estimated percentage of European population involved directly or indirectly in warfare at any given time?,PERCENT
+What percentage of medieval sieges resulted in the besieged city surrendering before an actual assault took place?,PERCENT
+In a typical medieval army formation, how much percent did the infantry represent compared to cavalry and archers combined?,PERCENT
+How much percent did the introduction of plate armor decrease knight mortality rates during battles in the 14th century?,PERCENT
+What percentage of medieval warfare casualties were civilians as opposed to combatants during the Hundred Years' War period?,PERCENT
+Who was the commander of the Norman army during the Battle of Hastings?,PERSON
+Which medieval knight is known for leading the Third Crusade against Saladin?,PERSON
+What role did Richard I play in Medieval Warfare?,PERSON
+Who was the leader of the Mongol hordes that invaded Eastern Europe?,PERSON
+Can you name a prominent Muslim military leader who opposed the Crusaders during the Siege of Jerusalem?,PERSON
+Which English king led his forces at the Battle of Crécy against the French?,PERSON
+Who led the Byzantine army to victory in the Battle of Manzikert, only to be defeated later by the Seljuk Turks?,PERSON
+What was William Marshal's significant contribution to Medieval Warfare?,PERSON
+In which battle did Edward I earn his reputation as a warrior king?,PERSON
+How did Genghis Khan revolutionize military tactics during his conquests in Asia and Europe?,PERSON
+Who led the French army at the Battle of Poitiers in 1356 against the English?,PERSON
+What role did Joan of Arc play in the Hundred Years' War?,PERSON
+Which Byzantine Emperor is known for using Greek Fire to repel naval invasions?,PERSON
+How did Frederick Barbarossa impact Medieval Warfare during his campaigns and Crusades?,PERSON
+Who was the leader of the Teutonic Knights during their battles against pagan tribes in Prussia?,PERSON
+What role did Alfonso X play in the Spanish Reconquista?,PERSON
+Which medieval ruler is credited with inventing the counterweight trebuchet, significantly changing siege warfare?,PERSON
+How did Tamerlane's military campaigns reshape Medieval Warfare across Central Asia and Europe?,PERSON
+Who was the leader of the Flemish forces at the Battle of the Golden Spurs in 1302?,PERSON
+What contributions did Charles VII make to Medieval Warfare during his reign as King of France?,PERSON
+What were the primary materials used in the construction of medieval crossbows?,PRODUCT
+How did the design of siege towers evolve during the medieval period to better protect soldiers?,PRODUCT
+Which type of armor was most effective against the force of a longbow arrow in medieval warfare?,PRODUCT
+In medieval times, what improvements were made to chainmail to enhance its protective capabilities against various weapons?,PRODUCT
+What kind of gunpowder-based weapon marked the beginning of firearms in medieval warfare?,PRODUCT
+Can you describe the mechanism behind the trebuchet used during medieval sieges for hurling projectiles at enemy fortifications?,PRODUCT
+How did the invention of plate armor change the dynamics of hand-to-hand combat in medieval battles?,PRODUCT
+What advancements were made in the construction of longbows that increased their range and effectiveness on the battlefield?,PRODUCT
+Which type of catapult was most commonly used during medieval sieges for its accuracy and power to destroy fortifications?,PRODUCT
+How did the introduction of the arbalest change the role of missile weapons in medieval warfare compared to traditional bows?,PRODUCT
+What were the key components of a balista that made it effective as a siege weapon in medieval conflicts?,PRODUCT
+In terms of product evolution, how did the design of flails improve their effectiveness as melee weapons during medieval combat?,PRODUCT
+Which innovations in swordsmithing techniques allowed for stronger and more durable swords used by knights in medieval warfare?,PRODUCT
+How did the development of gunpowder cannons impact the construction and defense strategies of medieval castles?,PRODUCT
+What improvements were made to the design of halberds that increased their effectiveness against armored opponents in medieval battles?,PRODUCT
+Can you explain the role of the mace as a blunt force weapon during medieval warfare, particularly its effectiveness against armor?,PRODUCT
+How did the introduction of firearms like hand cannons revolutionize the tactics and outcomes of medieval sieges?,PRODUCT
+What advancements in metallurgy led to the creation of more effective crossbow bolts during the medieval period?,PRODUCT
+Which type of siege engine utilized tension and torsion to launch large stones or burning materials at fortifications in medieval warfare?,PRODUCT
+How did the design of throwing axes evolve over time to become more efficient weapons in close combat scenarios in medieval battles?,PRODUCT
+How many castles were besieged during the Hundred Years' War?,QUANTITY
+What was the approximate number of soldiers in an average medieval army?,QUANTITY
+During the Battle of Hastings, approximately how many Normans fought against the Anglo-Saxons?,QUANTITY
+In the siege of Constantinople (1453), about how many Ottoman troops were involved?,QUANTITY
+How many years did the Hundred Years' War actually last?,QUANTITY
+What was the typical length in meters for a medieval trebuchet's throwing arm?,QUANTITY
+Approximately how many crossbow bolts could an elite crossbowman shoot per minute during the Middle Ages?,QUANTITY
+During the Battle of Agincourt, what was the estimated number of English and French casualties combined?,QUANTITY
+How long did it typically take in days to prepare a castle for siege conditions?,QUANTITY
+What was the average weight in kilograms of a knight's full armor in the High Middle Ages?,QUANTITY
+About how many arrows could be fired per minute from a single English longbowman during medieval warfare?,QUANTITY
+In terms of years, how long did the First Crusade last from its launch to the capture of Jerusalem?,QUANTITY
+How many major battles were fought during the War of the Roses?,QUANTITY
+What was the approximate number of siege towers used in the Siege of Acre (1189–1191)?,QUANTITY
+How long did the construction of a large medieval castle typically take in years?,QUANTITY
+During the Battle of Lechfeld against the Hungarians, approximately how many troops were part of Otto I's army?,QUANTITY
+What was the average speed in kilometers per hour that a mounted knight could charge into battle during the Middle Ages?,QUANTITY
+How many days did the Siege of Orleans last before it ended with the French lifting the siege?,QUANTITY
+In terms of soldiers, what was the approximate size of the Mongol army led by Genghis Khan when they invaded Europe?,QUANTITY
+What was the typical range in meters for a medieval crossbow used during warfare?,QUANTITY
+When did the Hundred Years' War between England and France begin?,TIME
+What year marked the start of the Crusades?,TIME
+In which century was the Battle of Hastings fought?,TIME
+During what time period did the Mongol Empire conduct its massive military campaigns across Asia and Eastern Europe?,TIME
+What year saw the fall of Constantinople to the Ottoman Turks, marking the end of the Byzantine Empire?,TIME
+When was the last major Viking raid in England recorded?,TIME
+In which decade did the War of the Roses begin?,TIME
+What year ended with the signing of the Treaty of Troyes between England and France during the Hundred Years' War?,TIME
+During what time frame were castles most commonly built across Europe as defensive structures in medieval warfare?,TIME
+Which century saw the widespread use of longbows by English armies, significantly impacting battlefield tactics?,TIME
+When was the Battle of Agincourt fought, a significant victory for England during the Hundred Years' War?,TIME
+What year did Richard the Lionheart lead his crusade to the Holy Land?,TIME
+In which period were crossbows widely used in European warfare, changing the dynamics of medieval combat?,TIME
+During what time span was the First Crusade launched and completed?,TIME
+When did the Black Death first reach Europe, greatly affecting military capabilities across the continent?,TIME
+What year marked the beginning of the Anarchy in England, a civil war between King Stephen and Empress Matilda?,TIME
+In which century did the Battle of Grunwald take place, a decisive victory for Polish-Lithuanian forces against the Teutonic Order?,TIME
+When was the fall of Jerusalem to Saladin's forces during the Crusades?,TIME
+What year saw the signing of the Treaty of Verdun, dividing Charlemagne’s empire among his three grandsons?,TIME
+During what time did the Byzantine–Ottoman Wars occur, impacting the balance of power in Eastern Europe and Asia Minor?,TIME
+What is the name of the famous tapestry that depicts the Norman conquest of England?,WORK_OF_ART
+Which painting by Pieter Bruegel the Elder vividly captures a battle between farmers and reapers during medieval times?,WORK_OF_ART
+Can you name the illuminated manuscript that includes detailed illustrations of medieval warfare tactics?,WORK_OF_ART
+What is the title of the miniature painting that shows Richard the Lionheart leading his troops into battle?,WORK_OF_ART
+Which medieval stained glass window depicts scenes from the life of Edward III, including battles he won?,WORK_OF_ART
+Can you name a famous sculpture group that portrays a knight on horseback from the medieval period?,WORK_OF_ART
+What is the name of the manuscript that contains detailed depictions of armor and weaponry used in medieval warfare?,WORK_OF_ART
+Which woodcut illustrates the Battle of Grunewald between the Teutonic Knights and the Polish-Lithuanian army?,WORK_OF_ART
+Is there a specific painting that portrays Joan of Arc leading her troops into battle during the Hundred Years' War?,WORK_OF_ART
+What tapestry shows the Battle of Hastings from 1066, featuring William the Conqueror's victory over Harold II?,WORK_OF_ART
+Which medieval fresco depicts knights and soldiers preparing for a siege on a castle?,WORK_OF_ART
+Can you identify the painting that captures the moment King Arthur was mortally wounded during a battle in medieval times?,WORK_OF_ART
+What is the name of the metalwork piece, such as a helmet or shield, adorned with scenes from battles fought by Charlemagne's army?,WORK_OF_ART
+Is there an engraving series that showcases various siege engines used during medieval warfare?,WORK_OF_ART
+Which manuscript page includes illustrations of knights and their armor alongside descriptions of famous battles?,WORK_OF_ART
+Can you name a sculpture that represents the concept of chivalry in medieval warfare through its portrayal of a knight?,WORK_OF_ART
+What is the title of the painting that shows a medieval battlefield with fallen soldiers and horses?,WORK_OF_ART
+Which illuminated manuscript contains detailed accounts and illustrations of the Crusades, including battles between Christians and Muslims?,WORK_OF_ART
+Is there a specific tapestry that depicts the Battle of Crécy in 1346 during the Hundred Years' War?,WORK_OF_ART
+What is the name of the medieval painting or fresco that shows the Battle of Agincourt in 1415?,WORK_OF_ART
+What were the primary weapons used during Medieval Warfare?,PRODUCT
+How did the introduction of gunpowder change medieval warfare tactics?,PRODUCT
+Which event marked the beginning of the end for traditional medieval warfare methods?,EVENT
+Can you name a significant battle that showcased the use of early cannons in medieval times?,FAC
+In which century did medieval warfare predominantly occur?,DATE
+What type of armor was most commonly used by knights during the medieval period?,PRODUCT
+How much would it typically cost to equip a knight for war in the Middle Ages?,MONEY
+Which kingdom was known for its effective use of cavalry units in medieval battles?,ORG
+Who were some notable leaders that significantly influenced medieval warfare strategies?,PERSON
+What percentage of medieval armies consisted of foot soldiers as opposed to mounted knights?,PERCENT
+How did the geography of a battle site influence medieval combat tactics?,LOC
+What was the primary language used for military communication among the nobility during medieval times?,LANGUAGE
+Which law dictated the rules of engagement in chivalric warfare during the medieval era?,LAW
+In terms of defense structures, what was a common feature built by European kingdoms to protect against invasions?,FAC
+How did the Hundred Years' War alter the landscape of medieval warfare tactics and technology?,EVENT
+What time period is considered the height of knights' influence in medieval warfare?,TIME
+Which region saw the most significant developments in siege warfare techniques during the Middle Ages?,GPE
+Could you explain the role of crossbows in changing the dynamics of medieval battles?,PRODUCT
+How did the Black Death impact military strategies and manpower in medieval Europe?,EVENT
+What was a typical day's schedule like for an army preparing for battle in medieval times?,TIME

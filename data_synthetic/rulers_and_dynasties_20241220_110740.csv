@@ -1,0 +1,381 @@
+Question,Entity-Type
+What year did the Qin Dynasty unify China?,CARDINAL
+How many years did the Roman Empire last approximately?,CARDINAL
+In which century did the Zhou Dynasty begin in China?,CARDINAL
+How old was Alexander the Great when he became king of Macedonia?,CARDINAL
+What was the duration, in years, of Cleopatra's reign as pharaoh?,CARDINAL
+Which year marked the beginning of the Byzantine Empire?,CARDINAL
+For how many years did Queen Elizabeth I rule England?,CARDINAL
+How old was Julius Caesar when he first became consul of Rome?,CARDINAL
+What age was Genghis Khan when he united the Mongol tribes?,CARDINAL
+In which century did the Han Dynasty fall in China?,CARDINAL
+Which year saw the start of Peter the Great's reign as Tsar of Russia?,CARDINAL
+How long, approximately, did the Maurya Empire last in years?,CARDINAL
+What age was Catherine the Great when she became Empress of Russia?,CARDINAL
+In which century did the Ming Dynasty end in China?,CARDINAL
+How many years did the reign of Emperor Constantine the Great last?,CARDINAL
+At what age did King Louis XIV become ruler of France?,CARDINAL
+Which year marked the fall of the Romanov dynasty after the Russian Revolution?,CARDINAL
+For how long, approximately, did Queen Nefertiti rule Egypt as pharaoh's wife and co-regent?,CARDINAL
+In which century did the British Empire reach its largest territorial extent?,CARDINAL
+How old was Napoleon Bonaparte when he became Emperor of France?,CARDINAL
+When did the Han Dynasty begin its rule in China?,DATE
+What year was the Roman Empire officially divided into Eastern and Western empires?,DATE
+In which year did the Qin Dynasty unify China under one ruler?,DATE
+Which date marks the start of the reign for King Louis XIV of France, also known as the Sun King?,DATE
+On what date did the British Monarchy's Act of Union come into effect, uniting England and Scotland?,DATE
+What is the date of the fall of the Western Roman Empire traditionally marked by historians?,DATE
+When was Genghis Khan proclaimed the Great Khan, marking the beginning of the Mongol Empire?,DATE
+Can you provide the year when Queen Elizabeth I of England ascended to the throne?,DATE
+Which year saw the establishment of the Byzantine Empire under Emperor Constantine I?,DATE
+What date marks the coronation of Charlemagne as Holy Roman Emperor by Pope Leo III?,DATE
+When did the reign of Akbar the Great, a prominent ruler of the Mughal Empire in India, begin?,DATE
+Which year saw the end of the Qing Dynasty and the fall of the last emperor in China?,DATE
+What is the date associated with the coronation of Nebuchadnezzar II as king of Babylon?,DATE
+When did the Maurya Empire, founded by Chandragupta Maurya, come into existence in ancient India?,DATE
+On what date was the reign of Emperor Nero of Rome traditionally considered to have ended?,DATE
+Which year marked the beginning of the reign for Cleopatra VII Philopator in Egypt?,DATE
+What is the traditional date given for the fall of Constantinople to the Ottoman Turks, ending the Byzantine Empire?,DATE
+When did the Russian Revolution begin, leading to the end of the Romanov dynasty and the establishment of the Soviet Union?,DATE
+Can you provide the year when King Hammurabi of Babylon issued his famous code of laws?,DATE
+What is the date often cited as the start of the reign for Alexander the Great in Macedonia and Greece?,DATE
+What were the key events that led to the establishment of the Ming Dynasty in China?,EVENT
+How did the signing of the Treaty of Versailles impact the ruling powers post World War I?,EVENT
+Which event marked the beginning of Queen Elizabeth II's reign in the United Kingdom?,EVENT
+What significant event triggered the fall of the Romanov dynasty during the Russian Revolution?,EVENT
+Can you describe the pivotal event that led to Julius Caesar becoming a dictator in Rome?,EVENT
+How did the Battle of Hastings in 1066 change the ruling dynamics in England?,EVENT
+Which event is considered the catalyst for the collapse of the Qing Dynasty in China?,EVENT
+What event marked the transition of power from the Hanoverians to the Windsors in Britain?,EVENT
+How did the abdication crisis of 1936 influence British royal events and succession rules?,EVENT
+What significant event led to the rise of Napoleon Bonaparte as Emperor of France?,EVENT
+Which historical event is associated with the overthrow of the Byzantine Empire by the Ottoman Turks?,EVENT
+Can you detail the event that caused the shift in power from the Carolingian Dynasty to the Holy Roman Empire?,EVENT
+How did the French Revolution impact the ruling dynamics of Europe during the late 18th century?,EVENT
+What key event led to the end of the Bourbon dynasty's reign over France after the French Revolution?,EVENT
+Which military event was crucial in securing Genghis Khan’s rule and expansion of his empire?,EVENT
+How did the Glorious Revolution change the ruling dynamics between England, Scotland, and Ireland?,EVENT
+Can you describe the event that initiated the decline of the Ottoman Empire's power in Europe during World War I?,EVENT
+What historical event marked the start of Peter the Great's reign as Tsar of Russia?,EVENT
+Which significant event is associated with the rise of the Maurya Dynasty under Chandragupta Maurya?,EVENT
+How did the October Revolution impact the ruling dynamics and transition to Soviet rule in Russia?,EVENT
+Who founded the Ming Dynasty?,FAC
+Which family ruled over the Qing Dynasty?,FAC
+What is the name of the palace where Yongle Emperor held his court during the early Ming period?,FAC
+Which building serves as a symbol of the power and wealth of the Ottoman Empire at its height?,FAC
+Where was the capital of the Roman Empire moved to by Constantine I in 330 AD?,FAC
+What is the name of the fortress palace built by Shah Jahan for his empress Mumtaz Mahal?,FAC
+Which structure served as a residence of French kings during the Ancien Régime period?,FAC
+Where did King Louis XIV move the royal court in 1682, marking the start of its glory days as a symbol of absolute monarchy?,FAC
+What is the name of the grand palace that was once the primary residence of the Emperors of China during the Ming and Qing dynasties?,FAC
+Which castle served as the traditional home of Scotland's monarchs before the Union of the Crowns in 1603?,FAC
+Where did the Habsburg family primarily reside when they ruled over much of Central Europe?,FAC
+What was the name of the grand palace built by Louis Le Vau and Jules Hardouin-Mansart for King Louis XIV as a symbol of royal power and prestige?,FAC
+Which iconic tower in Paris was once part of a fortress that served to protect the city and its rulers during the medieval period?,FAC
+What is the name of the famous palace that was used by Russian Tsars as their principal residence from 1837 until 1917?,FAC
+Where did Ivan the Terrible establish his capital, which later became a symbol of autocratic power in Russia?,FAC
+Which castle was the primary residence of English and Scottish monarchs for nearly 900 years, serving as both a fortress and a royal palace?,FAC
+What is the name of the ancient Roman landmark that once served as a residence for emperors during the early imperial period?,FAC
+Where did the Tokugawa shogunate rule Japan from, making it the center of political power in the Edo period?,FAC
+Which monumental temple complex was used by several Chinese dynasties as an imperial palace and as a venue for important state ceremonies?,FAC
+What is the name of the grand mosque that also served as the residence of the Ottoman sultans until the 17th century, symbolizing the union of religious and political power in the empire?,FAC
+Who was the founder of the Han Dynasty that unified China?,GPE
+What empire did Genghis Khan establish in the 13th century?,GPE
+Which dynasty ruled Japan from the late 8th to the mid-9th centuries?,GPE
+During which dynasty did Marco Polo visit China and write about his experiences?,GPE
+Who established the Ming Dynasty after overthrowing the Mongol-led Yuan Dynasty?,GPE
+What was the name of the empire that existed in Central Asia and ruled parts of modern-day Iran, Afghanistan, and Uzbekistan during the 13th to 15th centuries?,GPE
+Which dynasty in Korea is known for the construction of the Hwaseong Fortress?,GPE
+Under which ruler did the Ottoman Empire reach its territorial zenith?,GPE
+What was the name of the dynasty that ruled ancient Egypt and included pharaohs such as Akhenaten and Tutankhamun?,GPE
+Who was the first emperor of the Byzantine Empire, previously known as Constantinople?,GPE
+Which Persian dynasty succeeded the Parthian Empire and is famous for its rulers like Cyrus II and Darius I?,GPE
+During which dynasty did China experience a golden age with significant advancements in art, literature, and technology?,GPE
+What was the name of the dynasty that ruled Vietnam from 1009 to 1470 AD, known for unifying much of modern-day northern and central Vietnam?,GPE
+Which Indian empire is best known for its patronage of arts and its ruler Ashoka's conversion to Buddhism?,GPE
+Who was the founder of the Sasanian Empire that ruled Persia from 224 to 651 AD?,GPE
+What dynasty in Russia established Moscow as a major power, leading to the eventual creation of the Russian Empire?,GPE
+Under which Chinese dynasty did the Great Wall of China reach its most impressive form with extensive fortifications and watchtowers?,GPE
+Which dynasty in England is known for monarchs such as William I and his descendants up until Edward III?,GPE
+What was the name of the last imperial dynasty to rule China before it became a republic in 1912?,GPE
+During which Japanese shogunate did Japan adopt an isolationist foreign policy that ran from 1633 to 1853 under various shoguns?,GPE
+What language was primarily used during the reign of Emperor Charlemagne in his dynasty?,LANGUAGE
+Which language did King Louis XIV use to communicate official matters within his court and government during the Bourbon Dynasty?,LANGUAGE
+In the Qin Dynasty under Emperor Qin Shi Huang's rule, what language or script was standardized for communication across the empire?,LANGUAGE
+During the Han Dynasty, which classical form of Chinese became the standard written language used in governmental records and literature?,LANGUAGE
+What language did Queen Elizabeth I use to conduct her government affairs during her reign in the Tudor dynasty?,LANGUAGE
+Which dialect of Arabic was predominantly used as the official language in the Umayyad Caliphate under its rulership?,LANGUAGE
+Under the leadership of Akbar, what language became a significant literary language of the Mughal Empire's court and culture?,LANGUAGE
+What language did Catherine the Great use to communicate with foreign dignitaries during her rule over Russia?,LANGUAGE
+In the Ottoman Dynasty, which language was used for administrative purposes and within the imperial council under rulers like Suleiman the Magnificent?,LANGUAGE
+During the reign of Ashoka in the Maurya Empire, what script was used on his edicts to communicate with various regions of the empire?,LANGUAGE
+What language did King Chulalongkorn use during the absolute monarchy period for legal and governmental documents in Thailand's Chakri Dynasty?,LANGUAGE
+Under Emperor Constantine I's rule in the Eastern Roman Empire, which language became a key language used for administrative purposes and church services?,LANGUAGE
+In the Qing Dynasty under Emperor Kangxi's reign, what was the primary written form of Chinese used in imperial examinations and official documents?,LANGUAGE
+Which language did King Nebuchadnezzar II use to communicate with his subjects during his rule over the Neo-Babylonian Empire?,LANGUAGE
+What language did Queen Nefertiti's court likely use for official documentation and communication under her husband Akhenaten's reign in Egypt?,LANGUAGE
+During the reign of Genghis Khan in the Mongol Empire, which script was developed to write the Mongolian language for official documents?,LANGUAGE
+In the Ming Dynasty, what form of Chinese was used as the standard written language for imperial decrees and scholarly works under Emperor Zhu Yuanzhang's rule?,LANGUAGE
+What language did King Hammurabi use on his famous code of laws during his reign over Babylonian Empire?,LANGUAGE
+During the reign of Cleopatra in ancient Egypt's Ptolemaic Dynasty, which languages were used for administrative documents alongside Greek due to her multicultural court?,LANGUAGE
+Under Emperor Justinian I's rule, what language was predominantly used for legal codes such as the Corpus Juris Civilis during the Byzantine Empire?,LANGUAGE
+What were the primary laws established by the Code of Hammurabi?,LAW
+How did the Justinian Code influence European legal systems?,LAW
+In what ways did the Magna Carta limit the power of the monarch in England?,LAW
+Which specific laws were implemented during the reign of Emperor Ashoka to promote his principles of Dharma?,LAW
+What role did the Salic Law play in determining succession for rulership in France?,LAW
+How did the law of primogeniture impact inheritance practices under various European dynasties?,LAW
+Can you describe the legal reforms introduced by Peter the Great during his rule in Russia?,LAW
+What were some key laws established by Genghis Khan's Yassa code that governed his empire?,LAW
+Which legal measures did Queen Elizabeth I implement to strengthen her authority over England?,LAW
+How did the Edicts of Ashoka serve as a form of law for governing ancient India under Mauryan rule?,LAW
+What were the significant legal reforms carried out by Emperor Qin Shi Huang after unifying China?,LAW
+In what way did the legal codes of the Byzantine Empire influence its governance and succession rules?,LAW
+How did the Hanfeizi legalism of the Qin Dynasty shape the laws and administration of early imperial China?,LAW
+What were the major legal changes introduced by the Nara Reform in Japan during the Asuka period to strengthen the central government?,LAW
+Can you explain how the law of apartheid was used as a tool for governance under South African rulership from 1948 to 1994?,LAW
+How did the law of Tanistry affect succession rights within Gaelic Irish dynasties prior to English colonization?,LAW
+What were some notable legal changes brought about by King Henry II during his reign in England that affected royal power and feudal obligations?,LAW
+Could you detail the legal framework established under the Tokugawa shogunate to enforce governance across Japan from 1603-1867?,LAW
+How did laws concerning religious freedom or suppression impact the rule of various dynasties in Europe, such as the Edict of Nantes issued by Henry IV of France in 1598?,LAW
+What legal codes were established under the Mughal Empire to govern its vast and diverse territories in South Asia?,LAW
+Who was the ruler of Egypt during the 18th Dynasty?,LOC
+Which Chinese dynasty is known for building the Great Wall to protect its northern borders?,LOC
+What dynasty ruled over Mesopotamia and made Babylon its capital?,LOC
+During which dynasty did the city of Athens reach the height of its power in ancient Greece?,LOC
+Who was the ruler of the Indus Valley Civilization located primarily in modern-day India and Pakistan?,LOC
+Which dynasty first unified China under Emperor Qin Shi Huang, known for his terracotta army?,LOC
+What dynasty established control over much of the Korean Peninsula and is known for its cultural achievements?,LOC
+Which Pharaoh is credited with building the pyramids at Giza during Egypt's Old Kingdom period?,LOC
+During which Chinese dynasty was Beijing first named as the capital city?,LOC
+Who was the Mongol ruler who established a vast empire stretching across much of Asia including China, Russia, and the Middle East?,LOC
+Which dynasty ruled over the Persian Empire and is known for having its capital in Persepolis?,LOC
+What dynasty is associated with the construction of Angkor Wat in Cambodia?,LOC
+Who was the first emperor to unify Japan and establish a centralized government during the Nara period?,LOC
+During which Indian dynasty was the city of Pataliputra an important center of power and culture?,LOC
+Which Egyptian dynasty saw the reign of famous Pharaoh Hatshepsut, one of the few female rulers in ancient Egypt's history?,LOC
+What dynasty ruled over the Byzantine Empire from its capital Constantinople for nearly a thousand years?,LOC
+Who was the Sumerian king that is believed to have built the first major city-state Uruk in Mesopotamia?,LOC
+During which Persian dynasty did Cyrus the Great expand his empire to include much of Western Asia, including Egypt and Lydia?,LOC
+What dynasty oversaw the construction of Stonehenge in England, a prehistoric monument still shrouded in mystery?,LOC
+Which French dynasty is known for its significant influence on European history through its rule over France from 1589 until 1792?,LOC
+What was the primary currency used during the reign of Queen Elizabeth I in England?,MONEY
+How much did the construction of the Great Wall of China cost under Emperor Qin Shi Huang's dynasty?,MONEY
+What was the average tax rate on peasants during the rule of Louis XIV, known as the Sun King, in France?,MONEY
+How much money did Cleopatra VII, the last active ruler of the Ptolemaic Kingdom of Egypt, have at her disposal for diplomatic missions?,MONEY
+In terms of currency value, what was the worth of the treasures looted by Emperor Aurangzeb during his conquests in India?,MONEY
+What were the primary sources of revenue for the Ottoman Sultan Suleiman the Magnificent's treasury?,MONEY
+How did the economic policies of Genghis Khan impact the monetary system across the vast Mongol Empire?,MONEY
+During the reign of Emperor Justinian I, what was the estimated cost to rebuild the Hagia Sophia in Constantinople?,MONEY
+What was the value of the ransom paid by King John of England to King Philip II of France during the Anglo-French conflicts of the 13th century?,MONEY
+How did the establishment of the gold standard under Augustus impact the Roman Empire's economy and currency stability?,MONEY
+What were the financial implications of Zheng He's voyages for the Ming Dynasty in terms of state expenditure?,MONEY
+How much money was distributed among the Mongol soldiers as a reward by Genghis Khan after his conquests?,MONEY
+What was the value of the bribes exchanged between the British East India Company and Indian princes during the 18th century?,MONEY
+In what currency did Emperor Ashoka distribute wealth to promote Buddhism throughout his reign in ancient India?,MONEY
+How much did King Henry VIII spend on his palaces and personal expenses, leading to financial strain on the English treasury?,MONEY
+What was the economic impact of Kublai Khan's paper money system on trade within the Yuan Dynasty?,MONEY
+During the reign of Akbar the Great, what were the main sources of revenue that filled the Mughal coffers?,MONEY
+How did the financial policies of Emperor Constantine I affect the Byzantine economy and its currency, the solidus?,MONEY
+What was the estimated cost for King Richard I to finance his crusading campaigns during the late 12th century?,MONEY
+In terms of wealth distribution, how did Queen Nefertiti's reign influence the economic status of artisans in ancient Egypt?,MONEY
+Who was the founder of the Han dynasty in China?,NORP
+What tribe did Attila belong to, famously known for their raids across Europe and Asia during the 5th century?,NORP
+Which Northerner clan established the Northern Wei Dynasty in ancient China?,NORP
+The Maurya Empire was one of the largest empires on the Indian subcontinent. Who was its most famous ruler?,NORP
+What ethnic group did Genghis Khan belong to, who united the nomadic tribes of northeast Asia and founded the Mongol Empire?,NORP
+Which Italian city-state family ruled Florence during the Renaissance period?,NORP
+Who were the Ptolemies, the Macedonian Greek dynasty that ruled Egypt for nearly 300 years after the death of Alexander the Great?,NORP
+The Sapa Inca was the ruler of which indigenous people in South America before Spanish colonization?,NORP
+Which Germanic tribe played a significant role in the fall of the Western Roman Empire and later established their own kingdom in Europe?,NORP
+Who were the Seljuks, a Turco-Persian Sunni Islamic clan that gave name to the Seljuk Empire?,NORP
+The Yamato dynasty claims to be the oldest hereditary monarchy in the world. Which ethnic group does it represent in Japan?,NORP
+Which French noble family was responsible for ruling France during most of the Ancien Régime period from 1589 until the revolution?,NORP
+Who were the Avars, a nomadic confederation of equestrian warriors who established control over much of the Pontic–Caspian steppe and Carpathian Basin in Europe between the 6th and 9th centuries?,NORP
+The Qing Dynasty was founded by which ethnic group that ruled China from 1644 to 1912?,NORP
+Which Persian dynasty, known for its role in founding the second great empire of Persia after the Achaemenids, included rulers such as Cyrus II and Darius I?,NORP
+The Visigoths were a branch of which large confederation of tribes that played a major role in the fall of the Roman Empire?,NORP
+Which ethnic group formed the Kingdom of Granada, the last Muslim state on the Iberian Peninsula until its conquest by the Catholic Monarchs in 1492?,NORP
+The Zhou dynasty was established by which Chinese people that ruled China for nearly eight centuries?,NORP
+Who were the Khmer Empire's rulers, an Indianized civilization in Southeast Asia that dates from the 9th century to the 15th century?,NORP
+What ethnic group did Mansa Musa belong to, who was a ruler of the wealthy Mali Empire during the 14th century and known for his pilgrimage to Mecca?,NORP
+What was the name of the 1st emperor of the Tang Dynasty?,ORDINAL
+Who ruled as the 2nd king in the Kingdom of Judah's history?,ORDINAL
+Which monarch was the 3rd Tsar of Russia to be assassinated?,ORDINAL
+Can you name the 4th Sultan of Delhi from the Khilji dynasty?,ORDINAL
+What is known about the policies implemented by the 5th ruler of the Mughal Empire?,ORDINAL
+Who succeeded as the 6th pharaoh during Egypt's Middle Kingdom period?,ORDINAL
+Which empire did the 7th king in the Joseon Dynasty belong to?,ORDINAL
+Can you tell me about the military campaigns led by the 8th Emperor of Rome?,ORDINAL
+What were some significant architectural contributions made under the reign of the 9th Caliph of Umayyad?,ORDINAL
+Who was the 10th and final ruler of the Maurya Empire in India?,ORDINAL
+What reforms did the 11th Tsarina of Russia initiate during her rule?,ORDINAL
+Which battles is the 12th King of England, Henry III, best known for?,ORDINAL
+Can you list some notable achievements of the 13th Togukawa Shogun in Japan?,ORDINAL
+What was the major conflict faced by the 14th Mughal Emperor during his reign?,ORDINAL
+Who is credited with expanding the empire as the 15th Sultan of Granada?,ORDINAL
+Can you describe the life and rule of the 16th pharaoh of the 26th dynasty of Egypt?,ORDINAL
+What are some key events surrounding the assassination of the 17th King of Babylon from the Kassite dynasty?,ORDINAL
+Which cultural reforms were implemented by the 18th Emperor of the Byzantine Empire?,ORDINAL
+Can you tell me about the economic policies under the reign of the 19th Sultan of the Ottoman Empire?,ORDINAL
+What significant changes did the 20th Tsarina of Russia make to her country's educational system during her rule?,ORDINAL
+What was the primary purpose of the Mongol Empire's conquests?,ORG
+Which dynasty did the Ming Dynasty overthrow to establish its rule in China?,ORG
+How did the Roman Empire influence the organizational structure of modern governments?,ORG
+What significant contributions did the Ottoman Empire make to architecture and culture?,ORG
+In what year was the British East India Company established, marking the beginning of its control over India?,ORG
+Which dynasty ruled Russia for more than three centuries until the revolution in 1917?,ORG
+How did the Han Dynasty contribute to the development of Chinese technology and philosophy?,ORG
+What role did the Byzantine Empire play in preserving ancient Greek and Roman knowledge during the Middle Ages?,ORG
+Can you name a key figure who led the French Revolution, which overthrew the Bourbon monarchy?,ORG
+Which dynasty is credited with unifying China for the first time under one rule?,ORG
+What was the main cause of the decline of the Maurya Empire in ancient India?,ORG
+How did the Sui Dynasty reunify China after a period of division and what were its lasting impacts on Chinese society?,ORG
+In which year did the Abbasid Caliphate reach its peak, becoming a center for arts and sciences?,ORG
+What was the significance of the Carolingian Empire in the history of Western Europe during the Early Middle Ages?,ORG
+Which dynasty's fall marked the end of feudalism in Japan and paved the way for modernization?,ORG
+How did the Joseon Dynasty contribute to Korean literature and philosophy?,ORG
+Can you name a ruler who significantly expanded the territory under control of the Qing Dynasty?,ORG
+What was the impact of the Song Dynasty on Chinese culture and technology during its reign?,ORG
+Which empire's collapse led to the division into several successor states including the Byzantine Empire?,ORG
+How did the Vijayanagara Empire influence South Indian society, particularly in terms of art and architecture?,ORG
+What percentage of the Roman Empire's emperors were assassinated?,PERCENT
+By what percent did the population decline under the rule of Emperor Wu of Han Dynasty in China due to warfare and policies?,PERCENT
+What was the approximate percentage increase in territory for the Mongol Empire at its peak compared to Genghis Khan’s initial control?,PERCENT
+How much, in terms of a percentage, did the tax rate increase during the reign of Queen Elizabeth I of England?,PERCENT
+What percent of the Egyptian Pharaohs ruled over both Upper and Lower Egypt continuously without interruption?,PERCENT
+By what percentage did the GDP grow under the rule of Akbar in the Mughal Empire?,PERCENT
+How much, in terms of a percentage, was the land expansion during the reign of Alexander the Great compared to his initial kingdom size?,PERCENT
+What percent of the French kings from the House of Bourbon were involved in major wars or conflicts?,PERCENT
+By what percentage did the life expectancy increase under the rule of Emperor Justinian I in the Byzantine Empire?,PERCENT
+How much, in terms of a percentage, did the population decrease during the reign of Kublai Khan due to his conquests and policies?,PERCENT
+What was the approximate percentage of rulers in the Maurya Dynasty who adopted Buddhism as their state religion?,PERCENT
+By what percent did agricultural productivity increase under the rule of Emperor Taizong of Tang in China?,PERCENT
+How much, in terms of a percentage, did technological innovation increase during the reign of Emperor Xuanzong of Tang compared to previous eras?,PERCENT
+What was the approximate percentage decrease in public support for King Henry VIII due to his break from the Catholic Church and subsequent acts?,PERCENT
+By what percentage did trade volumes with foreign nations increase under the rule of Queen Hatshepsut of Egypt?,PERCENT
+How much, in terms of a percentage, was the literacy rate increased during the reign of Emperor Ashoka in India through state-sponsored education programs?,PERCENT
+What percent of the rulers in the Ottoman Empire were responsible for significant territorial expansions or contractions?,PERCENT
+By what percent did military expenditures increase under the rule of Shah Abbas I of Persia compared to his predecessors?,PERCENT
+How much, in terms of a percentage, did population growth slow down during the reign of Emperor Tiberius in Rome due to his policies and external factors?,PERCENT
+What was the approximate percentage of European monarchs who were overthrown or assassinated during the 18th century due to revolutions or conflicts?,PERCENT
+Who was the founder of the Han Dynasty in China?,PERSON
+What notable ruler led the Roman Empire during its transition to Christianity?,PERSON
+Which British monarch is known for establishing the Church of England independent from papal authority?,PERSON
+Who was the first emperor of the Byzantine Empire, known for his reforms and legal codification?,PERSON
+In Japanese history, who was the founder of the Tokugawa shogunate?,PERSON
+What French ruler is famously associated with the phrase "L'État, c'est moi" (I am the state)?,PERSON
+Who led the Mongol invasions and established the Yuan Dynasty in China?,PERSON
+Which queen played a significant role in expanding the Maurya Empire across South Asia?,PERSON
+Who was the last ruler of the Aztec Empire before its fall to Spanish conquistadors?,PERSON
+What Chinese emperor is credited with initiating the construction of the Great Wall as we know it today?,PERSON
+In medieval England, who was known for his conflict with Pope Innocent III over the appointment of the Archbishop of Canterbury?,PERSON
+Which Egyptian pharaoh is renowned for his military expeditions and building projects during the New Kingdom era?,PERSON
+Who was the Ottoman sultan responsible for the conquest of Constantinople in 1453?,PERSON
+What Indian ruler established the Delhi Sultanate after defeating the last Hindu monarch of the region?,PERSON
+In Spanish history, who is known as "The Catholic Monarch" and oversaw the completion of the Reconquista and the beginning of Spain's Golden Age?,PERSON
+Who was the founder and first emperor of the Qin Dynasty in China, known for unifying China and standardizing systems across his empire?,PERSON
+Which French monarch led extensive reforms during the Enlightenment period and is often referred to as "The Sun King"? ,PERSON
+What British queen ruled during a significant period of economic prosperity known as the Victorian era?,PERSON
+Who was the ruler of the Parthian Empire, responsible for defeating Marcus Licinius Crassus at the Battle of Carrhae?,PERSON
+Which Chinese empress is recognized for her role in reforming bureaucracy and expanding the Tang Dynasty's territory during the 7th century?,PERSON
+What products were used to promote the image of rulers during the Roman Empire?,PRODUCT
+Which luxury items were favored by the pharaohs in Ancient Egypt for their daily use or ceremonies?,PRODUCT
+In what form did the Chinese emperors of the Ming Dynasty receive tributes from neighboring countries, particularly focusing on goods and materials?,PRODUCT
+What type of military equipment was standardized under the reign of Alexander the Great?,PRODUCT
+How were spices used as a status symbol among European monarchs during the Renaissance period?,PRODUCT
+Which textile products were highly valued in trade during the reign of Genghis Khan and the Mongol Empire?,PRODUCT
+What kind of jewelry items did Queen Elizabeth I wear to signify her power and influence?,PRODUCT
+During the Byzantine Empire, what types of gold coins served as a standard currency for international trade?,PRODUCT
+Which technological inventions were attributed to the Han Dynasty rulers and became integral in their daily governance and military campaigns?,PRODUCT
+How did the Aztec emperors use precious metals like gold and silver in their religious artifacts and ceremonies?,PRODUCT
+What type of weaponry was predominantly used by Samurai under Japanese shogunate rule?,PRODUCT
+Which type of paper products, such as scrolls or documents, were widely utilized during the reign of Emperor Qin Shi Huang for governance purposes?,PRODUCT
+In what way did rulers from the Gupta Dynasty incorporate silk into their ceremonial attire and gifts for diplomatic relations?,PRODUCT
+What kind of porcelain was exported by Ming Dynasty rulers to European markets through trade routes like the Silk Road?,PRODUCT
+How did rulers in the Ottoman Empire utilize carpets and textiles as symbols of wealth and power during state functions and ceremonies?,PRODUCT
+Which navigational tools were essential for the voyages organized by the Portuguese monarchy during the Age of Exploration?,PRODUCT
+What type of musical instruments were favored at royal courts in the Mughal Empire for both entertainment and ceremonial purposes?,PRODUCT
+How did rulers of the Indus Valley Civilization use beads as a form of currency or ornamental goods in trade exchanges with neighboring regions?,PRODUCT
+Which printing press products, such as bibles and political pamphlets, were influential under the reign of King Louis XIV in France?,PRODUCT
+What type of weaponry advancements did rulers from the Viking Age incorporate into their military strategies and raids?,PRODUCT
+How many emperors ruled the Han Dynasty in China?,QUANTITY
+What was the approximate length of the reign for Queen Elizabeth I in years?,QUANTITY
+During the Roman Empire, how many Caesars were there from Julius Caesar to the fall of the Western Roman Empire?,QUANTITY
+In total, how many pharaohs are believed to have ruled Ancient Egypt throughout its dynastic history?,QUANTITY
+How many years did Cleopatra VII rule as a co-ruler in Ptolemaic Egypt?,QUANTITY
+What is the estimated number of kings who ruled during the Zhou Dynasty in China?,QUANTITY
+Approximately how many years did the Byzantine Empire last from its establishment to its fall?,QUANTITY
+How many emperors were there in the Ming Dynasty of China?,QUANTITY
+In terms of quantity, how many Sultans are recorded to have ruled the Ottoman Empire from its beginning until its dissolution?,QUANTITY
+What is the approximate number of years that the Maurya Empire lasted under its major rulers in Ancient India?,QUANTITY
+How many caliphs were there during the Abbasid Caliphate at its peak strength and influence?,QUANTITY
+Approximately how many years did the reign of Louis XIV, known as the Sun King, last in France?,QUANTITY
+What is the total number of Mughal emperors who ruled India from Babur to Bahadur Shah Zafar?,QUANTITY
+How many years did Queen Nefertiti rule alongside Akhenaten during the Amarna Period in Egypt?,QUANTITY
+In terms of quantity, how many years did the reign of Genghis Khan last over his vast empire?,QUANTITY
+What is the estimated number of rulers who governed the Kingdom of Kush from its inception to its decline?,QUANTITY
+How many emperors are there recorded to have ruled in the Jin Dynasty during China's history?,QUANTITY
+Approximately how many years did the reign of Ashoka the Great last in Ancient India?,QUANTITY
+What is the total number of kings who ruled the Kingdom of Judah from its establishment until its fall?,QUANTITY
+How many years did the British Empire, under Queen Victoria, extend its reign over various parts of the world at the height of its power?,QUANTITY
+When did the Roman Empire reach its greatest extent?,TIME
+What year did the Qin Dynasty unify China?,TIME
+In which century did the Han Dynasty rule over China?,TIME
+Which period marks the beginning of the British Monarchy's reign?,TIME
+During what time frame was the Maurya Empire at its peak in ancient India?,TIME
+When was the height of power for the Ottoman Empire observed?,TIME
+What era saw the establishment of the Byzantine Empire after the fall of Rome?,TIME
+In which year did Queen Elizabeth I ascend to the throne of England?,TIME
+Which decade marked the beginning of the Tudor Dynasty in England?,TIME
+During what years did the Song Dynasty rule over China?,TIME
+When was the reign of Akbar, the Great in the Mughal Empire?,TIME
+What century saw the fall of the Western Roman Empire?,TIME
+In which year did the Meiji Restoration begin in Japan, marking a significant change in its ruling structure?,TIME
+Which period corresponds to the rule of Alexander the Great over his vast empire?,TIME
+When was the reign of Genghis Khan and the Mongol Empire at its peak?,TIME
+What time frame marks the high Middle Ages when the Holy Roman Empire flourished?,TIME
+In which year did the French Revolution start, leading to a significant shift in France's ruling structure?,TIME
+During what years did the Qing Dynasty rule over China?,TIME
+When was the Norman Conquest of England, which led to new rulers taking control?,TIME
+Which century saw the end of the Byzantine Empire with the Fall of Constantinople?,TIME
+What is the significance of the Terracotta Army in Chinese history?,WORK_OF_ART
+Which famous painting depicts the daily life during the Song Dynasty and is considered a masterpiece?,WORK_OF_ART
+Can you name an iconic sculpture that symbolizes the power of the Gupta Empire?,WORK_OF_ART
+How does the Ajanta Caves art represent the cultural heritage of ancient Indian rulers?,WORK_OF_ART
+What manuscript illuminations were significant under Charlemagne's reign in terms of art history?,WORK_OF_ART
+Which tapestry is renowned for illustrating William the Conqueror's victory at the Battle of Hastings?,WORK_OF_ART
+In what way did the Book of Kells reflect the artistic mastery during the Celtic period under monastic rule?,WORK_OF_ART
+What frescoes from Pompeii exemplify Roman artistry and life under imperial dynasties?,WORK_OF_ART
+Which sculpture is considered a symbol of Aztec rulership and religious beliefs?,WORK_OF_ART
+Can you identify a notable carpet that was created during the Safavid Dynasty, showcasing Persian artistry at its peak?,WORK_OF_ART
+How does the Bust of Nefertiti embody the artistic styles under Egyptian pharaohs' reigns?,WORK_OF_ART
+What painting is famous for capturing the essence of the Byzantine Empire's cultural legacy?,WORK_OF_ART
+Which mosaic work is celebrated as a hallmark of the Eastern Roman Empire’s artistry and grandeur?,WORK_OF_ART
+Can you name an important illuminated manuscript that reflects the artistic achievements under the Carolingian Renaissance?,WORK_OF_ART
+What tapestry series exemplifies French medieval royalty's patronage of the arts during the Middle Ages?,WORK_OF_ART
+How does the Ishtar Gate represent Babylonian rulers' influence on architectural and decorative artistry?,WORK_OF_ART
+Which fresco cycle is renowned for illustrating the power and opulence of Italian Renaissance city-states under princely rule?,WORK_OF_ART
+What sculpture from the Olmec civilization signifies pre-Columbian Mesoamerican rulership through artistic expression?,WORK_OF_ART
+Can you identify a notable relief carving that exemplifies the artistry under Assyrian kings, showcasing their conquests and religious beliefs?,WORK_OF_ART
+Which textile piece is celebrated for its intricate design and significance in representing Inca royalty’s power and wealth?,WORK_OF_ART
+Who was the last ruler of the Roman Empire?,PERSON
+What dynasty ruled China during the time of the Great Wall's construction?,ORG
+Which event marked the end of the Mongol Empire?,EVENT
+How many years did the Han Dynasty rule in China?,CARDINAL
+When did the British Empire reach its territorial peak?,DATE
+Where was the capital city of the Aztec Empire located?,LOC
+What law was passed that led to the dissolution of the Soviet Union?,LAW
+Which battle is considered the end of the reign for the Egyptian Pharaohs?,EVENT
+How much was the ransom paid for Richard I, known as 'the Lionheart'?,MONEY
+Who established the Mughal Empire in India?,PERSON
+What language did the rulers of the Byzantine Empire primarily use?,LANGUAGE
+Which dynasty followed the Zhou Dynasty in China's historical timeline?,ORG
+In what year did Queen Elizabeth II ascend to the throne?,DATE
+How many emperors were part of Japan's Heian period royal family lineage?,CARDINAL
+Where was the primary palace of the Ottoman Sultans located during their rule?,FAC
+What product was heavily traded and influenced the rise of the Mali Empire?,PRODUCT
+Which quantity of land did the Tsarist dynasty control at its peak in Russia?,QUANTITY
+Who was the founder of the Gupta Dynasty in ancient India?,PERSON
+How long did the reign of the Merovingian kings last in France?,TIME
+What work of art depicts the coronation of Napoleon I by Pope Pius VII?,WORK_OF_ART

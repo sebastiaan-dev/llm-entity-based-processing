@@ -1,0 +1,381 @@
+Question,Entity-Type
+What is the population of Tokyo, one of the world's largest urban economies?,CARDINAL
+How many countries are part of the European Union which has a significant impact on global economic geography?,CARDINAL
+In 2019, how much did China contribute to the global GDP growth in terms of percentage points?,CARDINAL
+What is the approximate number of megacities worldwide that play a crucial role in shaping the world's economy?,CARDINAL
+How many states in the United States are considered major agricultural hubs influencing regional economic geography?,CARDINAL
+By what percentage did oil prices increase in 2020 due to geopolitical tensions affecting global economic geography?,CARDINAL
+What is the approximate area, in square kilometers, of the Amazon rainforest which plays a critical role in environmental and economic concerns?,CARDINAL
+How many major ports are there along the coast of China that facilitate its position as the world's largest exporter?,CARDINAL
+In 2018, how many foreign direct investment (FDI) projects were initiated in Germany, known for its strong industrial base?,CARDINAL
+What is the total number of Special Economic Zones (SEZs) in India designed to promote industrial growth?,CARDINAL
+How much did the GDP of Brazil decrease by percentage points during the 2015-2016 recession?,CARDINAL
+As of 2023, how many Fortune Global 500 companies have headquarters in Tokyo, reflecting its economic significance?,CARDINAL
+What is the approximate number of people living below the poverty line in Sub-Saharan Africa affecting regional economic development plans?,CARDINAL
+How many years has it been since the first oil well was drilled in Pennsylvania's Oil Creek Valley, marking the beginning of modern petroleum industry geography?,CARDINAL
+By what percentage did the unemployment rate decrease in Spain from 2014 to 2023, showcasing recovery patterns post-economic crisis?,CARDINAL
+What is the total land area covered by the Sahara Desert, influencing economic activities and settlement patterns in North Africa?,CARDINAL
+How many kilometers of coastline does Canada have, providing extensive resources for fishing and trade routes?,CARDINAL
+In terms of percentage, how much has urbanization increased globally from 1950 to present, reshaping economic geography?,CARDINAL
+What is the number of countries participating in the Belt and Road Initiative led by China, aiming to boost regional connectivity and economic growth?,CARDINAL
+How many million barrels per day does Saudi Arabia produce as one of the largest oil producers, impacting global energy markets and economic geography?,CARDINAL
+When was the Industrial Revolution in Britain officially considered to have begun?,DATE
+What year marked the beginning of the Great Depression globally?,DATE
+In which year did China officially join the World Trade Organization (WTO)?,DATE
+Which year is often cited as the start of the Eurozone debt crisis?,DATE
+On what date was the Bretton Woods Conference held in 1944 to set up a new framework for international economic cooperation?,DATE
+What specific year led to the fall of the Berlin Wall and symbolically ended the Cold War, impacting global geopolitics and economics?,DATE
+When did the East Asian financial crisis start affecting several countries' economies in the late 20th century?,DATE
+On which date was the North American Free Trade Agreement (NAFTA) implemented, significantly changing trade relations among Canada, Mexico, and the United States?,DATE
+What year saw the creation of the euro as a common currency for many EU member states?,DATE
+In what year did Japan experience its first recession since World War II, leading to economic restructuring policies?,DATE
+When was the Marshall Plan initiated by the U.S. to aid Western Europe's economy after WWII?,DATE
+On which date did India implement the Goods and Services Tax (GST), a major tax reform affecting economic geography in South Asia?,DATE
+What year is recognized for the launch of the first Five-Year Plan in the Soviet Union, marking a new era in planned economies?,DATE
+When was the Asian Development Bank established to foster social and economic development in Asia and the Pacific region?,DATE
+Which year marked the start of China's opening up policy under Deng Xiaoping, leading to profound changes in its economic geography?,DATE
+On what date did Brazil officially begin using the real as its national currency, marking a significant shift in South American economic policies?,DATE
+What specific date is associated with the signing of the Treaty of Rome, which established the European Economic Community (EEC)?,DATE
+In which year was the first BRICS summit held, significantly altering the dynamics of global economic power and geography?,DATE
+When did Russia join the World Trade Organization (WTO), thereby integrating itself more closely into the global economy?,DATE
+What year is noted for the implementation of the Single European Act, marking a significant step in the creation of a single market within Europe?,DATE
+What major event triggered the Great Depression and how did it reshape economic geography?,EVENT
+How did the Industrial Revolution impact the spatial distribution of industries in Europe and North America?,EVENT
+In what way did World War II influence post-war economic development patterns globally?,EVENT
+Describe the effects of the oil crisis in the 1970s on global trade routes.,EVENT
+What changes in economic geography resulted from the fall of the Berlin Wall in 1989?,EVENT
+How has China's One Belt, One Road initiative reshaped global economic landscapes since its announcement?,EVENT
+What were the key economic geographical impacts of the Dot-com Bubble burst in 2000-2001?,EVENT
+In what ways did the 2008 financial crisis alter global supply chains and trade patterns?,EVENT
+How did the signing of NAFTA in 1994 affect regional economics in North America?,EVENT
+Describe the economic geographical consequences of the Brexit referendum result in June 2016.,EVENT
+What are the primary economic geographical effects of the ongoing Sino-US trade war?,EVENT
+How has the Syrian Civil War affected the economic geography of the Middle East region?,EVENT
+Discuss the impact of the 2011 Japanese earthquake and tsunami on global supply chains.,EVENT
+In what ways did the Marshall Plan after World War II shape European economic recovery?,EVENT
+What are the long-term effects of the Arab Spring events on North African economies?,EVENT
+How did the dissolution of the Soviet Union in 1991 impact economic geography within Eurasia?,EVENT
+Describe the influence of the Industrial Revolution in Japan (Meiji Restoration) on its economic geography.,EVENT
+Explain how the 2014 Ebola outbreak impacted West Africa's economic geography and trade relations.,EVENT
+What changes did the signing of the Kyoto Protocol in 1997 bring about in terms of global economic policies towards green energy?,EVENT
+How has the global response to climate change events such as hurricanes and droughts influenced economic migration patterns?,EVENT
+What are the major industrial zones in China?,FAC
+Which cities are considered economic hubs of Europe?,FAC
+Can you name some of the key agricultural regions in Brazil?,FAC
+Where is Silicon Valley located and why is it significant to global technology economy?,FAC
+What are the main oil-producing regions in Russia?,FAC
+Which regions in India have seen significant growth due to IT services boom?,FAC
+How has Dubai's development influenced its status as a financial center in the Middle East?,FAC
+Can you identify some of the major fishing ports in Japan?,FAC
+What factors contributed to the economic importance of New York City in the United States?,FAC
+Which areas in Canada are known for their mineral resources and mining activities?,FAC
+Where are the primary textile manufacturing centers located in Pakistan?,FAC
+How has Shanghai's location influenced its role as a major port city in China?,FAC
+What makes Houston a significant economic center in terms of energy production and trade?,FAC
+Which regions in Australia contribute most to the country's agricultural exports?,FAC
+Can you name some of the important financial districts in London, UK?,FAC
+How has the Port of Rotterdam impacted the Netherlands' economy as one of Europe’s largest ports?,FAC
+What are the major automobile manufacturing zones in Germany?,FAC
+Which regions of South Africa have significant gold mining operations?,FAC
+Can you identify key areas for renewable energy production such as wind and solar in California?,FAC
+How does the geographic location of Singapore contribute to its status as a global shipping hub?,FAC
+What is the primary economic activity in London that contributes to its global financial status?,GPE
+How does the geographical location of Paris influence its role as a fashion and luxury goods hub?,GPE
+In what ways has Tokyo's geography impacted its development into one of the world’s leading economic centers?,GPE
+What role does the harbor play in enhancing Hong Kong's position as an international financial center?,GPE
+How does the geographical positioning of New York City affect its status as a major economic and cultural hub?,GPE
+Can you explain how Dubai's location influences its significance as a global business and tourism destination?,GPE
+What are some key factors that have contributed to Singapore's success as an international trade hub due to its geographic position?,GPE
+How does the geographical setting of Shanghai contribute to its role in China's economy and global trade relations?,GPE
+Why is the location of Mumbai considered advantageous for India's economic development and business environment?,GPE
+What impact has Moscow's geography had on Russia’s industrial and economic growth over time?,GPE
+In what ways does Rio de Janeiro's geographic location influence its significance in Brazil’s economy?,GPE
+How does the geographical positioning of Los Angeles affect California’s and America's economic landscape?,GPE
+Why is Bangkok, due to its geographical position, a major transportation hub within Southeast Asia?,GPE
+What role does Barcelona play as an economic center within Spain because of its geographic location?,GPE
+How has Johannesburg's geography influenced South Africa's economy and mining industry?,GPE
+In what ways does the geographical positioning of Sydney impact Australia’s financial and trade activities?,GPE
+Why is Berlin, given its geographic position in Germany, considered a key economic area for startups and innovation?,GPE
+Can you discuss how the location of Sao Paulo influences Brazil’s industrial and service sectors within Latin America?,GPE
+What advantages does Rome's geographical setting provide to Italy's tourism industry and cultural economy?,GPE
+How does the geography of Istanbul, sitting between Europe and Asia, affect its role as a global economic bridge?,GPE
+What is the primary language used in economic reports for international trade within ASEAN?,LANGUAGE
+How does multilingualism impact business operations and economic growth in Switzerland?,LANGUAGE
+In what ways has the dominance of English as a global language influenced foreign direct investment flows globally?,LANGUAGE
+Which language is most commonly taught to business professionals in China to facilitate economic relations with Western countries?,LANGUAGE
+What role does French play in maintaining economic ties between Francophone African countries and France?,LANGUAGE
+How important is knowledge of Mandarin for economists studying the Chinese economy's influence on global markets?,LANGUAGE
+In which language are most of the legal documents concerning trade agreements between EU member states written?,LANGUAGE
+What impact has the use of Arabic had on economic activities in oil-rich Middle Eastern countries?,LANGUAGE
+Why is Spanish considered crucial for businesses looking to expand into Latin American markets?,LANGUAGE
+How does the prevalence of Portuguese affect Brazilian companies' international business strategies and operations?,LANGUAGE
+Which language's proficiency among employees is most sought after by multinational corporations headquartered in Japan?,LANGUAGE
+What role does German play in economic discussions and trade negotiations within the European Union?,LANGUAGE
+In what way has the spread of English as a business language affected local languages and economies in India?,LANGUAGE
+How critical is knowledge of Russian for understanding the economic geography of Central Asian countries?,LANGUAGE
+Why might understanding the Dutch language be advantageous for an economist studying the economy of the Netherlands?,LANGUAGE
+What significance does the Turkish language hold in terms of economic communication between Turkey and its neighboring countries?,LANGUAGE
+Which language serves as a lingua franca for business communications in multinational corporations operating across Southeast Asia?,LANGUAGE
+How has the adoption of English influenced the economic geography and international trade policies of Singapore?,LANGUAGE
+Why is it important for economists to have proficiency in multiple languages when analyzing global market trends?,LANGUAGE
+What challenges do non-English speaking countries face in attracting foreign investment due to language barriers?,LANGUAGE
+How do zoning laws influence industrial development in different regions?,LAW
+What role do trade laws play in shaping the economic geography of border areas?,LAW
+Can local environmental regulations impact international investments and trade flows within a region?,LAW
+How do minimum wage laws affect employment patterns across various geographic locations?,LAW
+In what ways can tax laws encourage or discourage business relocation between different regions?,LAW
+What is the effect of anti-trust laws on market competition in geographically concentrated industries?,LAW
+How do international trade agreements influence economic activities and development in specific areas?,LAW
+What impact do immigration laws have on labor supply and demand in certain economic zones?,LAW
+Can property rights legislation affect urban sprawl and city growth patterns over time?,LAW
+How do patent and intellectual property laws shape the geographic distribution of innovative industries?,LAW
+What role do fiscal policies, as part of national law, play in regional economic development disparities?,LAW
+In what ways can agricultural subsidies influence land use and rural economic geography?,LAW
+How do labor market regulations impact employment levels and industry types across different regions?,LAW
+Can consumer protection laws affect the distribution and accessibility of goods in remote areas?,LAW
+What is the effect of environmental laws on industrial relocation decisions between various geographic locations?,LAW
+How do building codes influence urban development patterns within a region?,LAW
+In what ways can tariffs impact the economic geography by altering trade flows and investment?,LAW
+Can transport laws affect the logistics industry's distribution networks across different regions?,LAW
+What role do water rights laws play in shaping agricultural land use in arid areas?,LAW
+How do immigration enforcement policies influence labor markets and demographic trends within a region?,LAW
+What are the primary agricultural products produced in the Mississippi Delta region?,LOC
+How has the economic landscape of Silicon Valley influenced global technology markets?,LOC
+In what ways does the economic geography of the Ruhr Valley reflect changes in industrial structure since the 20th century?,LOC
+Which factors contribute to Tokyo's status as a major financial hub in Asia?,LOC
+What role does the Port of Rotterdam play in Europe’s economic geography?,LOC
+How has the geographic location of Dubai influenced its development into an international trading and tourism center?,LOC
+Describe the significance of the Appalachian Mountains for coal mining operations.,LOC
+What impact does the presence of gold mines have on the economy of Witwatersrand, South Africa?,LOC
+In what ways does the Nile River influence agricultural practices in Egypt's economic geography?,LOC
+How has the economic geography of the Pearl River Delta transformed since China’s opening up policies in the late 20th century?,LOC
+What are the key factors that have contributed to the economic success of Singapore as a global trading hub?,LOC
+Explain how the location of the Amazon rainforest impacts Brazil's economy and development strategies.,LOC
+How does the geography of Alaska affect its natural resource extraction, particularly oil and gas?,LOC
+In what ways has the Great Lakes region influenced industrialization in North America?,LOC
+Describe the economic importance of the Strait of Malacca for global maritime trade routes.,LOC
+What role do the Andes Mountains play in shaping Peru’s economic geography, especially with regard to agriculture and mining?,LOC
+How does the location of the Danube River influence economic activities along its banks in Central Europe?,LOC
+In what ways has the geographic position of the Middle East influenced oil production and global energy markets?,LOC
+What impact does the presence of major coal deposits have on Wyoming's economy?,LOC
+Explain how the geography of New York City contributes to its role as a financial center.,LOC
+What is the total GDP of China in 2022?,MONEY
+How much does Brazil's agricultural sector contribute to its GDP annually?,MONEY
+What was the per capita income in Germany in 2021?,MONEY
+By how much did the Russian economy shrink in terms of GDP in 2022 due to sanctions?,MONEY
+In 2022, what is the total trade deficit of the United States with China?,MONEY
+What was the average salary for engineers in Tokyo last year?,MONEY
+How much foreign direct investment (FDI) did India receive in 2021?,MONEY
+What is the value of the gold reserves held by the Bank of England as of January 2023?,MONEY
+By what percentage has the cost of living increased in New York City since 2018?,MONEY
+How much did the government of Canada invest in infrastructure projects in 2022?,MONEY
+What is the annual tax revenue collected by the state of California for fiscal year 2022-2023?,MONEY
+By how much has the average house price increased in London over the last five years?,MONEY
+How much did the European Union allocate to member states under the Recovery and Resilience Facility as of December 2022?,MONEY
+What is the yearly profit from tourism for the city of Paris?,MONEY
+How much does the Brazilian government spend on healthcare per capita annually?,MONEY
+What was the total export value of crude oil from Saudi Arabia in 2021?,MONEY
+By what percentage did consumer prices increase in Venezuela in 2020 due to hyperinflation?,MONEY
+How much has the real estate market in Shanghai grown in terms of property values since 2015?,MONEY
+What was the total revenue generated by the tourism industry in Thailand in 2019 before the pandemic?,MONEY
+By how many billions did Australia's economy grow in 2021 based on GDP growth rate?,MONEY
+What are the economic implications of being part of the European Union for member states?,NORP
+How does membership in NAFTA influence the economic policies of its participating countries?,NORP
+In what ways have ASEAN nations collaborated to enhance regional trade and investment flows?,NORP
+What role has BRICS played in shaping the economic geography of its constituent countries?,NORP
+Can you describe how OPEC member states influence global oil prices and international economies?,NORP
+How does being part of the Schengen Area affect the movement of labor and goods across borders among participating nations?,NORP
+What impact has APEC had on economic cooperation between its member economies in Asia-Pacific?,NORP
+Describe how the Gulf Cooperation Council (GCC) impacts oil production and trade among its members.,NORP
+How does the East African Community (EAC) aim to improve economic integration within its region?,NORP
+What are some challenges faced by countries belonging to the South Asian Association for Regional Cooperation (SAARC)?,NORP
+Can you explain how the Southern Common Market (MERCOSUR) enhances trade relations among its member states?,NORP
+How does CARICOM support economic development and integration in the Caribbean region?,NORP
+What strategies have been implemented by ECOWAS to boost economic growth within West African countries?,NORP
+In what ways has the Central American Integration System (SICA) improved trade among its members?,NORP
+How does the Eurasian Economic Union (EAEU) affect trade and market access for its member states?,NORP
+Can you discuss how the Southern Africa Customs Union (SACU) promotes economic cooperation in southern Africa?,NORP
+What impact has the Association of Southeast Asian Nations (ASEAN) had on the economic geography of Southeast Asia?,NORP
+How does participation in the Andean Community enhance trade and investment among its member countries?,NORP
+Describe the benefits and challenges faced by nations that are part of COMESA.,NORP
+What role does the Economic Community of Central African States (ECCAS) play in fostering economic development within its region?,NORP
+What is the second largest city in terms of economic output in Europe?,ORDINAL
+Which is the third most industrialized state in the United States based on GDP?,ORDINAL
+In Asia, what country has the fifth highest per capita income as of 2023?,ORDINAL
+Among the world's largest financial centers, which one holds the fourth position in terms of market capitalization?,ORDINAL
+What is the seventh most visited city by international tourists globally?,ORDINAL
+Which nation ranks eighth in global oil production based on recent data?,ORDINAL
+Can you name the sixth biggest port in Europe by cargo tonnage handled annually?,ORDINAL
+According to latest statistics, what country stands as the tenth largest exporter of agricultural products worldwide?,ORDINAL
+What is the ninth largest metropolitan area in the world when measured by GDP?,ORDINAL
+Which city holds the position of eleventh most expensive for expatriates according to cost-of-living indices?,ORDINAL
+Among global tech hubs, which one ranks twelfth in terms of startup investment flow?,ORDINAL
+In terms of service sector contribution to national GDP, what country is thirteenth globally as per recent data?,ORDINAL
+What city is recognized as the fifteenth most influential for finance and banking on a global scale?,ORDINAL
+Which Asian nation holds the sixteenth spot in total industrial output worldwide?,ORDINAL
+Among countries with the highest average income within their population, which one is seventeenth?,ORDINAL
+In terms of attracting foreign direct investment (FDI), what country ranks eighteenth globally?,ORDINAL
+What city occupies the nineteenth position as a global trading hub based on annual trade volume and variety of goods traded?,ORDINAL
+Which nation stands at twentieth in global rankings for innovation output, particularly in technological advancements within manufacturing industries?,ORDINAL
+Among the world’s top tourist destinations, which one is placed twenty-first when considering overall tourism receipts?,ORDINAL
+What port city ranks as the twenty-third largest in Africa by cargo throughput volume annually?,ORDINAL
+What role does the World Bank play in shaping economic geography through infrastructure investments?,ORG
+How has the International Monetary Fund influenced the economic geography of developing countries with its policies and funding?,ORG
+In what ways do multinational corporations like Coca-Cola contribute to regional disparities in economic activities?,ORG
+How does the United Nations Development Programme address issues related to economic geography in its initiatives for sustainable development?,ORG
+What strategies have been employed by OPEC to influence global economic geography through oil production quotas?,ORG
+Can you explain the impact of the European Union's agricultural policies on the rural-urban economic landscape within member states?,ORG
+How does the Organisation for Economic Co-operation and Development (OECD) contribute to shaping regional development policies that affect economic geography?,ORG
+What role do port authorities, such as the Port Authority of New York and New Jersey, play in influencing local and global trade patterns which shape economic geography?,ORG
+In what ways have trade agreements facilitated by the World Trade Organization affected the distribution of manufacturing industries across different regions?,ORG
+How has the Asian Development Bank's investment decisions influenced urban sprawl and regional development in Asia?,ORG
+What is the impact of the African Union's infrastructure projects on the economic geography of its member states?,ORG
+Can you discuss how the Inter-American Development Bank supports or challenges the current patterns of economic activities across Latin America and the Caribbean?,ORG
+How does the role of the International Labour Organization affect labor markets and thus contribute to shaping economic geography in developing countries?,ORG
+What influence do central banks, such as the Federal Reserve, have on urbanization trends by setting monetary policies that attract or repel capital inflows?,ORG
+In what ways has the African Development Bank contributed to reducing regional disparities through its investment strategies in infrastructure projects across Africa?,ORG
+How does the role of the Association of Southeast Asian Nations (ASEAN) in promoting economic integration affect the spatial distribution of industries and populations within its member countries?,ORG
+What is the impact of non-governmental organizations like Oxfam on local economies, particularly regarding their efforts to improve agricultural productivity in economically disadvantaged regions?,ORG
+How does the role of the World Economic Forum influence global economic policies that shape regional development trends and patterns?,ORG
+Can you discuss the impact of conservation groups such as Greenpeace on economic geography through their campaigns for sustainable resource management and industrial practices?,ORG
+What is the effect of national railway corporations, like China Railway Corporation, on shaping the economic landscape by influencing transportation networks and logistics across regions?,ORG
+What percent of global GDP is contributed by the service sector in developed countries?,PERCENT
+By what percentage has urbanization increased in Southeast Asia over the last decade?,PERCENT
+How much did the unemployment rate decrease as a percentage in East Asia and Pacific region after the implementation of new economic policies in 2019?,PERCENT
+What is the approximate percentage increase in renewable energy production compared to fossil fuels in Europe since 2005?,PERCENT
+By what percent has the export-import ratio changed in Latin American countries due to recent trade agreements?,PERCENT
+How much, as a percentage, did inflation rates rise in Sub-Saharan Africa last year?,PERCENT
+What is the average percentage of agricultural land use compared to total land area in Middle Eastern countries?,PERCENT
+By what percent has foreign direct investment increased in South Asian economies over the past five years?,PERCENT
+What is the estimated percentage growth in tourism-related jobs in Mediterranean countries since 2015?,PERCENT
+How much, as a percentage, did real wages increase in Western European nations during the post-recession period from 2014 to 2019?,PERCENT
+By what percent has deforestation decreased due to economic incentives and policies in South American rainforest areas since 2010?,PERCENT
+What is the approximate percentage of population living below poverty line in Eastern European countries as reported in the latest census?,PERCENT
+How much, as a percentage, did industrial production decrease in North African economies during the Arab Spring compared to pre-revolution levels?,PERCENT
+By what percent has the literacy rate increased due to economic investments in education in Southeast Asian nations over the last decade?,PERCENT
+What is the average percentage of GDP allocated to health services in developed countries according to recent OECD reports?,PERCENT
+How much, as a percentage, did exports decrease during the global financial crisis (2008-2009) compared to the previous year's figures for industrialized nations?,PERCENT
+By what percent has the rate of child labor decreased due to economic development and intervention in South Asian countries since 2010?,PERCENT
+What is the average percentage of the workforce employed in the manufacturing sector in North American economies?,PERCENT
+How much, as a percentage, did the consumer price index increase in Pacific Island nations over the last five years?,PERCENT
+By what percent has the average household income increased in Scandinavian countries due to economic policies and growth since 2015?,PERCENT
+Who is considered the founder of economic geography?,PERSON
+Which economist developed the theory of site rent in relation to urban land use?,PERSON
+Who was one of the pioneers in studying spatial distribution of industries and its impact on economy?,PERSON
+Who introduced the concept of "locational advantage" in the field of economic geography?,PERSON
+What famous geographer contributed significantly to the understanding of transportation networks in economic geography?,PERSON
+Which person is known for developing the theory of core-periphery models in economic geography?,PERSON
+Who made significant contributions to regional science and spatial economics in economic geography?,PERSON
+Can you name a key figure who explored the relationship between natural resources and economic development?,PERSON
+Who is recognized for their work on agricultural location theories that influenced economic geography?,PERSON
+Which geographer contributed to the understanding of industrial location patterns through his models?,PERSON
+What individual is credited with advancing the study of globalization impacts within economic geography?,PERSON
+Who conducted influential research on labor markets from an economic geographical perspective?,PERSON
+Can you identify a person who has extensively studied resource extraction and its socio-economic impacts?,PERSON
+Which researcher has made notable contributions to understanding urban sprawl in economic geography?,PERSON
+Who is known for their work linking environmental change with economic activities in different regions?,PERSON
+What scholar developed theories on the spatial organization of production systems within industries?,PERSON
+Can you name a person who explored the concept of economic growth from a geographical standpoint?,PERSON
+Which academic has contributed to understanding the role of infrastructure in regional development?,PERSON
+Who is recognized for their contributions to studying migration patterns and their economic implications?,PERSON
+What geographer made significant insights into the effects of climate on economic activities across regions?,PERSON
+What are the main products exported from Southeast Asia that contribute significantly to their economy?,PRODUCT
+Which agricultural product is Brazil most known for exporting worldwide due to its vast cultivation areas in regions like the Cerrado?,PRODUCT
+How does the production of crude oil influence geopolitical relations between countries in the Middle East and global markets?,PRODUCT
+What impact has the increased demand for electric vehicles had on lithium mining locations globally?,PRODUCT
+In which region is coffee primarily grown, making it a key export product contributing to local economies?,PRODUCT
+How does climate change affect the production volume of wheat in major producing countries like Russia and Canada?,PRODUCT
+Which country leads in the production of tea, with its exports influencing global economic relations within the beverage industry?,PRODUCT
+What role does silk production play in the economy of regions like Zhejiang in China, known for this traditional craft?,PRODUCT
+How has the global cotton trade influenced economic geography by shaping supply chains and market dynamics?,PRODUCT
+Which technological product's assembly primarily takes place in Southeast Asia due to labor cost advantages and impacts global electronics markets?,PRODUCT
+What is the significance of cocoa bean production for economies in West African countries like Ivory Coast and Ghana?,PRODUCT
+How does the global demand for diamonds influence mining activities in southern African regions such as Botswana?,PRODUCT
+Which country is a major producer of bananas, making it one of the key agricultural products affecting trade relations with Europe?,PRODUCT
+What impact has the increase in global demand for soybeans had on farming practices and deforestation in Brazil's Amazon region?,PRODUCT
+How does the production of pharmaceutical drugs influence economic geography by shaping industrial locations and supply chains worldwide?,PRODUCT
+Which renewable energy product, such as solar panels or wind turbines, is most significantly impacting the shift towards sustainable economies globally?,PRODUCT
+What role do rare earth minerals play in the manufacturing of high-tech products and their global distribution networks?,PRODUCT
+How has the production of wine in regions like Bordeaux, France, influenced local economic geography through tourism and export markets?,PRODUCT
+Which type of seafood product is most influential in shaping trade routes and fishing economies globally due to its demand and perishability?,PRODUCT
+What influence does the production of rubber have on global supply chains, especially for the automotive industry which relies heavily on this material?,PRODUCT
+What is the percentage of global GDP contributed by the service sector?,QUANTITY
+How many multinational corporations are headquartered in Switzerland?,QUANTITY
+What was the total export value of China in 2020 (in billions)?,QUANTITY
+How much arable land does Brazil have as a percentage of its total area?,QUANTITY
+What is the approximate population density of Tokyo per square kilometer?,QUANTITY
+By what percentage has renewable energy investment grown globally from 2019 to 2020?,QUANTITY
+How many barrels of oil does Saudi Arabia produce daily on average?,QUANTITY
+What was the unemployment rate in Germany at the end of 2021 (in percent)?,QUANTITY
+By how much did the price of copper increase from January 2020 to December 2020 (in percentage)?,QUANTITY
+How many kilometers of railway track are there in India?,QUANTITY
+What is the annual growth rate of the global e-commerce market in terms of percent per year?,QUANTITY
+How much foreign direct investment did India receive in 2021 (in billions USD)?,QUANTITY
+By what percentage did the real estate prices in London increase from 2019 to 2020?,QUANTITY
+What is the total number of McDonald's restaurants worldwide as of 2021?,QUANTITY
+How many megawatts of installed wind power capacity does Germany have?,QUANTITY
+By what percentage has urbanization increased globally since 2000?,QUANTITY
+How much did the average house price in Australia increase by from 2018 to 2019 (in percent)?,QUANTITY
+What is the total length of China's high-speed rail network as of 2021 (in kilometers)?,QUANTITY
+By what percentage has the global trade volume declined due to the COVID-19 pandemic?,QUANTITY
+How many cars were produced in Japan in 2020 (in millions)?,QUANTITY
+When did the Industrial Revolution begin to significantly alter economic geography?,TIME
+What year marked the peak of globalization in terms of global trade flows according to economic geography studies?,TIME
+In which decade did the concept of global cities become prominent within the field of economic geography?,TIME
+How has the economic landscape changed since the turn of the 21st century in terms of regional development disparities?,TIME
+When was the term "economic geography" first used in academic literature to describe the study of spatial aspects of economic activities?,TIME
+What time period saw the rapid expansion of multinational corporations influencing global economic patterns?,TIME
+How did World War II impact the economic geography of Europe and Asia during the 1940s?,TIME
+During which years was the Marshall Plan active, significantly reshaping post-war European economic geography?,TIME
+When did the dot-com bubble burst, affecting global economic geographies in terms of technological investments and urban development patterns?,TIME
+What year saw the peak of China's "Go West" policy intended to develop its western regions, impacting economic geography?,TIME
+How has the concept of "time-space compression" influenced economic geography since it was introduced by David Harvey in the 1980s?,TIME
+In which period did offshoring and outsourcing become major trends affecting the spatial distribution of manufacturing industries globally?,TIME
+When did the first oil crisis occur, profoundly impacting global economic geographies through changes in energy prices and supply chains?,TIME
+What time frame has seen significant shifts in urban-rural population dynamics due to globalization and technological advancements in communication and transportation?,TIME
+How have economic policies since the 1970s contributed to changes in the geographic distribution of industries within developed countries like those in Europe and North America?,TIME
+When did the process of deindustrialization begin in many Western economies, leading to significant shifts in urban landscapes and regional employment patterns?,TIME
+What period witnessed a shift from manufacturing-based economies towards service-oriented economies in most advanced nations, impacting economic geography?,TIME
+How has the emergence of digital nomads since the late 2000s affected traditional concepts of work locations and economic geography?,TIME
+When did the concept of "ecommerce" start to significantly impact retail geographies across different parts of the world?,TIME
+What time period saw a significant increase in the number of Special Economic Zones (SEZs) globally, influencing local economic growth and development patterns?,TIME
+What is the economic impact of the painting 'The Starry Night' on tourism in Europe?,WORK_OF_ART
+How does the depiction of urban landscapes in 'Broadway Boogie Woogie' reflect economic geography principles?,WORK_OF_ART
+In what ways has the mural 'Guernica' influenced discussions about war's economic aftermath and recovery efforts?,WORK_OF_ART
+What role does the sculpture 'The Bean' play in Chicago’s economy as a tourism attraction?,WORK_OF_ART
+How has the installation art piece 'The Gates' affected New York City's economic landscape during its exhibition period?,WORK_OF_ART
+Can you describe how the artwork 'The Persistence of Memory' has become an icon for understanding the economic concept of time value?,WORK_OF_ART
+What influence does 'Mona Lisa' have on the economy of Louvre Museum in Paris?,WORK_OF_ART
+How does the work 'Dancing Figures' by Henri Matisse contribute to the economic status of art tourism in Southern France?,WORK_OF_ART
+In what manner has the artwork 'The Scream' impacted the valuation and market dynamics of modern art auctions globally?,WORK_OF_ART
+What is the economic significance of the fresco 'The Creation of Adam' on religious tourism in Vatican City?,WORK_OF_ART
+How does the work 'Water Lilies' by Claude Monet affect the economy around Giverny, France as a tourist destination?,WORK_OF_ART
+Can you explain how 'Girl with a Pearl Earring' has influenced economic discussions regarding authenticity and value in art forgery cases?,WORK_OF_ART
+What is the impact of the artwork 'The Night Watch' on tourism and local businesses in Amsterdam's historical district?,WORK_OF_ART
+How does 'Campbell’s Soup Cans' by Andy Warhol reflect changes in consumerism and market dynamics within economic geography?,WORK_OF_ART
+In what ways has 'The Birth of Venus' influenced the economy around its exhibition locations through increased visitor numbers and tourism revenue?,WORK_OF_ART
+What role does the work 'Las Meninas' play in attracting international tourists to Madrid’s Prado Museum, thereby contributing to local economics?,WORK_OF_ART
+How does the artwork 'American Gothic' contribute to economic discussions about rural versus urban economies in its home state of Iowa?,WORK_OF_ART
+Can you discuss how the painting 'The Creation of Adam' influences tourism and related economic activities within Vatican City as a major art destination?,WORK_OF_ART
+What is the economic impact of 'The Kiss' by Gustav Klimt on Vienna’s cultural tourism sector, particularly in terms of visitor numbers and revenue generation for local businesses surrounding its exhibition sites?,WORK_OF_ART
+How does 'Les Demoiselles d'Avignon', as a pivotal piece in modern art history, affect the economy of the Museum of Modern Art (MoMA) in New York City through increased visitor attendance and tourism-related economic activities?,WORK_OF_ART
+What is the impact of climate on agricultural productivity in a specific region?,LOC
+How does urban sprawl affect economic activities in metropolitan areas?,FAC
+What are the main factors that influence industrial location decisions within a country?,GPE
+Can you explain how trade routes have influenced historical city developments?,EVENT
+In what way do natural resources contribute to the wealth of a nation?,PRODUCT
+How does the presence of multinational corporations impact local economies in developing countries?,ORG
+What role do transportation networks play in shaping economic geography landscapes?,FAC
+Could you describe the effects of globalization on regional employment patterns?,EVENT
+What influence does government policy have on attracting foreign direct investment to a region?,LAW
+How has the digital economy transformed traditional economic geography concepts?,PRODUCT
+What impact does education level have on economic development within regions?,QUANTITY
+In what ways do cultural differences affect business practices in international trade?,LANGUAGE
+How does the concept of agglomeration influence industrial clusters formation?,FAC
+Can you discuss the role of natural disasters on economic activities and infrastructure recovery?,EVENT
+What is the effect of tourism on local economies in coastal regions compared to inland areas?,LOC
+How do economic zones promote regional development and attract investments?,PRODUCT
+Could you explain how geopolitical conflicts affect trade flows between countries?,GPE
+In what manner does rural depopulation influence urban-rural economic dynamics?,LOC
+What are the implications of energy production sites on local economies and employment rates?,FAC
+How does the transition from a manufacturing to a service-based economy impact regional development strategies?,PRODUCT

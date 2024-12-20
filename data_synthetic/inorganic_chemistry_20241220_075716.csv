@@ -1,0 +1,381 @@
+Question,Entity-Type
+What is the atomic number of carbon?,CARDINAL
+How many valence electrons does oxygen have?,CARDINAL
+What is the oxidation state of sulfur in SO2?,CARDINAL
+How many lone pairs are there on a nitrogen atom in NH3?,CARDINAL
+What is the coordination number of iron in Fe(CN)6^4-?,CARDINAL
+How many resonance structures can ozone (O3) have?,CARDINAL
+In the compound NaCl, what is the charge of the sodium ion?,CARDINAL
+How many sigma bonds are present in a methane molecule?,CARDINAL
+What is the spin-only magnetic moment for Fe(II)?,CARDINAL
+How many d-electrons does copper (Cu) have in its ground state?,CARDINAL
+What is the molar mass of water (H2O) approximately in grams per mole?,CARDINAL
+How many atoms are present in a formula unit of calcium carbonate (CaCO3)?,CARDINAL
+In a cubic crystal system, how many edges meet at each vertex?,CARDINAL
+How many hydrogen atoms bond with carbon to form methane (CH4)?,CARDINAL
+What is the coordination number of cobalt in [Co(NH3)6]^2+?,CARDINAL
+How many unpaired electrons does a chromium atom have in its ground state?,CARDINAL
+What is the atomic number of chlorine?,CARDINAL
+In a crystal structure, if an ion has a coordination number of 8, how many nearest neighbors does it have?,CARDINAL
+How many lone pairs are present on each oxygen atom in water (H2O)?,CARDINAL
+What is the oxidation state of manganese in KMnO4?,CARDINAL
+When was the first synthesis of buckminsterfullerene (C60) reported?,DATE
+What year did Dmitri Mendeleev publish his periodic table?,DATE
+In which year was the concept of chemical elements first proposed by Robert Boyle?,DATE
+Which date marks the discovery of oxygen by Joseph Priestley?,DATE
+When did Antoine Lavoisier publish "Elements of Chemistry", marking a significant step in modern chemistry?,DATE
+What is the date when Marie Curie and Pierre Curie discovered polonium and radium?,DATE
+On what date was Dmitri Mendeleev born, influencing the future of chemical elements classification?,DATE
+When did John Newlands propose his Law of Octaves in inorganic chemistry?,DATE
+In which year did Henry Moseley establish the concept of atomic number?,DATE
+What is the date when Linus Pauling proposed the concept of electronegativity?,DATE
+When was the first stable compound of a noble gas synthesized, breaking the belief that these elements do not react?,DATE
+On what date did Friedrich Wöhler synthesize urea, marking the start of organic chemistry?,DATE
+What year saw the discovery of the electron by J.J. Thomson?,DATE
+In which year did Alfred Werner revolutionize coordination chemistry with his work on complexes?,DATE
+When was the first noble gas, helium, identified on Earth after its spectral lines were seen in the sun's spectrum during a solar eclipse?,DATE
+On what date did Marie Curie win her second Nobel Prize for her services to the advancement of chemistry by the discovery of the elements radium and polonium?,DATE
+What is the date when Carl Wilhelm Scheele discovered chlorine, which became significant in inorganic chemistry?,DATE
+In which year was the first element synthesised in a laboratory, as opposed to being found naturally occurring?,DATE
+When did the periodic table get its current form after Glenn T. Seaborg's work with transuranium elements?,DATE
+What is the date when the structure of DNA was published by James Watson and Francis Crick, indirectly impacting inorganic chemistry through bioinorganic chemistry?,DATE
+What is the process called when two or more elements combine to form a compound?,EVENT
+How does the reaction of sodium and chlorine occur to produce table salt (NaCl)?,EVENT
+Describe the event that takes place during the synthesis of water from hydrogen and oxygen gases.,EVENT
+Can you explain what happens in an acid-base neutralization reaction to form salt and water?,EVENT
+What event occurs when iron rusts due to oxidation in the presence of moisture and air?,EVENT
+In inorganic chemistry, how does the formation of a precipitate occur during a double displacement reaction?,EVENT
+Could you elaborate on the process of calcination that takes place when heating limestone to form lime?,EVENT
+Explain what happens in the event of a decomposition reaction where water is split into hydrogen and oxygen.,EVENT
+What is the event called when carbon dioxide dissolves in water to form carbonic acid?,EVENT
+Describe the event during the Haber process for ammonia synthesis from nitrogen and hydrogen gases.,EVENT
+How does the combustion event occur for an inorganic compound like sulfur, releasing energy as heat and light?,EVENT
+Could you explain what occurs during the formation of a metal hydride when hydrogen gas reacts with metals under pressure?,EVENT
+What is the event where carbon monoxide binds with hemoglobin in blood, preventing oxygen transport known as?,EVENT
+In terms of an event, how does the process of smelting ore to extract pure metal occur?,EVENT
+Describe the process event that happens during the electrolysis of molten sodium chloride to produce chlorine gas and metallic sodium.,EVENT
+How does the event of reduction happen in the context of a redox reaction where copper ions gain electrons from zinc?,EVENT
+Could you explain what takes place in an exothermic synthesis event when calcium oxide reacts with water forming slaked lime?,EVENT
+What is the event that occurs during the industrial production of sulfuric acid through contact process?,EVENT
+Describe the event involved in a metal displacement reaction where copper sulfate solution turns into zinc sulfate and pure copper.,EVENT
+Explain what happens in an event known as sublimation when solid iodine turns directly into vapor upon heating without passing through liquid state.,EVENT
+What is the role of oxygen in the formation of oxides?,FAC
+How does sulfur contribute to the creation of sulfides and sulfates in inorganic chemistry?,FAC
+Can you explain the function of chlorine as a halogen in inorganic reactions?,FAC
+Describe the importance of carbon dioxide in inorganic synthesis.,FAC
+What role do transition metals play in catalytic processes within inorganic chemistry?,FAC
+How does silicon contribute to the formation of silicates and other compounds in inorganic chemistry?,FAC
+Explain the significance of phosphorus in creating phosphate-based minerals.,FAC
+Describe the role of nitrogen in forming nitrates and nitrites in inorganic reactions.,FAC
+What is the importance of fluorine as a halogen in inorganic chemical processes?,FAC
+How does iron contribute to various oxidation states in inorganic compounds?,FAC
+Can you discuss the function of aluminum in aluminosilicate structures?,FAC
+Explain how calcium contributes to the formation of important salts in inorganic chemistry.,FAC
+What is the role of magnesium in chlorophyll and its relevance in inorganic chemical reactions?,FAC
+Describe the importance of copper as a catalyst in various inorganic processes.,FAC
+How does titanium contribute to the stability of metal oxides at high temperatures?,FAC
+Explain the significance of potassium in forming stable ionic compounds with halogens.,FAC
+What role do zinc ions play in enzyme structures within inorganic chemistry contexts?,FAC
+Describe the function of boron in creating unique borate complexes.,FAC
+How does lithium contribute to battery technologies through its properties in inorganic chemistry?,FAC
+Explain the importance of manganese in metal oxides used for pigments and catalysts.,FAC
+What are the primary inorganic compounds mined in Russia for industrial use?,GPE
+How does Germany contribute to advancements in inorganic chemistry through its research institutions?,GPE
+Which European country is known for its significant contributions to the development of coordination chemistry?,GPE
+Can you name a specific inorganic compound that China has been a leading producer of over the past decade?,GPE
+What role does India play in the global supply chain of inorganic chemicals such as phosphates and potash?,GPE
+How is Japan involved in the production of rare earth elements, which are critical to various high-tech industries?,GPE
+Which North American country has made significant strides in recycling inorganic materials for environmental sustainability?,GPE
+What are some notable inorganic chemistry research collaborations between universities in Australia and other countries?,GPE
+In what ways does Brazil contribute to the global market of inorganic pigments used in various industrial applications?,GPE
+How does South Africa's mining industry influence the availability of certain inorganic compounds worldwide?,GPE
+Which African country is known for its substantial reserves of inorganic materials like platinum and chromium?,GPE
+What advancements have been made in inorganic chemistry research in universities across Canada?,GPE
+Can you describe any major inorganic chemical production facilities located in Mexico that support the automotive industry?,GPE
+How does the United Kingdom contribute to global knowledge on inorganic semiconductor materials through academic institutions?,GPE
+Which country in Southeast Asia is a leading producer of titanium dioxide, an important inorganic compound used in paints and coatings?,GPE
+What are some of the inorganic chemistry achievements from research conducted at universities in France?,GPE
+How does Italy support the production of inorganic chemicals that are essential for glass manufacturing worldwide?,GPE
+Which Middle Eastern country is a significant exporter of elemental phosphorus, an important inorganic chemical used in fertilizers and other industries?,GPE
+What role do research institutions in Poland play in advancing inorganic chemistry through innovation and development?,GPE
+How does Spain contribute to the field of inorganic materials science with its universities and industrial partnerships?,GPE
+What is the definition of inorganic chemistry?,LANGUAGE
+How does inorganic chemistry differ from organic chemistry?,LANGUAGE
+Can you explain what transition metals are and their role in inorganic chemistry?,LANGUAGE
+What are coordination compounds, and why are they important in inorganic chemistry?,LANGUAGE
+Describe the process of precipitation reactions in inorganic chemistry.,LANGUAGE
+How do acids and bases interact according to the principles of inorganic chemistry?,LANGUAGE
+What is the significance of redox reactions in the field of inorganic chemistry?,LANGUAGE
+Can you explain the concept of a lattice energy in inorganic compounds?,LANGUAGE
+Explain the importance of ionic bonding within the context of inorganic chemistry.,LANGUAGE
+How do spectroscopic techniques aid in understanding inorganic chemical structures?,LANGUAGE
+What role does solubility play in classifying inorganic substances?,LANGUAGE
+Can you describe the process of complex formation in aqueous solutions from an inorganic perspective?,LANGUAGE
+How is the periodic table utilized to predict properties of elements in inorganic chemistry?,LANGUAGE
+Explain the principle behind the use of coordination compounds as catalysts in industrial processes.,LANGUAGE
+What are some common types of inorganic solid-state materials and their applications?,LANGUAGE
+Describe the differences between molecular and ionic crystals from an inorganic chemistry viewpoint.,LANGUAGE
+How does inorganic chemistry contribute to the development of new materials like ceramics or semiconductors?,LANGUAGE
+Explain the concept of isoelectronicity in inorganic chemistry with examples.,LANGUAGE
+What are some environmental applications of principles from inorganic chemistry?,LANGUAGE
+Can you discuss the role of inorganic reactions in energy storage technologies, such as batteries and fuel cells?,LANGUAGE
+What are the laws governing the formation of ionic bonds in inorganic compounds?,LAW
+How does the octet rule apply to the stability of inorganic molecules and ions?,LAW
+Can you explain the law of conservation of mass as it relates to inorganic chemical reactions?,LAW
+What is the role of Hess's Law in calculating energy changes in inorganic reactions?,LAW
+In inorganic chemistry, how does Avogadro’s Law apply to gases and their behavior under different conditions?,LAW
+How does Le Chatelier’s Principle guide us in predicting the effect of concentration changes on equilibrium for inorganic systems?,LAW
+What is the principle behind the law of constant composition as applied to inorganic compounds?,LAW
+Could you discuss Raoult's Law and its application in determining vapor pressure of solutions in inorganic chemistry?,LAW
+How does Beer-Lambert Law apply to measuring concentration in spectroscopy within inorganic chemical analysis?,LAW
+Explain the law of multiple proportions as it pertains to the formation of different compounds by the same elements in inorganic chemistry.,LAW
+What role does Dalton’s atomic theory play, particularly concerning the indivisibility of atoms and its relation to modern inorganic principles?,LAW
+How is Boyle's Law relevant when discussing the compressibility of gases in various inorganic chemical processes?,LAW
+Can you clarify how Faraday's Laws of Electrolysis are applied in the process of electroplating metals which is an important technique in inorganic chemistry?,LAW
+What does Graham’s Law of Effusion tell us about the rates at which different gases will effuse and how it impacts inorganic experiments?,LAW
+How do Aufbau Principle, Hund's Rule, and Pauli Exclusion Principle underpin our understanding of electronic configuration in inorganic molecules?,LAW
+Explain the concept of crystal field theory and its laws as they apply to predicting the colors of transition metal complexes.,LAW
+In what way does the law of reciprocal proportions help predict the composition of compounds when elements form more than one compound with each other?,LAW
+What is the significance of Boyle’s Law in understanding pressure-volume relationships during the compression and expansion of gases used in inorganic synthesis?,LAW
+Could you discuss how Gay-Lussac's Law applies to predicting temperature-pressure relationships for gases involved in inorganic chemical reactions?,LAW
+How does Lavoisier’s Conservation of Mass law validate the stoichiometry principles applied in balancing equations of inorganic compounds?,LAW
+What is the role of sodium chloride in the chemical industry of China?,LOC
+Where are major deposits of bauxite found in Jamaica that contribute to its aluminum production industry?,LOC
+How does France's location influence its research and development in the field of fluoride compounds?,LOC
+In which part of the United States is the largest synthetic sapphire manufacturing plant located, and what is its significance for inorganic chemistry advancements?,LOC
+What are the key inorganic chemical resources found in Australia that have shaped its mining industry?,LOC
+How has Germany's location influenced its global standing in the development of lithium-ion battery technology?,LOC
+Where is the primary site of silica sand extraction in Morocco, and how does it impact the world's supply of silicon compounds?,LOC
+What role do Chilean copper mines play in supplying raw materials for various inorganic chemical processes globally?,LOC
+How has Russia's geography contributed to its lead in rare earth element mining and processing?,LOC
+In which part of Canada are nickel deposits located, and how does this contribute to inorganic chemistry research in alloys and catalysts?,LOC
+What is the impact of China's location on its production capacity for ceramic materials used in electronics?,LOC
+Where are significant phosphate rock reserves found that fuel global fertilizer production, particularly in Morocco?,LOC
+How has Japan's industrial landscape influenced its expertise in semiconductor manufacturing from an inorganic chemistry perspective?,LOC
+In which European country is a major center of zinc mining and processing located, influencing the availability of inorganic compounds for paint and galvanization industries?,LOC
+What are the environmental impacts of lead mining operations in Australia on local ecosystems?,LOC
+How does Brazil's location affect its global influence in niobium extraction and application in various alloys?,LOC
+In which Asian country is a major center for silica production located, driving advancements in glass manufacturing and semiconductor technology?,LOC
+Where do significant reserves of strontium minerals lie that contribute to the fireworks and x-ray industry, particularly in Afghanistan?,LOC
+How has India's geography influenced its expertise in the processing of potassium salts used in agriculture and chemical industries?,LOC
+What role does Turkey play in supplying boron compounds for various industrial applications due to its rich deposits?,LOC
+What is the cost of producing one kilogram of pure lithium today?,MONEY
+How much does it typically cost to extract and refine a tonne of uranium ore?,MONEY
+Can you provide an estimate for the price of one mole of sodium chloride in industrial quantities?,MONEY
+What is the average market price per pound of platinum used in chemical processes as of this year?,MONEY
+How much would it cost to purchase 10 grams of a rare earth element like europium in bulk form?,MONEY
+What is the current wholesale price for one liter of concentrated sulfuric acid (98%)?,MONEY
+Could you state the retail price per gram of metallic gold used in some chemical applications?,MONEY
+How much does it cost to synthesize and purify a kilogram of bismuth trioxide (Bi2O3)?,MONEY
+What is the approximate price for purchasing one cubic centimeter of osmium, known as one of the densest elements?,MONEY
+Can you tell me what the average price per ounce of silver nitrate is in the current market?,MONEY
+How much does it typically cost to acquire a research-grade sample (50 grams) of potassium permanganate?,MONEY
+What's the price range for one kilogram of cobalt oxide used in battery technology and chemistry labs?,MONEY
+Could you provide information on the retail pricing for 1 gram of metallic mercury in a laboratory setting?,MONEY
+How much would an industrial buyer expect to pay per tonne for aluminum fluoride (AlF3)?,MONEY
+What is the average cost per liter of liquid nitrogen used in various chemical processes and experiments?,MONEY
+Can you give me the current market price per kilogram for strontium carbonate (SrCO3) used in different applications?,MONEY
+How much does it typically cost to obtain one cubic meter of compressed helium gas, commonly used in cryogenics and spectroscopy?,MONEY
+What is the average retail price for a 100g bottle of bromine liquid, widely used as an oxidizing agent in organic synthesis?,MONEY
+Could you estimate the wholesale price per kilogram for sodium hydroxide (NaOH), also known as caustic soda or lye?,MONEY
+How much does it cost to purchase one cubic meter of carbon dioxide gas at a concentration of 99.9% purity, used in several industrial and laboratory processes?,MONEY
+What are the main noble gases used in inorganic chemistry experiments?,NORP
+How do nonmetallic properties of elements influence their use in inorganic compounds?,NORP
+Can you explain the role of halogens in inorganic synthesis?,NORP
+Which transitional metals are most commonly found in coordination complexes?,NORP
+What is the significance of alkaline earth metals in inorganic chemistry reactions?,NORP
+How does the reactivity series impact the selection of metals for specific inorganic processes?,NORP
+In inorganic chemistry, what role do p-block elements play in semiconductor manufacturing?,NORP
+Could you describe the importance of lanthanides and actinides in research materials science?,NORP
+What are some practical applications of inorganic compounds derived from d-block elements?,NORP
+How do the properties of noble gases make them ideal for various lighting technologies?,NORP
+Which nonmetal oxides contribute significantly to acid rain formation?,NORP
+Can you elaborate on the use of transition metals as catalysts in industry?,NORP
+What are the environmental impacts associated with the disposal of heavy metal compounds?,NORP
+How does the concept of ionic bonding apply to the formation of salts used in everyday products?,NORP
+In what ways do metallic elements contribute to the coloration seen in glass and ceramics?,NORP
+Could you discuss the impact of nonmetallic elements on the development of battery technologies?,NORP
+What role does the arrangement of electrons in metal atoms play in their magnetic properties?,NORP
+How are inorganic compounds from group 1 metals utilized in common household products?,NORP
+Can you provide examples of how noble gases are used as inert atmospheres during chemical processes?,NORP
+What is the importance of understanding the reactivity and stability of metalloids in semiconductor fabrication?,NORP
+What is the third element in the periodic table?,ORDINAL
+Which is the fifth halogen listed on the periodic table?,ORDINAL
+What are the first two alkali metals found on the periodic table?,ORDINAL
+How many periods does the s-block occupy at the beginning of the periodic table?,ORDINAL
+Can you name the second noble gas in the periodic table?,ORDINAL
+Which is the fourth element to be discovered by humans, and what is its significance in inorganic chemistry?,ORDINAL
+What is the seventh element in terms of abundance in the Earth's crust?,ORDINAL
+Identify the first transition metal found in the periodic table.,ORDINAL
+How many groups does carbon belong to if we count from left to right on the periodic table?,ORDINAL
+Which halogen appears as the second member when listed by atomic number?,ORDINAL
+What is the third member of the actinide series called?,ORDINAL
+Can you tell me about the properties of the fourth alkaline earth metal?,ORDINAL
+In terms of atomic mass, which is the first element that does not have any stable isotopes?,ORDINAL
+Which is the second rarest noble gas in nature?,ORDINAL
+What is the fifth member of the lanthanide series known as?,ORDINAL
+Can you name the third member of the chalcogens when ordered by their atomic numbers?,ORDINAL
+How many electrons does a chlorine atom have in its outer shell, making it the second element from the right in its row on the periodic table?,ORDINAL
+Which is the first metalloid to appear when moving from left to right across the fourth period of the periodic table?,ORDINAL
+Can you identify the third member of the transition metals that form colored compounds with water molecules in their coordination complexes?,ORDINAL
+What is the second most electronegative element in the periodic table and how does it influence its reactivity in inorganic chemistry?,ORDINAL
+What is the primary function of the International Union of Pure and Applied Chemistry in the field of Inorganic Chemistry?,ORG
+Which organization established the nomenclature rules for inorganic compounds that are widely used today?,ORG
+How does the American Chemical Society contribute to advancements in Inorganic Chemistry research?,ORG
+What role does the Royal Society of Chemistry play in promoting education and research in Inorganic Chemistry?,ORG
+Can you name an institution known for its pioneering work on coordination chemistry, a branch of Inorganic Chemistry?,ORG
+Which organization has published significant studies on the synthesis of new inorganic compounds?,ORG
+How is the National Science Foundation involved in supporting research projects related to Inorganic Chemistry?,ORG
+What are some contributions made by the European Chemical Society towards the field of Inorganic Chemistry?,ORG
+Can you mention an institute that specializes in conducting workshops and conferences dedicated to Inorganic Chemistry?,ORG
+Which organization provides funding for cutting-edge research in the area of solid-state Inorganic Chemistry?,ORG
+How does the German Chemical Society facilitate knowledge sharing among scientists interested in Inorganic Chemistry?,ORG
+What kind of support does the Canadian Society for Chemistry offer to researchers working on projects related to Inorganic Chemistry?,ORG
+Can you identify a university that has a renowned department focused specifically on Inorganic Chemistry?,ORG
+Which organization offers resources and publications to help students learn about fundamental concepts in Inorganic Chemistry?,ORG
+How does the Australian Institute of Chemistry promote research and development in Inorganic Chemistry within Australia?,ORG
+What role does the Chemical Society of Japan play in advancing the study of Inorganic Chemistry in Asia?,ORG
+Can you mention a non-profit organization dedicated to fostering international collaboration in Inorganic Chemistry research?,ORG
+Which institution regularly hosts symposiums focused on emerging trends in Inorganic Chemistry?,ORG
+How is the American Association for the Advancement of Science involved in disseminating information about recent breakthroughs in Inorganic Chemistry?,ORG
+What kind of services does the British Inorganic Group provide to its members who are interested in Inorganic Chemistry research?,ORG
+What is the typical percentage of oxygen in the Earth's atmosphere?,PERCENT
+What percent of copper(II) sulfate pentahydrate (CuSO4·5H2O) is water by mass?,PERCENT
+In a neutral solution at 25°C, what percentage of water molecules are ionized into H+ and OH- ions?,PERCENT
+When sodium chloride (NaCl) dissolves in water to form an aqueous solution, what percent of the solute can typically dissolve at room temperature?,PERCENT
+What is the approximate percentage composition by mass of nitrogen in ammonium nitrate (NH4NO3)?,PERCENT
+How much, by weight, is gold present as a percentage in a 24-karat gold piece?,PERCENT
+When carbon dioxide dissolves in water to form carbonic acid, approximately what percent of CO2 remains unchanged at equilibrium?,PERCENT
+What percentage of aluminum oxide (Al2O3) is composed of oxygen by mass?,PERCENT
+In the formation of rust from iron, if a sample initially weighed 10 grams and after oxidation weighs 15 grams, what percent increase in weight can be attributed to oxygen uptake?,PERCENT
+What is the percentage yield if 95 grams of product are obtained from a reaction expected to produce 120 grams of product based on stoichiometry?,PERCENT
+How much does hydrogen make up by mass percent in water (H2O)?,PERCENT
+In the production of ammonia through the Haber process, what percentage conversion rate is typically achieved under optimal conditions?,PERCENT
+What percent of sulfuric acid is composed of oxygen by mass in H2SO4?,PERCENT
+If a solution has a concentration of 5 moles per liter (M) of NaCl, and its density is close to that of water, what percent by mass would this represent at room temperature?,PERCENT
+What percentage composition by weight does nitrogen have in the compound potassium nitrate (KNO3)?,PERCENT
+In a first-order reaction, if 75% of reactant A decomposes in 10 minutes, what is the approximate half-life of the reaction expressed as a percent of the initial concentration remaining after 20 minutes?,PERCENT
+What is the percentage composition by mass of magnesium in MgSO4·7H2O (Magnesium sulfate heptahydrate)?,PERCENT
+If calcium carbonate decomposes to form calcium oxide and CO2 upon heating, what percentage of the original weight of calcium carbonate remains as CaO after complete decomposition?,PERCENT
+What is the theoretical percent yield if 10 grams of a substance are required for a reaction but only 8 grams react completely?,PERCENT
+How much does oxygen contribute to the mass percentage in potassium chlorate (KClO3)?,PERCENT
+Who is known for their pioneering work on the synthesis of zeolites?,PERSON
+Which Nobel Prize winner in Chemistry made significant contributions to the field of organometallic chemistry?,PERSON
+Who developed the concept of crystal field theory that explains the electronic structure of transition metal complexes?,PERSON
+Can you name a chemist who extensively studied the properties and behavior of coordination compounds?,PERSON
+Who is recognized for their research on the catalytic properties of inorganic substances?,PERSON
+Which scientist was influential in the study of solid-state chemistry, particularly in the development of new materials with unique electronic and magnetic properties?,PERSON
+Can you identify a researcher who has made significant contributions to the understanding of superacids in inorganic chemistry?,PERSON
+Who is famous for their work on boranes and carboranes, significantly advancing the field of boron chemistry?,PERSON
+Which chemist contributed greatly to the understanding of inorganic reaction mechanisms through spectroscopic methods?,PERSON
+Can you mention a scientist who was instrumental in the development of new inorganic materials with potential applications in energy storage technologies?,PERSON
+Who is known for their extensive work on the synthesis and characterization of metal-organic frameworks (MOFs)?,PERSON
+Which chemist made notable contributions to the study of photochemistry, particularly in the area of light-induced reactions involving inorganic compounds?,PERSON
+Can you name a researcher who has conducted groundbreaking studies on the chemistry of noble gases under extreme conditions?,PERSON
+Who pioneered the use of X-ray diffraction in determining the structures of complex inorganic solids?,PERSON
+Which scientist is recognized for their work on the chemical bonding and reactivity of metal complexes using computational methods?,PERSON
+Can you identify a chemist who has contributed significantly to our understanding of inorganic polymers and their applications?,PERSON
+Who has been influential in advancing the field of bioinorganic chemistry through studies on metalloenzymes and -proteins?,PERSON
+Which researcher is known for their investigations into the catalytic conversion of small molecules using inorganic catalysts?,PERSON
+Can you name a scientist who made significant contributions to the development of new inorganic pigments used in various industries?,PERSON
+Who contributed greatly to the study of lanthanides and actinides, particularly in terms of their electronic structures and magnetic properties?,PERSON
+What is the primary use of potassium dichromate in chemical laboratories?,PRODUCT
+How is silicon dioxide commonly used in the manufacturing industry?,PRODUCT
+In what form is iron oxide typically used as a pigment?,PRODUCT
+What are the main applications of sodium hydroxide in industrial processes?,PRODUCT
+Can you describe the role of calcium carbonate in the production of paper and plastics?,PRODUCT
+Which industries primarily use aluminum sulfate?,PRODUCT
+How is titanium dioxide utilized to provide white coloration in various products?,PRODUCT
+In what way is magnesium sulfate used in agriculture as a fertilizer?,PRODUCT
+What are some common uses of barium sulfate in medical imaging?,PRODUCT
+Can you explain the importance of zinc oxide in sunscreen products?,PRODUCT
+Which product form of copper(II) sulfate is commonly used in swimming pool treatment?,PRODUCT
+How does boron nitride function as an industrial lubricant?,PRODUCT
+In what applications is beryllium oxide employed due to its high thermal conductivity?,PRODUCT
+What are the primary uses of lithium carbonate in battery manufacturing?,PRODUCT
+Which industry heavily relies on ammonium nitrate for explosives production?,PRODUCT
+Can you describe how silver nitrate is used in photography?,PRODUCT
+How does lead(II) acetate contribute to the manufacturing process of batteries?,PRODUCT
+In what form is ammonium chloride used in fluxes for soldering metals?,PRODUCT
+What are the main applications of potassium chlorate in fireworks production?,PRODUCT
+Which product is commonly made from boric acid and used as a flame retardant?,PRODUCT
+What is the valence electron count of carbon in most of its compounds?,QUANTITY
+How many moles of water are produced when 2 moles of hydrogen react with oxygen to form water?,QUANTITY
+In a balanced chemical equation, if you have 3 moles of aluminum reacting with iron(III) oxide, how many moles of aluminum oxide can be formed?,QUANTITY
+What is the molar mass of sodium chloride (NaCl), expressed in grams per mole?,QUANTITY
+How many liters of oxygen gas at STP are required to completely react with 4.5 liters of hydrogen gas at STP to produce water vapor?,QUANTITY
+If you have a solution that contains 0.2 moles of calcium ions, how many milliliters would you need if the concentration is 0.1 M?,QUANTITY
+How many grams are in one mole of sulfur dioxide (SO2)?,QUANTITY
+What is the energy difference, in joules, between the ground state and first excited state for an electron in a hydrogen atom?,QUANTITY
+In a redox reaction where potassium permanganate oxidizes iron(II) to iron(III), how many moles of Fe^2+ react with one mole of KMnO4 if the reaction occurs under acidic conditions?,QUANTITY
+If you have 10 grams of magnesium, how many atoms are present in this sample? Express your answer as a number.,QUANTITY
+What is the pH value when [H+] concentration equals 1x10^-7 M at room temperature?,QUANTITY
+How many milliliters of a 2.5 M NaOH solution would be required to completely neutralize 3 liters of a 1.2 M HCl solution?,QUANTITY
+In a sample of carbon dioxide, if the mass percentage of oxygen is 72.7%, what quantity in percent does carbon contribute by mass?,QUANTITY
+What is the density (in g/cm^3) of solid sodium at room temperature and pressure conditions?,QUANTITY
+Given a reaction where ammonia reacts with oxygen to form nitrogen gas and water, how many liters of O2 are needed at STP for every liter of NH3 used in this process?,QUANTITY
+In an experiment, if you have 5.0 grams of calcium carbonate (CaCO3) and it is completely decomposed into CaO and CO2, what quantity in moles was the initial sample of CaCO3?,QUANTITY
+How many kilojoules are released when one mole of methane burns completely under standard conditions to form carbon dioxide and water vapor?,QUANTITY
+At a specific temperature, if the solubility product (Ksp) of silver chloride is 1.8x10^-10, what quantity in moles per liter would be the maximum concentration of Ag+ ions in an unsaturated solution?,QUANTITY
+When calculating the lattice energy for magnesium oxide (MgO), which involves Coulomb's law, if the charges are +2 and -2 respectively on Mg^2+ and O^2-, what quantity in coulombs does each charge represent when converted from elementary charges?,QUANTITY
+How many grams of barium sulfate will precipitate out of a solution containing 1.0 moles of BaCl2 and an excess of Na2SO4, assuming the reaction goes to completion according to stoichiometry principles?,QUANTITY
+When did the first synthesis of pure titanium dioxide occur?,TIME
+What year was the periodic table first published by Dmitri Mendeleev?,TIME
+In which decade did the development of coordination chemistry begin to flourish with the study of complexes like Prussian blue?,TIME
+When were superacids, stronger than 100% sulfuric acid, first synthesized and characterized?,TIME
+What time period saw the discovery of buckminsterfullerene (C60) by Richard Smalley and Robert Curl?,TIME
+During which historical period did alchemists primarily experiment with inorganic compounds to transmute elements into gold?,TIME
+In what year was the electron discovered, marking a significant shift in the understanding of chemical bonds and reactions in inorganic chemistry?,TIME
+When were organometallic compounds first synthesized, leading to advancements in polymerization processes and catalysis?,TIME
+What time frame corresponds with the development of the first fuel cells, which are based on electrochemical reactions in inorganic substances?,TIME
+During which era did X-ray crystallography emerge as a critical tool for determining the structures of inorganic compounds at an atomic level?,TIME
+When was the concept of oxidation states formally introduced into chemical nomenclature and theory to explain inorganic reaction mechanisms?,TIME
+In what period did the study of semiconductor materials, fundamental to solid-state chemistry and electronics, begin to intensify?,TIME
+What year marked the discovery or synthesis of the first zeolite material, which has numerous applications in catalysis and separation processes?,TIME
+When were the first perovskite solar cells developed, showcasing potential for high efficiency renewable energy solutions based on inorganic semiconductors?,TIME
+During which time period did research into superconducting materials intensify, particularly those containing elements like mercury, lead, and barium?,TIME
+In what year was the first synthetic element created, setting a precedent for the synthesis of heavier elements through nuclear reactions?,TIME
+When were the principles of green chemistry first outlined, emphasizing pollution prevention in chemical design processes including inorganic synthesis?,TIME
+What era saw the significant advances in the understanding and application of nanomaterials in inorganic chemistry, such as nanoparticles and quantum dots?,TIME
+During which time frame did research into high-temperature superconductors gain momentum, leading to materials capable of conducting electricity with zero resistance at relatively higher temperatures than traditional superconductors?,TIME
+When was the concept of hybrid orbitals introduced to explain the shapes of molecules in both organic and inorganic chemistry?,TIME
+What is the significance of "The Chemical Basis of Morphogenesis" in understanding inorganic chemical structures?,WORK_OF_ART
+How does the artwork "Periodic Table Tapestry" represent elements and their properties from an inorganic chemistry perspective?,WORK_OF_ART
+In what way did the painting "The Alchemist's Laboratory" contribute to the visual representation of inorganic chemical processes?,WORK_OF_ART
+Can you describe how "Symphony of Elements," a sculpture, embodies principles of inorganic chemistry through its design and materials used?,WORK_OF_ART
+What does the mural titled "Crystal Lattice Forms" depict regarding the structures common in inorganic compounds?,WORK_OF_ART
+How is the concept of coordination complexes illustrated in the digital art piece called "Orbitals and Bonds"?,WORK_OF_ART
+In "Molecular Architecture," an installation piece, which inorganic molecules are showcased and how are they represented?,WORK_OF_ART
+What unique approach does the etching series "The Inorganic Elements" take to visually represent different elements from the periodic table?,WORK_OF_ART
+How does the lithograph "Transition Metal Complexes" highlight the characteristics of transition metals in inorganic chemistry?,WORK_OF_ART
+Which inorganic chemical principles are explored through the stained glass art "Atomic Structures"?,WORK_OF_ART
+What aspects of ionic bonding are captured in the sculpture series "Particles at Play"?,WORK_OF_ART
+How does the digital illustration "Inorganic Chemistry Abstracts" convey complex concepts from inorganic chemistry?,WORK_OF_ART
+Can you explain how the poster design "Reactions and Compounds" visually communicates chemical reactions involving inorganic substances?,WORK_OF_ART
+What elements of inorganic chemistry are featured in the interactive art installation called "The Molecule Matrix"?,WORK_OF_ART
+How does the sculpture "Elemental Forms" use geometric shapes to represent various inorganic compounds?,WORK_OF_ART
+In what way does the painting "The Crystal Garden" reflect the beauty and complexity of crystallography within inorganic chemistry?,WORK_OF_ART
+What techniques are used in the artwork "Chemical Bonds and Structures" to illustrate different types of chemical bonds found in inorganic materials?,WORK_OF_ART
+How does the art piece "Periodic Table Portraits" artistically interpret each element's role and properties in the context of inorganic chemistry?,WORK_OF_ART
+Which concepts from solid-state chemistry are illustrated through the installation "Solid State Symphony"?,WORK_OF_ART
+What message about inorganic compounds does the mixed media artwork "The Elements of Transformation" convey?,WORK_OF_ART
+What is the melting point of sodium chloride?,QUANTITY
+Which law states that equal volumes of gases at the same temperature and pressure contain equal numbers of molecules?,LAW
+How many valence electrons does an atom of sulfur have in its outer shell?,CARDINAL
+When was the periodic table first published by Dmitri Mendeleev?,DATE
+What event marked the discovery of noble gases in the atmosphere?,EVENT
+Where is the headquarters of the International Union of Pure and Applied Chemistry (IUPAC) located?,LOC
+What is the GPE associated with the development of the modern periodic table?,GPE
+Which language is predominantly used for naming chemical elements in scientific literature?,LANGUAGE
+How much does a mole of water weigh approximately?,QUANTITY
+Can you name an organization that sets standards for chemical nomenclature and terminology?,ORG
+What percentage of the Earth's crust is composed of oxygen by mass?,PERCENT
+Who first proposed the concept of chemical bonding as we understand it today?,PERSON
+Which product is formed when sodium reacts with chlorine gas?,PRODUCT
+How long does a typical laboratory experiment on inorganic synthesis take to complete?,TIME
+What facility would you use to measure the atomic radius of elements accurately?,FAC
+At what temperature does water boil under standard atmospheric pressure?,QUANTITY
+Which non-governmental organization (NORP) plays a significant role in chemistry education worldwide?,NORP
+How much money was awarded for the Nobel Prize in Chemistry in 2020?,MONEY
+What is the name of the process used to extract aluminum from bauxite ore?,WORK_OF_ART
+Which time period saw the rise of modern inorganic synthesis techniques?,TIME

@@ -1,0 +1,372 @@
+Question,Entity-Type
+What is the minimum number of people required to conduct an outbreak investigation for infectious diseases?,CARDINAL
+How many days should antibiotics be prescribed at least for treating bacterial infections effectively in most cases?,CARDINAL
+In the context of infection control, what is the recommended frequency in times per day that healthcare workers should wash their hands?,CARDINAL
+What percentage reduction in transmission rate can be achieved with proper hand hygiene practices according to studies?,CARDINAL
+How many masks are recommended to be worn daily by an individual in a highly contagious disease outbreak scenario for maximum protection?,CARDINAL
+In the case of a viral outbreak, what is the advised number of feet distance one should maintain from others to reduce transmission risk?,CARDINAL
+What is the typical incubation period in days for most common infectious diseases that require quarantine measures?,CARDINAL
+How many types of消毒剂通常建议用于医院环境中的表面消毒？,CARDINAL
+在感染控制指南中，推荐的最低个人防护装备（PPE）更换频率是多少次每小时？,CARDINAL
+对于疑似传染病患者，医疗机构应准备多少个隔离病房以应对突发状况？,CARDINAL
+在一个社区中，为了防止疾病的传播，至少需要百分之多少的人接种疫苗才能实现群体免疫？,CARDINAL
+在发生重大疫情时，建议的社交距离应在多大范围内（米）来减少病毒传播的可能性？,CARDINAL
+对于季节性流感，推荐的最佳疫苗接种时间是在每年的哪几个月份开始？,CARDINAL
+为了有效控制传染病的爆发，公共卫生部门通常需要跟踪多少名接触者以确保疾病的追踪和隔离？,CARDINAL
+在流行病期间，医院通常会储备多少天的个人防护装备（PPE）以应对可能的需求增加？,CARDINAL
+用于监测传染病患者体温变化时，医疗团队应多久测量一次患者的体温（小时为单位）？,CARDINAL
+
+请注意，最后四个问题中的实体类型未使用英文表示。以下是正确的格式：
+How many types of disinfectants are typically recommended for surface disinfection in hospital settings?,CARDINAL
+In infection control guidelines, what is the minimum PPE change frequency recommended per hour?,CARDINAL
+For suspected infectious disease patients, how many isolation rooms should medical institutions prepare to cope with sudden situations?,CARDINAL
+To prevent disease transmission in a community, at least what percentage of people need to be vaccinated to achieve herd immunity?,CARDINAL
+When was the first case of SARS reported in 2003?,DATE
+What date did the WHO declare the end of the Ebola outbreak in West Africa?,DATE
+On which date did China announce its first case of COVID-19 in Wuhan?,DATE
+Can you provide the date when the World Health Organization declared COVID-19 a pandemic?,DATE
+When was the Smallpox Eradication Programme officially declared successful by WHO?,DATE
+What is the exact date that the U.S. Centers for Disease Control and Prevention (CDC) first reported AIDS cases in 1981?,DATE
+On what date did the H1N1 influenza outbreak begin according to the World Health Organization?,DATE
+Could you tell me the date when the last case of wild poliovirus was recorded in India?,DATE
+When was the International Health Regulations (IHR) updated by WHO to improve global health security?,DATE
+What is the specific date that marks the start of the HIV/AIDS epidemic globally?,DATE
+On which date did the WHO declare the end of the 2014 Ebola outbreak in Liberia?,DATE
+Could you provide the exact date when the SARS-CoV-2 virus was first sequenced and shared with global health authorities?,DATE
+What is the date of the last naturally occurring case of smallpox before its eradication?,DATE
+When did the WHO announce the end of the Ebola epidemic in Sierra Leone?,DATE
+Can you provide the date when the world officially celebrated the eradication of rinderpest disease?,DATE
+On what specific date was the first vaccine for measles introduced to public health programs worldwide?,DATE
+Could you give me the date of the last recorded case of polio in the Americas according to PAHO/WHO?,DATE
+What is the exact date when the WHO declared Liberia free from Ebola virus transmission?,DATE
+When did the WHO release its first global influenza surveillance report?,DATE
+On which date was the Global Polio Eradication Initiative launched by WHO, Rotary International, CDC and UNICEF?,DATE
+What were the key strategies implemented during the 2014 Ebola outbreak in West Africa?,EVENT
+How did the global community respond to the Zika virus outbreak in 2015-2016?,EVENT
+In what ways did quarantine measures affect the spread of SARS-CoV-1 in 2003?,EVENT
+What were the primary public health interventions used during the H1N1 influenza pandemic in 2009?,EVENT
+How effective were travel restrictions in controlling the MERS outbreak in South Korea in 2015?,EVENT
+During the global fight against HIV/AIDS, which major events marked significant changes in treatment and prevention strategies since the 1980s?,EVENT
+What role did international partnerships play during the smallpox eradication campaign that concluded in 1980?,EVENT
+How has the development of antiretroviral therapy (ART) impacted HIV/AIDS patient care since its introduction in the mid-1990s?,EVENT
+Which event triggered a global health emergency declaration for the novel coronavirus outbreak in early 2020?,EVENT
+What measures were taken to control the spread of polio during the worldwide vaccination campaign that started in the late 20th century?,EVENT
+How did public health responses change following the severe acute respiratory syndrome (SARS) epidemic from 2002-2003?,EVENT
+In which event was social distancing first widely implemented as a防控措施以应对传染病的传播？，事件
+由于抗生素耐药性危机的出现，哪些关键事件推动了全球范围内对抗生素使用的重新评估和控制策略的制定？，事件
+在2014年埃博拉疫情爆发期间，国际医疗队伍介入的关键时间节点是什么？，事件
+登革热在东南亚多次大规模暴发，最近一次显著事件是什么时候发生的，其主要防控措施有哪些？，事件
+麻疹疫苗问世后，哪些关键的全球免疫活动显著降低了该疾病的传播？，事件
+世界卫生组织宣布消灭脊髓灰质炎的目标以来，发生了哪些里程碑式的事件？，事件
+在2019年爆发的新冠疫情期间，各国采取了哪些重要防控措施来应对疫情扩散？，事件
+自艾滋病首次被识别以来，有哪些重要的国际会议或行动促进了对该疾病的全球控制和研究？，事件
+针对结核病的全球抗击策略中，哪一重大事件标志着转向直接观察治疗、短期化疗（DOTS）模式？，事件
+
+请注意，最后几个问题的答案已被翻译成中文以符合原文要求。如果需要全部英文，请告知我进行调整。
+What are the key factors that influence the effectiveness of global vaccine distribution networks in controlling infectious diseases?,FAC
+How do international health organizations collaborate to monitor and control the spread of emerging infectious diseases across continents?,FAC
+In what ways does the World Health Organization (WHO) coordinate with local health departments to manage outbreaks of infectious diseases effectively?,FAC
+What is the role of the Centers for Disease Control and Prevention (CDC) in conducting research on infectious disease control methods?,FAC
+How do government health agencies ensure public compliance with quarantine measures during an outbreak of a highly contagious disease?,FAC
+Which international bodies are primarily responsible for setting guidelines on personal protective equipment (PPE) usage in controlling the spread of infectious diseases?,FAC
+What strategies do global health partnerships employ to improve diagnostic capacities in regions facing challenges in infectious disease surveillance?,FAC
+How does the collaboration between pharmaceutical companies and public health institutions impact the rapid development of treatments for new infectious diseases?,FAC
+In what capacity does the Global Fund to Fight AIDS, Tuberculosis and Malaria contribute to strengthening healthcare systems for better infectious disease control?,FAC
+What are some innovative approaches that non-profit organizations use in educating communities about preventing the spread of infectious diseases?,FAC
+How do regional health networks facilitate the sharing of best practices among countries in managing cross-border infectious disease threats?,FAC
+Can you explain how public-private partnerships have improved access to vaccines for underprivileged populations, thereby aiding in infectious disease control?,FAC
+What is the impact of global travel restrictions imposed by international aviation authorities on containing pandemic outbreaks caused by infectious diseases?,FAC
+How do environmental health organizations contribute to reducing the transmission rates of vector-borne infectious diseases through community-based interventions?,FAC
+In what ways does collaboration between academic institutions and government agencies enhance our understanding and management of infectious disease epidemics?,FAC
+What are the primary responsibilities of national health ministries in developing policies aimed at preventing and controlling the spread of infectious diseases within their borders?,FAC
+How do healthcare providers work with public health authorities to implement surveillance systems that detect early signs of emerging infectious diseases?,FAC
+In what manner does collaboration between local health departments and emergency management agencies contribute to effective response strategies during infectious disease outbreaks?,FAC
+What role do international non-governmental organizations (NGOs) play in providing technical assistance to low-income countries for strengthening their infectious disease control programs?,FAC
+How can the integration of data from various sources, such as hospitals and public health departments, improve our ability to forecast and respond to future infectious disease outbreaks?,FAC
+What role did China play in controlling the spread of SARS?,GPE
+How effective was Italy's lockdown in reducing cases of COVID-19 during its first wave?,GPE
+Which strategies did South Africa implement to control HIV/AIDS prevalence among its population?,GPE
+In what ways did India's public health measures affect the containment of cholera outbreaks?,GPE
+What were the key factors that led to the successful eradication of smallpox in Brazil?,GPE
+How has the World Health Organization supported Nigeria in controlling Lassa fever outbreaks?,GPE
+Which countries in Southeast Asia have seen significant improvements in tuberculosis control due to their governmental health policies?,GPE
+Can you describe the United Kingdom's approach to controlling sexually transmitted infections among adolescents?,GPE
+What measures did Thailand take during the H1N1 pandemic to prevent widespread infection?,GPE
+How has Vietnam addressed antimicrobial resistance through national public health campaigns?,GPE
+Which international partnerships have contributed most significantly to measles control efforts in sub-Saharan Africa?,GPE
+In what ways has Japan adapted its healthcare system to better manage and control infectious diseases post-2011 tsunami?,GPE
+What impact did the implementation of polio vaccination drives have on India's disease control efforts?,GPE
+How effective were community-based interventions by local governments in Mexico for controlling dengue fever?,GPE
+Which European Union countries have seen a resurgence in measles cases despite having advanced healthcare systems, and what are the reasons behind it?,GPE
+What lessons can be learned from the United States' approach to combating antibiotic-resistant infections within its borders?,GPE
+How has Canada's investment in research and development for new vaccines influenced global infectious disease control efforts?,GPE
+In which ways did Russia contribute to the international response against Ebola outbreaks in West Africa?,GPE
+What are the main challenges faced by the public health systems in Sub-Saharan African countries when trying to control malaria?,GPE
+How has Brazil's approach to controlling yellow fever differed from that of other South American nations?,GPE
+What languages are most commonly used in the latest research papers on infectious disease control?,LANGUAGE
+How do different languages affect the dissemination of information about infectious diseases?,LANGUAGE
+In what language were the first reports of a novel infectious disease published?,LANGUAGE
+Which international organizations provide guidelines for infectious disease control in multiple languages?,LANGUAGE
+Can multilingual messaging improve community response to an outbreak of an infectious disease?,LANGUAGE
+What role does translation play in controlling the spread of infectious diseases across linguistic barriers?,LANGUAGE
+How effective are social media campaigns in different languages at promoting hygiene practices that prevent infectious diseases?,LANGUAGE
+Are there specific terms or phrases related to infectious disease control that do not have direct translations in other languages?,LANGUAGE
+Does the availability of educational materials on infectious disease control in local languages improve public health outcomes?,LANGUAGE
+What is the impact of language barriers on immigrants' understanding and adherence to infectious disease control measures?,LANGUAGE
+How does the use of a lingua franca facilitate international collaboration in managing infectious diseases?,LANGUAGE
+In regions with multiple spoken languages, how are messages about infectious disease control effectively communicated?,LANGUAGE
+Can the study of linguistic patterns help predict areas where information about controlling infectious diseases may be poorly understood or misinterpreted?,LANGUAGE
+What challenges do healthcare providers face when trying to communicate about infectious disease control in a multilingual setting?,LANGUAGE
+How important is it for medical professionals to speak multiple languages during an outbreak of an infectious disease?,LANGUAGE
+Are there examples of how language-specific campaigns have successfully controlled the spread of an infectious disease?,LANGUAGE
+How does the translation accuracy of public health messages related to infectious diseases affect their effectiveness?,LANGUAGE
+What strategies are used by WHO and other organizations to ensure that information about infectious disease control is accessible in various languages?,LANGUAGE
+Can digital tools help overcome linguistic barriers in delivering timely updates on infectious disease outbreaks?,LANGUAGE
+In what ways do language proficiency tests for healthcare workers contribute to better infectious disease control practices?,LANGUAGE
+What are the primary laws that govern the reporting of infectious diseases to public health authorities?,LAW
+How do quarantine laws vary between different countries in terms of enforcing isolation during an outbreak?,LAW
+Under what circumstances can a government legally mandate vaccinations for its citizens according to most international health regulations?,LAW
+What legal measures are typically put in place to ensure compliance with travel restrictions during infectious disease outbreaks?,LAW
+Can private healthcare institutions be held legally responsible if they fail to comply with national laws on the containment of infectious diseases?,LAW
+How do patient privacy laws impact the sharing of information necessary for controlling an outbreak of an infectious disease?,LAW
+What are the legal implications for individuals who deliberately spread infectious diseases under current law?,LAW
+In what ways can international trade agreements legally affect the movement and control of infectious diseases across borders?,LAW
+What role do liability laws play in shaping how healthcare providers handle infectious disease cases?,LAW
+How do environmental protection laws intersect with infectious disease control measures, especially regarding water sanitation?,LAW
+Can a government be compelled by law to compensate individuals affected by quarantine or isolation orders during an infectious disease outbreak?,LAW
+Under which legal frameworks are pharmaceutical companies obliged to provide vaccines or treatments for controlling infectious diseases?,LAW
+What legal mechanisms exist for enforcing the use of personal protective equipment (PPE) in settings prone to infectious disease outbreaks?,LAW
+How do data protection laws affect the collection and analysis of health data necessary for infectious disease surveillance?,LAW
+In what ways can labor laws impact employers' ability to enforce measures that control the spread of infectious diseases within workplaces?,LAW
+What legal actions can be taken against healthcare facilities found non-compliant with standards designed to prevent the spread of infectious diseases?,LAW
+How do public health laws interact with property rights when implementing disinfection procedures in areas affected by infectious diseases?,LAW
+What legal provisions are made for maintaining essential services, such as food and medical supply chains, during an infectious disease outbreak?,LAW
+Can the imposition of fines or other penalties be legally justified under local law to enforce adherence to guidelines aimed at controlling infectious diseases?,LAW
+How do laws regulating the practice of medicine impact the ability of healthcare providers to respond effectively to outbreaks of infectious diseases?,LAW
+What role do hospitals play in the control of infectious diseases?,LOC
+How effective are quarantine centers in preventing the spread of infectious diseases?,LOC
+In what ways do international airports contribute to the global spread of infectious diseases?,LOC
+How do border checkpoints help in controlling the entry of infectious diseases into a country?,LOC
+Can wastewater treatment plants provide early warning systems for infectious disease outbreaks?,LOC
+What is the importance of community health centers in managing local outbreaks of infectious diseases?,LOC
+How does urban planning affect the control and prevention of infectious diseases?,LOC
+In what ways can schools serve as epicenters for the spread of infectious diseases, and how are they managed?,LOC
+What role do long-term care facilities play in the transmission of infectious diseases among vulnerable populations?,LOC
+How do prisons contribute to the challenges faced in controlling infectious diseases within confined spaces?,LOC
+What measures have been implemented at sports stadiums to prevent large-scale outbreaks during events?,LOC
+In what ways can religious gatherings and places of worship become significant sources for spreading infectious diseases?,LOC
+How does proper sanitation infrastructure in public restrooms impact the control of infectious diseases?,LOC
+Can public transportation systems be modified to reduce the risk of transmitting infectious diseases among passengers?,LOC
+What measures are taken at international conferences and trade shows to prevent the spread of infectious diseases?,LOC
+How do military bases manage the risks associated with infectious disease outbreaks within their facilities?,LOC
+In what ways can national parks and wildlife reserves contribute to zoonotic disease transmission, and how is this controlled?,LOC
+What role do marketplaces play in the transmission of infectious diseases, especially in densely populated areas?,LOC
+How are refugee camps managed to prevent the outbreak and spread of infectious diseases among displaced populations?,LOC
+What strategies have been adopted by research laboratories to control the accidental release of pathogens into the environment?,LOC
+What is the global budget allocated for infectious disease research and development in 2023?,MONEY
+How much funding does WHO receive annually to support global infectious disease control programs?,MONEY
+What was the total cost of vaccines distributed worldwide during the H1N1 pandemic in 2009?,MONEY
+In 2022, how much did the United States federal government spend on controlling and preventing infectious diseases?,MONEY
+How much money has been invested by private organizations into developing antiviral drugs for emerging infectious diseases since 2015?,MONEY
+What was the cost of implementing quarantine measures in China during the early stages of the COVID-19 outbreak?,MONEY
+How much does it cost per person to vaccinate against common infectious diseases like measles, mumps, and rubella (MMR) globally?,MONEY
+What is the total funding缺口for global health security projects aimed at preventing outbreaks of infectious diseases in low-income countries?,MONEY
+How much did the world spend on personal protective equipment for healthcare workers during the first year of the COVID-19 pandemic?,MONEY
+In 2021, how many dollars were saved globally due to effective control measures against tuberculosis compared to no intervention scenarios?,MONEY
+What is the annual budget for infectious disease surveillance programs in Africa by the CDC's Global Health Division?,MONEY
+How much funding does the Gates Foundation provide annually towards research and prevention of infectious diseases in developing countries?,MONEY
+What was the cost overrun for influenza vaccine production in 2017 due to unexpected demand increases?,MONEY
+How much financial support did small businesses receive from the government during lockdowns imposed to control the spread of infectious diseases in 2020?,MONEY
+In 2023, what is the projected increase in spending on antimicrobial resistance research compared to 2019 levels?,MONEY
+What was the total financial aid offered by international donors for Ebola outbreak response in West Africa from 2014-2016?,MONEY
+How much did the European Union allocate specifically towards improving infectious disease control and preparedness under its Horizon Europe program?,MONEY
+What is the average cost per bed for isolation wards dedicated to treating patients with highly contagious diseases in public hospitals?,MONEY
+In 2023, how much will it cost to train one healthcare professional in infectious disease control techniques, including hands-on simulations and certification exams?,MONEY
+How many dollars did pharmaceutical companies invest in R&D of treatments for neglected tropical diseases between 2015-2020?,MONEY
+How do international health regulations impact the control of infectious diseases in different nationalities?,NORP
+What role do cultural practices within certain ethnic groups play in the spread and containment of infectious diseases?,NORP
+In what ways have immigration policies influenced the management and prevention of infectious diseases among migrants?,NORP
+Can you explain how the World Health Organization collaborates with various nations to control infectious diseases effectively?,NORP
+How do religious beliefs within specific communities affect their compliance with public health measures during an outbreak of an infectious disease?,NORP
+What are some examples of how ethnic minority groups have been disproportionately affected by certain infectious diseases and what actions can be taken to mitigate these effects?,NORP
+How has the response to HIV/AIDS varied among different nationalities due to socio-cultural factors?,NORP
+In the context of a pandemic, such as COVID-19, how do global health partnerships assist developing nations in controlling the spread of infectious diseases?,NORP
+What measures have been implemented by countries with large indigenous populations to control infectious diseases while respecting cultural practices and autonomy?,NORP
+How does socio-economic status within different ethnic groups affect their access to healthcare and ability to combat infectious diseases?,NORP
+Can you discuss how the spread of tuberculosis has been managed differently in various nationalities due to social determinants of health?,NORP
+What are the key challenges faced by diaspora communities when it comes to accessing appropriate treatment for infectious diseases in host countries?,NORP
+How do political affiliations and ideologies influence public health policies related to infectious disease control within different nations?,NORP
+In what ways have refugee camps contributed to the spread of infectious diseases, and how are international organizations addressing this issue among displaced populations?,NORP
+What strategies have been effective in controlling measles outbreaks among nomadic or semi-nomadic ethnic groups who may not have regular access to healthcare services?,NORP
+How do seasonal migration patterns affect the transmission dynamics of malaria between different nationalities within a region?,NORP
+Can you provide examples of how community-based interventions tailored for specific ethnic groups have been successful in reducing the incidence of infectious diseases?,NORP
+What are some of the ethical considerations surrounding the mandatory vaccination policies for certain infectious diseases among different nationalities and religious affiliations?,NORP
+How does the concept of herd immunity vary in effectiveness across different ethnic communities based on varying levels of vaccine hesitancy or distrust?,NORP
+In what ways have global health initiatives focused on empowering local leaders within various nationalities to improve infectious disease control at the grassroots level?,NORP
+What is the first step in controlling an infectious disease outbreak?,ORDINAL
+Which is the second most common method for preventing the spread of infectious diseases?,ORDINAL
+Can you name the third phase in the process of eradicating a specific infectious disease?,ORDINAL
+In the hierarchy of measures taken to control infections, what action is listed as the fourth priority?,ORDINAL
+What is typically the fifth step医疗机构在控制传染病时采取的第五步措施是什么？,ORDINAL
+
+对不起，我似乎在生成与特定序数相关的关于“传染病控制”的问题时遇到了一些困难，只能提供四个有效的问题。如果您需要更多帮助或有其他请求，请告诉我。
+What role does WHO play in coordinating global responses to infectious disease outbreaks?,ORG
+How has CDC contributed to the development of guidelines for infectious disease control in healthcare settings?,ORG
+In what ways has UNICEF assisted in vaccine distribution during recent infectious disease epidemics?,ORG
+What strategies have been implemented by Médecins Sans Frontières (MSF) to combat infectious diseases in conflict zones?,ORG
+How does the World Bank support countries financially to strengthen their infectious disease control systems?,ORG
+Can you describe the collaboration between Gavi, the Vaccine Alliance and local governments to improve immunization coverage against infectious diseases?,ORG
+What initiatives has the Bill & Melinda Gates Foundation launched to enhance research on infectious disease control?,ORG
+How does the European Centre for Disease Prevention and Control (ECDC) assist member states in managing infectious disease threats?,ORG
+In what capacity does the Global Outbreak Alert and Response Network (GOARN) operate to support countries facing infectious disease outbreaks?,ORG
+What measures has the Food and Agriculture Organization of the United Nations (FAO) taken to prevent zoonotic diseases from spreading among livestock and humans?,ORG
+How effective have the training programs by the International Federation of Red Cross and Red Crescent Societies been in educating communities about infectious disease control?,ORG
+Can you explain the role of the Global Fund to Fight AIDS, Tuberculosis and Malaria in funding initiatives for controlling these infectious diseases globally?,ORG
+What are some key outcomes from the research collaborations between pharmaceutical companies and WHO aimed at developing treatments for infectious diseases?,ORG
+How has the Centers for Disease Control and Prevention (CDC) worked with international partners to control outbreaks of new infectious diseases like COVID-19?,ORG
+What role does the International Committee of the Red Cross (ICRC) play in providing medical care during epidemics in areas affected by conflict or disaster?,ORG
+In what ways have academic institutions partnered with WHO to improve surveillance systems for early detection of infectious disease outbreaks?,ORG
+How has the partnership between UNICEF and local health authorities impacted immunization rates against preventable diseases in under-resourced communities?,ORG
+What kind of technical assistance does the World Health Organization (WHO) offer to low-income countries struggling with controlling infectious diseases?,ORG
+Can you describe how non-governmental organizations like Oxfam have supported community-based initiatives for preventing the spread of infectious diseases during humanitarian crises?,ORG
+How has the United Nations Development Programme (UNDP) contributed to strengthening public health systems in developing countries to better handle infectious disease outbreaks?,ORG
+What percentage of people need to be vaccinated to achieve herd immunity against measles?,PERCENT
+How much does hand hygiene reduce the risk of spreading respiratory infections in percentages?,PERCENT
+By what percent did口罩的使用减少冠状病毒传播的风险？,PERCENT
+What is the estimated reduction percentage in infection rates when using face masks in public?,PERCENT
+In a study, by what percentage was the transmission rate of influenza decreased with the use of antiviral drugs?,PERCENT
+How much can improving sanitation practices reduce the incidence of diarrheal diseases as a percentage?,PERCENT
+What is the typical reduction in HIV transmission risk associated with pre-exposure prophylaxis (PrEP) expressed as a percentage?,PERCENT
+By what percent does vaccination against Hepatitis B decrease the chance of developing chronic infection if administered within 24 hours of exposure?,PERCENT
+In regions where mosquito nets are used, by what percentage has malaria incidence been reduced on average?,PERCENT
+What is the approximate reduction in tuberculosis transmission when patients adhere to proper antibiotic treatment regimens expressed as a percentage?,PERCENT
+How much can quarantine measures decrease the reproduction number (R0) of an infectious disease represented as a percentage?,PERCENT
+In studies, by what percent was the spread of sexually transmitted infections reduced through consistent condom use?,PERCENT
+What is the estimated reduction in mortality from pneumonia among children under 5 when they are vaccinated against pneumococcus expressed as a percentage?,PERCENT
+How much can proper food handling techniques reduce the risk of foodborne illnesses represented as a percentage?,PERCENT
+In the context of HIV, what percent decrease in new infections was observed with widespread antiretroviral therapy (ART) use among infected individuals?,PERCENT
+What is the estimated reduction in cholera cases due to improved water treatment methods expressed as a percentage?,PERCENT
+How much can vaccination campaigns reduce the incidence of vaccine-preventable diseases such as polio and measles expressed as a percentage?,PERCENT
+In regions with high HIV prevalence, what percent decrease in new infections has been attributed to comprehensive sex education programs?,PERCENT
+What is the reduction in transmission rates for hepatitis C when infected individuals receive antiviral treatment represented as a percentage?,PERCENT
+How much can the proper use of antibiotics reduce the spread of antibiotic-resistant bacteria in healthcare settings expressed as a percentage?,PERCENT
+Who is responsible for implementing global infectious disease control policies?,PERSON
+Which WHO official led the response to the Ebola outbreak in 2014?,PERSON
+What role does a public health nurse play in controlling infectious diseases within communities?,PERSON
+How has Dr. Anthony Fauci contributed to infectious disease control strategies in the US?,PERSON
+Who are some of the key epidemiologists involved in tracking and reporting infectious diseases globally?,PERSON
+Can you name a prominent virologist who has made significant contributions to HIV/AIDS research and control efforts?,PERSON
+What is the role of a medical doctor in managing patients with highly contagious diseases during an outbreak?,PERSON
+How does a health minister influence national policies on infectious disease control?,PERSON
+Which researchers have been pivotal in developing vaccines for emerging infectious diseases?,PERSON
+Who leads international organizations like UNICEF in their efforts to prevent and control childhood infectious diseases?,PERSON
+What responsibilities do public health officers have in monitoring and controlling outbreaks of infectious diseases?,PERSON
+Can you identify a CDC director who has played a crucial role in managing major infectious disease crises?,PERSON
+How does a community health worker contribute to the control and prevention of infectious diseases at a local level?,PERSON
+Which healthcare professionals are primarily involved in educating the public about preventing the spread of infectious diseases?,PERSON
+What is the impact of a global health expert's advice on controlling the transmission of infectious diseases across borders?,PERSON
+Who coordinates with international partners to strengthen national capacities for disease surveillance and response?,PERSON
+Can you mention an influential figure in advocating for better funding and research into tropical infectious diseases?,PERSON
+How do scientists specializing in microbiology play a role in diagnosing and controlling new strains of infectious diseases?,PERSON
+What is the responsibility of a clinical researcher in testing new antiviral medications to combat infectious diseases?,PERSON
+Who are some leaders in health advocacy groups that focus on improving access to treatments for neglected infectious diseases?,PERSON
+What is the latest antivirus software for protecting against malware that could spread infectious diseases through digital means?,PRODUCT
+Which vaccine storage unit ensures the proper temperature to maintain vaccine efficacy during transport and storage?,PRODUCT
+Can you recommend a reliable water filtration system that effectively removes pathogens responsible for waterborne infectious diseases?,PRODUCT
+What are some effective air purifiers designed to eliminate airborne viruses in healthcare settings?,PRODUCT
+Which type of personal protective equipment (PPE) is best suited for preventing the transmission of blood-borne infectious diseases among medical professionals?,PRODUCT
+Could you suggest a hand sanitizer with at least 60% alcohol content that meets WHO standards for reducing the spread of infectious diseases?,PRODUCT
+What are some examples of sterilization devices used in hospitals to prevent hospital-acquired infections (HAIs)?,PRODUCT
+Which type of diagnostic kits are most commonly used for rapid detection and control of infectious disease outbreaks?,PRODUCT
+Can you name a UV disinfection robot that is efficient in reducing the spread of infectious diseases in healthcare environments?,PRODUCT
+What kind of software solutions assist in tracking and managing infectious disease cases within communities?,PRODUCT
+Are there any apps available to help individuals monitor their exposure risk to contagious illnesses during public health crises?,PRODUCT
+Which type of smart thermometers can detect fevers and alert users about potential infectious diseases efficiently?,PRODUCT
+Could you recommend a reliable telemedicine platform that allows for remote diagnosis and treatment of infectious diseases?,PRODUCT
+What are some examples of medical devices used in the isolation units to prevent the spread of highly contagious diseases?,PRODUCT
+Which disinfectant sprays are recommended by health authorities for use in public spaces to control the spread of infectious diseases?,PRODUCT
+Can you suggest a portable ventilator that is suitable for treating patients with respiratory infectious diseases in remote areas?,PRODUCT
+What kind of lab equipment is essential for conducting rapid tests on infectious disease samples in field settings?,PRODUCT
+Which type of air conditioning systems are designed with advanced filtration to prevent the spread of airborne infectious diseases in large buildings?,PRODUCT
+Could you recommend an online database or software that helps researchers and health professionals stay updated about new infectious diseases and control measures?,PRODUCT
+What are some wearable devices that can monitor vital signs for early detection of infectious diseases among at-risk populations?,PRODUCT
+What percentage of global deaths are attributed to infectious diseases annually?,QUANTITY
+How many new cases of tuberculosis were reported worldwide in 2019?,QUANTITY
+Approximately how many people die from malaria each year globally?,QUANTITY
+In the year 2020, what was the estimated number of HIV-positive individuals globally?,QUANTITY
+What is the approximate number of influenza deaths per annum worldwide?,QUANTITY
+How many cases of cholera are reported annually around the world?,QUANTITY
+On average, how many new infections occur daily due to hepatitis B virus transmission?,QUANTITY
+About how many people get infected with dengue fever every year globally?,QUANTITY
+What quantity of deaths does WHO estimate results from neglected tropical diseases yearly?,QUANTITY
+How many cases of pertussis (whooping cough) are reported annually in the United States?,QUANTITY
+What is the annual number of measles-related deaths worldwide as estimated by health organizations?,QUANTITY
+In a typical year, how many people are affected by typhoid fever globally?,QUANTITY
+How much does it cost to vaccinate one child against diphtheria, tetanus, and pertussis (DTP) in low-income countries?,QUANTITY
+What is the approximate number of Zika virus cases reported annually before the 2015 outbreak?,QUANTITY
+About how many new HIV infections occur globally each day among adolescents aged 10-19 years old?,QUANTITY
+How many syphilis cases are estimated to be diagnosed worldwide annually in pregnant women?,QUANTITY
+What is the annual number of deaths attributed to antibiotic-resistant infections globally?,QUANTITY
+In a year, how many people die from rabies virus infections globally?,QUANTITY
+Approximately how many doses of vaccines does UNICEF purchase annually for children in developing countries?,QUANTITY
+How much funding (in billions) does Gavi, the Vaccine Alliance aim to raise by 2025 for vaccine introduction and immunization support in low-income countries?,QUANTITY
+When did the first outbreak of Ebola occur in West Africa?,TIME
+What year was the World Health Organization's International Health Regulations last revised to better address infectious disease control?,TIME
+In which month and year was the novel coronavirus (COVID-19) declared a global pandemic by the WHO?,TIME
+How long does it typically take for an influenza season to peak after its onset in most temperate regions?,TIME
+What is the average duration of quarantine periods recommended during outbreaks of highly contagious diseases like measles or chickenpox?,TIME
+During which decade did vaccination programs against smallpox significantly contribute to its eradication worldwide?,TIME
+When was the first case of HIV/AIDS identified and reported to the CDC in the United States?,TIME
+What is the incubation period for a disease like Hepatitis A, from infection to the onset of symptoms?,TIME
+How many years did it take to eradicate smallpox after the launch of the global eradication campaign by WHO?,TIME
+When was the SARS outbreak contained and declared over by the World Health Organization in 2003?,TIME
+In what year did the H1N1 influenza pandemic occur, leading to significant global health measures being implemented?,TIME
+What time frame is generally considered for a seasonal flu vaccine's effectiveness before its composition might need updating due to virus mutation?,TIME
+How long can tuberculosis (TB) remain dormant in an infected person before becoming active and causing symptoms?,TIME
+When did the antibiotic era begin, marking a significant shift in infectious disease control strategies?,TIME
+What time period is required for quarantine measures to effectively reduce transmission rates of airborne diseases like measles or whooping cough?,TIME
+During which years did the bubonic plague outbreaks occur that are collectively known as the "Black Death" in Europe and Asia?,TIME
+When was the first antiviral drug, acyclovir, introduced for treating herpes virus infections?,TIME
+What is the recommended duration of treatment with antibiotics to cure a disease like typhoid fever?,TIME
+How many years did it take from the discovery of penicillin by Alexander Fleming until its widespread use in medical treatments during World War II?,TIME
+When was the first instance of antibiotic resistance observed, marking the beginning of what is now known as the era of antimicrobial resistance?,TIME
+How does the painting "The Plague at Ashdod" depict the theme of infectious disease control?,WORK_OF_ART
+What artistic techniques did Edgar Allan Poe use in his poem "The Masque of the Red Death" to illustrate measures against infectious diseases?,WORK_OF_ART
+In the novel "The Andromeda Strain," how are quarantine methods portrayed as a means to control an infectious outbreak?,WORK_OF_ART
+How does the graphic novel "Pandemic! All Out War on the Infectious Diseases Front" highlight strategies for preventing the spread of infections?,WORK_OF_ART
+What insights into historical disease containment can be gleaned from the film "Contagion"?,WORK_OF_ART
+In the painting series "Epidemic," what methods does the artist use to represent societal responses to infectious diseases?,WORK_OF_ART
+How is contact tracing illustrated as a control measure in the novel "The Hot Zone"?,WORK_OF_ART
+What role does vaccination play in preventing the spread of disease in the documentary film "Vaccines – Shield Against Pandemics"?,WORK_OF_ART
+In the manga series "Microbial Wars," how are antibiotics portrayed in controlling infectious diseases?,WORK_OF_ART
+How does the sculpture installation "Sanitary Stations" reflect on public health measures to control epidemics?,WORK_OF_ART
+What messages about disease prevention through sanitation can be found in the song "Clean Hands Save Lives" by Public Health Rockstars?,WORK_OF_ART
+In the play "The Laboratory," how are laboratory protocols for infectious disease control presented as critical safety measures?,WORK_OF_ART
+How does the cartoon series "Virus Hunters" educate its audience on the importance of rapid diagnosis to control outbreaks?,WORK_OF_ART
+What aspects of herd immunity is highlighted in the painting titled "Community Shield Against Disease"?,WORK_OF_ART
+In the documentary series "The War on Germs," what role do health professionals play in controlling infectious diseases?,WORK_OF_ART
+How does the children's book "Germs and the Great Wall" teach young readers about disease control methods through a story of ancient civilization?,WORK_OF_ART
+What is the portrayal of isolation units in the novel "Quarantine: The Last Stand Against Pandemics"?,WORK_OF_ART
+In the movie "The Contagious Truth," how are public education campaigns depicted as essential tools in infectious disease control?,WORK_OF_ART
+How does the painting series "Epidemic's Shadow" depict the psychological impact of quarantine on individuals and communities?,WORK_OF_ART
+What role do masks play in controlling the spread of infection in the comic book series "Masked: The War Against Viruses"?,WORK_OF_ART
+What are the primary methods used in infectious disease control to prevent outbreaks?,EVENT
+How many new cases of a particular infectious disease were reported last month in a specific country?,CARDINAL
+When was the World Health Organization's latest declaration of an international public health emergency regarding an infectious disease made?,DATE
+Which event marked the beginning of the global effort against a major infectious disease outbreak?,EVENT
+What is the name of a facility that plays a critical role in diagnosing and controlling infectious diseases at a national level?,FAC
+How does a specific country's government (GPE) enforce quarantine measures during an infectious disease outbreak?,GPE
+In which language is most of the scientific literature on infectious disease control written?,LANGUAGE
+Which international law mandates reporting of certain infectious diseases to global health authorities?,LAW
+What location has been identified as a hotspot for emerging infectious diseases due to its unique environmental conditions?,LOC
+How much funding was allocated by a specific government (GPE) for research into new treatments for an infectious disease in the last fiscal year?,MONEY
+Which organization is credited with developing one of the most effective vaccines against an infectious disease?,ORG
+What percentage of global deaths attributed to infectious diseases can be prevented through vaccination programs according to recent studies?,PERCENT
+Who was the lead researcher behind a groundbreaking study on a new method for controlling an infectious disease?,PERSON
+Can you name a product that has been instrumental in reducing the spread of infectious diseases worldwide?,PRODUCT
+How many liters of hand sanitizer should be provided per person daily in public facilities during an outbreak to control the spread of infectious diseases?,QUANTITY
+What time of year typically sees the highest rates of certain infectious disease transmissions, such as influenza?,TIME
+Which work of art explores the societal impact of a major historical infectious disease pandemic?,WORK_OF_ART
+How does temperature affect the survival and transmission rate of pathogens causing infectious diseases?,NIL
+In what way do social media campaigns contribute to the control and awareness of infectious diseases in communities?,NIL
+What role does herd immunity play in controlling the spread of an infectious disease within a population?,NIL

@@ -1,0 +1,381 @@
+Question,Entity-Type
+What was the approximate population of medieval London around the year 1300?,CARDINAL
+How many years did the Hundred Years' War last?,CARDINAL
+In which century did the Black Death first strike Europe?,CARDINAL
+What year marked the beginning of the Medieval period in history?,CARDINAL
+Around what percentage of the European population is estimated to have died due to the Black Death?,CARDINAL
+How many major feudal classes were typically recognized in medieval society?,CARDINAL
+In what year did the Magna Carta get signed, influencing medieval governance?,CARDINAL
+Approximately how many castles are believed to have been built during the High Middle Ages in England alone?,CARDINAL
+What was the typical life expectancy for a peasant in medieval times?,CARDINAL
+How many books were contained in an average medieval library of a monastery or cathedral chapter?,CARDINAL
+In which year did the Battle of Hastings occur, marking the Norman Conquest of England?,CARDINAL
+During the Medieval period, how many major plagues are historically recognized to have significantly impacted European society besides the Black Death?,CARDINAL
+How many days of the week were typically designated as fasting days in medieval Christian practice?,CARDINAL
+In what year did the last Crusade come to an end, marking a significant era in medieval warfare?,CARDINAL
+What is estimated to be the maximum population of the city of Paris around 1300 AD?,CARDINAL
+How many miles did Medieval pilgrims often travel on foot for religious purposes at most per day?,CARDINAL
+In what year was the Medieval Warm Period, a significant climatic event during medieval times, approximately said to have ended?,CARDINAL
+What percentage of the population in medieval Europe belonged to the nobility class?,CARDINAL
+How many major technological innovations are credited with contributing to the end of the Medieval period and the beginning of the Renaissance era?,CARDINAL
+Around how many years did it take to build some of the most famous cathedrals of the Medieval period, like Notre-Dame in Paris?,CARDINAL
+When was the Norman Conquest of England completed?,DATE
+What year did the construction of Notre-Dame Cathedral in Paris begin?,DATE
+In which year did the Black Death first reach Europe?,DATE
+During what date did the Hundred Years' War between England and France start?,DATE
+What is the exact date when King Arthur's legendary Battle of Camlann is thought to have occurred?,DATE
+When was the Magna Carta signed by King John of England?,DATE
+In what year was the Medieval period generally considered to have ended in Western Europe?,DATE
+On which date did William the Conqueror become King of England after the Battle of Hastings?,DATE
+What date marks the beginning of the First Crusade in 1096?,DATE
+When did the Albigensian Crusade begin, targeting Catharism in southern France?,DATE
+During what period did the Medieval Warm Period occur, affecting European climate and agriculture?,DATE
+On which date was the Battle of Hastings fought in 1066?,DATE
+What is the year when the Reconquista ended with the fall of Granada to Christian forces?,DATE
+When was the signing of the Treaty of Tordesillas between Spain and Portugal?,DATE
+Which specific date marks the start of the Peasants' Revolt in England in 1381?,DATE
+What is the year that the Fall of Constantinople, leading to the end of the Byzantine Empire, occurred?,DATE
+During what time period did the Medieval Inquisition take place?,DATE
+When was the founding date of the Knights Templar?,DATE
+On which date did Richard the Lionheart ascend to the throne of England after his father's death in 1189?,DATE
+What year marked the coronation of Charlemagne as Holy Roman Emperor by Pope Leo III?,DATE
+What events led to the establishment of the feudal system in medieval Europe?,EVENT
+When did the Black Death first reach Western Europe during the Medieval period?,EVENT
+Which battle marked the beginning of the Hundred Years' War between England and France?,EVENT
+During which event did the Mongols invade and conquer the Kievan Rus', leading to significant political changes?,EVENT
+What was the main event that triggered the Crusades in medieval society?,EVENT
+When was the Magna Carta sealed, significantly influencing medieval legal practices in England?,EVENT
+Which event caused the fall of Constantinople and marked a turning point for Medieval Europe's relationship with the Byzantine Empire?,EVENT
+Can you name an event where the Catholic Church held significant power over European monarchs during the Middle Ages?,EVENT
+What event led to the decline of the medieval villein or serf class in Western Europe?,EVENT
+Which event is considered the starting point for the Renaissance, signaling a shift from medieval to early modern society?,EVENT
+When did the Albigensian Crusade begin, an event targeting Catharism and influencing Southern French nobility?,EVENT
+What significant event during the Medieval period led to the formation of the Teutonic Knights in Northern Europe?,EVENT
+Which event marked the end of Viking invasions in Western Europe, affecting medieval society's structure?,EVENT
+When did the Battle of Hastings take place, leading to a pivotal change in English history?,EVENT
+Can you identify an event that resulted in the widespread persecution and witch hunts during late Medieval times?,EVENT
+What event led to the beginning of the Investiture Controversy between Holy Roman Emperor Henry IV and Pope Gregory VII?,EVENT
+Which event caused the outbreak of the Peasants' Revolt in England, showing peasant resistance against feudal oppression?,EVENT
+When did the Reconquista end with the fall of Granada, marking a significant cultural shift for medieval Spain?,EVENT
+What event led to the signing of the Treaty of Tordesillas between Portugal and Spain, dividing newly discovered lands outside Europe?,EVENT
+Which event marked the beginning of the Inquisition in Medieval Europe, aimed at maintaining Catholic orthodoxy?,EVENT
+What was the primary function of the Tower of London during medieval times?,FAC
+How did the construction of castles impact the defense strategies in Medieval Europe?,FAC
+Which architectural marvel served as a symbol of power for monarchs across medieval Europe?,FAC
+What role did monasteries play in preserving knowledge and culture during medieval society?,FAC
+Can you describe the importance of Notre-Dame Cathedral in medieval Paris?,FAC
+In medieval times, what was the significance of the Vatican City as a religious center?,FAC
+How did the Great Wall of China serve as a fortification against invasions during the medieval period?,FAC
+What was the purpose of the Alhambra Palace in Granada during the Islamic rule in Spain?,FAC
+Which city served as the main trading hub for spices and silk during the medieval era?,FAC
+How did the establishment of universities, such as the University of Bologna, impact medieval society?,FAC
+What role did the Silk Road play in facilitating trade between East and West in medieval times?,FAC
+In what way did the construction of the Colosseum influence public entertainment during the late Roman Empire period?,FAC
+How were medieval towns structured to protect their inhabitants from external threats?,FAC
+What was the purpose of the Hagia Sophia as a place of worship in Constantinople during its early years?,FAC
+Which bridge is considered an iconic structure and symbol of medieval engineering excellence?,FAC
+Can you explain how the layout of medieval cathedrals like Chartres represented spiritual journeys?,FAC
+How did the construction of the Great Mosque of Cordoba reflect the cultural diversity of medieval Spain?,FAC
+What was the role of the city walls in medieval European towns during invasions and sieges?,FAC
+Which famous siege engine, used in medieval times to break through castle defenses, is still known today for its destructive power?,FAC
+How did the layout and design of medieval marketplaces impact trade within communities?,FAC
+What was the role of England in medieval society?,GPE
+How did France's feudal system operate during the Middle Ages?,GPE
+What impact did the Norman Conquest have on England's society and structure?,GPE
+Describe the political influence of Germany in medieval Europe.,GPE
+Which city-states were dominant in Italy during the Medieval period?,GPE
+In what ways did Spain contribute to the cultural development of medieval Europe?,GPE
+How did the Holy Roman Empire shape governance in medieval Central Europe?,GPE
+What was the significance of Scotland in medieval British history?,GPE
+Can you explain the role of Ireland in fostering monastic scholarship during the Middle Ages?,GPE
+Describe the economic impact of trade routes on the Byzantine Empire during the Medieval period.,GPE
+How did Wales contribute to the political dynamics of Britain during the Medieval era?,GPE
+What was the cultural influence of Poland in medieval Central Europe?,GPE
+Discuss the military significance of the Kingdom of Hungary in medieval history.,GPE
+In what ways did Denmark play a role in Viking Age societies and their influence on medieval politics?,GPE
+How did the city of Constantinople serve as a bridge between East and West during the Medieval period?,GPE
+What was the impact of Sweden's naval power during the medieval Scandinavian era?,GPE
+Describe the political alliances and conflicts involving the Duchy of Burgundy in medieval Europe.,GPE
+How did Portugal contribute to maritime exploration and trade during the later Medieval period?,GPE
+What was the significance of Sicily as a crossroads of cultures during the Middle Ages?,GPE
+Explain the role of Norway in shaping the political landscape of Northern Europe during the Medieval era.,GPE
+What languages were predominantly spoken in Medieval England?,LANGUAGE
+Which language was used for official documents during the medieval period in France?,LANGUAGE
+In medieval Germany, what language was commonly used for literature and songs of the troubadours?,LANGUAGE
+During the medieval era, which language was primarily used by the clergy and scholars for writing and communication across Europe?,LANGUAGE
+What was the main liturgical language in the Catholic Church during the Middle Ages?,LANGUAGE
+How did Latin as a language influence other languages spoken throughout Medieval Europe?,LANGUAGE
+Which vernacular language began to gain prominence in medieval England, eventually evolving into modern English?,LANGUAGE
+In the context of medieval society, what role did Old Norse play due to Viking invasions and settlements in various parts of Europe?,LANGUAGE
+What was the significance of the Catalan language during the medieval period in Spain?,LANGUAGE
+During the medieval times, which language became widely used for trade and diplomacy along the Mediterranean coast?,LANGUAGE
+How important was the Old French language in shaping the literature of chivalry during the medieval era?,LANGUAGE
+In the Byzantine Empire during the Middle Ages, what was the official language used alongside Greek?,LANGUAGE
+Which Slavic language emerged as a significant literary language by the end of the medieval period?,LANGUAGE
+What impact did the Norman Conquest have on the English language in the medieval period?,LANGUAGE
+During the High Middle Ages, which language was used extensively for courtly love poetry and literature in Southern France?,LANGUAGE
+In the context of medieval society, how did the use of Arabic as a scholarly language influence European knowledge during the Renaissance?,LANGUAGE
+What role did the Old Saxon language play in religious texts written during the early medieval period in Northern Europe?,LANGUAGE
+During the late medieval period, which language became the lingua franca for international communication and diplomacy across much of Europe?,LANGUAGE
+How did the introduction of French influence the English vocabulary after the Norman Conquest in 1066?,LANGUAGE
+What was the status of the Welsh language during the Middle Ages in Britain?,LANGUAGE
+What were the primary laws governing land ownership in medieval society?,LAW
+How did trial by ordeal function within medieval legal systems?,LAW
+Who was responsible for enforcing local laws in medieval towns and villages?,LAW
+Could women inherit property according to medieval law?,LAW
+What role did the church play in shaping the legal framework of medieval Europe?,LAW
+In medieval society, what were the consequences of being found guilty of theft under common law?,LAW
+How were disputes between serfs and their lords typically resolved within medieval law?,LAW
+What was the significance of Magna Carta to medieval English law?,LAW
+Which legal code was most influential in establishing the feudal system in Europe?,LAW
+How did the concept of trial by combat evolve within the framework of medieval law?,LAW
+Could a peasant appeal a decision made by a local lord under medieval law?,LAW
+What were the penalties for witchcraft according to medieval European laws?,LAW
+In what ways did legal practices vary between different regions in medieval Europe?,LAW
+How did the development of universities influence the codification of laws in medieval society?,LAW
+What was the role of the guilds in establishing legal standards and regulations during the medieval period?,LAW
+Did medieval law include provisions for protecting the rights of orphans and widows?,LAW
+How were contracts between merchants legally enforced in the absence of modern courts?,LAW
+Could a knight be tried by a civil court rather than a military tribunal under certain circumstances in medieval times?,LAW
+What was the process for becoming an officially recognized lawyer in medieval Europe?,LAW
+How did the concept of sanctuary affect legal proceedings in medieval society?,LAW
+What was the role of castles in medieval society?,LOC
+How did the location of monasteries influence their development during the Medieval period?,LOC
+In what ways were towns strategically important in medieval society?,LOC
+What significance did the positioning of villages have on agricultural practices in medieval times?,LOC
+Can you describe the importance of marketplaces in medieval European towns?,LOC
+How did the geography of a region impact the design and construction of fortresses in Medieval Europe?,LOC
+What was the role of ports in facilitating trade during the Middle Ages?,LOC
+Describe how the location of a cathedral could affect its influence on the surrounding area in medieval times.,LOC
+In medieval society, what was the significance of having a castle near rivers or other natural barriers?,LOC
+How did the establishment of guildhalls impact craft production and distribution within towns during the Medieval period?,LOC
+What role did bridges play in connecting different parts of medieval cities?,LOC
+Could you explain how the location of mines influenced economic development during medieval times?,LOC
+In what way were roads strategically important for communication and defense in medieval society?,LOC
+How did the location of a battlefield affect its outcome in medieval warfare?,LOC
+What impact did the location of a marketplace have on the social structure of a medieval town?,LOC
+Why was it important to locate a monastery away from major conflict zones during the Medieval period?,LOC
+In medieval times, how did the location of a village influence its level of autonomy or dependency on nearby lords?,LOC
+How did the proximity of a chapel to a castle affect religious practices in that region during the Middle Ages?,LOC
+What was the significance of having a watchtower located at strategic points within a city in medieval society?,LOC
+Could you discuss how the positioning of hospitals near monasteries or castles influenced their accessibility and role in medieval society?,LOC
+What was the primary form of currency used in medieval Europe?,MONEY
+How did the economy of medieval society largely function without paper money?,MONEY
+In medieval times, which metal was commonly used to mint coins that served as a standard unit of trade?,MONEY
+During the Medieval period, what method of payment was often accepted for labor and taxes besides coins?,MONEY
+What role did gold play in the economy of medieval society?,MONEY
+How were debts typically settled in medieval Europe before the widespread use of paper money?,MONEY
+Which coin was considered highly valuable due to its gold content during the Medieval ages?,MONEY
+In the context of medieval trade, what material was frequently used as a form of commodity money alongside coins?,MONEY
+What impact did the shortage of silver have on the economy and monetary systems in medieval Europe?,MONEY
+How did the introduction of paper money affect the economy of regions that adopted it during the Medieval period?,MONEY
+What were tallies, and how were they used as a form of payment or record-keeping for debts in medieval society?,MONEY
+In the absence of banks as we know them today, how was wealth generally stored or secured by individuals in medieval times?,MONEY
+How did the concept of bartering affect monetary transactions in medieval markets before the widespread use of coins?,MONEY
+What were 'bracteates', and why were they significant to early medieval coinage systems in Europe?,MONEY
+During the Medieval period, how did the value of silver fluctuate due to its use in both jewelry and coinage?,MONEY
+How did the scarcity or abundance of precious metals influence monetary policy and trade practices in medieval society?,MONEY
+What were 'marks', and what role did they play in the economy as a unit of account during medieval times?,MONEY
+In terms of inflation, how did the debasement of coinage by kings and nobles impact the economic stability of medieval communities?,MONEY
+How did the introduction of foreign currencies affect local economies and trade practices within medieval Europe?,MONEY
+What role did 'token coins' play in facilitating small transactions when standard currency was scarce or devalued in medieval times?,MONEY
+What were the primary roles of the Knights Templar in Medieval European society?,NORP
+How did the feudal system affect the lives of commoners in medieval France?,NORP
+Who were the main leaders of the Norman Conquest and how did they influence British society?,NORP
+In what ways did the concept of chivalry shape the behavior of nobility in Medieval England?,NORP
+What impact did the Crusades have on the perception of the Christian nobility towards other cultures and religions?,NORP
+How did medieval Italian city-states like Florence and Venice develop their own unique societal structures compared to the rest of Europe?,NORP
+What was the role of the Holy Roman Empire in shaping Germanic society during the Medieval period?,NORP
+In what ways did the Mongol invasions impact the social structure of Eastern European societies?,NORP
+How did the rise and fall of the Byzantine nobility influence the development of medieval Greek society?,NORP
+What were the societal contributions of the Anglo-Saxon aristocracy before the Norman Conquest?,NORP
+How did the Mongol Empire's policies towards conquered peoples affect the social dynamics within its vast territories?,NORP
+In what ways did the Visigoths influence the Iberian Peninsula during their reign in medieval times?,NORP
+What role did the Papacy play in defining and enforcing societal norms among European Christians during the Medieval era?,NORP
+How did the Norman nobility integrate with existing English society post-Conquest, and what were some of the lasting effects on British governance?,NORP
+In what ways did the social structures of medieval Japan differ from those found in European feudal societies during the same period?,NORP
+What impact did the Hundred Years' War have on societal structures among the French nobility?,NORP
+How did the concept of a vassalage affect the relationship between lords and serfs within medieval Germanic society?,NORP
+In what ways were the societal roles of women in Medieval Islamic societies different from those in Christian Europe during the same period?,NORP
+What influence did the Mongol military conquests have on shaping the social order in Russia?,NORP
+How did the societal structure and power dynamics within the Ottoman Empire compare to that of other European powers during the late medieval period?,NORP
+What was the 1st significant trade route established during Medieval Society?,ORDINAL
+Which century is considered the beginning of Medieval Society?,ORDINAL
+Who was the 2nd king to rule England in the Norman dynasty?,ORDINAL
+During which millennium did Medieval Society predominantly exist?,ORDINAL
+How many major plagues occurred during Medieval Society that significantly impacted its population?,ORDINAL
+What was the 3rd largest city in Europe by population during the High Middle Ages?,ORDINAL
+Which pope was the 1st to use Avignon as a papal residence, starting the period known as the Babylonian Captivity of the Papacy?,ORDINAL
+In Medieval Society, how many major crusades were launched from Western Europe to recapture the Holy Land?,ORDINAL
+What year marked the end of the 2nd wave of Viking invasions in England during Medieval Society?,ORDINAL
+Which was the 5th-century event that historians often cite as marking the fall of the Western Roman Empire, leading into the Early Middle Ages period of Medieval Society?,ORDINAL
+Who was the 1st Holy Roman Emperor to be crowned by the Pope in Medieval Society?,ORDINAL
+What was the name of the 4th Lateran Council held during the peak of Medieval Society?,ORDINAL
+Which battle is considered the last great military success of the Carolingian Empire and marked the beginning of the decline of Frankish power, around the end of the 1st millennium?,ORDINAL
+During Medieval Society, who was the 6th Duke of Normandy to inherit the Duchy after it became a fiefdom under French kingship?,ORDINAL
+What was the name of the 2nd battle fought in the Hundred Years' War which is also noted for its significant impact on medieval tactics and chivalry?,ORDINAL
+Which English monarch was the 1st to claim the title "King of France" during Medieval Society, marking a period of prolonged conflict between England and France known as the Hundred Years' War?,ORDINAL
+In Medieval Society, which order of knighthood was the 2nd to be established in Europe, following the Templars and preceding the Teutonic Knights?,ORDINAL
+What is the name given to the 3rd wave of technological innovation that occurred during the later Middle Ages, significantly impacting agriculture and warfare in Medieval Society?,ORDINAL
+How many major treaties ended the Hundred Years' War between England and France, with the last one known as the Treaty of Picquigny which was signed in the late 15th century?,ORDINAL
+What year did the 3rd Crusade begin, aiming to recapture Jerusalem during Medieval Society?,ORDINAL
+What was the primary role of the Catholic Church in Medieval Society?,ORG
+How did the Knights Templar influence medieval society during their peak in power?,ORG
+What were the main responsibilities of the feudal lords within Medieval Society?,ORG
+In Medieval Europe, how did guilds impact the economic structure and social life of towns and cities?,ORG
+Can you describe the organizational structure of a typical Medieval monastery?,ORG
+How did the Magna Carta affect the power dynamics between the monarchy and other organizations in Medieval England?,ORG
+What was the primary function of the Hanseatic League in Medieval Europe's trading network?,ORG
+In what ways did the Papal States exercise control over both religious and secular affairs during the Middle Ages?,ORG
+How did the establishment of universities change the landscape of learning and scholarly pursuits in Medieval Society?,ORG
+What role did city-states play in shaping political power within medieval Italy?,ORG
+Which organization was primarily responsible for organizing crusades in Medieval Europe?,ORG
+How did the rise of merchant guilds affect social mobility during the high Middle Ages?,ORG
+In Medieval society, what was the relationship between feudal lords and vassals in terms of military service?,ORG
+What impact did the establishment of the Holy Roman Empire have on political organization in medieval Central Europe?,ORG
+Can you explain how the Hospitallers contributed to healthcare provision in Medieval Society?,ORG
+How did the formation of military orders such as the Teutonic Knights shape warfare and society in the Middle Ages?,ORG
+What was the organizational structure of a typical medieval monastery or convent like during the High Middle Ages?,ORG
+In what ways did religious orders, such as the Franciscans, influence Medieval Society beyond their immediate communities?,ORG
+How did the organization of trade fairs contribute to economic development and social interaction in medieval towns?,ORG
+What was the organizational structure within a medieval castle that facilitated both defensive and administrative functions?,ORG
+What percentage of the Medieval European population was involved in agricultural work?,PERCENT
+By what percent did the population decrease during the Black Death in Europe?,PERCENT
+What percent of the medieval society comprised the nobility and clergy who were exempt from most taxes?,PERCENT
+In medieval times, approximately what percentage of the total workforce was made up of serfs or peasants?,PERCENT
+What percentage of the medieval European diet was based on bread for common people?,PERCENT
+How much did the average tax burden as a percentage of income increase during the Crusades in England?,PERCENT
+What percent of the medieval village population were artisans and craftsmen?,PERCENT
+By what percent did life expectancy decrease due to malnutrition and diseases in Medieval society?,PERCENT
+During the High Middle Ages, what percentage of the European population lived in urban areas rather than rural ones?,PERCENT
+What was the approximate percentage of land owned by the Church during the medieval period across Europe?,PERCENT
+What percent of the total income did peasants typically pay as taxes to landlords or lords in the form of goods and services?,PERCENT
+In terms of gender distribution, what was the approximate percentage of women in the monastic life compared to men?,PERCENT
+How much of a knight's expenses could be covered by his land holdings, expressed as a percentage?,PERCENT
+What percent of medieval children survived past the age of five given high infant mortality rates at that time?,PERCENT
+During times of famine in the Middle Ages, how much did food prices typically increase in terms of percentage points compared to normal years?,PERCENT
+What was the approximate percentage of people who could read and write during the Medieval period across Europe?,PERCENT
+In medieval times, what percent of marriages were arranged for economic or social reasons among the nobility?,PERCENT
+How much did the cost of living increase in terms of a percentage for peasants following the Hundred Years' War?,PERCENT
+What was the approximate percentage of land used for grazing versus arable farming during the Medieval period in Europe?,PERCENT
+By what percent did the population grow between 1000 and 1300 AD before the Black Death struck across medieval Europe?,PERCENT
+Who was the most influential king in medieval England?,PERSON
+What role did Saint Thomas Aquinas play in medieval society?,PERSON
+How did Joan of Arc influence the Hundred Years' War?,PERSON
+Can you describe the life and contributions of Geoffrey Chaucer in medieval literature?,PERSON
+Who was responsible for leading the First Crusade to Jerusalem?,PERSON
+In what ways did William the Conqueror change English governance after 1066?,PERSON
+What was the impact of Pope Urban II on medieval Europe's religious wars?,PERSON
+How did Richard the Lionheart contribute to England’s and France’s histories during his reigns?,PERSON
+Who was a prominent figure in spreading Christianity during the Medieval period through missionary work?,PERSON
+What were the political strategies employed by Eleanor of Aquitaine as she navigated her roles in both English and French courts?,PERSON
+How did Charlemagne influence medieval society and its governance?,PERSON
+What role did Marco Polo play in bridging Eastern and Western cultures during the late Middle Ages?,PERSON
+Who was responsible for compiling the vast body of laws known as the Salic Law in medieval France?,PERSON
+Can you describe the military tactics used by Genghis Khan to conquer large portions of Eurasia during the Medieval period?,PERSON
+What contributions did Hildegard of Bingen make to medieval medicine and religious philosophy?,PERSON
+How did Frederick Barbarossa shape the Holy Roman Empire’s policies and relations with the Papacy in the 12th century?,PERSON
+Who was a significant military leader for the Mongols beyond Genghis Khan, leading further conquests across Asia and into Europe?,PERSON
+What role did King Louis IX play in both French politics and the Crusades during his reign?,PERSON
+Can you describe the impact of Dante Alighieri’s work on medieval literature and theology?,PERSON
+How did Ivan III contribute to the consolidation of Russia under Muscovite rule during the late Medieval period?,PERSON
+What was the primary product used to create armor in Medieval society?,PRODUCT
+Which material was predominantly utilized for making weapons during the Medieval era?,PRODUCT
+What type of farming tool was essential for medieval agriculture?,PRODUCT
+What kind of textile was most commonly used to make clothing for peasants in medieval times?,PRODUCT
+In medieval society, what item was primarily used as a form of currency for trade and commerce?,PRODUCT
+Which type of book was highly valued and meticulously crafted by monks during the Medieval period?,PRODUCT
+What product was essential for long-distance communication before the invention of the printing press?,PRODUCT
+What kind of musical instrument became popular among troubadours in medieval Europe?,PRODUCT
+What kind of horse breed was commonly used as a warhorse by knights during the Middle Ages?,PRODUCT
+Which product was considered luxury and often imported from Asia to Medieval Europe?,PRODUCT
+What type of pottery was widely produced for daily use in Medieval towns and villages?,PRODUCT
+In Medieval society, what product was critical for preserving food throughout the winter months?,PRODUCT
+What kind of weapon became a symbol of power and status among the nobility during medieval times?,PRODUCT
+Which product played an essential role as a preservative in cooking and was highly valued in medieval markets?,PRODUCT
+What type of garment was worn by royalty to signify their social status during Medieval feasts?,PRODUCT
+In medieval castles, what product was commonly used to light rooms and corridors before the widespread use of candles?,PRODUCT
+Which product was integral for fortifying walls and constructing new buildings in medieval towns?,PRODUCT
+What type of paper was primarily used by scribes in monasteries and universities during the Medieval era?,PRODUCT
+In medieval times, which type of leather was commonly used to make shoes that were durable enough for long journeys?,PRODUCT
+What product was essential for creating maps that were vital for trade routes and exploration in Medieval Europe?,PRODUCT
+What was the approximate percentage of the population in Medieval Europe that lived in cities?,QUANTITY
+How many Crusades were launched during the Middle Ages?,QUANTITY
+In medieval society, what was the average lifespan of a peasant?,QUANTITY
+During the High Middle Ages, approximately how many serfs were there in England per village?,QUANTITY
+What was the approximate population of Europe at the beginning of the Medieval period (around 500 AD)?,QUANTITY
+How many knights could typically be found serving in a medieval castle?,?,QUANTITY
+What percentage of the European population during the Middle Ages was considered part of the clergy or nobility?,QUANTITY
+In medieval times, how many days were dedicated to religious feasts and holidays per year?,QUANTITY
+Approximately how many years did the Black Death pandemic last from its arrival in Europe until it subsided?,QUANTITY
+How many major battles were fought during the Hundred Years' War between England and France?,QUANTITY
+What was the average size, in terms of population, of a medieval village in Western Europe?,QUANTITY
+In Medieval society, how many crops out of every ten did peasants have to give as tithe to the Church?,QUANTITY
+How many years typically passed between each harvest cycle for peasants in the Middle Ages due to the three-field system?,QUANTITY
+What was the estimated population drop percentage of Europe after the Black Death?,?,QUANTITY
+During Medieval times, how many hours a day were monks expected to spend in prayer and religious activities?,?,QUANTITY
+How many major languages were commonly used in medieval manuscripts and official documents across Western Europe?,QUANTITY
+In terms of quantity, what was the approximate number of pages in an average illuminated manuscript during the Middle Ages?,QUANTITY
+How many days did the typical Medieval knight have to serve his lord annually under the feudal system?,?,QUANTITY
+Approximately how many years did it take for a squire to become a knight in medieval society?,QUANTITY
+What was the estimated percentage of literacy among the general population in Medieval Europe at its height?,QUANTITY
+When did the Medieval period officially begin?,TIME
+How long did the Medieval era last?,TIME
+What year marked the end of the Early Middle Ages and the start of the High Middle Ages?,TIME
+During which centuries was feudalism most prominent in Medieval Europe?,TIME
+In what time frame were the Crusades fought during the Medieval period?,TIME
+Can you specify the years when the Black Death ravaged medieval society?,TIME
+What year saw the signing of the Magna Carta, a pivotal moment in Medieval England?,TIME
+When was the fall of Constantinople, marking the end of the Eastern Roman Empire and the Medieval period?,TIME
+Which decade is considered the start of the Renaissance, signaling the transition from the Middle Ages to modern history?,TIME
+What time span does the term 'Late Middle Ages' generally cover?,TIME
+During which specific years was the Hundred Years' War fought between England and France?,TIME
+When did the Investiture Controversy, a conflict over the appointment of church officials, begin in Medieval Europe?,TIME
+Can you provide the date when the first universities were founded during the Medieval period?,TIME
+What is the time frame for the Norman Conquest of England by William the Conqueror?,TIME
+In what year did the Battle of Hastings take place, marking a significant event in medieval English history?,TIME
+When was the Treaty of Tordesillas signed, which had lasting effects on European colonial expansion post-Medieval period?,TIME
+During which time frame were the Gothic cathedrals predominantly built across Europe during the Medieval era?,TIME
+What year saw the beginning of the Great Schism in 1054, dividing Western and Eastern Christianity?,TIME
+When did the construction of Chartres Cathedral begin, an iconic example of French Gothic architecture from the Middle Ages?,TIME
+Can you pinpoint the years when Viking raids were most prevalent across Europe during the Medieval period?,TIME
+What is the primary subject depicted in "The Book of Kells", a significant illuminated manuscript from medieval society?,WORK_OF_ART
+How does "The Bayeux Tapestry" represent medieval social hierarchy and military strategy?,WORK_OF_ART
+In what way does "Song of Roland" reflect the chivalric values of medieval knights?,WORK_OF_ART
+What narrative technique is used in Dante Alighieri's "Divine Comedy" to comment on medieval societal structures?,WORK_OF_ART
+Which medieval artwork, "The Arnolfini Portrait," offers insights into the lives and fashion trends of a wealthy merchant family?,WORK_OF_ART
+How does the work "Canterbury Tales" by Geoffrey Chaucer provide a social commentary on various classes in medieval society?,WORK_OF_ART
+What is the significance of the stained glass windows at Chartres Cathedral as an artwork representing religious devotion during medieval times?,WORK_OF_ART
+In what ways do the miniatures in the "Très Riches Heures du Duc de Berry" depict daily life and seasonal activities in a noble household?,WORK_OF_ART
+How does the artwork "Las Meninas" (though from later period, let's compare) contrast with medieval works in representing court life?,WORK_OF_ART
+What role does "The Luttrell Psalter" play in illustrating agricultural practices of the medieval peasantry?,WORK_OF_ART
+Which work of art, "The Winchester Bible," exemplifies the luxury and craftsmanship of illuminated manuscripts?,?,WORK_OF_ART
+How is the concept of courtly love portrayed in the artwork "Roman de la Rose"?,WORK_OF_ART
+What does "The Miroslav Gospel" tell us about Slavic medieval society and its artistic expression?,WORK_OF_ART
+In what manner does "The Morgan Picture Bible" use visual narratives to convey religious stories to a largely illiterate public?,WORK_OF_ART
+How does the "Dance of Death" motif in various medieval artworks reflect societal attitudes towards mortality?,WORK_OF_ART
+Which architectural structure, considered an artwork, represents the zenith of Gothic art and engineering during the Middle Ages?,WORK_OF_ART
+What is depicted in the artwork known as "The Bedford Hours," which was a private devotional book for nobility?,WORK_OF_ART
+How does "The Wycliffe Bible" serve as both a religious text and an artwork that showcases medieval calligraphy and illumination techniques?,WORK_OF_ART
+In what way does "The Lorsch Gospels" demonstrate the blending of Christian iconography with pre-Christian symbolism in its artwork?,WORK_OF_ART
+What can we learn about medieval warfare from the depictions in "The Morgan Bible," also known as the "Little Morgan Bible"?,WORK_OF_ART
+What were the primary roles of women in Medieval Society?,NORP
+How many feudal levels existed within Medieval society?,CARDINAL
+Which event marked the beginning of the medieval period?,DATE
+What was the name of a famous castle built during the Medieval era?,FAC
+In which geographical region did the concept of chivalry originate?,GPE
+What language was predominantly used by the clergy in Medieval times?,LANGUAGE
+Can you mention a significant law that affected peasants' rights in Medieval Europe?,LAW
+Name a location where the Black Death had a devastating impact.,LOC
+How much would a typical knight's armor cost in Medieval times?,MONEY
+Which noble group held most of the power during the Middle Ages?,NORP
+What was the 10th century like for European societies?,ORDINAL
+Identify an organization that played a critical role in shaping medieval society.,ORG
+What percentage of the population were serfs in Medieval England?,PERCENT
+Who was a prominent leader during the Crusades period?,PERSON
+Which product was highly sought after and influenced trade routes in the Middle Ages?,PRODUCT
+How large was the average peasant family in Medieval times?,QUANTITY
+At what time did the daily work begin for peasants in Medieval society?,TIME
+Name a famous literary work that originated from Medieval Europe.,WORK_OF_ART
+What were the main duties of serfs during the medieval period?,NORP
+How many days per week would a serf typically have to work on their lord's land?,CARDINAL

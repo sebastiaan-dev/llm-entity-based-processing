@@ -1,0 +1,381 @@
+Question,Entity-Type
+How many countries are there in the European Union as of 2023?,CARDINAL
+What is the approximate population of China according to the latest census?,CARDINAL
+How many landlocked countries are there in Africa?,CARDINAL
+In which year did India gain independence from British rule, becoming a free nation?,CARDINAL
+How many states make up the United States of America?,CARDINAL
+What was the total number of casualties during World War II?,CARDINAL
+Which year saw the fall of the Berlin Wall, marking a significant event in political geography?,CARDINAL
+How many members does NATO have as of 2023?,CARDINAL
+In how many time zones is Russia spread across?,CARDINAL
+What is the population density of Singapore per square kilometer according to recent data?,CARDINAL
+Which year did South Sudan gain independence, becoming Africa's newest nation?,CARDINAL
+How many provinces does Canada consist of in total?,CARDINAL
+What was the approximate number of people living under Soviet rule at its peak?,CARDINAL
+In how many countries can Arabic be considered an official language?,CARDINAL
+How many autonomous regions are recognized within China?,CARDINAL
+How many member states does the African Union comprise?,CARDINAL
+Which year did the apartheid system officially end in South Africa?,CARDINAL
+How many disputed territories exist globally, with sovereignty claims by more than one country?,CARDINAL
+What is the approximate number of people living in the Gaza Strip as per recent estimates?,CARDINAL
+In how many countries has Spanish been designated as an official language?,CARDINAL
+When was the Berlin Wall officially opened, marking a significant change in European political geography?,DATE
+What year did China enact the One-China Policy, impacting its political relations with Taiwan and other nations?,DATE
+In what year did India gain independence from British rule, altering the political geography of South Asia?,DATE
+On which date did the Soviet Union officially dissolve, leading to significant changes in global political geography?,DATE
+When was the Treaty of Tordesillas signed, dividing newly discovered lands outside Europe between Portugal and Spain?,DATE
+What is the exact date when NATO was founded as a response to rising tension during the Cold War era?,DATE
+On what date did East Germany and West Germany reunite after the fall of communism in Eastern Europe?,DATE
+When did the United Nations adopt the Universal Declaration of Human Rights, impacting global political geography?,DATE
+What year marked the establishment of ASEAN (Association of Southeast Asian Nations), influencing regional politics?,DATE
+Which date saw the signing of the Maastricht Treaty, leading to the creation of the European Union?,DATE
+When was the first-ever meeting held at the League of Nations, a precursor to today's United Nations?,DATE
+On what date did South Africa transition from apartheid rule, changing its political landscape drastically?,DATE
+What year did the Arab Spring begin, leading to significant changes in the political geography of North Africa and the Middle East?,DATE
+When was the fall of the Ottoman Empire officially declared, reshaping the map of the Middle East?,DATE
+Which date marks the independence of Bangladesh from Pakistan, altering South Asian political boundaries?,DATE
+On what date did the Suez Crisis start in 1956, impacting British and French influence over their colonies?,DATE
+When was the Yalta Conference held, which determined post-World War II borders among major Allied powers?,DATE
+What is the date of the Bandung Conference that aimed to promote Afro-Asian economic and cultural cooperation?,DATE
+On what date did the Korean War officially end with the signing of the armistice agreement between North Korea and South Korea?,DATE
+When was the Warsaw Pact, a collective defense treaty among eight communist states in Central and Eastern Europe, established by the Soviet Union?,DATE
+What were the key events leading up to the fall of the Berlin Wall?,EVENT
+How did the Arab Spring affect political boundaries in North Africa and the Middle East?,EVENT
+What triggered the dissolution of Yugoslavia into separate states?,EVENT
+Which event marked the beginning of Brexit negotiations between the UK and EU?,EVENT
+Can you describe the political implications of China's One Belt, One Road initiative on global geopolitics?,EVENT
+What events led to the partition of India in 1947?,EVENT
+How did the end of apartheid impact South Africa’s political geography?,EVENT
+Which significant event prompted Russia's annexation of Crimea in 2014?,EVENT
+What were the geopolitical consequences of the Gulf War on the Middle East's political landscape?,EVENT
+Describe the political changes that occurred due to the Velvet Revolution in Czechoslovakia.,EVENT
+How did the Tiananmen Square protests impact China’s domestic and international politics?,EVENT
+Which event is considered a catalyst for the Rwandan Genocide, affecting its political geography drastically?,EVENT
+What role did the Iran Hostage Crisis play in shaping U.S.-Iran relations?,EVENT
+In what ways have the Color Revolutions influenced the political boundaries of post-Soviet states?,EVENT
+How has the Syrian Civil War altered the region's political landscape and borders?,EVENT
+Describe the events that led to the establishment of Israel as a state.,EVENT
+What significant event triggered the unification of East and West Germany in 1990?,EVENT
+Which event directly influenced the re-establishment of Estonia, Latvia, and Lithuania’s sovereignty from Soviet rule?,EVENT
+How did the Korean War shape the political geography of the Korean Peninsula?,EVENT
+What were the key events that led to the formation of the European Union?,EVENT
+What is the capital city of France?,FAC
+Which city serves as the political center for the United Kingdom's government?,FAC
+Canberra is the capital of which country and acts as a significant FAC in its Political Geography?,FAC
+Which major city houses Brazil’s national government and is crucial to understanding its political geography?,FAC
+What city is considered the political heart of Germany?,FAC
+In Japan, which city serves as the main administrative center and is key to its political geography?,FAC
+What capital city is central to Egypt's Political Geography?,FAC
+Which city functions as both the economic and political hub of India?,FAC
+The White House is located in which FAC that is pivotal to U.S. Political Geography?,FAC
+What city acts as the seat of power for Canada’s federal government?,FAC
+In Russia, which city serves not only as its capital but also a key FAC reflecting its vast political geography?,FAC
+Which city is recognized as the central administrative hub in Mexico's Political Geography?,FAC
+Can you name the capital city that represents the heart of Turkey's political landscape and serves as a major FAC?,FAC
+What city functions as the political nerve center for Italy, playing an essential role in its political geography?,FAC
+Which is the primary administrative city of Spain that significantly influences its Political Geography?,FAC
+In Pakistan, which city plays a key role as the seat of government and acts as a significant FAC in its Political Geography?,FAC
+What city serves as both the capital and an important FAC in Poland's political geography?,FAC
+Which is the central administrative city that holds great significance in Thailand’s Political Geography?,FAC
+In South Africa, which city functions not only as the seat of government but also a significant FAC?,FAC
+Which city is the political focal point for Argentina and serves as an important FAC in its Political Geography?,FAC
+What is the capital of France?,GPE
+Which country is known for having the longest coastline in the world?,GPE
+How many countries share a border with Russia?,GPE
+What is the primary language spoken in Brazil?,GPE
+Can you name two GPEs that are landlocked by China?,GPE
+Which GPE has the largest population as of 2023?,GPE
+In which GPE would you find the Great Barrier Reef?,GPE
+What was East Pakistan renamed to after it gained independence in 1971?,GPE
+How many sovereign states are recognized in Europe today?,GPE
+Which GPE is both a city and an independent country?,GPE
+What is the southernmost point of South America called?,GPE
+Which GPE has the highest GDP per capita in the world according to the IMF?,GPE
+Can you name one of the five permanent members of the UN Security Council that is not located on the European continent?,GPE
+How many countries are part of the Commonwealth of Nations as of 2023?,GPE
+Which GPE was formed by the merger of two former Yugoslav republics in 2017?,GPE
+What is the name of the region that includes both East Timor and Papua New Guinea?,GPE
+How many countries are members of the African Union as of 2023?,GPE
+Which GPE became a member of the European Union on January 1, 2007?,GPE
+What is the most densely populated GPE in the world by population density?,GPE
+Can you name the GPE that has sovereignty over both the Falkland Islands and South Georgia and the South Sandwich Islands?,GPE
+What language is predominantly spoken in the region of Quebec within Canada?,LANGUAGE
+Which official language is used in most political communications in India?,LANGUAGE
+In which language are political debates typically held in Switzerland to accommodate its multilingual environment?,LANGUAGE
+What language serves as an official and widely used medium for political discourse in Belgium?,LANGUAGE
+How does the use of Welsh as a political language impact governance in Wales?,LANGUAGE
+Which language is essential for engaging with the government and political processes in South Africa due to its diversity?,LANGUAGE
+In what language are most political documents written in Mexico?,LANGUAGE
+What role does Arabic play in the political geography of Jordan?,LANGUAGE
+How significant is the use of Dutch in Flemish politics compared to French?,LANGUAGE
+Which language is primarily used for broadcasting state political news in Pakistan?,LANGUAGE
+What language do politicians predominantly use when addressing the public in Catalonia, Spain?,LANGUAGE
+In the context of Sri Lanka's political geography, which language is predominantly spoken at political gatherings?,LANGUAGE
+How does the use of Cantonese influence political discussions in Hong Kong compared to Mandarin?,LANGUAGE
+Which language has been a contentious issue due to its use in political proceedings in Kashmir?,LANGUAGE
+What language is used for legal and governmental documents in Finland alongside Finnish?,LANGUAGE
+In what language are most parliamentary debates conducted in Israel besides Hebrew?,LANGUAGE
+How does the prevalence of Tagalog as an official language affect political campaigns in the Philippines?,LANGUAGE
+Which language is primarily used in political forums in Catalonia to promote regional identity?,LANGUAGE
+What language do politicians typically use when campaigning in regions of Italy where Italian isn't the first language?,LANGUAGE
+In what language are most public announcements made by government officials in Cameroon?,LANGUAGE
+What international laws govern maritime boundaries between countries?,LAW
+How does the law of the sea influence political geography?,LAW
+Can you explain how border treaties are established under international law?,LAW
+What role does international law play in resolving territorial disputes?,LAW
+How do domestic laws impact a country's geopolitical stance towards its neighbors?,LAW
+Which legal mechanisms are used to resolve conflicts over disputed territories?,LAW
+In what ways can international law affect the political geography of states through arbitration decisions?,LAW
+What is the significance of the Montevideo Convention in defining statehood from a legal perspective?,LAW
+How does the Vienna Convention on Diplomatic Relations influence the diplomatic relations between countries and their geographical positioning?,LAW
+Can you describe how international environmental laws affect territorial claims over natural resources?,LAW
+How are sovereignty disputes typically addressed under international law?,LAW
+What legal principles determine whether a territory is considered part of a state's sovereign area?,LAW
+In what ways do human rights laws intersect with political geography, particularly in the context of border controls and migration policies?,LAW
+How does the concept of 'terra nullius' interact with modern international law regarding territorial claims?,LAW
+What legal tools are available for indigenous peoples to reclaim lands from which they have been displaced by state actions?,LAW
+Can you explain how the principle of 'uti possidetis juris' is used in determining borders under international law post-conflict or decolonization?,LAW
+How do laws governing airspace sovereignty impact a country's political geography and international relations?,LAW
+What legal measures can be taken to address illegal encroachments on state territories by non-state actors such as insurgent groups?,LAW
+In what ways does international trade law influence the political geography of economic zones and special trading areas?,LAW
+How do laws concerning cyber sovereignty shape a nation's geopolitical stance in the digital age?,LAW
+What is the capital city of Brazil?,LOC
+Which country does the Eiffel Tower represent as a symbol?,LOC
+Name the body of water that separates Europe from Africa.,LOC
+Where are the Great Lakes located in North America?,LOC
+What desert covers much of North Africa and stretches into Western Asia?,LOC
+Which mountain range forms a natural boundary between Asia and Europe?,LOC
+Can you name the river that flows through Egypt and is crucial to its civilization?,LOC
+Identify the peninsula that is home to Saudi Arabia, Yemen, and Oman.,LOC
+Where are the Andes Mountains located?,LOC
+What is the largest island in the Mediterranean Sea?,LOC
+Which sea lies between the Arabian Peninsula and Iran?,LOC
+Name the isthmus connecting North America with South America.,LOC
+In which country would you find Mount Kilimanjaro?,LOC
+Identify the archipelago that includes New Zealand and Tasmania.,LOC
+What is the name of the ocean located south of Australia and west of South America?,LOC
+Which river forms a significant part of the border between India and Bangladesh?,LOC
+Where in Africa can you find the source of the Nile River?,LOC
+Name the island where the ancient city of Petra is found.,LOC
+Identify the largest country by area in South America.,LOC
+What body of water separates Japan from Korea?,LOC
+What is the annual budget allocated for border security in the United States?,MONEY
+How much does it cost to maintain embassies and consulates abroad per year on average for a country like Germany?,MONEY
+What was the total expenditure of the European Union's foreign aid budget in 2019?,MONEY
+How much money does China spend annually on territorial disputes in the South China Sea?,MONEY
+What is the estimated cost of maintaining the North Atlantic Treaty Organization (NATO) military infrastructure for member countries in a year?,MONEY
+How much funding does the United Nations allocate to peacekeeping missions each fiscal year?,MONEY
+What was the total investment made by Russia into its Arctic territories between 2015 and 2020?,MONEY
+How much did it cost to relocate the capital of Brazil from Rio de Janeiro to Brasília in the 1960s?,MONEY
+What is the estimated value of the trade agreements between ASEAN countries for the year 2023?,MONEY
+How much money does India spend on subsidizing its agricultural sector each fiscal year?,MONEY
+What was the cost of building and maintaining the Great Wall of China in historical terms, adjusted to today's currency values?,MONEY
+How much funding is provided annually by Japan for international development assistance as a percentage of GDP converted into monetary value?,MONEY
+What are the annual costs associated with maintaining the territorial integrity of an island nation like Malta?,MONEY
+How much does Saudi Arabia invest in infrastructure projects related to the Hajj pilgrimage every year?,MONEY
+What is the total economic impact, in terms of revenue loss, due to political instability in Venezuela since 2014?,MONEY
+How much did it cost for Australia to host the G20 summit and what was its financial impact on the economy?,MONEY
+What are the estimated costs incurred by the U.S. government for the construction and maintenance of military bases overseas per year?,MONEY
+How much money does NATO spend annually on defense spending above the 2% GDP threshold recommendation?,MONEY
+What is the value of the trade deficit between Mexico and the United States as of 2022?,MONEY
+How much did China invest in the Belt and Road Initiative projects across Asia, Europe, and Africa by the end of 2021?,MONEY
+What are the main ethnic groups in Indonesia?,NORP
+Which Norther Irish political party advocates for Northern Ireland's unification with Ireland?,NORP
+How has the distribution of Pashtuns influenced political dynamics in Afghanistan and Pakistan?,NORP
+In what ways do the Quechua people influence Peruvian politics?,NORP
+What role have the Tamils played in the political geography of Sri Lanka?,NORP
+How does the presence of the Cherokee Nation impact political geography in Oklahoma?,NORP
+What are the primary concerns of the Inuit in Canadian territorial disputes?,NORP
+Which political movements are associated with the Catalan ethnicity within Spain's borders?,NORP
+Can you describe the significance of the Berber ethnic group to Algerian and Moroccan politics?,NORP
+How has the division between Sunnis and Shiites influenced Iraq's political geography?,NORP
+What impact does the presence of the Zulu nation have on South Africa's political landscape?,NORP
+In what ways do the Maori influence New Zealand's political boundaries and policies?,NORP
+Which ethnic group, the Dinka or Nuer, has had a more significant impact on Sudanese politics?,NORP
+How does the presence of the Amish in Pennsylvania affect local governance and political geography?,NORP
+What role do the Karen people play in the political conflicts of Myanmar (Burma)?,NORP
+Which indigenous group's land rights are most contentious in Brazilian political geography?,NORP
+In the context of French Polynesia, how does the Tahitian majority influence its political status within France?,NORP
+What is the role of the Sami people in shaping the political boundaries and policies within Norway, Sweden, Finland, and Russia?,NORP
+How has the Hmong ethnic group's migration impacted their political representation in Laos and Thailand?,NORP
+Which political parties represent the interests of the Roma population in Eastern Europe?,NORP
+What is the 1st country to have implemented a federal system of government?,ORDINAL
+Which was the 5th largest empire in terms of land area in world history?,ORDINAL
+In which year did the 2nd World War officially end?,ORDINAL
+How many countries were part of the 3rd Reich at its peak?,ORDINAL
+What is the name of the 7th largest island in the world that plays a significant role in geopolitical strategies?,ORDINAL
+Which country was the 4th to develop nuclear weapons?,ORDINAL
+When did India become the 2nd most populous country in the world?,ORDINAL
+How many states were there when the United States became independent as the 1st time?,ORDINAL
+What is the 6th largest city by population that significantly influences its country's political landscape?,ORDINAL
+Which was the 3rd country to land on the moon, marking a significant achievement in geopolitical space race history?,ORDINAL
+Who was the 8th president of the United States and how did his policies shape American geography?,ORDINAL
+What is the 9th largest lake in the world that serves as a border between two countries?,ORDINAL
+Which country became the 5th permanent member of the UN Security Council?,ORDINAL
+How many countries have been part of the European Union since its inception, and what was the order of their joining?,ORDINAL
+What is the 10th largest river in the world that plays a crucial role in defining national boundaries between two or more nations?,ORDINAL
+Which city served as the capital during the 4th dynasty of Egypt, influencing political geography of ancient times?,ORDINAL
+How many continents are there, and what was the order in which they were named according to historical records?,ORDINAL
+What is the 2nd largest desert in the world that serves as a natural boundary between countries in Northern Africa?,ORDINAL
+Which country became the 15th member of NATO, marking an important change in European political geography?,ORDINAL
+How many empires can be identified throughout history if they are listed in chronological order, and which one was the 20th largest by land area at its peak?,ORDINAL
+What role does NATO play in shaping the political boundaries of Europe?,ORG
+How has the United Nations influenced the territorial disputes between countries?,ORG
+In what ways has the African Union impacted the political geography of Africa?,ORG
+Can you explain how the Association of Southeast Asian Nations (ASEAN) affects regional political boundaries and relations?,ORG
+What influence does the European Union have on member states' sovereignty in terms of border control?,ORG
+How has the Arab League's stance affected the political geography of the Middle East?,ORG
+What is the impact of the Organization of American States on hemispheric security and territorial integrity issues?,ORG
+In what capacity does the Shanghai Cooperation Organization work to stabilize Central Asian borders?,ORG
+How does the North Atlantic Treaty Organization (NATO) contribute to geopolitical stability in Europe?,ORG
+What role has the Commonwealth of Independent States played in shaping post-Soviet political geography?,ORG
+How do the actions of OPEC influence the political landscape in oil-rich regions?,ORG
+Can you discuss how the BRICS nations are reshaping global economic and political boundaries?,ORG
+What is the effect of the African Union's policies on member states' territorial claims and disputes?,ORG
+In what ways does the South Asian Association for Regional Cooperation (SAARC) contribute to resolving regional conflicts?,ORG
+How has the Gulf Cooperation Council impacted the political dynamics in the Persian Gulf region?,ORG
+What role does the League of Arab States play in unifying or dividing countries within its membership?,ORG
+Can you explain how the Association of Southeast Asian Nations (ASEAN) handles disputes over maritime boundaries among its members?,ORG
+What influence has the Commonwealth had on maintaining historical political connections between member states?,ORG
+How do the policies of the Eurasian Economic Union affect the political geography of its member countries?,ORG
+What impact does the Southern Common Market (MERCOSUR) have on economic and political integration in South America?,ORG
+What percent of China's territory is covered by autonomous regions?,PERCENT
+By 2050, what percent of the world's population is expected to live in urban areas according to political geography studies?,PERCENT
+What percent increase in territorial disputes has been recorded globally over the last decade due to climate change impacts on borders and resources?,PERCENT
+In a recent study, what percent of international conflicts were found to be influenced by geographical factors such as resource distribution?,PERCENT
+How much percent does Russia's population make up of its total land area, showing the vast uninhabited territories in political geography terms?,PERCENT
+What is the approximate percent decrease in the number of absolute monarchies from the early 20th century to today?,PERCENT
+According to recent studies, what percent of global water disputes are due to transboundary rivers and lakes influencing political boundaries?,PERCENT
+By what percent has the control over maritime territories increased among island nations in the South China Sea since the 1990s?,PERCENT
+What percent of the Earth's surface is governed by countries that have landlocked territory without direct access to international waters?,PERCENT
+How much percent of global trade routes pass through the Strait of Malacca, highlighting its geopolitical significance in Southeast Asia?,PERCENT
+What percent increase in border disputes has been observed due to climate-induced migration patterns affecting political geography?,PERCENT
+In terms of political geography, what percent of global energy resources are found within disputed territories or areas with unclear sovereignty?,PERCENT
+How much percent does the population living along international borders constitute of the total world population, emphasizing geopolitical tensions in these regions?,PERCENT
+What is the estimated percent increase in border security spending by developed countries due to concerns over illegal migration and smuggling routes?,PERCENT
+In terms of political geography, what percent reduction has been noted in conflicts related to natural resources following increased international cooperation and treaties since the 21st century?,PERCENT
+How much percent does the European Union's land area represent of the entire continent's territory, indicating its geopolitical weight?,PERCENT
+What is the approximate percent decrease in the number of civil wars reported globally due to better management of geographical and resource-related conflicts by international bodies?,PERCENT
+According to recent studies on political geography, what percent of global forest loss occurs in territories with disputed borders or unclear sovereignty claims?,PERCENT
+How much percent increase has there been in the number of countries establishing military bases on islands in strategic locations due to geopolitical significance over the last decade?,PERCENT
+What is the estimated percent of global population growth expected to occur in regions experiencing high levels of water scarcity, highlighting political geography challenges for resource management?,PERCENT
+Who is the current leader of China in terms of political geography?,PERSON
+Who was the first president of India to significantly alter the country's political boundaries through legislation or foreign policy decisions?,PERSON
+Which influential geographer defined the concept of Heartland Theory that greatly influenced political strategies?,PERSON
+Who is credited with coining the term 'Diplomatic Recognition' in the context of state sovereignty and international relations within political geography?,PERSON
+What notable figure played a crucial role in shaping the geopolitical landscape of Europe after World War II through significant territorial redrawing?,PERSON
+Who was instrumental in establishing the United Nations and shaping its impact on global political geography?,PERSON
+Which historical leader's policies led to the significant division or unification of territories, thereby impacting political geography during their reign?,PERSON
+Can you name a key figure who played an essential role in the independence movement that reshaped the political boundaries of South Asia post-World War II?,PERSON
+Who is recognized for pioneering work in critical geopolitics and challenging traditional views on state power and territorial control?,PERSON
+Which U.S. President's foreign policy significantly influenced the geopolitical landscape during the Cold War era through alliances, treaties, or conflicts?,PERSON
+Can you identify a leader who implemented policies that led to significant environmental changes affecting political geography, such as dam construction altering river flows and land use?,PERSON
+Who is known for their work in the field of border studies within political geography, particularly focusing on migration patterns influenced by state borders?,PERSON
+Which historical figure's actions resulted in the creation or dissolution of a nation-state, thereby dramatically altering the political geography of their region?,PERSON
+What influential geographer contributed to understanding the impact of natural resources on international relations and territorial disputes?,PERSON
+Can you name a leader whose decisions led to significant demographic changes that have had lasting effects on the political geography of their country or region?,PERSON
+Who is recognized for their research on how colonial legacies continue to influence contemporary political boundaries in Africa?,PERSON
+Which influential thinker's work has been pivotal in discussing the concept of "gated communities" and its implications on urban political geography?,PERSON
+Can you identify a key figure who led a movement that resulted in significant territorial changes due to ethnic or nationalist claims within a state?,PERSON
+Who is known for their contribution to understanding how digital technologies are reshaping political boundaries through cyber sovereignty debates?,PERSON
+Which historical leader's strategies were primarily focused on creating buffer states as a means of defense, thereby impacting the political geography of their time period?,PERSON
+What are the key features of political maps used in geographic information systems (GIS) products?,PRODUCT
+Which software is commonly used for analyzing electoral boundaries and voter demographics in political geography studies?,PRODUCT
+How does a specific GPS device contribute to field research in political geography?,PRODUCT
+Can you recommend any cartographic software that specializes in creating thematic maps related to political regions?,PRODUCT
+What type of geographic information system (GIS) hardware is essential for conducting large-scale political boundary analysis?,PRODUCT
+Which brand of tablet computers is preferred by field researchers for mobile mapping in political geography?,PRODUCT
+How do satellite imagery tools assist in the study of changes in political boundaries over time?,PRODUCT
+Could you suggest a drone model that is efficient for aerial photography of political regions?,PRODUCT
+What are the latest updates to GIS software used for redistricting and electoral analysis?,PRODUCT
+Which smartwatch models have GPS features beneficial for researchers tracking movement within political territories?,PRODUCT
+What kind of data collection devices are most useful in gathering demographic information during political geography studies?,PRODUCT
+How does a specific type of 3D printing technology help create physical models of political regions for educational purposes?,PRODUCT
+Can you mention any popular online platforms that offer GIS courses specifically focused on political geography applications?,PRODUCT
+Which desktop computers are optimized to handle the computational demands of advanced GIS software used in political geography research?,PRODUCT
+What are some mobile apps designed to assist students and researchers in understanding the spatial aspects of political systems?,PRODUCT
+How does cloud storage technology support collaboration among international teams studying global political geography?,PRODUCT
+Could you recommend any electronic data recorders that are effective for collecting field data in remote political regions?,PRODUCT
+Which brand of virtual reality (VR) headsets can be used to explore and analyze political landscapes virtually?,PRODUCT
+What type of geographic information system (GIS) plugins enhance the analysis of international borders and their impact on politics?,PRODUCT
+How do digital globes function as interactive teaching tools for understanding global political geography?,PRODUCT
+What is the total number of countries in the European Union?,QUANTITY
+How many time zones does Russia span across?,QUANTITY
+What is the approximate population of India according to the latest census?,QUANTITY
+How many landlocked countries are there in Africa?,QUANTITY
+What was the population of China as of 2021?,QUANTITY
+How many autonomous regions exist within the People's Republic of China?,QUANTITY
+What is the number of states that make up the United States of America?,QUANTITY
+How many official languages does Switzerland have?,QUANTITY
+What percentage of the Earth's surface is covered by land?,QUANTITY
+How many islands comprise the territory of Indonesia?,QUANTITY
+What is the total area in square kilometers of Canada?,QUANTITY
+How many provinces and territories are there in Canada?,QUANTITY
+What was the population of Brazil as of 2020?,QUANTITY
+How many member states does NATO have?,QUANTITY
+What percentage of the world's fresh water is held by Lake Superior alone?,QUANTITY
+How many countries border France on land?,QUANTITY
+What is the total number of sovereign states in the world recognized by the United Nations?,QUANTITY
+How many members are there in the European Parliament as of 2023?,QUANTITY
+What is the approximate population of Tokyo Metropolitan Area according to recent estimates?,QUANTITY
+How many countries does Russia share a border with, excluding maritime borders?,QUANTITY
+When did the concept of Political Geography first emerge as an academic discipline?,TIME
+What year marked the significant shift in European political boundaries post-World War II?,TIME
+In which decade did the Cold War intensify the ideological division of Europe?,TIME
+How long has the Schengen Agreement been facilitating passport-free travel among member states of the European Union?,TIME
+When was the Berlin Wall erected, dividing East and West Germany during the Cold War?,TIME
+What year saw the dissolution of the Soviet Union, leading to significant changes in global political geography?,TIME
+During which period did colonization significantly alter the political landscapes of Africa and Asia?,TIME
+How many years have passed since the establishment of the United Nations as a means to maintain international peace and security?,TIME
+In what time frame were most African nations gaining independence from colonial rule?,TIME
+When did the Arab Spring begin, leading to substantial political changes in several Middle Eastern countries?,TIME
+What year was the Treaty of Tordesillas signed, dividing newly discovered lands outside Europe between Portugal and Spain?,TIME
+How many years ago was the Berlin Conference held, which led to the Scramble for Africa by European powers?,TIME
+When did China's One-Child Policy begin, which had significant demographic and social impacts within its political geography?,TIME
+What year marked the beginning of the Yugoslav Wars, leading to the breakup of Yugoslavia into several independent states?,TIME
+How many years has it been since the fall of the Ottoman Empire affected the political boundaries in the Middle East?,TIME
+When did India gain independence from British rule, reshaping its political geography?,TIME
+In what time period did the Space Race contribute to geopolitical rivalries and territorial claims beyond Earth's atmosphere?,TIME
+What year was the Antarctic Treaty signed, which regulates international relations with respect to Antarctica?,TIME
+How long ago were the borders of Germany redrawn after World War I according to the Treaty of Versailles?,TIME
+When did the Indo-Pakistani War of 1947 begin, leading to significant territorial disputes between India and Pakistan?,TIME
+What political message is conveyed through the painting "Guernica"?,WORK_OF_ART
+How does the mural "The Wall" reflect on the Berlin Wall's division of East and West Germany?,WORK_OF_ART
+In what way does the sculpture "The Fallen Woman" symbolize the fall of dictatorial regimes in Eastern Europe?,WORK_OF_ART
+What is the political significance of the artwork "Dove of Peace" in the context of post-war reconciliation efforts?,WORK_OF_ART
+How does the installation "Boundary Stones" comment on international border disputes and territorial claims?,WORK_OF_ART
+Can you describe how the tapestry "The Map" represents colonialism through its depiction of land division among European powers?,WORK_OF_ART
+What political statement is made by the graffiti piece "Anonymous Revolutionaries" about the role of anonymity in political activism?,WORK_OF_ART
+How does the photograph series "Divided Landscapes" portray the impact of borders on natural landscapes and human movement?,WORK_OF_ART
+In what manner does the film "The Wall We Build" critique the construction of physical barriers between countries and communities?,WORK_OF_ART
+What is the message conveyed by the digital artwork "Echoes of Revolution" about the influence of social media in political change movements?,WORK_OF_ART
+How does the performance piece "Crossing Borders" address issues related to immigration, refugees, and border control policies?,WORK_OF_ART
+Can you explain how the sculpture "Monument to the Unknown Politician" satirizes contemporary political figures and systems?,WORK_OF_ART
+What is the commentary on global power dynamics in the mural "The Game of Thrones"? ,WORK_OF_ART
+How does the painting "Red Lines" depict the concept of red lines in international relations and diplomacy?,WORK_OF_ART
+In what way does the art installation "Freedom Fences" explore the relationship between freedom and restrictions imposed by borders?,WORK_OF_ART
+What political commentary is embedded within the digital animation "Voting Booths"? ,WORK_OF_ART
+How does the mural "Silent Voices" address issues of censorship, free speech, and political repression in various regions around the world?,WORK_OF_ART
+Can you describe how the sculpture "The Great Divide" symbolizes economic disparity between nations or regions?,WORK_OF_ART
+What is the political message behind the collage "Torn Flags" representing national pride versus global unity?,WORK_OF_ART
+How does the graffiti art piece "Echoes of Revolution" reflect on the role and influence of street art in political movements across different cultures and countries?,WORK_OF_ART
+What is the definition of political geography?,WORK_OF_ART
+How many countries are recognized by the United Nations?,CARDINAL
+Which country has the most time zones?,GPE
+When did the Berlin Wall fall?,DATE
+What event led to the dissolution of Yugoslavia?,EVENT
+Where can you find the European Union's headquarters?,FAC
+Name a political region that is not a sovereign state.,LOC
+How much does it cost to run the government of a small island nation annually?,MONEY
+Which language is primarily used in international diplomacy by most countries?,LANGUAGE
+What law governs the territorial waters up to 12 nautical miles from the coastline?,LAW
+What is the name of the highest mountain peak located entirely within a single country?,FAC
+How many members are there in the United Nations Security Council?,CARDINAL
+Which organization was responsible for drawing the borders in the Middle East after World War I?,ORG
+What percentage of the world's countries are republics?,PERCENT
+Who is considered to be one of the founding fathers of political geography?,PERSON
+What product has caused significant geopolitical tensions due to its scarcity and importance?,PRODUCT
+How many square kilometers is the smallest country in the world by area?,QUANTITY
+At what time does the UK Parliament typically begin its daily sessions?,TIME
+Which non-governmental organization (NGO) focuses primarily on environmental issues that affect political geography?,ORG
+What is the name of a significant river that serves as an international border between two countries?,LOC

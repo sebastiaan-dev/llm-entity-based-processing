@@ -1,0 +1,381 @@
+Question,Entity-Type
+What is the average temperature increase in degrees Celsius that led to the last ice age?,CARDINAL
+How many major climate zones are recognized globally?,CARDINAL
+Approximately how many parts per million (ppm) of CO2 were present in the atmosphere during the pre-industrial era?,CARDINAL
+In what year was the Intergovernmental Panel on Climate Change (IPCC) established?,CARDINAL
+What percentage of the Earth's surface is covered by oceans, which play a significant role in climate regulation?,CARDINAL
+How many gigatons of carbon dioxide are emitted annually from human activities?,CARDINAL
+What is the average increase in global temperature in degrees Celsius since the late 19th century due to human-induced greenhouse gas emissions?,CARDINAL
+Approximately how many billion metric tons of ice melt each year from Greenland's ice sheet contributing to sea-level rise?,CARDINAL
+In which year did the Earth experience its warmest recorded temperatures according to modern record-keeping methods starting in 1850?,CARDINAL
+How many feet has the global average sea level risen since the beginning of the 20th century?,CARDINAL
+What percentage of glaciers worldwide are currently receding due to climate change?,CARDINAL
+Approximately how many trillion metric tons of ice have been lost from Antarctica in recent years?,CARDINAL
+In what year did the United Nations Framework Convention on Climate Change (UNFCCC) come into force?,CARDINAL
+How many countries are party to the Paris Agreement as of 2023?,CARDINAL
+What is the approximate number of days in a year that exceed 95 degrees Fahrenheit at locations across the United States, due to climate change?,CARDINAL
+By how many centimeters has the global average sea level risen since 1880?,CARDINAL
+How many billion metric tons of carbon dioxide are absorbed by forests globally each year through photosynthesis?,CARDINAL
+What is the approximate percentage increase in atmospheric methane levels compared to pre-industrial times?,CARDINAL
+How many feet above sea level is the highest point on Earth, where climate conditions differ significantly from those at lower altitudes?,CARDINAL
+In what year did the first international treaty related to climate change (the Montreal Protocol) come into force?,CARDINAL
+When was the first comprehensive climate system model developed?,DATE
+What year did the Intergovernmental Panel on Climate Change (IPCC) release its first assessment report?,DATE
+In which year were the Kyoto Protocol negotiations concluded?,DATE
+During what date range did the Little Ice Age primarily occur, affecting global climate systems?,DATE
+When was the Paris Agreement adopted by the United Nations Framework Convention on Climate Change (UNFCCC)?,DATE
+What is the earliest recorded date of a significant El Niño event in historical records?,DATE
+On which specific date did the Earth reach its highest average temperature according to NASA data?,DATE
+Which year marked the beginning of systematic satellite measurements for climate studies?,DATE
+When was the concept of the greenhouse effect first introduced scientifically?,DATE
+What is the earliest recorded date of a major volcanic eruption that significantly impacted global climate systems?,DATE
+On what date did the United Nations Climate Change Conference in Copenhagen take place?,DATE
+Which year saw the largest annual increase in atmospheric carbon dioxide concentration recorded by Mauna Loa Observatory?,DATE
+When was the term "global warming" first used in scientific literature to describe the phenomenon of climate change?,DATE
+What is the earliest known date when the effects of industrialization began influencing global climate systems significantly?,DATE
+On what date did the Montreal Protocol on Substances that Deplete the Ozone Layer come into force?,DATE
+Which year was the first time Earth's average temperature exceeded a 1°C increase from pre-industrial levels according to meteorological records?,DATE
+When were the first climate models indicating potential future impacts of global warming published in scientific journals?,DATE
+What date marks the beginning of the Holocene epoch, which has seen significant human-caused climate change?,DATE
+On what specific date did the United Nations Climate Change Conference in Paris conclude with a landmark agreement?,DATE
+Which year was the first time Arctic sea ice extent fell below 4 million square kilometers, setting a new record low?,DATE
+What events led to the formation of El Niño in 2015?,EVENT
+How did the Dust Bowl event affect climate systems in North America during the 1930s?,EVENT
+Can you describe the impacts of the Little Ice Age on global climate patterns?,EVENT
+Which historical volcanic eruption had the most significant impact on short-term climate changes?,EVENT
+What major weather event caused widespread disruption to European agriculture and society in the year 536 AD?,EVENT
+How did the Medieval Warm Period affect global temperatures compared to modern times?,EVENT
+Can you explain how hurricanes like Hurricane Katrina have influenced local climate systems?,EVENT
+What role did the Industrial Revolution play as an event in altering global climate patterns?,EVENT
+Which significant meteorological event led to the implementation of stricter building codes in Florida following its occurrence?,EVENT
+How has the occurrence of severe drought events over the last century affected global food security?,EVENT
+Could you discuss the effects of the 2010 Russian heat wave on regional and global weather patterns?,EVENT
+What major climate system changes were observed after the Mount Pinatubo eruption in 1991?,EVENT
+How did the Year Without a Summer (1816) event influence global agricultural practices for years to follow?,EVENT
+Can you describe how events like the Great Flood of 1927 affected local ecosystems and communities?,EVENT
+What significant climate-related event led to the creation of the Intergovernmental Panel on Climate Change (IPCC)?,EVENT
+How did the widespread use of chlorofluorocarbons (CFCs) as an industrial event lead to ozone depletion issues in Antarctica?,EVENT
+Could you discuss how events such as the 2010 Pakistan floods impact long-term agricultural productivity and livelihoods?,EVENT
+What major weather event prompted the United Nations Framework Convention on Climate Change (UNFCCC)?,EVENT
+How did the series of extreme cold spells during winter 2021 affect energy consumption in Europe compared to previous years?,EVENT
+Can you explain how events like the Great Barrier Reef bleaching events have impacted marine biodiversity and climate systems?,EVENT
+What is the function of the Intertropical Convergence Zone in climate systems?,FAC
+How does the El Niño Southern Oscillation affect global weather patterns?,FAC
+Can you explain the role of the Hadley Cell in distributing heat around the Earth?,FAC
+What impact do trade winds have on ocean currents and climate zones?,FAC
+Describe how the Coriolis effect influences wind patterns and ocean circulation.,FAC
+How does the polar front contribute to weather systems at mid-latitudes?,FAC
+Explain the significance of the jet stream in shaping weather conditions across continents.,FAC
+What role do monsoons play in seasonal climate variations around the world?,FAC
+Can you detail how ocean gyres influence local and global climates?,FAC
+How does the subtropical ridge affect rainfall patterns and drought occurrences?,FAC
+Describe the impact of the Gulf Stream on the climate of Western Europe.,FAC
+What is the role of mountain ranges in creating rain shadows and influencing regional climates?,FAC
+Explain how the Walker circulation contributes to the development of El Niño events.,FAC
+How do cold ocean currents affect the temperature and precipitation patterns along coastal areas?,FAC
+Can you discuss the effect of land-sea breeze cycles on local weather conditions near coastlines?,FAC
+What role does the Antarctic Circumpolar Current play in isolating Antarctica's climate from other continents?,FAC
+Describe how the North Atlantic Drift influences marine ecosystems and fisheries.,FAC
+How do desert climates form, and what factors maintain their arid conditions?,FAC
+Explain the impact of the Kuroshio Current on typhoon formation and coastal weather in East Asia.,FAC
+What is the role of sea ice extent variations in regulating global climate patterns?,FAC
+How does climate change affect agriculture in Brazil?,GPE
+What are the primary causes of deforestation in Indonesia?,GPE
+How has the Arctic region been impacted by rising global temperatures?,GPE
+Which countries are part of the Paris Agreement on climate change?,GPE
+What role does China play in global efforts to combat climate change?,GPE
+In which African country is Lake Chad located, and how has its size changed due to climate change?,GPE
+How have the coral reefs off the coast of Australia been affected by climate-induced ocean warming?,GPE
+What measures are being taken by European Union countries to reduce greenhouse gas emissions?,GPE
+Which South American GPE is known for having the Amazon rainforest, a critical component in regulating global climate systems?,GPE
+How does the Indian Monsoon system impact agriculture and water resources in India?,GPE
+In what ways has Canada's government committed to reducing carbon emissions?,GPE
+What are the major environmental impacts of melting glaciers in Greenland?,GPE
+How do El Niño events influence weather patterns across North America?,GPE
+What steps have been taken by the United Kingdom to transition towards renewable energy sources?,GPE
+Which African GPEs are most vulnerable to climate change and why?,GPE
+What role does Russia play in global efforts regarding carbon emissions reduction?,GPE
+How has urbanization in Mexico influenced local climate systems?,GPE
+In what ways have policies in Japan addressed the challenge of reducing industrial pollution?,GPE
+Which European country is leading in wind energy production as a response to climate change challenges?,GPE
+What impact has climate change had on biodiversity within the borders of Madagascar?,GPE
+What language is primarily used in climate system reports published by the IPCC?,LANGUAGE
+How does the use of technical jargon in scientific climate studies affect public understanding?,LANGUAGE
+In what language were the first climate models documented?,LANGUAGE
+Which language has the largest collection of historical climate data records?,LANGUAGE
+Can you explain the key terms used in climate systems in simple English?,LANGUAGE
+What is the impact of translating climate system documents from English to other languages on their clarity and accessibility?,LANGUAGE
+How does the choice of language influence the dissemination of climate change information across different cultures?,LANGUAGE
+Which language offers the most precise terminology for describing atmospheric phenomena within climate studies?,LANGUAGE
+In what ways do multilingual climate education materials contribute to global awareness about climate systems?,LANGUAGE
+What role does linguistic accuracy play in the interpretation of climate system data among non-native English speakers?,LANGUAGE
+How effective is the use of simplified language in conveying complex concepts related to climate systems to a general audience?,LANGUAGE
+Which languages have specific terms that describe unique climatic conditions not found elsewhere?,LANGUAGE
+Can you provide examples of how idiomatic expressions about weather and climate vary across different languages?,LANGUAGE
+What challenges do translators face when rendering technical climate system documents into non-European languages?,LANGUAGE
+How does the evolution of language over time affect the interpretation of historical climate records?,LANGUAGE
+Which international organizations have adopted multilingual policies to discuss climate systems, and how effective are these policies?,LANGUAGE
+In what ways can the use of a common scientific language like English impact global collaboration on climate issues?,LANGUAGE
+What strategies do climate scientists employ when communicating with non-English speaking communities about local climate impacts?,LANGUAGE
+How does the translation of climate change literature into indigenous languages aid in community-based adaptation efforts?,LANGUAGE
+Can you discuss the importance of having multilingual websites dedicated to educating people about climate systems and their impacts?,LANGUAGE
+What are the legal frameworks in place to regulate greenhouse gas emissions globally?,LAW
+How do international laws address the responsibilities of developed nations in mitigating climate change impacts on developing countries?,LAW
+Which specific national laws require industries to report their carbon footprints annually?,LAW
+Can you explain the role of the Paris Agreement in shaping global climate policy and law?,LAW
+What legal measures are taken by countries to enforce compliance with international climate agreements?,LAW
+How does the Clean Air Act influence regulations on air pollutants that contribute to climate change in the United States?,LAW
+Which laws provide for the protection of vulnerable ecosystems under threat from climate change impacts such as rising sea levels or increased frequency of extreme weather events?,LAW
+What legal mechanisms are used to enforce penalties against countries that fail to meet their commitments under international environmental agreements like the Kyoto Protocol?,LAW
+How does EU law address carbon trading and how effective is it in reducing emissions across member states?,LAW
+Which laws govern the transition from fossil fuels to renewable energy sources in Europe?,LAW
+What legal actions can be taken against corporations for not complying with climate-related disclosure requirements?,LAW
+How do national laws support or hinder the implementation of international agreements on limiting global warming?,LAW
+Can you describe how the concept of environmental justice is integrated into laws aimed at mitigating climate change?,LAW
+Which statutes provide for financial assistance to countries suffering from adverse effects of climate change, such as loss and damage?,LAW
+What legal provisions exist to protect indigenous rights in areas affected by large-scale renewable energy projects related to climate mitigation efforts?,LAW
+How do laws around the world address adaptation measures for communities at risk due to rising sea levels?,LAW
+Which international conventions include clauses on biodiversity conservation that are indirectly impacted by climate change policies and actions taken under such laws?,LAW
+What legal obligations exist for nations regarding research and development of technologies aimed at reducing greenhouse gas emissions, as outlined in climate agreements like the Paris Agreement?,LAW
+How do national environmental impact assessment laws consider potential impacts on climate systems when evaluating major projects?,LAW
+Which international law provisions address the issue of "climate refugees" or people displaced by effects attributed to global warming and climate change?,LAW
+What is the impact of climate systems on the weather patterns in Antarctica?,LOC
+How does the El Niño phenomenon affect Australia's climate system?,LOC
+Can you describe the role of the Indian Ocean Dipole in influencing rainfall distribution across India?,LOC
+What are the primary challenges faced by coastal cities like Miami due to changes in global climate systems?,LOC
+Describe how the climate systems contribute to desertification in Sahara?,LOC
+How do climate systems affect agricultural practices in the Amazon rainforest region?,LOC
+In what ways has climate change influenced glacier melting in the Himalayas?,LOC
+What role does the North Atlantic play in regulating Europe's climate system?,LOC
+Can you explain the effect of global warming on sea levels around Bangladesh?,LOC
+How does the interaction between land and ocean impact the climate systems in Indonesia?,LOC
+What is the influence of climate systems on biodiversity loss in Madagascar?,LOC
+Describe the effects of climate change on Arctic regions like Greenland.,LOC
+How do tropical cyclones form over the Pacific Ocean near Hawaii, and what role do climate systems play in this process?,LOC
+Can you explain how urban heat islands are formed in large cities such as New York City due to changes in local climate systems?,LOC
+What is the relationship between deforestation in Brazil and its impact on global climate systems?,LOC
+How does the Mediterranean climate system affect water scarcity issues in Spain?,LOC
+Describe the effect of temperature fluctuations caused by climate systems on vineyards in France.,LOC
+Can you discuss how climate change has impacted glacier retreat in Switzerland's Alps region?,LOC
+What role do mountain ranges like the Andes play in shaping regional climate patterns in South America?,LOC
+How does the Gulf Stream influence climate conditions in Western Europe and its coastal regions such as Ireland?,LOC
+What is the estimated cost of implementing solar energy solutions to combat climate change?,MONEY
+How much did the Paris Agreement's Green Climate Fund aim to raise from developed countries by 2020?,MONEY
+In billions, what amount has been pledged by various countries for loss and damage due to climate impacts in COP27?,MONEY
+What is the cost of adaptation projects funded by international organizations in developing nations to mitigate climate change effects?,MONEY
+How much money was allocated by the European Union for climate action within its Green Deal investment plan?,MONEY
+Can you provide an estimate of the financial losses incurred globally due to extreme weather events linked to climate change over the last decade?,MONEY
+What is the approximate cost of transitioning from fossil fuels to renewable energy sources globally?,MONEY
+How much funding does NASA allocate annually for Earth science research and climate studies?,MONEY
+What was the estimated cost of Hurricane Katrina, one of the most severe consequences of extreme weather conditions influenced by climate change?,MONEY
+In terms of investment, how much money is required to achieve global net-zero emissions by 2050 according to the International Energy Agency?,MONEY
+How much does it cost to maintain and update climate modeling systems used by research institutions worldwide?,MONEY
+What amount has been invested in carbon capture and storage technologies as a method of reducing greenhouse gas emissions?,MONEY
+Can you state the financial support provided to farmers affected by climate change through government programs?,MONEY
+In terms of infrastructure, how much money is needed globally for building resilience against climate impacts such as rising sea levels and increased flooding?,MONEY
+How much has been budgeted for international aid focused on reducing emissions in developing countries under the United Nations Framework Convention on Climate Change (UNFCCC)?,MONEY
+What is the projected cost of the worldwide transition to electric vehicles to reduce carbon footprints?,MONEY
+How much money does the World Bank allocate yearly for climate-related projects and initiatives across different countries?,MONEY
+Can you give an estimate of the costs associated with relocating populations affected by rising sea levels due to climate change?,MONEY
+What is the cost of implementing large-scale reforestation projects as part of global efforts to mitigate climate change effects?,MONEY
+How much funding does the United Nations Environment Programme receive annually for its various initiatives aimed at addressing environmental issues, including climate change?,MONEY
+How do climate systems affect the policies of European Union member states in addressing global warming?,NORP
+What role does the United States government play in international climate system research and funding?,NORP
+In what ways has China's national policy on carbon emissions impacted global climate systems?,NORP
+How does the Indian approach to renewable energy influence its contribution to stabilizing climate systems?,NORP
+Can you describe how Brazil's stance on deforestation affects global climate systems?,NORP
+What are some of the climate system challenges faced by African nations in adapting to environmental changes?,NORP
+How have Australian policies on coal mining and exports affected international climate discussions?,NORP
+In what manner does Canada's commitment to clean energy influence North American climate systems?,NORP
+What impact do Russian Arctic development activities have on global climate systems through the melting of permafrost?,NORP
+Describe how the policies of Southeast Asian countries regarding agricultural practices affect regional and global climate systems.,NORP
+How has the policy of the European Union on electric vehicle adoption impacted transportation's influence on climate systems?,NORP
+What is the role of Middle Eastern oil-producing nations in shaping climate system discussions within international forums?,NORP
+Can you explain how Japan's energy strategy post-Fukushima disaster affects its contribution to global climate systems?,NORP
+How do policies of South American countries regarding hydropower affect regional and global climate patterns?,NORP
+What are the implications of Australia's Great Barrier Reef conservation efforts on global marine climate systems?,NORP
+In what ways has Mexico’s national policy on water management influenced its contribution to North American climate stability?,NORP
+How do policies of South Korean companies regarding green technology exports affect global climate change mitigation efforts?,NORP
+What role does the United Kingdom play in leading European Union climate system initiatives post-Brexit?,NORP
+Describe how Canadian policy on Arctic conservation impacts climate systems globally.,NORP
+In what manner has the Indonesian government's approach to peatland management affected regional and global climate systems?,NORP
+What is the first process in the water cycle of climate systems?,ORDINAL
+Which layer is the second one from the bottom in Earth's atmosphere that plays a crucial role in climate systems?,ORDINAL
+How does the third phase of El Niño-Southern Oscillation (ENSO) event affect global weather patterns?,ORDINAL
+In the study of paleoclimatology, which ice core sample provided the fourth oldest record of climate data?,ORDINAL
+What is the fifth step in the process of carbon dioxide absorption by oceans that impacts climate systems?,ORDINAL
+Which planet was the second to be discovered to have a greenhouse effect similar to Earth's climate system?,ORDINAL
+How does the sixth major ice age, known as the Andean-Saharan glaciation, compare with current glacial periods on Earth?,ORDINAL
+What is the seventh largest desert in terms of its influence on global climate systems?,ORDINAL
+Which is the third most effective greenhouse gas contributing to the warming of our planet's atmosphere in climate systems?,ORDINAL
+What impact does the eighth level of the jet stream have on weather patterns within climate systems?,ORDINAL
+In the context of anthropogenic climate change, what was the first international agreement aimed at reducing greenhouse gases?,ORDINAL
+Which is the second smallest ocean that plays a significant role in global climate systems due to its unique properties?,ORDINAL
+How does the ninth major volcanic eruption in recorded history affect climate systems globally?,ORDINAL
+What is the tenth largest contributor to sea-level rise affecting our planet's climate systems?,ORDINAL
+In meteorology, which weather phenomenon was the second most destructive natural event caused by extreme climatic conditions in 2019?,ORDINAL
+Which region was identified as the fourth most vulnerable to climate change impacts such as rising sea levels and increased storm frequency?,ORDINAL
+What is the eleventh biggest challenge faced by scientists when predicting future changes in global climate systems due to human activities?,ORDINAL
+How does the sixth iteration of the Intergovernmental Panel on Climate Change (IPCC) report differ from its predecessors in terms of scientific consensus and recommendations?,ORDINAL
+Which type of cloud was the third most important for regulating Earth's temperature by reflecting sunlight back into space, thus impacting climate systems?,ORDINAL
+What is the twelfth factor that scientists consider when modeling the potential future impact of solar radiation management on global climate systems?,ORDINAL
+What role does NASA play in studying climate systems?,ORG
+How has the World Meteorological Organization contributed to our understanding of climate systems?,ORG
+Which initiatives by the United Nations Environment Programme focus on mitigating climate system impacts?,ORG
+In what ways does the Intergovernmental Panel on Climate Change influence global policies regarding climate systems?,ORG
+What are some key research areas in climate systems explored by the National Oceanic and Atmospheric Administration (NOAA)?,ORG
+How does the European Union's policy framework address challenges posed by changing climate systems?,ORG
+Can you list some of the significant contributions made by the Environmental Defense Fund to the study of climate systems?,ORG
+What role do non-governmental organizations like Greenpeace play in raising awareness about climate system changes?,ORG
+How has the Global Climate Observing System (GCOS) helped in monitoring global climate systems?,ORG
+Which innovative solutions have been proposed by the ClimateWorks Foundation to improve our understanding and management of climate systems?,ORG
+What strategies does the Natural Resources Defense Council employ to combat issues related to climate systems?,ORG
+In what ways has the Woods Hole Research Center contributed to advancements in studying climate systems?,ORG
+How do organizations like the Climate Action Tracker provide insights into global progress on climate system goals?,ORG
+What are some of the key actions taken by The Nature Conservancy to address challenges associated with changing climate systems?,ORG
+How does the World Wildlife Fund (WWF) contribute to efforts aimed at stabilizing our climate systems?,ORG
+Can you describe any partnerships established by the International Union for Conservation of Nature (IUCN) related to research on climate systems?,ORG
+What innovative approaches has the Environmental Protection Agency (EPA) adopted in managing impacts on climate systems?,ORG
+How does the Earth System Research Laboratory (ESRL) contribute to our knowledge about global climate systems?,ORG
+Which programs offered by the Clean Air Task Force are aimed at reducing emissions affecting climate systems?,ORG
+In what ways do organizations like the Center for Climate and Energy Solutions engage in advocacy regarding climate system issues?,ORG
+What percent of global greenhouse gas emissions come from deforestation activities?,PERCENT
+By what percentage has the Earth's average temperature increased over the past century according to climate scientists?,PERCENT
+How much did sea levels rise in percentage terms compared to pre-industrial times by 2020?,PERCENT
+What is the projected increase in extreme weather events due to climate change as a percentage increase from baseline conditions?,PERCENT
+By what percent has the Arctic ice coverage decreased since the late 1970s according to satellite data?,PERCENT
+How much of the world's population could be at risk from rising sea levels, expressed as a percentage by 2050?,PERCENT
+What percentage of global CO2 emissions is attributed to industrial processes and not just fossil fuel burning?,PERCENT
+By what percent has air travel emissions grown since 1990 contributing to climate change?,PERCENT
+How much did the frequency of hurricanes increase as a percentage in recent decades due to warming oceans?,PERCENT
+What is the estimated reduction in glacier volume globally over the last few decades, expressed as a percentage?,PERCENT
+By what percent are sea levels expected to rise by 2100 under high emissions scenarios compared to current levels?,PERCENT
+How much of global freshwater resources do glaciers store, represented as a percentage of total freshwater reserves on Earth?,PERCENT
+What is the estimated increase in frequency of heatwaves worldwide expressed as a percentage since pre-industrial times due to climate change?,PERCENT
+By what percent does ocean acidity increase for every one-degree rise in global temperature according to scientific studies?,PERCENT
+How much of the world's land surface area, in percentage terms, has seen an increase in drought conditions over the past decades due to climate change?,PERCENT
+What is the projected decrease in Arctic sea ice thickness as a percentage by 2050 under current warming trends?,PERCENT
+By what percent are agricultural yields expected to decline globally by 2050 if climate change continues at its present pace?,PERCENT
+How much, expressed as a percentage increase, has the global consumption of water increased over the past century due in part to rising temperatures and changing weather patterns?,PERCENT
+What is the predicted decrease in snow cover extent on Earth's landmasses, given as a percentage, by 2100 under high emissions scenarios?,PERCENT
+By what percent does the concentration of CO2 in the atmosphere increase annually on average due to human activities?,PERCENT
+Who is responsible for leading major climate research initiatives globally?,PERSON
+Which Nobel laureate has contributed significantly to the understanding of climate systems?,PERSON
+Who are key policymakers in international climate negotiations like the UNFCCC (United Nations Framework Convention on Climate Change)?,PERSON
+What influential climatologist was involved in the discovery of global warming caused by greenhouse gases?,PERSON
+Can you name a prominent meteorologist who has made significant contributions to weather forecasting technology?,PERSON
+Which environmental activist is known for their efforts in raising awareness about climate change and its impacts?,PERSON
+Who are some of the leading scientists behind the Intergovernmental Panel on Climate Change (IPCC) reports?,PERSON
+What influential figure heads the World Meteorological Organization (WMO)?,PERSON
+Can you name a scientist who has significantly contributed to paleoclimatology research through ice core samples analysis?,PERSON
+Which author has written extensively about climate change and its societal impacts?,PERSON
+Who are some of the key researchers studying ocean currents and their role in global climate systems?,PERSON
+What prominent environmental scientist was involved in the creation of Earth System Models (ESMs)?,PERSON
+Can you name a leading voice among young activists fighting for climate justice worldwide?,PERSON
+Which professor is recognized for pioneering work on the carbon cycle and its effects on climate change?,PERSON
+Who are some key figures behind the establishment of renewable energy policies to combat climate change?,PERSON
+What influential climatologist has been vocal about the need for immediate action against global warming?,PERSON
+Can you name a historian who specializes in the history of environmental thought and its influence on modern climate systems understanding?,PERSON
+Which engineer is known for developing innovative technologies aimed at reducing greenhouse gas emissions?,PERSON
+Who are some leading researchers studying how climate change impacts biodiversity and ecosystems?,PERSON
+What influential economist has contributed significantly to discussions about the economic aspects of climate change mitigation strategies?,PERSON
+What is the most effective product for reducing carbon footprint in urban areas?,PRODUCT
+Which climate monitoring device provides the most accurate data for weather prediction?,PRODUCT
+Can you recommend a reliable solar panel system for residential use to mitigate climate impacts?,PRODUCT
+What are the top-rated air purifiers that can help improve indoor air quality due to climate change effects?,PRODUCT
+How effective is the new line of drought-resistant seeds in adapting to changing climatic conditions?,PRODUCT
+Which smart thermostat systems are best at conserving energy and reducing heating costs during extreme weather events?,PRODUCT
+Could you provide information on the latest wind turbines used for renewable energy production in combating global warming?,PRODUCT
+What kind of climate-controlled storage units are available to preserve sensitive materials from environmental damage?,PRODUCT
+Are there any new water-saving showerheads that can significantly reduce household water usage due to changing rainfall patterns?,PRODUCT
+Which electric vehicle models have the longest range, making them a sustainable transportation option for climate change mitigation?,PRODUCT
+What type of energy-efficient windows can help in maintaining home temperatures during fluctuating weather conditions?,PRODUCT
+Can you suggest an affordable rainwater harvesting system that aids in managing water scarcity caused by climate variability?,PRODUCT
+How do modern HVAC systems contribute to reducing greenhouse gas emissions and improving indoor air quality due to outdoor pollution?,PRODUCT
+Which type of insulation material is best for homes located in areas prone to extreme temperature changes due to climate change?,PRODUCT
+What kind of flood protection products are effective in preventing water damage during increased storm frequency caused by climate shifts?,PRODUCT
+Could you recommend a reliable weatherproofing product that helps buildings withstand the impacts of severe weather events?,PRODUCT
+Which desalination plants use the most innovative technologies for producing freshwater in response to increasing global water scarcity issues?,PRODUCT
+What type of indoor air quality monitors can help people detect and manage pollutants exacerbated by climate change effects indoors?,PRODUCT
+How do modern air conditioning units with advanced energy efficiency ratings contribute to lowering overall household carbon footprints?,PRODUCT
+Are there any new, eco-friendly construction materials that significantly reduce the environmental impact of building structures in sensitive ecosystems affected by climate change?,PRODUCT
+What is the average temperature increase expected globally by 2100 according to the IPCC's latest report?,QUANTITY
+How many degrees Celsius has the Earth warmed since pre-industrial times as of 2023?,QUANTITY
+By how many millimeters has global sea level risen on average per year over the last decade?,QUANTITY
+What percentage of the increase in atmospheric CO2 levels is attributed to human activities such as deforestation and burning fossil fuels?,QUANTITY
+How much percent of the Earth's surface is covered by oceans, playing a significant role in regulating climate?,QUANTITY
+What is the average amount of carbon dioxide (in parts per million) recorded in the atmosphere at Mauna Loa Observatory in 2023?,QUANTITY
+By how many degrees Celsius do scientists predict Arctic temperatures will rise more than the global average by 2100 under high emission scenarios?,QUANTITY
+What is the approximate amount of ice volume (in cubic kilometers) that Antarctica lost per year between 2015 and 2020 due to climate change?,QUANTITY
+How many gigatons of carbon are estimated to be released annually by global deforestation activities as a contribution to greenhouse gas emissions?,QUANTITY
+What is the projected increase in extreme weather events, such as hurricanes or floods, expected to rise globally by 2050 compared to the baseline period (1986-2005)?,QUANTITY
+How many parts per million (ppm) was CO2 concentration at its pre-industrial level before human activities significantly altered it?,QUANTITY
+What is the average amount of sea ice coverage in square kilometers lost each decade in the Arctic Ocean due to global warming?,QUANTITY
+By how much percent have heatwaves become more frequent globally since 1950 according to climate studies?,QUANTITY
+How many billion tons of carbon dioxide are estimated to be absorbed by oceans annually, affecting their pH levels and causing ocean acidification?,QUANTITY
+What is the percentage decrease in global glacier volume from 20th-century levels as of 2023 due to rising temperatures?,QUANTITY
+By how much percent have rainfall patterns changed globally over the past century with some regions experiencing more extreme precipitation events than others?,QUANTITY
+How many million hectares of forests are lost annually worldwide, contributing significantly to carbon emissions and exacerbating climate change issues?,QUANTITY
+What is the average increase in global surface temperature (in degrees Celsius) since the late 19th century due to human activities such as deforestation and burning fossil fuels?,QUANTITY
+By how many millimeters has the sea level risen globally on average since 1900, according to historical climate data records?,QUANTITY
+How much of the Earth’s surface temperature variation can be attributed directly to natural cycles versus anthropogenic factors over the past century?,QUANTITY
+When did the last Ice Age end?,TIME
+What year did the Earth experience the Little Ice Age?,TIME
+How long does it take for carbon dioxide levels to significantly affect climate patterns?,TIME
+In what decade was the Intergovernmental Panel on Climate Change (IPCC) established?,TIME
+At what time period did the Medieval Warm Period occur?,TIME
+When is the next expected El Niño event predicted to happen?,TIME
+How many years does it take for a glacier to form under typical conditions?,TIME
+What year marked the beginning of the Industrial Revolution, leading to increased CO2 emissions?,TIME
+During which century did the concept of global warming become widely recognized?,TIME
+When was the Paris Agreement on climate change officially adopted?,TIME
+In what time frame is it projected that Arctic sea ice will be gone during summer months?,TIME
+What year saw the first international conference held specifically to address climate change?,TIME
+How long does it take for changes in greenhouse gas concentrations to influence global temperatures significantly?,TIME
+When did humans first start noticing significant impacts of climate change on weather patterns globally?,TIME
+At what point in time is it predicted that sea levels will rise by 1 meter due to global warming?,TIME
+What year was the Kyoto Protocol, an international treaty meant to reduce greenhouse gas emissions, adopted?,TIME
+How many years ago did dinosaurs go extinct, marking a significant climate change event on Earth?,TIME
+When did scientists first observe and record the phenomenon of the ozone hole over Antarctica?,TIME
+By what time is it predicted that 20% of global species could be at risk due to climate change impacts?,TIME
+What year was the United Nations Framework Convention on Climate Change (UNFCCC) opened for signature?,TIME
+What painting captures the devastating impact of climate change on polar ice caps?,WORK_OF_ART
+Which sculpture reflects the theme of rising sea levels due to global warming?,WORK_OF_ART
+Can you name a digital art piece that highlights deforestation's role in climate change?,WORK_OF_ART
+Is there a mural that showcases the effects of extreme weather events caused by climate systems?,WORK_OF_ART
+What photograph series documents the transformation of landscapes due to climate shifts?,WORK_OF_ART
+Which film explores the life cycle and influence of El Niño on global climates?,WORK_OF_ART
+Could you mention an installation art piece that simulates the greenhouse effect?,WORK_OF_ART
+Is there a performance art show that dramatizes the consequences of melting glaciers?,WORK_OF_ART
+What graphic novel series illustrates the historical patterns of climate systems?,WORK_OF_ART
+Which contemporary dance choreography represents the struggle against climate change?,WORK_OF_ART
+Can you name an abstract painting that symbolizes the complexity of weather patterns?,WORK_OF_ART
+Is there a sculpture garden that depicts various climatic zones around the world?,WORK_OF_ART
+What book of poetry explores the emotional impact of living in altered climates?,WORK_OF_ART
+Which musical composition represents the seasonal changes caused by climate systems?,WORK_OF_ART
+Could you suggest an animated film that explains the concept of global warming to children?,WORK_OF_ART
+Is there a comic strip series that follows characters adapting to new climatic conditions?,WORK_OF_ART
+What virtual reality experience offers a glimpse into future climates influenced by current actions?,WORK_OF_ART
+Which contemporary art piece combines data visualization with climate change effects?,WORK_OF_ART
+Can you recommend an artist's portfolio that focuses on the biodiversity loss due to climate systems?,WORK_OF_ART
+Is there an orchestral work that captures the sounds of weather patterns throughout history?,WORK_OF_ART
+What are the primary components of Earth's climate system?,ORG
+How does deforestation impact global climate systems?,EVENT
+Which international agreement is aimed at combating climate change?,LAW
+Where are the major sources of greenhouse gas emissions located globally?,LOC
+What percentage of global warming can be attributed to human activities since the industrial revolution?,PERCENT
+Can you name a significant event that highlighted the urgency of climate action in the 21st century?,EVENT
+How many parts per million (ppm) is the current concentration of CO2 in the Earth's atmosphere?,QUANTITY
+What is the average global temperature increase predicted by the end of this century under high emission scenarios?,QUANTITY
+Which organization published the most recent comprehensive report on climate change impacts and mitigation strategies?,ORG
+When was the first international agreement signed to address climate change globally?,DATE
+How many countries are part of the Paris Agreement as of 2023?,CARDINAL
+What is the name of the latest report from the Intergovernmental Panel on Climate Change (IPCC)?,WORK_OF_ART
+Which region is expected to be most affected by rising sea levels according to climate models?,LOC
+How much did global temperatures increase over the last century compared to pre-industrial times?,QUANTITY
+What financial support mechanisms exist for developing countries to adapt to and mitigate climate change impacts?,MONEY
+Where can we find natural carbon sinks that help regulate Earth's climate system?,FAC
+Which gas, besides CO2, is a significant contributor to global warming due to its high heat-trapping potential?,PRODUCT
+How many years of data are typically analyzed by climate scientists to establish trends in climate change?,TIME
+What does the acronym IPCC stand for in the context of climate science organizations?,ORG
+Can you mention a key figure or scientist who has made significant contributions to our understanding of climate systems?,PERSON

@@ -1,3 +1,4 @@
+import logging
 import os
 
 from llama_cpp import Llama
@@ -22,6 +23,8 @@ class LLM:
         self.stop = stop
         self.echo = echo
 
+        self.logger = logging.getLogger(__name__)
+
     def answer(self, question: Question) -> Answer:
         """
         Generate an answer to the given question with the LLM model.
@@ -39,5 +42,7 @@ class LLM:
 
         print_info("Question:", question.text)
         print_info("Answer:", answer.text)
+        self.logger.info(f"question: {question.text}")
+        self.logger.info(f"answer: {answer.text}")
 
         return answer

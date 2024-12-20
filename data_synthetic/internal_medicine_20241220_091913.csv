@@ -1,0 +1,381 @@
+Question,Entity-Type
+What is the average age for the onset of hypertension in adults?,CARDINAL
+How many types of rheumatoid arthritis are recognized currently by internal medicine specialists?,CARDINAL
+At what heart rate (beats per minute) does atrial fibrillation typically occur in patients with no pre-existing heart conditions?,CARDINAL
+What percentage of patients diagnosed with type 2 diabetes also suffer from hypertension?,CARDINAL
+How many milligrams is the daily recommended dosage of aspirin for preventing cardiovascular disease according to internal medicine guidelines?,CARDINAL
+What is the typical white blood cell count (cells per cubic mm) in a healthy adult?,CARDINAL
+In terms of cholesterol management, what LDL level below is generally considered optimal by internal medicine standards?,CARDINAL
+How many stages are there in the classification of chronic kidney disease according to the National Kidney Foundation guidelines?,CARDINAL
+What percentage of patients with rheumatoid arthritis experience symptoms within their first 10 years of diagnosis?,CARDINAL
+How many hours per week is recommended for adults to engage in moderate physical activity, as advised by internal medicine experts to maintain heart health?,CARDINAL
+At what blood glucose level (mg/dL) is a person considered to have hyperglycemia according to internal medicine standards?,CARDINAL
+What is the minimum recommended duration of anticoagulation treatment in months for patients with atrial fibrillation who have no history of stroke or transient ischemic attack?,CARDINAL
+How many milliliters of blood are typically donated during a standard blood donation process, as regulated by health organizations?,CARDINAL
+What percentage of patients with newly diagnosed type 1 diabetes experience diabetic ketoacidosis at the time of diagnosis?,CARDINAL
+In internal medicine, what is the typical creatinine clearance rate (mL/min) for a healthy adult?,CARDINAL
+How many grams per day of sodium intake does the American Heart Association recommend for adults to maintain cardiovascular health?,CARDINAL
+What percentage of patients with chronic heart failure have a left ventricular ejection fraction below 40% at diagnosis?,CARDINAL
+In terms of BMI, what is considered obese according to internal medicine standards, which is above this value in adults?,CARDINAL
+How many days should an antibiotic course typically last for community-acquired pneumonia in adult patients without complications, as recommended by guidelines from the American Thoracic Society and Infectious Diseases Society of America?,CARDINAL
+What percentage of patients with systemic lupus erythematosus are women according to internal medicine studies?,CARDINAL
+When was the first case of novel coronavirus reported in 2019?,DATE
+What date did the American College of Physicians release new guidelines for diabetes management?,DATE
+On what date was the landmark study on statins and heart disease published in The Lancet?,DATE
+Can you provide the date when the Centers for Disease Control and Prevention (CDC) updated their recommendations for influenza vaccination?,DATE
+Which date marks the beginning of World Antibiotic Awareness Week, which is crucial for internal medicine practitioners?,DATE
+What was the release date of the latest internal medicine residency exam guidelines by ABIM (American Board of Internal Medicine)?,DATE
+On what specific date did the FDA approve a new hypertension medication in 2021?,DATE
+Can you tell me the date when the first virtual conference on internal medicine took place due to the pandemic?,DATE
+What is the date of the earliest known documentation of puerperal fever by Ignaz Semmelweis?,DATE
+On which date did the World Health Organization launch its global initiative for non-communicable diseases in 2018?,DATE
+Which specific date marks the release of updated guidelines on managing chronic kidney disease from the National Kidney Foundation in 2020?,DATE
+When was the groundbreaking study linking smoking to lung cancer published by the Journal of the American Medical Association (JAMA)?,DATE
+Could you provide the date when the first telemedicine consultation for internal medicine patients was conducted during the early stages of the pandemic?,DATE
+On what date did the National Institutes of Health (NIH) announce new funding opportunities for research in internal medicine in 2022?,DATE
+What is the exact date of the introduction of penicillin to clinical practice by Sir Alexander Fleming?,DATE
+Can you give me the date when a major study on the effects of diet on heart disease was published in the New England Journal of Medicine in 1986?,DATE
+When did the American Heart Association release their latest set of guidelines for managing high cholesterol levels?,DATE
+On which specific date was the first clinical trial for an arthritis medication initiated in 2005?,DATE
+Could you provide me with the date when a significant internal medicine congress or conference on diabetes management took place in 2019?,DATE
+What is the date of issuance for the newest guidelines by the American Diabetes Association regarding blood glucose monitoring technology in 2023?,DATE
+What are the key events in the progression of chronic kidney disease?,EVENT
+How does acute myocardial infarction typically present in elderly patients?,EVENT
+Describe the sequence of events leading to diabetic ketoacidosis.,EVENT
+What are common triggers for asthma exacerbations in adults?,EVENT
+Can you outline the stages involved in diagnosing hepatitis C infection?,EVENT
+How do healthcare providers manage a hypertensive crisis event?,EVENT
+What are the typical phases of treatment response in inflammatory bowel disease?,EVENT
+In what ways does influenza season impact hospital admissions for internal medicine patients?,EVENT
+Describe the process and timing of events during a stroke.,EVENT
+What triggers an allergic reaction that leads to anaphylaxis in some individuals?,EVENT
+How do rheumatoid arthritis flares typically unfold over time?,EVENT
+Can you explain the event sequence in developing acute pancreatitis?,EVENT
+What are the typical steps in managing a sepsis event in internal medicine?,EVENT
+Describe the events leading up to and during an adrenal crisis.,EVENT
+In internal medicine, how is the diagnosis of tuberculosis confirmed through sequential testing and examination events?,EVENT
+How does the body's immune response change over time during acute respiratory distress syndrome (ARDS)?,EVENT
+What are the key steps in managing a patient experiencing an event of acute heart failure?,EVENT
+Describe the process of diagnosing and treating an event of hyperglycemic crisis.,EVENT
+In what ways do internal medicine specialists monitor events related to cancer progression or remission?,EVENT
+How does internal medicine approach the management of events during a gastrointestinal hemorrhage episode?,EVENT
+What are the common diseases treated under Internal Medicine?,FAC
+How does Internal Medicine differ from Family Medicine in patient care approaches?,FAC
+Which specialists typically practice Internal Medicine and what conditions do they treat?,FAC
+Can you explain the role of Internal Medicine physicians in managing chronic illnesses like diabetes?,FAC
+In the context of Internal Medicine, how are diagnostic tools used to identify heart diseases?,FAC
+What methods does Internal Medicine use for the early detection of hypertension?,FAC
+How is internal medicine involved in the treatment and management of autoimmune disorders?,FAC
+Could you describe the importance of internal medicine in the field of geriatrics?,FAC
+In what ways does Internal Medicine address issues related to kidney diseases?,FAC
+What role does Internal Medicine play in managing patients with gastrointestinal disorders?,FAC
+How do Internal Medicine specialists contribute to cancer care and treatment strategies?,FAC
+Can you outline the process of internal medicine in diagnosing respiratory conditions such as asthma or COPD?,FAC
+What are some common diagnostic procedures used by Internal Medicine physicians for liver diseases?,FAC
+In what capacity does Internal Medicine deal with infectious diseases, especially in immunocompromised patients?,FAC
+How does Internal Medicine integrate preventive care into patient management strategies?,FAC
+Could you explain the significance of internal medicine in treating metabolic syndromes such as obesity and type 2 diabetes?,FAC
+What is the role of internal medicine physicians in managing complications associated with blood disorders?,FAC
+In what ways does Internal Medicine support patients undergoing chemotherapy or radiation therapy for cancer treatment?,FAC
+How does Internal Medicine engage in patient education to prevent common diseases like hypertension and diabetes?,FAC
+Could you discuss how Internal Medicine addresses mental health issues, particularly stress and anxiety, among its patients?,FAC
+What is the prevalence of hypertension among adults in Canada?,GPE
+How does Japan's healthcare system manage diabetes mellitus cases internally?,GPE
+Can you provide statistics on heart disease mortality rates in Germany?,GPE
+In which hospitals within Australia are advanced treatments for chronic obstructive pulmonary disease (COPD) available?,GPE
+What measures has the United Kingdom taken to reduce the incidence of cardiovascular diseases among its population?,GPE
+How does China's internal medicine practice vary from Western approaches in treating autoimmune diseases like lupus?,GPE
+Is there a notable increase in obesity-related health issues reported in Brazil recently?,GPE
+Which cities in India have seen significant advancements in internal medicine research and treatment of infectious diseases?,GPE
+What role has the healthcare infrastructure played in managing chronic conditions in France's rural areas?,GPE
+Could you discuss how Sweden manages its elderly population with multiple comorbidities from an internal medicine perspective?,GPE
+How effective is Italy’s approach to early detection and management of cancer through internal medicine practices?,GPE
+What are some innovative solutions developed by the United States for managing diabetes mellitus in urban areas?,GPE
+Have there been any notable changes in Canada's approach to treating mental health disorders within its internal medicine framework?,GPE
+How does Russia ensure access to quality internal medical care across all regions of the country?,GPE
+What initiatives has Mexico taken to improve internal medicine services for children with asthma and other respiratory conditions?,GPE
+In what ways has South Africa adapted its internal medicine protocols to address HIV/AIDS effectively within the population?,GPE
+Can you describe the internal medicine strategies employed by Turkey in managing seasonal allergies and chronic respiratory diseases?,GPE
+How does Thailand manage the treatment of liver cirrhosis, a common internal medicine condition, across different provinces?,GPE
+What are some challenges faced by Nigeria's healthcare system in providing adequate internal medicine services to its diverse population?,GPE
+How has Spain adapted its internal medicine practices in response to the increasing prevalence of metabolic syndrome among adults?,GPE
+What does the term "hypertension" mean in internal medicine?,LANGUAGE
+Can you explain what "diabetes mellitus" refers to within the scope of internal medicine?,LANGUAGE
+In internal medicine, how is the condition known as "chronic obstructive pulmonary disease (COPD)" defined?,LANGUAGE
+Could you describe what "myocardial infarction" means in the context of internal medicine?,LANGUAGE
+What does "hepatitis B" indicate when discussed under the field of internal medicine?,LANGUAGE
+How would you define "rheumatoid arthritis" as it pertains to internal medicine practices?,LANGUAGE
+In terms of internal medicine, what is meant by the term "hyperlipidemia"?,LANGUAGE
+Can you elaborate on what "infectious mononucleosis" signifies in internal medicine?,LANGUAGE
+What does "hypothyroidism" refer to when talking about diseases treated within internal medicine?,LANGUAGE
+Could you explain the meaning of "asthma" as a condition studied and managed by internal medicine specialists?,LANGUAGE
+In the context of internal medicine, what is implied by the term "irritable bowel syndrome (IBS)"?,LANGUAGE
+What does "renal failure" mean in the language of internal medicine?,LANGUAGE
+How would you describe "autoimmune hepatitis" within the scope of internal medicine discussions?,LANGUAGE
+Can you provide a definition for "pneumonia" as it is used in internal medicine settings?,LANGUAGE
+In internal medicine, what is meant by "peptic ulcer disease" (PUD)?,LANGUAGE
+What does "multiple sclerosis" signify in terms of neurological conditions studied within the field of internal medicine?,LANGUAGE
+Could you explain the term "cirrhosis" and its implications in internal medicine practice?,LANGUAGE
+How would one define "congestive heart failure" as used by specialists in internal medicine?,LANGUAGE
+In internal medicine, what does "anemia" refer to when considering blood-related disorders?,LANGUAGE
+What is the meaning of "thyroid storm," a condition often addressed within internal medicine practices?,LANGUAGE
+What are the legal requirements for physicians specializing in internal medicine to prescribe controlled substances?,LAW
+Can an internal medicine physician be held liable under medical malpractice law if they fail to diagnose a treatable condition during a routine check-up?,LAW
+Under which federal or state laws must internal medicine practitioners report cases of communicable diseases to public health authorities?,LAW
+What are the legal implications for an internal medicine doctor who prescribes medication without proper diagnosis and consent from the patient?,LAW
+How do HIPAA regulations impact how internal medicine doctors handle patient information and communications regarding treatment plans?,LAW
+According to medical malpractice laws, what level of negligence must be proven in a lawsuit against an internal medicine physician for misdiagnosis or delayed diagnosis?,LAW
+What legal actions can be taken if an internal medicine doctor fails to comply with the mandatory standards set by the Joint Commission on Accreditation of Healthcare Organizations (JCAHO)?,LAW
+Are there specific state laws that govern how long medical records must be retained in the field of internal medicine?,LAW
+How do patient consent laws affect the way internal medicine doctors handle elective procedures or non-emergency treatments for their patients?,LAW
+In what ways can an internal medicine physician's actions lead to a violation of federal anti-kickback statutes?,LAW
+What are the legal repercussions for an internal medicine doctor who refuses to provide emergency care based on the patient's ability to pay?,LAW
+How does the law address conflicts of interest when internal medicine physicians have financial relationships with pharmaceutical companies or device manufacturers?,LAW
+Under which laws can an internal medicine physician be required to testify in court regarding a patient's medical condition or treatment without their consent?,LAW
+What legal measures are available for patients who believe they have been discriminated against by an internal medicine doctor based on race, gender, or other protected characteristics?,LAW
+In the event of a medical error, what laws allow patients to seek compensation from the hospital or the internal medicine physician responsible for their care?,LAW
+What legal framework guides the distribution of educational materials about disease prevention and treatment in primary care settings by internal medicine doctors?,LAW
+According to state law, how much time must an internal medicine doctor provide a patient with prior to discontinuing services for non-payment or other reasons?,LAW
+How does federal and state law impact the ability of internal medicine physicians to practice telemedicine across state lines?,LAW
+What legal actions can be taken against an internal medicine physician who fails to maintain necessary credentials or licenses while practicing medicine?,LAW
+Under which laws are internal medicine doctors required to participate in continuing medical education (CME) and how is compliance monitored?,LAW
+What are the primary responsibilities of an internal medicine physician at Mayo Clinic?,LOC
+How does Johns Hopkins Hospital manage complex cases in internal medicine?,LOC
+What specific services does Internal Medicine Department at Cleveland Clinic offer to their patients?,LOC
+Can you describe the role of St. Luke's Health System in advancing internal medicine practices?,LOC
+What innovative treatments for chronic diseases are available at Boston Medical Center's Internal Medicine division?,LOC
+How has Brigham and Women's Hospital contributed to advancements in internal medicine research?,LOC
+What kind of support systems does UCLA Health have in place for patients with multiple internal medicine issues?,LOC
+How does NewYork-Presbyterian Hospital tailor its internal medicine services to meet patient needs?,LOC
+In what ways does Cedars-Sinai Medical Center integrate technology into their internal medicine care?,LOC
+What is the approach of Kaiser Permanente's Internal Medicine specialists towards preventive healthcare?,LOC
+How does Scott & White Healthcare ensure comprehensive treatment for patients in internal medicine?,LOC
+Can you explain how UC San Francisco Health implements patient-centered care models in its internal medicine division?,LOC
+What are some unique features of the Internal Medicine program at The Ohio State University Wexner Medical Center?,LOC
+How does Geisinger Health System prioritize chronic disease management within their internal medicine services?,LOC
+In what ways has Massachusetts General Hospital influenced the field of internal medicine through its clinical practices?,LOC
+Can you discuss the role of Banner Health in providing accessible and high-quality internal medicine care?,LOC
+What distinguishes the Internal Medicine department at Rush University Medical Center from others in Chicago?,LOC
+How does UChicago Medicine approach internal medicine consultations for patients with complex conditions?,LOC
+What makes the Internal Medicine services at Providence St. Joseph Health stand out among other hospitals?,LOC
+Can you highlight any recent achievements of the Internal Medicine team at Northwestern Memorial Hospital?,LOC
+What is the average cost of a routine check-up in internal medicine?,MONEY
+How much does an MRI scan typically cost for diagnosing internal diseases?,MONEY
+What are the estimated costs for treating hypertension with medication annually?,MONEY
+Can you provide the approximate price range for a lipid profile test?,MONEY
+How expensive is a session of cognitive behavioral therapy for managing stress-related illnesses in internal medicine?,MONEY
+What's the average cost for a patient to receive a flu vaccine during the high season at an internal medicine clinic?,MONEY
+What does it typically cost to get a complete blood count (CBC) test performed at an internal medicine facility?,MONEY
+How much would it cost on average for a patient to be treated with insulin therapy in internal medicine for one month?,MONEY
+Can you estimate the annual medication expenses for managing Type 2 diabetes without complications in internal medicine?,MONEY
+What is the typical out-of-pocket expense for an endoscopy procedure conducted by an internist?,MONEY
+How much does a consultation with a specialist in internal medicine usually cost?,MONEY
+What are the costs associated with a one-month supply of statins prescribed for high cholesterol levels?,MONEY
+Can you tell me what the average co-pay is for a patient's visit to an internal medicine physician?,MONEY
+What would be the expected cost for a full panel of thyroid function tests in an internal medicine setting?,MONEY
+How much does it usually cost for a course of antibiotics prescribed by an internist for a bacterial infection?,MONEY
+Can you provide information on how much it costs to undergo a stress test at an internal medicine center?,MONEY
+What is the estimated price range for a patient to receive a bone density scan related to internal medical conditions like osteoporosis?,MONEY
+How much would a typical ECG (Electrocardiogram) cost when performed by an internist as part of heart health assessment?,MONEY
+Can you give me an idea of what the co-insurance might be for a patient undergoing dialysis treatment in internal medicine due to kidney failure?,MONEY
+What is the estimated yearly cost for medication management alone for chronic heart disease patients under the care of an internist?,MONEY
+What is the role of the American College of Physicians in setting standards for internal medicine practice?,NORP
+How does the British Society of Gastroenterology contribute to the advancement of internal medicine within its country?,NORP
+Can you describe the impact of the Canadian Internal Medicine Association on training programs for physicians in Canada?,NORP
+What initiatives has the Australian and New Zealand Intensive Care Society taken to improve patient care in intensive care units across Australia and New Zealand?,NORP
+In what ways does the Japanese Society of Internal Medicine influence medical research and practice in Japan?,NORP
+How do the policies set by the German Association for General Internal Medicine affect the healthcare system in Germany?,NORP
+What are some key contributions of the French Society of Cardiology to cardiological practices within France?,NORP
+Could you explain how the Indian Medical Association supports internal medicine practitioners across India?,NORP
+What role does the Chinese Medical Doctor's Association play in shaping internal medicine standards in China?,NORP
+How has the Korean Academy of Family Medicine influenced the practice of internal medicine in South Korea?,NORP
+Can you discuss any recent developments by the Italian Society of Internal Medicine that have impacted healthcare delivery in Italy?,NORP
+What are some significant ways the Brazilian Society of Internal Medicine has contributed to medical education and research within Brazil?,NORP
+How does the Mexican College of Physicians support internal medicine practitioners throughout Mexico?,NORP
+In what capacity does the Spanish Association of Primary Care Physicians engage with internal medicine specialists in Spain?,NORP
+What is the significance of the Swiss Society for Internal Medicine in enhancing medical practices and research in Switzerland?,NORP
+How does the Dutch College of General Practitioners collaborate with internal medicine experts to improve healthcare services in the Netherlands?,NORP
+Could you provide insights into how the Swedish Association of Physicians contributes to advancements in internal medicine within Sweden?,NORP
+What are some notable initiatives by the Austrian Society for Internal Medicine that have influenced medical education and practice in Austria?,NORP
+How does the Norwegian Medical Association ensure high standards in internal medicine across Norway?,NORP
+In what ways has the Finnish Medical Association supported internal medicine practitioners in Finland through advocacy, research, or educational programs?,NORP
+What is the first step in diagnosing a patient with suspected internal medicine conditions?,ORDINAL
+Which of the five vital signs is often monitored in patients under internal medicine care?,ORDINAL
+In the hierarchy of evidence-based medicine, what is the second level of clinical guideline recommendations based on?,ORDINAL
+During a physical examination by an internist, which is the third step typically taken after initial patient history collection?,ORDINAL
+What is the fourth most common chronic disease managed in internal medicine that affects adults in the United States?,ORDINAL
+In the differential diagnosis process, what is the first consideration when evaluating a new symptom in a patient with multiple health issues?,ORDINAL
+When managing acute coronary syndrome patients, which is the second line of treatment typically considered after initial stabilization?,ORDINAL
+Among the top five causes of death managed within internal medicine, what is the third cause affecting adults over 65 years old?,ORDINAL
+In the context of diabetes management, what is the first action a patient should take to control their blood sugar levels daily?,ORDINAL
+What is the second most common method used by internists for monitoring kidney function in patients with chronic diseases?,ORDINAL
+Which is the third step taken during the process of diagnosing thyroid disorders in internal medicine?,ORDINAL
+In managing hypertension, what is the first medication class that is typically recommended as a starting point for treatment?,ORDINAL
+Among the top five cardiovascular risk factors evaluated by internists, which is the second most significant according to current guidelines?,ORDINAL
+What is the fourth step in the management plan for a patient diagnosed with community-acquired pneumonia?,ORDINAL
+In the sequential organ failure assessment (SOFA) score used in internal medicine, what is the first organ system typically assessed for dysfunction in critically ill patients?,ORDINAL
+For patients with chronic obstructive pulmonary disease (COPD), which is the second most important factor to monitor regularly aside from oxygen saturation levels?,ORDINAL
+In a three-step process of evaluating a patient for suspected deep vein thrombosis, what is the first test usually ordered by an internist?,ORDINAL
+What is the third most common cause of hospital admission in internal medicine departments across the United States?,ORDINAL
+Among the five stages of chronic kidney disease (CKD), which stage is typically characterized as the second stage where intervention becomes more critical for preventing progression to renal failure?,ORDINAL
+In a comprehensive treatment plan for type 2 diabetes, what is the third component often integrated into patient care after diet and exercise modifications?,ORDINAL
+What is the role of the American College of Physicians in setting guidelines for internal medicine?,ORG
+How does the Internal Medicine Society of America contribute to research advancements in the field of internal medicine?,ORG
+Can you explain the impact of the European Society of Internal Medicine on medical education globally?,ORG
+What initiatives has the Royal College of Physicians undertaken to improve patient care in internal medicine?,ORG
+In what ways does the American Board of Internal Medicine ensure quality and standards among its certified physicians?,ORG
+How does the Association of American Medical Colleges support students interested in specializing in internal medicine?,ORG
+What are some key research areas that the Society of General Internal Medicine focuses on to advance clinical practice?,ORG
+Could you describe how the Internal Medicine Association supports its members in conducting clinical trials and research studies?,ORG
+How has the International Academy of Pathology collaborated with other organizations to enhance diagnostic accuracy in internal medicine?,ORG
+What are some recent guidelines provided by the American College of Physicians regarding the management of chronic diseases in internal medicine?,ORG
+In what ways does the European Federation of Internal Medicine contribute to the harmonization of medical training across Europe?,ORG
+How has the World Congress of Internal Medicine influenced global policies and practices within the field of internal medicine?,ORG
+What programs does the Royal Australasian College of Physicians offer to improve healthcare outcomes in internal medicine for underserved populations?,ORG
+Could you provide examples of how the Canadian Society of Internal Medicine supports its members in addressing public health challenges at a national level?,ORG
+How has the Asia Pacific Academy of Clinical Microbiology and Infectious Diseases contributed to internal medicine through advancements in infectious disease treatment?,ORG
+What are some ways that the Association of Professors of Internal Medicine in Europe foster collaboration between academic institutions and hospitals for better patient care outcomes?,ORG
+In what manner does the Japanese Society of Internal Medicine engage with international organizations to exchange knowledge and improve medical practices globally?,ORG
+Could you explain how the International Congress on Circulatory Failure has impacted research and treatment strategies within internal medicine?,ORG
+How does the Brazilian Society of Internal Medicine contribute to improving healthcare access and quality for patients in Brazil through its initiatives?,ORG
+What role has the African Federation for Cardiology played in advancing cardiological care, a sub-specialty of internal medicine, across Africa?,ORG
+What percentage of patients with hypertension also suffer from diabetes?,PERCENT
+In adults diagnosed with COPD, what percent show symptoms of depression?,PERCENT
+Among individuals undergoing chemotherapy, what is the approximate percentage that develops neutropenia?,PERCENT
+What percent of obese individuals are at risk for developing type 2 diabetes within a decade?,PERCENT
+Approximately what percentage of rheumatoid arthritis patients also develop interstitial lung disease?,PERCENT
+What percent of adults with irritable bowel syndrome report having severe symptoms?,PERCENT
+In the general population, what is the estimated percentage of individuals who are affected by hyperthyroidism?,PERCENT
+How much percent does alcohol consumption increase the risk of developing liver cirrhosis in chronic drinkers?,PERCENT
+Among patients with heart failure, what approximate percentage also have hypertension?,PERCENT
+What percent of people with HIV develop AIDS within 10 years if not treated?,PERCENT
+In clinical trials for a new cholesterol-lowering drug, what percentage of participants experienced significant reduction in LDL levels?,PERCENT
+Approximately what percentage of patients with asthma are likely to suffer from comorbidities such as rhinitis or eczema?,PERCENT
+What is the estimated percent increase in risk for stroke among individuals who have atrial fibrillation compared to those without it?,PERCENT
+Among smokers, what approximate percentage will develop chronic obstructive pulmonary disease (COPD) over their lifetime?,PERCENT
+How much of a percentage do lifestyle changes reduce the risk of type 2 diabetes in high-risk populations?,PERCENT
+What percent of patients with rheumatoid arthritis achieve sustained remission after starting biologic therapy?,PERCENT
+In patients with uncontrolled hypertension, what approximate percentage have resistant hypertension that requires more than three antihypertensive drugs to control blood pressure?,PERCENT
+Among those diagnosed with major depressive disorder, what is the estimated percent of individuals who also suffer from anxiety disorders?,PERCENT
+What percent of adults in developed countries are affected by gastroesophageal reflux disease (GERD)?,PERCENT
+In a study on the effectiveness of vaccines for influenza, what percentage reduction was observed in hospital admissions among vaccinated elderly patients compared to those not vaccinated?,PERCENT
+What are the key responsibilities of a cardiologist in internal medicine?,PERSON
+How does an endocrinologist diagnose and manage diabetes mellitus in their practice?,PERSON
+In what ways can a gastroenterologist contribute to the treatment of inflammatory bowel disease?,PERSON
+What role does a nephrologist play in the management of chronic kidney disease?,PERSON
+Can you describe the process by which a pulmonologist assesses lung function in patients with COPD?,PERSON
+How important is it for an infectious disease specialist to stay updated on new antibiotic resistance trends?,PERSON
+What are some of the critical skills that a hematologist needs when treating hemophilia patients?,PERSON
+In what ways do rheumatologists tailor treatment plans for patients suffering from autoimmune diseases like lupus?,PERSON
+What are the essential considerations for a neurologist when diagnosing and managing multiple sclerosis?,PERSON
+How does a hepatologist ensure effective management of liver cirrhosis in their patient population?,PERSON
+Can you explain how an internist would approach a case of unexplained fever in a middle-aged male?,PERSON
+What steps does a critical care medicine specialist take to manage sepsis in ICU patients?,PERSON
+In what ways can a geriatrician ensure the well-being of elderly patients with multiple comorbidities?,PERSON
+How do oncologists balance aggressive cancer treatments with maintaining quality of life for their patients?,PERSON
+Can you describe how an allergist-immunologist would diagnose and manage asthma in pediatric patients?,PERSON
+What are some of the challenges faced by a pulmonologist when treating cystic fibrosis patients?,PERSON
+In what ways can a dermatologist contribute to internal medicine through diagnosing systemic diseases via skin manifestations?,PERSON
+How does an infectious disease specialist approach the diagnosis of a rare tropical infection?,PERSON
+What role does a general internist play in coordinating care for complex cases involving multiple organ systems?,PERSON
+Can you explain how a pulmonologist would manage a patient with both asthma and chronic obstructive pulmonary disease (COPD)?,PERSON
+What are the most recommended internal medicine textbooks for medical students?,PRODUCT
+Which brand of stethoscopes is preferred among internal medicine practitioners?,PRODUCT
+Can you recommend a reliable blood glucose monitor for patients with diabetes managed by internal medicine specialists?,PRODUCT
+What type of white coats are commonly used by internal medicine doctors in their clinics?,PRODUCT
+Which digital sphygmomanometers provide the most accurate readings according to internal medicine experts?,PRODUCT
+Are there any advanced ECG machines specifically designed for use in internal medicine settings?,PRODUCT
+What is the best portable ultrasound device that can be used by internal medicine physicians during patient consultations?,PRODUCT
+Can you suggest a reliable line of syringes that are frequently used in internal medicine departments?,PRODUCT
+Which brands of intravenous infusion pumps are most trusted by internal medicine professionals?,PRODUCT
+What kind of high-quality reflex hammers are popular among internal medicine doctors for physical examinations?,PRODUCT
+Are there any specific types of medical calculators preferred by internal medicine specialists for quick diagnosis calculations?,PRODUCT
+Which brands of laryngoscopes are commonly used in the respiratory assessments performed by internal medicine practitioners?,PRODUCT
+Can you recommend a reliable brand of ophthalmoscopes used by internal medicine physicians for eye examinations?,PRODUCT
+What type of durable and accurate thermometers do internal medicine doctors usually use during patient visits?,PRODUCT
+Which brands of nebulizers are preferred by internal medicine specialists for the treatment of respiratory conditions in patients?,PRODUCT
+Are there any advanced spirometers specifically recommended for internal medicine practitioners to assess lung function?,PRODUCT
+Can you suggest a reliable brand of otoscopes that is frequently used in internal medicine clinics for ear examinations?,PRODUCT
+What kind of high-quality, durable stethoscope cases are commonly preferred by internal medicine doctors?,PRODUCT
+Which brands of pulse oximeters provide accurate readings and are widely trusted by internal medicine practitioners?,PRODUCT
+Are there any specific brands of sphygmomanometer cuffs that internal medicine specialists recommend for better blood pressure measurement accuracy?,PRODUCT
+What is the average blood pressure reading for adults considered to be within normal range?,QUANTITY
+How many grams of sodium are recommended daily for an adult with hypertension according to internal medicine guidelines?,QUANTITY
+In patients with type 2 diabetes, what is the target A1C level that doctors aim to achieve through treatment and lifestyle modifications?,QUANTITY
+What is the typical dosage in milligrams of atorvastatin prescribed for primary prevention of cardiovascular disease in adults?,QUANTITY
+How many liters of blood does a healthy human heart pump per minute on average under resting conditions?,QUANTITY
+According to internal medicine, what percentage reduction in LDL cholesterol is generally considered effective in reducing the risk of coronary artery disease with statin therapy?,QUANTITY
+What is the typical duration in weeks for which a course of antibiotics might be prescribed for community-acquired pneumonia according to standard guidelines?,QUANTITY
+How many milligrams per deciliter (mg/dL) should fasting blood glucose levels typically not exceed to be considered normal by internal medicine standards?,QUANTITY
+In terms of weight loss, what percentage of their body weight are patients with severe obesity expected to lose as part of a treatment plan recommended by an internist?,QUANTITY
+What is the maximum heart rate in beats per minute (bpm) that can typically be achieved during maximal exercise for a healthy 30-year-old individual according to internal medicine?,QUANTITY
+How many milligrams of aspirin are commonly prescribed daily as a preventive measure against cardiovascular events for patients at high risk, based on internal medicine guidelines?,QUANTITY
+What is the standard minimum number of hours of sleep per night recommended by internal medicine professionals to maintain optimal health and prevent chronic diseases?,QUANTITY
+In adults over 65 years old, what is the typical increase in systolic blood pressure in millimeters of mercury (mmHg) that might be considered within normal limits due to aging effects according to internal medicine?,QUANTITY
+How many units of insulin are typically required daily by a patient with type 1 diabetes to maintain optimal glycemic control, based on average clinical observations in internal medicine?,QUANTITY
+What is the typical length in months of a course of antiviral therapy for chronic hepatitis C before reassessment of liver function and viral load according to current internal medicine guidelines?,QUANTITY
+In patients undergoing treatment for hypothyroidism, what TSH (thyroid-stimulating hormone) level in mIU/L is generally considered within the target range by endocrinologists in internal medicine?,QUANTITY
+How many milligrams of calcium are recommended daily as a supplement to maintain bone health for postmenopausal women according to internal medicine guidelines on osteoporosis prevention and management?,QUANTITY
+What is the typical percentage reduction in triglyceride levels aimed at through lifestyle changes and pharmacotherapy in patients with hypertriglyceridemia, based on current internal medicine recommendations?,QUANTITY
+How many days of quarantine are typically recommended for individuals exposed to tuberculosis before undergoing further diagnostic tests according to internal medicine protocols?,QUANTITY
+What is the standard minimum body mass index (BMI) considered normal by internal medicine professionals when assessing adult patients for potential nutritional deficiencies or obesity-related health risks?,QUANTITY
+What are the typical recovery times for patients undergoing chemotherapy in internal medicine?,TIME
+How long does it usually take for symptoms of hypertension to manifest if left untreated?,TIME
+In internal medicine, what is the average duration a patient needs to be on antibiotics for pneumonia?,TIME
+What is the recommended duration for follow-up appointments after being diagnosed with diabetes?,TIME
+How often should patients with chronic kidney disease undergo medical check-ups?,TIME
+For how long are antiviral medications prescribed in the treatment of hepatitis C in internal medicine?,TIME
+In the context of internal medicine, what is the typical time frame for the progression from prediabetes to type 2 diabetes?,TIME
+What is the usual duration of bed rest advised for a patient recovering from a myocardial infarction?,TIME
+How long should patients with irritable bowel syndrome avoid certain foods that trigger symptoms before seeing an improvement?,TIME
+In internal medicine, what is the average time frame for the effectiveness of immunotherapy in cancer treatment to be observed?,TIME
+What is the typical length of stay recommended for patients recovering from elective surgery related to gastrointestinal diseases?,TIME
+How long does it take on average for a patient with asthma to stabilize after starting an appropriate medication regimen?,TIME
+In internal medicine, what time frame is considered normal for the healing process of peptic ulcers without complications?,TIME
+What is the expected duration for a patient to experience reduced symptoms after undergoing a course of corticosteroid treatment for rheumatoid arthritis?,TIME
+How long do doctors in internal medicine typically wait before considering an alternative antibiotic when treating a bacterial infection if there's no improvement?,TIME
+In the management of hyperthyroidism, what is the typical duration for which antithyroid medications are prescribed before reassessment?,TIME
+What is the recommended time interval between vaccinations for adults with compromised immune systems in internal medicine practices?,TIME
+How long does it generally take for a patient with chronic obstructive pulmonary disease (COPD) to show signs of improvement after starting inhaler therapy?,TIME
+In internal medicine, what is the average duration of symptoms before a diagnosis of inflammatory bowel disease can be confidently made based on clinical and diagnostic criteria?,TIME
+What time frame does a typical antibiotic treatment course for community-acquired pneumonia last in adult patients according to guidelines from internal medicine organizations?,TIME
+What painting captures the essence of treating internal diseases through traditional methods in Internal Medicine?,WORK_OF_ART
+How is the concept of chronic disease management depicted in a famous Internal Medicine-themed sculpture?,WORK_OF_ART
+WhichInternal Medicine-related mural showcases the advancements in diagnostic techniques over time?,WORK_OF_ART
+Can you identify anInternal Medicine-centric installation that reflects on patient-doctor relationships?,WORK_OF_ART
+What lithograph highlights the importance of preventive care within the field of Internal Medicine?,WORK_OF_ART
+Is there a renownedInternal Medicine-based photograph series that focuses on the human side of healthcare?,WORK_OF_ART
+WhichInternal Medicine-inspired tapestry emphasizes the complexity of the human body's internal systems?,WORK_OF_ART
+Could you mention anInternal Medicine-focused engraving that symbolizes the journey from diagnosis to recovery?,WORK_OF_ART
+WhatInternal Medicine-connected art piece uses abstract forms to represent the battle against internal diseases?,WORK_OF_ART
+Is there a glasswork creation in Internal Medicine that visualizes the intricate network of organs and systems within the human body?,WORK_OF_ART
+How does anInternal Medicine-featured mosaic illustrate the role of lifestyle factors in chronic conditions management?,WORK_OF_ART
+WhatInternal Medicine-linked sculpture represents the progression from symptom to treatment in internal diseases?,WORK_OF_ART
+Could you name a print series centered on Internal Medicine that captures various stages of healing and recovery process?,WORK_OF_ART
+Is there anInternal Medicine-engraved artifact that embodies the concept of holistic medicine in treating internal illnesses?,WORK_OF_ART
+WhatInternal Medicine-oriented fresco depicts different types of internal diseases and their impact on patients' lives?,WORK_OF_ART
+Could you point out a woodcut artwork related to Internal Medicine that focuses on the interaction between doctors and patients during consultations?,WORK_OF_ART
+Is there anInternal Medicine-based installation art piece which captures the emotional journey of patients battling chronic diseases?,WORK_OF_ART
+WhatInternal Medicine-focused textile art piece symbolizes the connection between internal medicine practices and traditional healing methods?,WORK_OF_ART
+Could you discuss aInternal Medicine-connected digital artwork that showcases modern diagnostic tools used in detecting internal diseases?,WORK_OF_ART
+Is there anInternal Medicine-linked painting series that explores the theme of resilience among patients with serious chronic conditions?,WORK_OF_ART
+What are the most common diseases treated in internal medicine?,PRODUCT
+How many types of specialists work under the umbrella of internal medicine?,CARDINAL
+Which historical event marked a significant advancement in internal medicine practices?,EVENT
+Can internal medicine specialists practice in any medical facility, or is it limited to certain ones?,FAC
+Where was the first department of internal medicine established in an educational institution?,LOC
+What percentage of medical students choose internal medicine as their specialty?,PERCENT
+Which organization sets the standards for training in internal medicine globally?,ORG
+How much does a typical internal medicine residency program cost in the United States?,MONEY
+Who is considered the father of modern internal medicine?,PERSON
+What time of day do most internal medicine clinics see the highest number of patients?,TIME
+In which language was the first textbook on internal medicine written?,LANGUAGE
+Which law regulates the practice of internal medicine in Europe?,LAW
+How many years does it take to become a board-certified internist after medical school?,ORDINAL
+What is the name of a notable work of art depicting an internal medicine consultation?,WORK_OF_ART
+Can you name a famous hospital known for its internal medicine department?,FAC
+Which non-governmental organization has significantly contributed to advancing research in internal medicine?,NORP
+How does internal medicine differ from family medicine in terms of patient care focus?,PRODUCT
+What quantity of patients do internal medicine specialists typically see per day on average?,QUANTITY
+Are there any specific dates recognized for celebrating the achievements of internal medicine globally?,DATE
+Which medical conference is a must-attend event for professionals in the field of internal medicine?,EVENT

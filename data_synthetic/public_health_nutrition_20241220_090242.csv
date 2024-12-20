@@ -1,0 +1,380 @@
+Question,Entity-Type
+What percentage of the global population is estimated to suffer from malnutrition?,CARDINAL
+How many calories per day are recommended for an average adult woman?,CARDINAL
+Approximately how many children under five years old are affected by stunting worldwide?,CARDINAL
+What is the daily iron requirement in milligrams for pregnant women?,CARDINAL
+In a balanced diet, what percentage of total energy intake should come from carbohydrates?,CARDIANL
+How many grams of dietary fiber per day are recommended to prevent constipation and other health problems?,CARDINAL
+Approximately how many people worldwide suffer from vitamin A deficiency which is the leading cause of preventable blindness in children?,CARDINAL
+What is the average daily salt consumption, in grams, that WHO recommends for adults to reduce their risk of cardiovascular disease?,CARDINAL
+How many deaths per year are attributed to diets high in trans fats globally?,CARDINAL
+According to the World Health Organization, how many kilograms should a newborn gain by age 6 months to be considered healthy growth?,CARDINAL
+What is the recommended daily intake of calcium in milligrams for adults to maintain bone health?,CARDINAL
+How many million people worldwide are obese according to the latest WHO statistics?,CARDINAL
+The World Health Organization recommends no more than how many grams of sugar per day for a 2000-calorie diet?,CARDINAL
+Approximately how many deaths globally each year can be attributed to poor diets and nutrition-related risk factors?,CARDINAL
+How many essential amino acids must be obtained through the diet as they cannot be synthesized by the human body?,CARDINAL
+What is the minimum number of fruits and vegetables in grams recommended per day for an adult to reduce chronic disease risks according to WHO guidelines?,CARDINAL
+The daily recommendation of vitamin C intake in milligrams for non-smoking adults is approximately how much?,CARDINAL
+How many minutes per week does WHO recommend for physical activity as part of public health nutrition guidelines?,CARDINAL
+About how many children under five are overweight or obese globally, a condition associated with high-calorie diets and low physical activity levels?,CARDINAL
+What percentage of the world’s population is estimated to be iron deficient, leading to anemia and other severe health issues?,CARDINAL
+When was the first World Public Health Nutrition Conference held?,DATE
+What year did the global initiative to reduce salt intake in the diet begin?,DATE
+In which year was the concept of "Five-a-Day" for fruit and vegetable consumption popularized globally?,DATE
+Which year marked the start of the Global Strategy on Diet, Physical Activity and Health by WHO?,DATE
+When did the United Nations declare access to adequate food a component of the right to an adequate standard of living?,DATE
+What date was the International Day of Action for Women's Health established?,DATE
+In what year did the World Health Organization launch its Global Database on the Implementation of Nutrition Actions (GINA)?,DATE
+When was the first National School Lunch Program Act passed in the United States?,DATE
+Which year saw the introduction of the Dietary Guidelines for Americans by the U.S. Department of Agriculture and the U.S. Department of Health and Human Services?,DATE
+On what date did the World Health Organization announce a global target to reduce premature mortality from non-communicable diseases by 25% by 2025?,DATE
+When was the International Day of Epidemic Preparedness first observed?,DATE
+What year marked the introduction of fortification standards for salt with iodine in many countries globally?,DATE
+In which year did the Codex Alimentarius Commission, a joint FAO/WHO body, publish its first set of Guidelines on Nutrition Labelling and Claims?,DATE
+When was the International Day of Older Persons, aimed at addressing nutrition and health issues specific to older populations, first celebrated?,DATE
+What date marks the annual World Breastfeeding Week, which focuses on public health nutrition for infants?,DATE
+Which year did the Global Alliance for Improved Nutrition (GAIN) launch its program to combat hidden hunger through food fortification and dietary diversification?,DATE
+When was the first "World Food Day" observed, highlighting issues related to global nutrition and food security?,DATE
+What date does the International Day of Awareness of Food Loss and Waste observe annually?,DATE
+In which year did the World Health Organization issue its recommendation for sugar intake reduction in adults and children?,DATE
+When was the first National Nutrition Month celebrated in the United States, aimed at bringing attention to the importance of making informed food choices and developing sound eating and physical activity habits?,DATE
+What were the key outcomes of the 2015 World Public Health Nutrition Conference?,EVENT
+When was the first National Nutritional Month celebrated in the United States?,EVENT
+How did the International Congress on Vegetarian Nutrition influence public health policies in its latest edition?,EVENT
+Which significant changes occurred during the European Public Health Nutrition Week in 2018?,EVENT
+What initiatives were launched at the Global Summit on Food and Nutrition Security in 2019?,EVENT
+Can you describe the impact of the International Day of School Meals on public health nutrition efforts globally since its inception?,EVENT
+How did the World Health Organization's Nutrition Action Plan launch event shape global nutritional standards in 2020?,EVENT
+What was discussed at the Food and Agriculture Policy Dialogue for Public Health during the United Nations General Assembly in 2017?,EVENT
+Describe the outcomes of the International Conference on Maternal, Adolescent, Reproductive and Child Nutrition held in 2016.,EVENT
+How did the Nutrition and Physical Activity Advocacy Summit impact public health policies in 2014?,EVENT
+What were the main debates at the Public Health Nutrition Symposium held at Harvard University in 2013?,EVENT
+Can you summarize the actions taken during the United Nations High-Level Meeting on Non-Communicable Diseases related to nutrition in 2018?,EVENT
+Which key decisions came out of the International Food Policy Research Institute's Annual Conference focused on Public Health Nutrition in 2021?,EVENT
+What was the role of the WHO's Global Forum on Food Safety and Nutrition held in Geneva in shaping global nutritional guidelines in 2019?,EVENT
+How did the International Congress on Dietetics contribute to public health nutrition advancements when it was last hosted in Europe in 2018?,EVENT
+Which innovations were highlighted during the World Nutrition Congress' session on Public Health Nutrition in 2017?,EVENT
+What discussions took place at the Asia-Pacific Economic Cooperation (APEC) Food Security and Nutrition Forum regarding public health nutrition strategies in 2020?,EVENT
+Can you provide insights into how the Global School Feeding Day celebrations promoted nutritional awareness among school children in various countries in 2019?,EVENT
+How did the Pan American Health Organization's event on Childhood Obesity Prevention affect policy changes in the Americas region in 2016?,EVENT
+What were the key learnings from the International Conference on Nutrition and Disease held in Rome, focusing on public health nutrition strategies in 2015?,EVENT
+What are the primary dietary recommendations for preventing cardiovascular diseases according to public health nutritionists?,FAC
+How does public health nutrition address the issue of obesity in children and adolescents?,FAC
+In what ways do public health nutrition policies aim to reduce sugar consumption among adults?,FAC
+Can you explain how community-based interventions in public health nutrition help improve dietary habits in low-income areas?,FAC
+What role does public health nutrition play in developing school meal programs that promote healthy eating?,FAC
+How does public health nutrition assess the nutritional impact of fortifying staple foods with vitamins and minerals?,FAC
+Could you discuss how public health nutritionists work to integrate plant-based diets into public policy recommendations for sustainability reasons?,FAC
+What strategies are employed by public health nutritionists to combat micronutrient deficiencies in developing countries?,FAC
+How do guidelines set by public health nutrition impact the reformulation of processed foods to be healthier?,FAC
+In what ways does public health nutrition influence food labeling laws to help consumers make informed choices about their diet?,FAC
+What measures have been taken by public health nutritionists to encourage breastfeeding as a key component of early childhood nutrition programs?,FAC
+How do public health nutrition policies support the inclusion of diverse and culturally appropriate foods in community-based nutrition programs?,FAC
+Can you describe how public health nutrition strategies are used to address food insecurity among vulnerable populations such as the elderly or those with disabilities?,FAC
+What is the role of public health nutritionists in advocating for regulations that limit marketing unhealthy foods to children?,FAC
+How do public health nutrition guidelines support the development and implementation of urban agriculture initiatives aimed at increasing access to fresh produce?,FAC
+In what ways does public health nutrition impact the design and operation of food banks to ensure they provide nutritious options?,FAC
+Could you explain how public health nutritionists collaborate with other sectors like education or social services to create comprehensive policies that promote healthy eating habits?,FAC
+What role do public health nutritionists play in creating educational materials for schools to teach children about the importance of a balanced diet?,FAC
+How does public health nutrition influence the development of guidelines for food service providers in hospitals and long-term care facilities to ensure they offer nutritious meals?,FAC
+In what ways can public health nutrition be used to support the integration of gardening programs into school curriculums to promote healthier eating among students?,FAC
+What are the primary public health nutrition policies implemented in Canada to address obesity?,GPE
+How has Brazil's national food and nutrition security plan influenced public health nutrition?,GPE
+Which organization is responsible for overseeing public health nutrition initiatives in India?,GPE
+Can you describe the impact of government-sponsored school feeding programs on child nutrition in Kenya?,GPE
+What role does the United States play in global public health nutrition through international aid?,GPE
+How has Cuba's healthcare system integrated public health nutrition into its primary care model?,GPE
+Which strategies have been most effective in reducing malnutrition rates in Bangladesh over the past decade?,GPE
+In what ways does China monitor and regulate food safety to support public health nutrition?,GPE
+What are the key challenges faced by Australia in maintaining a balanced diet among its population?,GPE
+How has Vietnam's government responded to the rising prevalence of non-communicable diseases linked to poor nutrition?,GPE
+Which European Union policies have been most impactful on improving dietary habits across member states?,GPE
+Can you explain how Mexico's public health nutrition programs address diabetes prevention and management?,GPE
+What role does the World Health Organization play in supporting public health nutrition efforts in African countries?,GPE
+How has Japan adapted its traditional diet to modern nutritional guidelines while maintaining cultural practices?,GPE
+In Peru, what measures have been taken to ensure that indigenous populations receive adequate nutrition?,GPE
+Which Southeast Asian nations have shown significant progress in reducing child malnutrition rates through public health nutrition programs?,GPE
+What are the main obstacles faced by Russia in improving public health nutrition amidst economic fluctuations?,GPE
+How has South Africa's government combatted malnutrition and HIV/AIDS-related nutritional deficiencies among its population?,GPE
+Which Middle Eastern countries have successfully implemented breastfeeding promotion campaigns to improve infant nutrition?,GPE
+What innovative approaches has Thailand taken to integrate traditional medicine with modern public health nutrition practices?,GPE
+What languages are most commonly used in public health nutrition literature to ensure global accessibility?,LANGUAGE
+How does the availability of nutritional information in local languages affect community health outcomes?,LANGUAGE
+In what ways do multilingual materials improve public health nutrition campaigns' effectiveness in diverse populations?,LANGUAGE
+Which language barriers have been identified as significant obstacles in delivering public health nutrition services globally?,LANGUAGE
+Can you describe how translating dietary guidelines into multiple languages impacts their implementation and adherence in multicultural societies?,LANGUAGE
+What role does the use of local languages play in enhancing the effectiveness of nutritional education programs in rural areas?,LANGUAGE
+How do cultural and linguistic differences influence the development of public health nutrition policies at an international level?,LANGUAGE
+Are there specific languages that are underrepresented in current public health nutrition research, thereby limiting global inclusivity and collaboration?,LANGUAGE
+What strategies have been successful in overcoming language barriers to improve public health nutrition education among non-native speakers?,LANGUAGE
+How important is it for public health nutritionists to be multilingual when working in areas with high linguistic diversity?,LANGUAGE
+Could the integration of various languages in nutritional databases enhance data sharing and collaborative research efforts worldwide?,LANGUAGE
+What challenges do researchers face in ensuring that public health nutrition findings are accurately communicated across different languages?,LANGUAGE
+How does the language proficiency of healthcare providers impact their ability to deliver culturally competent nutrition advice to linguistically diverse populations?,LANGUAGE
+In what ways can technology be leveraged to bridge language gaps and improve access to nutritional information for non-English speaking communities?,LANGUAGE
+What measures are being taken to ensure that public health nutrition resources, such as food labels and dietary guidelines, are accessible in multiple languages?,LANGUAGE
+How does the translation of key public health nutrition documents into widely spoken but underrepresented languages affect their impact on global health?,LANGUAGE
+Can you provide examples where language-specific educational approaches have been particularly effective in improving nutritional outcomes within specific linguistic communities?,LANGUAGE
+What role do language policies play in shaping the accessibility and effectiveness of public health nutrition programs across different regions and countries?,LANGUAGE
+How does the inclusion of multiple languages in public health campaigns affect their reach and impact among linguistically diverse populations?,LANGUAGE
+Are there any initiatives aimed at creating multilingual platforms for sharing best practices in public health nutrition internationally?,LANGUAGE
+What are the legal requirements for food labeling under public health nutrition laws?,LAW
+How do government regulations influence the availability of healthy foods in low-income areas?,LAW
+What role does legislation play in regulating trans fats in processed foods?,LAW
+Can you explain the enforcement mechanisms for public health nutrition policies at a national level?,LAW
+Which specific food safety laws are most effective in preventing nutritional deficiencies among children?,LAW
+How do international laws impact the trade of nutritious versus junk foods across borders?,LAW
+What is the legal framework surrounding school meal programs to ensure they meet nutritional standards?,LAW
+Are there any laws that mandate fortification of certain staple foods for public health reasons?,LAW
+In what ways can public health nutrition laws be used to combat obesity in different populations?,LAW
+How do current dietary guidelines translate into actionable legislation at the state level?,LAW
+What legal measures are taken by governments to control the advertising of unhealthy food products?,LAW
+Do public health nutrition laws vary significantly between developed and developing countries?,LAW
+Can you discuss the impact of trade agreements on the implementation of local public health nutrition laws?,LAW
+How do anti-obesity laws affect the restaurant industry in terms of menu labeling requirements?,LAW
+What are some key international agreements that support global efforts in improving nutritional standards?,LAW
+Are there any legal challenges to implementing taxes on sugary drinks as a public health measure?,LAW
+What role does litigation play in pushing for stronger public health nutrition laws and policies?,LAW
+How do public health nutrition laws address the issue of food deserts in urban areas?,LAW
+Can you provide examples of successful public health nutrition legislation that have reduced non-communicable diseases?,LAW
+What legal strategies are used to promote breastfeeding as part of public health nutrition programs?,LAW
+How does public health nutrition policy in London impact obesity rates?,LOC
+What are the major dietary challenges faced by children in Paris and how are they addressed through public health initiatives?,LOC
+Can you describe the role of local government in Seattle's approach to public health nutrition?,LOC
+How has Tokyo's public health nutrition strategy influenced its population's longevity?,LOC
+In what ways does Rome implement public health nutrition programs to reduce cardiovascular diseases among its elderly population?,LOC
+What are the key elements of public health nutrition practices that have contributed to lower diabetes rates in Sydney compared to other major cities?,LOC
+How effective has been the public health nutrition policies in Mumbai for combating malnutrition?,LOC
+Which public health nutrition interventions have been most successful in reducing anemia prevalence among women in Cairo?,LOC
+What role does community engagement play in the public health nutrition initiatives of Beijing?,LOC
+How do public health nutrition strategies in Lagos address micronutrient deficiencies?,LOC
+Can you explain how New York City's policies on fast food influence its citizens' dietary habits and overall health outcomes?,LOC
+What measures are taken by public health officials in Rio de Janeiro to improve the nutritional status of low-income families?,LOC
+How does Mexico City ensure that its public health nutrition programs reach all segments of society, especially those in rural areas?,LOC
+In what ways has public health nutrition been integrated into urban planning efforts in Barcelona to create healthier living environments for residents?,LOC
+What specific dietary guidelines are set by the public health department in Toronto and how do they affect local food businesses?,LOC
+How does the public health nutrition strategy of Amsterdam aim to decrease consumption of processed foods among its population?,LOC
+Can you discuss the impact of public health nutrition campaigns on reducing salt intake in Tokyo's population over the past decade?,LOC
+What steps has the government taken in Hong Kong to improve public health nutrition through school meal programs for children?,LOC
+How does the public health nutrition approach in Nairobi address the challenges posed by urbanization and its effect on dietary habits?,LOC
+What are some innovative methods used by public health nutritionists in Madrid to promote healthier food choices among young adults?,LOC
+What is the average budget allocated for public health nutrition programs in low-income countries?,MONEY
+How much does it cost to fortify staple foods with essential vitamins and minerals on a national scale?,MONEY
+What are the estimated savings from reducing healthcare costs due to improved nutrition policies?,MONEY
+Can you provide an estimate of how much funding is required annually to combat malnutrition globally?,MONEY
+What is the approximate cost per person for implementing a community-based nutrition education program in urban areas?,MONEY
+How much money does WHO spend on research and development of public health nutrition interventions each year?,MONEY
+What are the estimated costs associated with providing free school meals in developing countries?,MONEY
+Can you give an estimate of how much it would cost to implement a nationwide obesity prevention campaign over five years?,MONEY
+How much funding is needed for the implementation of fortification programs in underdeveloped regions to combat micronutrient deficiencies?,MONEY
+What are the financial impacts of not addressing public health nutrition issues, such as increased healthcare expenditures due to diet-related diseases?,MONEY
+What amount of money has been invested in nutritional interventions aimed at reducing child mortality rates since 2015?,MONEY
+How much funding does UNICEF allocate annually for global initiatives on breastfeeding promotion and maternal nutrition?,MONEY
+Can you estimate the cost of a nationwide program to increase fruit and vegetable intake through subsidies among low-income populations?,MONEY
+What are the economic benefits, in terms of savings from reduced healthcare costs, seen by countries with strong public health nutrition policies?,MONEY
+How much money is saved annually per person due to interventions such as salt reduction campaigns aimed at reducing cardiovascular disease rates?,MONEY
+What is the approximate cost for a government to fund a nationwide program promoting physical activity and healthy eating habits among children?,MONEY
+Can you provide an estimate of how much would be required to establish a nationwide system providing free or subsidized dietary supplements to vulnerable populations?,MONEY
+How much funding does the CDC allocate per year specifically towards public health nutrition initiatives such as obesity prevention and control programs?,MONEY
+What are the estimated economic impacts, in terms of cost savings on healthcare due to reduced incidence of type 2 diabetes from implementing policies promoting healthier diets among adults?,MONEY
+Can you provide an estimate for how much money is saved annually through decreased hospital admissions after the implementation of nationwide public health nutrition campaigns focused on dietary improvements?,MONEY
+How does public health nutrition differ between rural and urban populations in the United States?,NORP
+What are the primary nutritional concerns for the indigenous peoples of Australia compared to non-indigenous Australians?,NORP
+In what ways do dietary recommendations differ among people from different ethnic backgrounds in Canada?,NORP
+Can you describe how public health nutrition policies have been adapted for Hispanic populations within the United States?,NORP
+What are some nutritional challenges faced by immigrant communities in Europe compared to native Europeans?,NORP
+How does socioeconomic status influence nutritional outcomes among African Americans in the U.S. compared to other racial groups?,NORP
+What role do cultural dietary practices play in public health nutrition for Native American populations in North America?,NORP
+Are there significant differences in obesity rates among various ethnic groups within the United Kingdom's population?,NORP
+How does the prevalence of vegetarianism or veganism differ between different religious communities in India compared to non-religious individuals?,NORP
+What are some dietary challenges specific to migrant workers from Mexico living in the United States?,NORP
+Can you discuss how food assistance programs impact public health nutrition differently among refugees and asylum seekers in Germany compared to the general population?,NORP
+How do nutritional deficiencies vary among different ethnic groups in South Africa, such as the Zulu or Xhosa populations?,NORP
+What are some traditional diets of Native Hawaiian populations, and how have these influenced public health nutrition policies in Hawaii?,NORP
+Are there notable differences in the dietary patterns of Japanese Americans living on the West Coast compared to those in Japan?,NORP
+How does public health nutrition address the needs of elderly Asian immigrants who may face language barriers in accessing nutritional information in the United States?,NORP
+What is the impact of cultural food practices on obesity rates among Polynesian populations within New Zealand compared to non-Polynesians?,NORP
+In what ways do dietary restrictions observed by religious groups, such as Seventh-day Adventists or Sikhs, affect their public health nutrition outcomes in different countries?,NORP
+How does the intake of traditional vs. Westernized diets impact public health nutrition among First Nations people in Canada compared to other Canadians?,NORP
+What are some nutritional concerns specific to the Roma population in Europe, and how do these differ from those faced by non-Roma Europeans?,NORP
+Are there significant differences in access to healthy foods between Inuit populations living in remote areas of Canada and urban dwellers within the country?,NORP
+What is the first recommendation for dietary fiber intake in public health nutrition guidelines?,ORDINAL
+Which is the second most common vitamin deficiency seen globally according to recent studies in public health nutrition?,ORDINAL
+In a list of leading causes of death related to poor diet worldwide, where does heart disease rank as per the latest World Health Organization report?,ORDINAL
+What position does obesity hold among the top preventable risk factors for non-communicable diseases based on global public health nutrition statistics?,ORDINAL
+How is the third most consumed type of fat categorized in terms of its impact on public health outcomes according to nutritional studies?,ORDINAL
+In terms of priority, what is the fourth key area that public health nutritionists focus on when addressing malnutrition in developing countries?,ORDINAL
+Which comes fifth in a list of essential nutrients often emphasized by public health campaigns for improved dietary habits among children and adolescents?,ORDINAL
+What is the sixth most prevalent dietary habit associated with increased risk of type 2 diabetes, as highlighted by recent public health nutrition research findings?,ORDINAL
+In a ranking of global nutrition challenges, where does micronutrient malnutrition stand in relation to other nutritional deficiencies based on public health studies?,ORDINAL
+Which is the seventh food group that has been recommended for daily consumption by most public health nutrition guidelines worldwide?,ORDINAL
+What position do fruits hold among the top ten food groups recommended for inclusion in a healthy diet as per public health nutrition recommendations?,ORDINAL
+In terms of order, where does water rank in the list of essential elements for maintaining optimal health as promoted by global public health nutrition programs?,ORDINAL
+What is the eighth most important nutrient that public health nutritionists advise should be included in every meal to prevent chronic diseases?,ORDINAL
+How is sugar ranked among the top dietary factors contributing to obesity and dental problems according to global public health nutritional advice?,ORDINAL
+In a sequence of steps for implementing successful public health nutrition interventions, what comes ninth after conducting needs assessments and before evaluating outcomes?,ORDINAL
+Which is the tenth most common mineral deficiency in populations following a Western diet as noted by recent public health nutrition research papers?,ORDINAL
+What order does physical activity hold when listing the major components of a healthy lifestyle promoted by global public health nutrition experts?,ORDINAL
+In a list prioritizing foods for inclusion based on their nutritional value, where do legumes rank according to general guidelines from public health nutritionists?,ORDINAL
+How is the eleventh most important food group classified in terms of its role in a balanced diet as recommended by international public health nutrition organizations?,ORDINAL
+What position does monitoring and adjusting dietary intake hold among the steps outlined for managing diabetes through public health nutritional programs?,ORDINAL
+What role does WHO play in promoting global public health nutrition initiatives?,ORG
+How has the CDC influenced public health nutrition policies in the United States?,ORG
+In what ways has UNICEF contributed to improving nutritional standards among children worldwide?,ORG
+Can you describe the impact of Action Against Hunger on public health nutrition in developing countries?,ORG
+What strategies does Save the Children employ to enhance public health nutrition for vulnerable populations?,ORG
+How does the World Food Programme address malnutrition through its programs and initiatives?,ORG
+What is the primary focus of Nutrition International when it comes to public health nutrition?,ORG
+Can you explain how the American Heart Association promotes heart-healthy diets as part of public health nutrition?,ORG
+What role does the Food and Agriculture Organization play in global public health nutrition efforts?,ORG
+How has the Global Alliance for Improved Nutrition (GAIN) contributed to better nutritional outcomes?,ORG
+What are some key initiatives by The Hunger Project that aim at improving public health nutrition?,ORG
+Can you discuss the involvement of Oxfam in addressing malnutrition through their work in public health nutrition?,ORG
+In what ways does the British Nutrition Foundation contribute to public health nutrition research and education?,ORG
+How has the International Food Policy Research Institute influenced policies related to public health nutrition?,ORG
+What are the main goals of the European Union's Public Health Program concerning nutrition?,ORG
+Can you describe the impact of the Bill & Melinda Gates Foundation on global public health nutrition initiatives?,ORG
+What strategies does the National Institutes of Health (NIH) use in advancing research for public health nutrition?,ORG
+How does the Academy of Nutrition and Dietetics contribute to public health nutrition through education and advocacy?,ORG
+What role has the World Cancer Research Fund played in shaping public health nutrition related to cancer prevention?,ORG
+Can you explain how the Food Research & Action Center (FRAC) works towards improving public health nutrition in the US?,ORG
+What percentage of adults in the United States are considered obese according to the latest CDC report?,PERCENT
+How much percent increase has there been in childhood obesity rates globally over the past decade?,PERCENT
+What is the recommended daily intake percentage of calories from saturated fats for maintaining a healthy diet?,PERCENT
+According to WHO guidelines, what should be the maximum percentage of daily energy intake from free sugars?,PERCENT
+By what percentage has fruit and vegetable consumption increased in European adults since 2015?,PERCENT
+What percent of the population worldwide suffers from micronutrient deficiencies such as iron or vitamin A deficiency?,PERCENT
+How much percent reduction in cardiovascular diseases can be achieved by reducing dietary salt intake according to public health studies?,PERCENT
+In a recent study, what percentage of people aged 60+ reported taking dietary supplements regularly for better nutrition?,PERCENT
+What is the approximate percentage of global deaths attributed to poor diets lacking essential nutrients?,PERCENT
+How much percent decrease in type 2 diabetes incidence can be expected with improved public health nutrition policies?,PERCENT
+By what percentage do urban residents consume more processed foods compared to rural areas, as reported by recent surveys?,PERCENT
+What is the recommended daily protein intake percentage for adults based on total calorie consumption according to dietary guidelines?,PERCENT
+How much percent of foodborne illnesses could be prevented with proper nutrition and hygiene education programs in schools?,PERCENT
+According to global health reports, what percentage of children under five suffer from stunted growth due to malnutrition?,PERCENT
+What is the estimated reduction percentage in non-communicable diseases achievable through a 50% decrease in trans fat consumption?,PERCENT
+How much percent increase has there been in the prevalence of anemia among women of reproductive age over the last 10 years?,PERCENT
+In public health nutrition, what percentage of people believe they eat a balanced diet but are actually nutrient deficient based on dietary assessments?,PERCENT
+What is the recommended daily fiber intake percentage for adults to prevent chronic diseases according to nutritional guidelines?,PERCENT
+By what percentage have rates of vitamin D deficiency risen in adolescents and young adults over the past five years, according to new studies?,PERCENT
+How much percent of the global population has access to nutritious foods but chooses unhealthy diets due to lifestyle preferences or misinformation?,PERCENT
+What role does a dietitian play in promoting public health nutrition?,PERSON
+How can a nutritionist influence dietary guidelines to improve public health outcomes?,PERSON
+In what ways can a community health worker contribute to public health nutrition programs?,PERSON
+Who are the primary stakeholders that a public health nutritionist collaborates with to address malnutrition?,PERSON
+What strategies does a pediatrician use to ensure children receive adequate nutrition in underserved communities?,PERSON
+How do epidemiologists study the impact of diet on public health outcomes?,PERSON
+Can you describe the responsibilities of a food policy advisor in shaping public health nutrition policies?,PERSON
+In what capacity does a healthcare provider educate patients about healthy eating habits?,PERSON
+What initiatives are led by public health researchers to combat obesity at a community level?,PERSON
+How do educators in schools collaborate with local authorities to improve child nutrition programs?,PERSON
+Who designs nutritional interventions for public health campaigns against chronic diseases?,PERSON
+In what ways can a pharmacist contribute to public health nutrition through patient consultations?,PERSON
+What role does a clinical dietician play in designing meal plans that align with public health goals?,PERSON
+How do researchers in the field of public health nutrition gather data on dietary habits and their impacts?,PERSON
+Who are key influencers in advocating for better food labeling laws to enhance public health outcomes?,PERSON
+In what ways can a chef contribute to public health by promoting healthy eating through accessible recipes?,PERSON
+What methods do community organizers use to advocate for healthier food options in their neighborhoods?,PERSON
+How does a public health nutritionist measure the success of nutritional interventions in diverse populations?,PERSON
+Who are the experts leading workshops on improving dietary practices among low-income families?,PERSON
+In what capacity does a social worker engage with families to improve their access to nutritious foods?,PERSON
+What are the key nutrients found in fortified cereals that benefit public health?,PRODUCT
+How does the consumption of omega-3 enriched eggs impact heart health in adults?,PRODUCT
+Which types of plant-based milks are best suited for individuals with nut allergies from a nutritional perspective?,PRODUCT
+Can you recommend a brand of multivitamin that is suitable for vegetarians and supports immune function?,PRODUCT
+What are the benefits of consuming whole grain bread over white bread in terms of public health nutrition?,PRODUCT
+How effective are probiotic yogurts in improving gut health among the general population?,PRODUCT
+Which type of fish oil supplements have been shown to be most beneficial for cognitive health?,PRODUCT
+Are there specific types of nut butters that are more advantageous from a nutritional standpoint than others?,PRODUCT
+What is the role of vitamin D fortified milk in addressing deficiencies within the community?,PRODUCT
+How do plant-based protein powders compare nutritionally to whey protein supplements?,PRODUCT
+Can you suggest a range of gluten-free products that meet public health nutrition standards for fiber intake?,PRODUCT
+Which brands of omega-3 enriched peanut butter are widely available and what are their nutritional benefits?,PRODUCT
+What are the key differences in nutritional value between different types of leafy green vegetables, such as spinach vs kale?,PRODUCT
+How does the consumption of calcium-fortified orange juice contribute to bone health in adults over 50?,PRODUCT
+Which types of vegan omega-3 supplements are most effective for vegetarians who cannot consume fish or algae oil?,PRODUCT
+Can you identify a range of high-quality, low-sodium canned beans that support heart health and are affordable?,PRODUCT
+What are the nutritional benefits of consuming unsweetened cocoa powder over sweetened chocolate products in terms of flavonoid content?,PRODUCT
+How do different types of breakfast cereals compare in terms of added sugars and overall contribution to a healthy diet?,PRODUCT
+Which brands of fortified plant milks (like almond or soy milk) provide the most balanced nutritional profile for calcium and vitamin D intake?,PRODUCT
+What are some innovative snack products that combine high protein content with minimal artificial ingredients, suitable for public health nutrition guidelines?,PRODUCT
+What percentage of daily caloric intake should ideally come from carbohydrates for an adult following public health nutrition guidelines?,QUANTITY
+How many grams of fiber are recommended per day for a healthy adult according to general public health nutrition recommendations?,QUANTITY
+What is the maximum recommended daily sodium intake in milligrams to maintain good public health, as suggested by nutrition experts?,QUANTITY
+On average, how many cups of fruits and vegetables should an adult consume daily according to public health nutrition standards?,QUANTITY
+How much water (in liters) does a typical public health nutrition guideline recommend for adults per day to ensure proper hydration?,QUANTITY
+What is the recommended maximum intake in grams of added sugars per day for children aged 4-8 years old based on public health nutrition guidelines?,QUANTITY
+According to public health nutrition, how many milligrams of potassium should an adult aim to consume daily for optimal heart health?,QUANTITY
+Public health nutrition suggests a minimum weekly fish consumption. How many servings (based on typical serving sizes) are recommended for adults?,QUANTITY
+How many micrograms of vitamin D are generally advised as the daily intake for adults over 70 years old in public health nutrition advice?,QUANTITY
+What is the suggested percentage of total fat that should come from saturated fats per day, according to most public health nutrition guidelines for an adult?,QUANTITY
+How many grams of protein does a typical adult need each day based on public health nutrition standards?,QUANTITY
+Public health nutrition often recommends limiting daily caffeine intake. What quantity (in milligrams) is generally considered safe for adults?,QUANTITY
+What volume in liters per day should one drink to meet the hydration needs recommended by most public health nutritionists?,QUANTITY
+How many micrograms of folate are typically required daily for women trying to conceive, as advised by public health nutrition recommendations?,QUANTITY
+Public health nutrition advises on iron intake. How many milligrams per day are usually suggested for adult men based on these guidelines?,QUANTITY
+What is the recommended upper limit in milligrams of vitamin C that can be safely consumed each day according to general public health nutrition advice for adults?,QUANTITY
+According to public health nutrition, how many grams of calcium should an adolescent consume daily to support bone development and growth?,QUANTITY
+How many teaspoons of sugar (in grams) are recommended not to exceed per day based on most public health nutrition guidelines for children aged 2-18 years old?,QUANTITY
+What quantity in micrograms of vitamin A is considered adequate daily intake for adults as suggested by typical public health nutrition recommendations?,QUANTITY
+Public health nutrition guidelines often discuss the importance of omega-3 fatty acids. What amount (in grams) is generally recommended per day for adult heart health?,QUANTITY
+When did the first public health nutrition guidelines for pregnant women emerge?,TIME
+What year was the concept of "food security" officially recognized in international public health policies?,TIME
+In which decade did school meal programs start to incorporate nutritional standards based on scientific research?,TIME
+How long has it been since dietary recommendations were last updated by the World Health Organization?,TIME
+When were trans fats officially recognized as harmful and targeted for reduction in public health nutrition campaigns?,TIME
+What year marked the beginning of the widespread fortification of staple foods with vitamins and minerals?,TIME
+Since when have public health authorities recommended reducing sugar intake to prevent obesity and related diseases?,TIME
+During which time period did global initiatives to combat vitamin A deficiency in children begin to take shape?,TIME
+When was the first national dietary guideline published by a government for its citizens' health?,TIME
+What is the duration of typical clinical trials used to assess the long-term effects of nutrition on public health outcomes?,TIME
+How many years have passed since the recognition that high sodium intake contributes to cardiovascular diseases?,TIME
+In what year did the United Nations adopt the Sustainable Development Goals that include nutritional targets?,TIME
+When was the first World Health Day dedicated specifically to highlighting issues in nutrition and diet-related health?,TIME
+What time frame has seen the most significant changes in public health nutrition recommendations regarding saturated fats?,TIME
+Since when have public health campaigns been using social media platforms to promote healthy eating habits among young people?,TIME
+How long ago was the connection between omega-3 fatty acids and heart health first established by research studies?,TIME
+When did global efforts to reduce childhood malnutrition intensify following reports of its impact on development outcomes?,TIME
+What year saw the introduction of mandatory nutrition labeling on food products in major markets around the world?,TIME
+Since when have public health organizations recommended a reduction in red meat consumption due to potential health risks?,TIME
+How many years has it been since the first randomized controlled trials were conducted to study the effects of vitamin supplements on health outcomes?,TIME
+What is the most influential painting that depicts the impact of malnutrition on children?,WORK_OF_ART
+How does the sculpture "Nourishment" represent public health nutrition concepts in its design?,WORK_OF_ART
+Which photograph series explores the effects of dietary diversity on community health outcomes?,WORK_OF_ART
+Can you identify a famous mural that focuses on the importance of breastfeeding in urban settings?,WORK_OF_ART
+What artistic work has been created to highlight the struggles of food insecurity among elderly populations?,WORK_OF_ART
+Is there an iconic painting that captures the essence of public health nutrition campaigns against obesity?,WORK_OF_ART
+Which film or documentary could be considered a WORK_OF_ART in portraying the role of vitamins and minerals in public health?,WORK_OF_ART
+What installation art piece addresses the challenges faced by rural communities in accessing nutritious food?,WORK_OF_ART
+How does an illustrated book for children contribute to educating about healthy eating habits from a young age?,WORK_OF_ART
+Can you name an artwork that uses symbols or metaphors to explain the concept of balanced diets?,WORK_OF_ART
+What sculpture series represents different aspects of public health nutrition, such as food safety and hygiene?,WORK_OF_ART
+Which piece of art has effectively communicated the importance of hydration in public health campaigns?,WORK_OF_ART
+Is there a famous engraving that showcases the evolution of dietary guidelines over time?,WORK_OF_ART
+How does an animated short film serve to educate audiences on the dangers of processed foods?,WORK_OF_ART
+Can you describe a contemporary dance performance that highlights issues related to food allergies and public health nutrition?,WORK_OF_ART
+What is a notable digital art piece created to promote awareness about antibiotic resistance in food production?,WORK_OF_ART
+Which textile artwork or quilt series tells stories about the cultural significance of traditional foods for health?,WORK_OF_ART
+How does a specific musical composition or opera address themes related to malnutrition and its prevention?,WORK_OF_ART
+Is there an architectural design that functions as both public art and a tool for educating about sustainable nutrition practices?,WORK_OF_ART
+What modern poetry collection explores the relationship between food access, diet quality, and community health outcomes?,WORK_OF_ART
+What percentage of the global population lacks access to adequate nutrition?,PERCENT
+How many calories per day are recommended for an average adult according to WHO guidelines?,CARDINAL
+Which year did the World Health Organization launch its Global Strategy on Diet, Physical Activity and Health?,DATE
+What is the name of the event that focuses on improving public health through better nutrition practices worldwide?,EVENT
+Where can one find the largest nutrition research facility in North America?,FAC
+In which country was the concept of food sovereignty first introduced as a policy framework for public health nutrition?,GPE
+Which language is most commonly used to publish international guidelines on public health nutrition?,LANGUAGE
+What law mandates school meal programs must meet nutritional standards in the United States?,LAW
+Can you name a location where malnutrition rates are significantly higher due to limited access to healthy foods?,LOC
+How much funding does UNICEF allocate annually for projects focused on improving child nutrition worldwide?,MONEY
+Which non-governmental organization (NGO) has made significant contributions to public health nutrition in developing countries?,NORP
+What is the 10th recommendation of the World Health Assembly regarding public health nutrition strategies?,ORDINAL
+Can you name an international organization that leads global efforts on public health nutrition?,ORG
+How can a reduction of sugar intake below 5% of total energy intake improve public health outcomes according to studies?,PERCENT
+Who is considered one of the leading experts in public health nutrition worldwide?,PERSON
+What product has been developed as part of the fight against malnutrition among children under five years old?,PRODUCT
+How much water (in liters) per day should an adult consume for optimal health, as recommended by dietary guidelines?,QUANTITY
+At what time of year is World Health Day celebrated, which includes initiatives related to public health nutrition?,TIME
+What is a well-known work of art that has been used in campaigns to raise awareness about the importance of nutrition in public health?,WORK_OF_ART
